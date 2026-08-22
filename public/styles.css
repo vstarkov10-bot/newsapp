@@ -168,7 +168,13 @@ input[type="search"] {
   color: var(--text-muted);
 }
 
+.source-list {
+  display: block;
+}
+
 .source-group {
+  display: block;
+  width: 100%;
   margin-bottom: 1.75rem;
 }
 
