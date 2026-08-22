@@ -220,3 +220,11 @@ el.refreshBtn.addEventListener("click", manualRefresh);
   await loadArticles();
   setInterval(loadArticles, 5 * 60 * 1000);
 })();
+
+if ("serviceWorker" in navigator) {
+  window.addEventListener("load", () => {
+    navigator.serviceWorker.register("/sw.js").catch((err) => {
+      console.error("Service worker registration failed:", err);
+    });
+  });
+}
