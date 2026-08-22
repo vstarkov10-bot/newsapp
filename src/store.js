@@ -19,8 +19,9 @@ let cache = {
   articles: [],
   lastUpdated: null,
   feedErrors: [], // [{ source, name, url, error }]
-  isRefreshing: false,
 };
+
+let refreshPromise = null;
 
 function articleId(link, title) {
   return crypto
@@ -57,10 +58,16 @@ async function fetchOneFeed(feed) {
   });
 }
 
-async function refresh() {
-  if (cache.isRefreshing) return cache;
-  cache.isRefreshing = true;
+function refresh() {
+  if (!refreshPromise) {
+    refreshPromise = doRefresh().finally(() => {
+      refreshPromise = null;
+    });
+  }
+  return refreshPromise;
+}
 
+async function doRefresh() {
   const results = await Promise.allSettled(FEEDS.map(fetchOneFeed));
 
   const articles = [];
@@ -103,7 +110,6 @@ async function refresh() {
     articles: deduped,
     lastUpdated: new Date().toISOString(),
     feedErrors,
-    isRefreshing: false,
   };
 
   return cache;
@@ -113,6 +119,8 @@ function getCache() {
   return cache;
 }
 
+// For long-running hosts (e.g. the local Express server): keep the cache
+// warm on a timer instead of making requests wait on a refetch.
 function startAutoRefresh() {
   refresh().catch((err) => console.error("Initial feed refresh failed:", err));
   setInterval(() => {
@@ -120,4 +128,23 @@ function startAutoRefresh() {
   }, REFRESH_INTERVAL_MS);
 }
 
-module.exports = { refresh, getCache, startAutoRefresh };
+// For serverless hosts (e.g. Vercel functions): there's no background
+// process to keep a timer alive, so refetch inline whenever the cache is
+// stale or has never been populated.
+async function getFreshCache() {
+  const isStale =
+    !cache.lastUpdated ||
+    Date.now() - new Date(cache.lastUpdated).getTime() > REFRESH_INTERVAL_MS;
+
+  if (isStale) {
+    try {
+      await refresh();
+    } catch (err) {
+      console.error("On-demand feed refresh failed:", err);
+    }
+  }
+
+  return cache;
+}
+
+module.exports = { refresh, getCache, getFreshCache, startAutoRefresh };
