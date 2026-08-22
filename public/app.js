@@ -73,6 +73,61 @@ function renderFeedErrors(feedErrors) {
   el.feedErrors.textContent = `Some feeds couldn't be reached right now: ${names}. Showing everything else.`;
 }
 
+function groupBySource(articles) {
+  const groups = new Map();
+  for (const a of articles) {
+    if (!groups.has(a.source)) groups.set(a.source, []);
+    groups.get(a.source).push(a);
+  }
+  return groups;
+}
+
+function buildCard(a) {
+  const card = document.createElement("article");
+  card.className = "card";
+
+  const source = document.createElement("div");
+  source.className = "card-source";
+  source.textContent = a.feedName;
+
+  const h2 = document.createElement("h2");
+  const link = document.createElement("a");
+  link.href = a.link;
+  link.target = "_blank";
+  link.rel = "noopener noreferrer";
+  link.textContent = a.title;
+  h2.appendChild(link);
+
+  const summary = document.createElement("p");
+  summary.className = "card-summary";
+  summary.textContent = a.summary;
+
+  const footer = document.createElement("div");
+  footer.className = "card-footer";
+
+  const tags = document.createElement("div");
+  tags.className = "tags";
+  for (const t of a.topics) {
+    const tag = document.createElement("span");
+    tag.className = "tag";
+    tag.textContent = t;
+    tags.appendChild(tag);
+  }
+
+  const time = document.createElement("span");
+  time.textContent = timeAgo(a.publishedAt);
+
+  footer.appendChild(tags);
+  footer.appendChild(time);
+
+  card.appendChild(source);
+  card.appendChild(h2);
+  card.appendChild(summary);
+  card.appendChild(footer);
+
+  return card;
+}
+
 function renderArticles(data) {
   el.articleGrid.innerHTML = "";
 
@@ -83,50 +138,25 @@ function renderArticles(data) {
   }
   el.statusLine.hidden = true;
 
-  for (const a of data.articles) {
-    const card = document.createElement("article");
-    card.className = "card";
+  const groups = groupBySource(data.articles);
 
-    const source = document.createElement("div");
-    source.className = "card-source";
-    source.textContent = `${a.source} · ${a.feedName}`;
+  for (const [sourceName, articles] of groups) {
+    const section = document.createElement("section");
+    section.className = "source-group";
 
-    const h2 = document.createElement("h2");
-    const link = document.createElement("a");
-    link.href = a.link;
-    link.target = "_blank";
-    link.rel = "noopener noreferrer";
-    link.textContent = a.title;
-    h2.appendChild(link);
+    const heading = document.createElement("h2");
+    heading.className = "source-heading";
+    heading.textContent = sourceName;
+    section.appendChild(heading);
 
-    const summary = document.createElement("p");
-    summary.className = "card-summary";
-    summary.textContent = a.summary;
-
-    const footer = document.createElement("div");
-    footer.className = "card-footer";
-
-    const tags = document.createElement("div");
-    tags.className = "tags";
-    for (const t of a.topics) {
-      const tag = document.createElement("span");
-      tag.className = "tag";
-      tag.textContent = t;
-      tags.appendChild(tag);
+    const grid = document.createElement("div");
+    grid.className = "grid";
+    for (const a of articles) {
+      grid.appendChild(buildCard(a));
     }
+    section.appendChild(grid);
 
-    const time = document.createElement("span");
-    time.textContent = timeAgo(a.publishedAt);
-
-    footer.appendChild(tags);
-    footer.appendChild(time);
-
-    card.appendChild(source);
-    card.appendChild(h2);
-    card.appendChild(summary);
-    card.appendChild(footer);
-
-    el.articleGrid.appendChild(card);
+    el.articleGrid.appendChild(section);
   }
 }
 
