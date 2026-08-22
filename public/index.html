@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Daily Briefing</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header class="topbar">
+      <div class="topbar-inner">
+        <h1>Daily Briefing</h1>
+        <div class="topbar-meta">
+          <span id="lastUpdated" class="muted"></span>
+          <button id="refreshBtn" class="btn">Refresh</button>
+        </div>
+      </div>
+    </header>
+
+    <main class="container">
+      <section class="filters">
+        <div class="filter-group" id="topicFilters" aria-label="Filter by topic"></div>
+        <div class="filter-row">
+          <select id="sourceFilter" aria-label="Filter by source">
+            <option value="all">All sources</option>
+          </select>
+          <input
+            id="searchInput"
+            type="search"
+            placeholder="Search headlines…"
+            aria-label="Search headlines"
+          />
+        </div>
+      </section>
+
+      <section id="feedErrors" class="feed-errors" hidden></section>
+
+      <section id="results" class="results">
+        <p class="muted" id="statusLine">Loading articles…</p>
+        <div id="articleGrid" class="grid"></div>
+      </section>
+    </main>
+
+    <footer class="footer">
+      <p>
+        Sources: Bloomberg, The Economist, The Washington Post, The Wall Street
+        Journal. Headlines link to the original publisher.
+      </p>
+    </footer>
+
+    <script src="app.js"></script>
+  </body>
+</html>
