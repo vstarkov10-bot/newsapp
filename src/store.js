@@ -147,6 +147,28 @@ function filterArticles(articles, { topics = [], sources = [], q = "" } = {}) {
   return result;
 }
 
+// Picks up to `count` headlines, round-robining across sources (each
+// source's own articles are already most-recent-first) so one prolific
+// publisher doesn't crowd out the rest, without any AI/ranking call.
+function pickTopHeadlines(articles, count = 5) {
+  const bySource = new Map();
+  for (const a of articles) {
+    if (!bySource.has(a.source)) bySource.set(a.source, []);
+    bySource.get(a.source).push(a);
+  }
+
+  const queues = Array.from(bySource.values());
+  const picked = [];
+  let i = 0;
+  while (picked.length < count && queues.some((q) => q.length > 0)) {
+    const queue = queues[i % queues.length];
+    if (queue.length > 0) picked.push(queue.shift());
+    i++;
+  }
+
+  return picked;
+}
+
 // For long-running hosts (e.g. the local Express server): keep the cache
 // warm on a timer instead of making requests wait on a refetch.
 function startAutoRefresh() {
@@ -175,4 +197,11 @@ async function getFreshCache() {
   return cache;
 }
 
-module.exports = { refresh, getCache, getFreshCache, filterArticles, startAutoRefresh };
+module.exports = {
+  refresh,
+  getCache,
+  getFreshCache,
+  filterArticles,
+  pickTopHeadlines,
+  startAutoRefresh,
+};

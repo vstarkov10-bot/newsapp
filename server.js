@@ -2,8 +2,13 @@ const path = require("path");
 const express = require("express");
 const { TOPICS } = require("./src/topics");
 const { FEEDS } = require("./src/feeds");
-const { refresh, getCache, filterArticles, startAutoRefresh } = require("./src/store");
-const { getOverview } = require("./src/overviewCache");
+const {
+  refresh,
+  getCache,
+  filterArticles,
+  pickTopHeadlines,
+  startAutoRefresh,
+} = require("./src/store");
 const { parseListParam } = require("./src/query");
 
 const PORT = process.env.PORT || 3000;
@@ -35,18 +40,17 @@ app.get("/api/articles", (req, res) => {
   });
 });
 
-app.get("/api/overview", async (req, res) => {
+app.get("/api/headlines", (req, res) => {
   const topics = parseListParam(req.query.topics);
   const sources = parseListParam(req.query.sources);
   const q = req.query.q;
 
   const cache = getCache();
   const articles = filterArticles(cache.articles, { topics, sources, q });
-  const overview = await getOverview(articles, cache.lastUpdated, topics, sources, q);
+  const headlines = pickTopHeadlines(articles, 5);
 
   res.json({
-    summary: overview.summary,
-    error: overview.error,
+    headlines,
     articleCount: articles.length,
     lastUpdated: cache.lastUpdated,
   });

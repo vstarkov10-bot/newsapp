@@ -1,5 +1,4 @@
-const { getFreshCache, filterArticles } = require("../src/store");
-const { getOverview } = require("../src/overviewCache");
+const { getFreshCache, filterArticles, pickTopHeadlines } = require("../src/store");
 const { parseListParam } = require("../src/query");
 
 module.exports = async (req, res) => {
@@ -9,11 +8,10 @@ module.exports = async (req, res) => {
 
   const cache = await getFreshCache();
   const articles = filterArticles(cache.articles, { topics, sources, q });
-  const overview = await getOverview(articles, cache.lastUpdated, topics, sources, q);
+  const headlines = pickTopHeadlines(articles, 5);
 
   res.status(200).json({
-    summary: overview.summary,
-    error: overview.error,
+    headlines,
     articleCount: articles.length,
     lastUpdated: cache.lastUpdated,
   });

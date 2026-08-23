@@ -39,5 +39,10 @@ of the app — just update the URL in `src/feeds.js`.
 ## API
 
 - `GET /api/meta` — available topics and sources.
-- `GET /api/articles?topic=&source=&q=` — filtered article list.
+- `GET /api/articles?topics=&sources=&q=` — filtered article list. `topics`
+  and `sources` each take a comma-separated list (e.g. `topics=ai,tech`);
+  omit for no filter on that dimension.
+- `GET /api/headlines?topics=&sources=&q=` — up to 5 top headlines from the
+  same filtered set, round-robined across sources (no AI involved — just
+  recency, spread across publishers).
 - `POST /api/refresh` — force an immediate feed refresh.

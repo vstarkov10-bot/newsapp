@@ -15,9 +15,9 @@ const el = {
   feedErrors: document.getElementById("feedErrors"),
   statusLine: document.getElementById("statusLine"),
   articleGrid: document.getElementById("articleGrid"),
-  overviewSection: document.getElementById("overview"),
-  overviewText: document.getElementById("overviewText"),
-  overviewNote: document.getElementById("overviewNote"),
+  headlinesSection: document.getElementById("headlines"),
+  headlinesList: document.getElementById("headlinesList"),
+  headlinesNote: document.getElementById("headlinesNote"),
 };
 
 function timeAgo(iso) {
@@ -68,7 +68,7 @@ function addMultiPill(container, label, value, stateSet) {
     }
     syncPillActiveStates(container, stateSet);
     loadArticles();
-    loadOverview();
+    loadTopHeadlines();
   });
   container.appendChild(btn);
 }
@@ -209,29 +209,49 @@ async function loadArticles() {
   }
 }
 
-async function loadOverview() {
-  el.overviewSection.hidden = false;
-  el.overviewText.textContent = "Scanning today's coverage…";
-  el.overviewNote.textContent = "";
+async function loadTopHeadlines() {
+  el.headlinesSection.hidden = false;
 
   const params = buildFilterParams();
 
   try {
-    const res = await fetch(`/api/overview?${params.toString()}`);
+    const res = await fetch(`/api/headlines?${params.toString()}`);
     if (!res.ok) throw new Error(`Request failed: ${res.status}`);
     const data = await res.json();
 
-    if (data.summary) {
-      el.overviewText.textContent = data.summary;
-      const updated = data.lastUpdated ? ` · ${timeAgo(data.lastUpdated)}` : "";
-      el.overviewNote.textContent = `Based on ${data.articleCount} articles${updated}`;
-    } else {
-      el.overviewText.textContent = data.error || "No overview available for this selection.";
-      el.overviewNote.textContent = "";
+    el.headlinesList.innerHTML = "";
+
+    if (data.headlines.length === 0) {
+      const li = document.createElement("li");
+      li.textContent = "No headlines match these filters.";
+      el.headlinesList.appendChild(li);
+      el.headlinesNote.textContent = "";
+      return;
     }
+
+    for (const h of data.headlines) {
+      const li = document.createElement("li");
+
+      const link = document.createElement("a");
+      link.href = h.link;
+      link.target = "_blank";
+      link.rel = "noopener noreferrer";
+      link.textContent = h.title;
+
+      const source = document.createElement("span");
+      source.className = "headline-source";
+      source.textContent = ` — ${h.source}`;
+
+      li.appendChild(link);
+      li.appendChild(source);
+      el.headlinesList.appendChild(li);
+    }
+
+    const updated = data.lastUpdated ? ` · ${timeAgo(data.lastUpdated)}` : "";
+    el.headlinesNote.textContent = `From ${data.articleCount} matching articles${updated}`;
   } catch (err) {
-    el.overviewText.textContent = `Couldn't load overview: ${err.message}`;
-    el.overviewNote.textContent = "";
+    el.headlinesList.innerHTML = "";
+    el.headlinesNote.textContent = `Couldn't load headlines: ${err.message}`;
   }
 }
 
@@ -243,7 +263,7 @@ async function manualRefresh() {
   } catch (err) {
     // Ignore; loadArticles will surface any lingering issue.
   }
-  await Promise.all([loadArticles(), loadOverview()]);
+  await Promise.all([loadArticles(), loadTopHeadlines()]);
   el.refreshBtn.disabled = false;
   el.refreshBtn.textContent = "Refresh";
 }
@@ -254,7 +274,7 @@ el.searchInput.addEventListener("input", (e) => {
   searchDebounce = setTimeout(() => {
     state.q = value;
     loadArticles();
-    loadOverview();
+    loadTopHeadlines();
   }, 300);
 });
 
@@ -262,10 +282,10 @@ el.refreshBtn.addEventListener("click", manualRefresh);
 
 (async function init() {
   await loadMeta();
-  await Promise.all([loadArticles(), loadOverview()]);
+  await Promise.all([loadArticles(), loadTopHeadlines()]);
   setInterval(() => {
     loadArticles();
-    loadOverview();
+    loadTopHeadlines();
   }, 5 * 60 * 1000);
 })();
 

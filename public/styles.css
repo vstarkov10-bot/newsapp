@@ -182,7 +182,7 @@ input[type="search"] {
   color: var(--text-muted);
 }
 
-.overview {
+.headlines {
   background: color-mix(in srgb, var(--accent) 8%, var(--surface));
   border: 1px solid var(--border);
   border-radius: 10px;
@@ -191,23 +191,43 @@ input[type="search"] {
   box-shadow: var(--shadow);
 }
 
-.overview-heading {
+.headlines-heading {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
   font-size: 0.85rem;
   font-weight: 700;
   text-transform: uppercase;
   letter-spacing: 0.08em;
   color: var(--accent);
-  margin: 0 0 0.6rem;
+  margin: 0 0 0.7rem;
 }
 
-.overview-text {
+.headlines-list {
   margin: 0;
-  line-height: 1.55;
+  padding-left: 1.3rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
 }
 
-.overview-note {
-  margin: 0.6rem 0 0;
+.headlines-list li {
+  line-height: 1.4;
+}
+
+.headlines-list a {
+  text-decoration: none;
+}
+
+.headlines-list a:hover {
+  text-decoration: underline;
+}
+
+.headline-source {
+  color: var(--text-muted);
+  font-size: 0.85rem;
+}
+
+.headlines-note {
+  margin: 0.7rem 0 0;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
 }
 
