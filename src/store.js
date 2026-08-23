@@ -119,6 +119,34 @@ function getCache() {
   return cache;
 }
 
+// topics/sources: arrays: an article matches if its topics intersect the
+// selected topics AND its source is one of the selected sources. An empty
+// array for either means "no filter on that dimension".
+function filterArticles(articles, { topics = [], sources = [], q = "" } = {}) {
+  let result = articles;
+
+  if (topics.length > 0) {
+    const topicSet = new Set(topics);
+    result = result.filter((a) => a.topics.some((t) => topicSet.has(t)));
+  }
+
+  if (sources.length > 0) {
+    const sourceSet = new Set(sources);
+    result = result.filter((a) => sourceSet.has(a.source));
+  }
+
+  if (q) {
+    const needle = q.toLowerCase();
+    result = result.filter(
+      (a) =>
+        a.title.toLowerCase().includes(needle) ||
+        a.summary.toLowerCase().includes(needle)
+    );
+  }
+
+  return result;
+}
+
 // For long-running hosts (e.g. the local Express server): keep the cache
 // warm on a timer instead of making requests wait on a refetch.
 function startAutoRefresh() {
@@ -147,4 +175,4 @@ async function getFreshCache() {
   return cache;
 }
 
-module.exports = { refresh, getCache, getFreshCache, startAutoRefresh };
+module.exports = { refresh, getCache, getFreshCache, filterArticles, startAutoRefresh };

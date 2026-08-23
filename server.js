@@ -2,7 +2,9 @@ const path = require("path");
 const express = require("express");
 const { TOPICS } = require("./src/topics");
 const { FEEDS } = require("./src/feeds");
-const { refresh, getCache, startAutoRefresh } = require("./src/store");
+const { refresh, getCache, filterArticles, startAutoRefresh } = require("./src/store");
+const { getOverview } = require("./src/overviewCache");
+const { parseListParam } = require("./src/query");
 
 const PORT = process.env.PORT || 3000;
 const MIN_MANUAL_REFRESH_INTERVAL_MS = 60 * 1000;
@@ -18,33 +20,35 @@ app.get("/api/meta", (req, res) => {
 });
 
 app.get("/api/articles", (req, res) => {
-  const { topic, source, q } = req.query;
+  const topics = parseListParam(req.query.topics);
+  const sources = parseListParam(req.query.sources);
+  const q = req.query.q;
+
   const cache = getCache();
-
-  let articles = cache.articles;
-
-  if (topic && topic !== "all") {
-    articles = articles.filter((a) => a.topics.includes(topic));
-  }
-
-  if (source && source !== "all") {
-    articles = articles.filter((a) => a.source === source);
-  }
-
-  if (q) {
-    const needle = q.toLowerCase();
-    articles = articles.filter(
-      (a) =>
-        a.title.toLowerCase().includes(needle) ||
-        a.summary.toLowerCase().includes(needle)
-    );
-  }
+  const articles = filterArticles(cache.articles, { topics, sources, q });
 
   res.json({
     articles,
     lastUpdated: cache.lastUpdated,
     feedErrors: cache.feedErrors,
     total: articles.length,
+  });
+});
+
+app.get("/api/overview", async (req, res) => {
+  const topics = parseListParam(req.query.topics);
+  const sources = parseListParam(req.query.sources);
+  const q = req.query.q;
+
+  const cache = getCache();
+  const articles = filterArticles(cache.articles, { topics, sources, q });
+  const overview = await getOverview(articles, cache.lastUpdated, topics, sources, q);
+
+  res.json({
+    summary: overview.summary,
+    error: overview.error,
+    articleCount: articles.length,
+    lastUpdated: cache.lastUpdated,
   });
 });
 

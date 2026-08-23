@@ -25,11 +25,15 @@
 
     <main class="container">
       <section class="filters">
-        <div class="filter-group" id="topicFilters" aria-label="Filter by topic"></div>
+        <div class="filter-block">
+          <span class="filter-label">Topics</span>
+          <div class="filter-group" id="topicFilters" aria-label="Filter by topic (multiple allowed)"></div>
+        </div>
+        <div class="filter-block">
+          <span class="filter-label">Sources</span>
+          <div class="filter-group" id="sourceFilters" aria-label="Filter by source (multiple allowed)"></div>
+        </div>
         <div class="filter-row">
-          <select id="sourceFilter" aria-label="Filter by source">
-            <option value="all">All sources</option>
-          </select>
           <input
             id="searchInput"
             type="search"
@@ -37,6 +41,12 @@
             aria-label="Search headlines"
           />
         </div>
+      </section>
+
+      <section id="overview" class="overview" hidden>
+        <h2 class="overview-heading">Overview</h2>
+        <p id="overviewText" class="overview-text"></p>
+        <p id="overviewNote" class="overview-note muted"></p>
       </section>
 
       <section id="feedErrors" class="feed-errors" hidden></section>

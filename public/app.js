@@ -1,6 +1,6 @@
 const state = {
-  topic: "all",
-  source: "all",
+  topics: new Set(),
+  sources: new Set(),
   q: "",
 };
 
@@ -8,13 +8,16 @@ let searchDebounce = null;
 
 const el = {
   topicFilters: document.getElementById("topicFilters"),
-  sourceFilter: document.getElementById("sourceFilter"),
+  sourceFilters: document.getElementById("sourceFilters"),
   searchInput: document.getElementById("searchInput"),
   refreshBtn: document.getElementById("refreshBtn"),
   lastUpdated: document.getElementById("lastUpdated"),
   feedErrors: document.getElementById("feedErrors"),
   statusLine: document.getElementById("statusLine"),
   articleGrid: document.getElementById("articleGrid"),
+  overviewSection: document.getElementById("overview"),
+  overviewText: document.getElementById("overviewText"),
+  overviewNote: document.getElementById("overviewNote"),
 };
 
 function timeAgo(iso) {
@@ -34,33 +37,48 @@ async function loadMeta() {
   const meta = await res.json();
 
   el.topicFilters.innerHTML = "";
-  const allBtn = makePill("All", "all", true);
-  el.topicFilters.appendChild(allBtn);
+  addMultiPill(el.topicFilters, "All", "all", state.topics);
   for (const topic of meta.topics) {
-    el.topicFilters.appendChild(makePill(topic.label, topic.id, false));
+    addMultiPill(el.topicFilters, topic.label, topic.id, state.topics);
   }
+  syncPillActiveStates(el.topicFilters, state.topics);
 
+  el.sourceFilters.innerHTML = "";
+  addMultiPill(el.sourceFilters, "All", "all", state.sources);
   for (const source of meta.sources) {
-    const opt = document.createElement("option");
-    opt.value = source;
-    opt.textContent = source;
-    el.sourceFilter.appendChild(opt);
+    addMultiPill(el.sourceFilters, source, source, state.sources);
   }
+  syncPillActiveStates(el.sourceFilters, state.sources);
 }
 
-function makePill(label, value, active) {
+// "All" selects the empty set (no filter on that dimension); picking a
+// specific value toggles it in/out of that dimension's selection.
+function addMultiPill(container, label, value, stateSet) {
   const btn = document.createElement("button");
-  btn.className = "pill" + (active ? " active" : "");
+  btn.className = "pill";
   btn.textContent = label;
   btn.dataset.value = value;
   btn.addEventListener("click", () => {
-    state.topic = value;
-    document
-      .querySelectorAll("#topicFilters .pill")
-      .forEach((p) => p.classList.toggle("active", p.dataset.value === value));
+    if (value === "all") {
+      stateSet.clear();
+    } else if (stateSet.has(value)) {
+      stateSet.delete(value);
+    } else {
+      stateSet.add(value);
+    }
+    syncPillActiveStates(container, stateSet);
     loadArticles();
+    loadOverview();
   });
-  return btn;
+  container.appendChild(btn);
+}
+
+function syncPillActiveStates(container, stateSet) {
+  container.querySelectorAll(".pill").forEach((btn) => {
+    const value = btn.dataset.value;
+    const active = value === "all" ? stateSet.size === 0 : stateSet.has(value);
+    btn.classList.toggle("active", active);
+  });
 }
 
 function renderFeedErrors(feedErrors) {
@@ -160,14 +178,19 @@ function renderArticles(data) {
   }
 }
 
+function buildFilterParams() {
+  const params = new URLSearchParams();
+  if (state.topics.size > 0) params.set("topics", [...state.topics].join(","));
+  if (state.sources.size > 0) params.set("sources", [...state.sources].join(","));
+  if (state.q) params.set("q", state.q);
+  return params;
+}
+
 async function loadArticles() {
   el.statusLine.hidden = false;
   el.statusLine.textContent = "Loading articles…";
 
-  const params = new URLSearchParams();
-  if (state.topic !== "all") params.set("topic", state.topic);
-  if (state.source !== "all") params.set("source", state.source);
-  if (state.q) params.set("q", state.q);
+  const params = buildFilterParams();
 
   try {
     const res = await fetch(`/api/articles?${params.toString()}`);
@@ -186,6 +209,32 @@ async function loadArticles() {
   }
 }
 
+async function loadOverview() {
+  el.overviewSection.hidden = false;
+  el.overviewText.textContent = "Scanning today's coverage…";
+  el.overviewNote.textContent = "";
+
+  const params = buildFilterParams();
+
+  try {
+    const res = await fetch(`/api/overview?${params.toString()}`);
+    if (!res.ok) throw new Error(`Request failed: ${res.status}`);
+    const data = await res.json();
+
+    if (data.summary) {
+      el.overviewText.textContent = data.summary;
+      const updated = data.lastUpdated ? ` · ${timeAgo(data.lastUpdated)}` : "";
+      el.overviewNote.textContent = `Based on ${data.articleCount} articles${updated}`;
+    } else {
+      el.overviewText.textContent = data.error || "No overview available for this selection.";
+      el.overviewNote.textContent = "";
+    }
+  } catch (err) {
+    el.overviewText.textContent = `Couldn't load overview: ${err.message}`;
+    el.overviewNote.textContent = "";
+  }
+}
+
 async function manualRefresh() {
   el.refreshBtn.disabled = true;
   el.refreshBtn.textContent = "Refreshing…";
@@ -194,15 +243,10 @@ async function manualRefresh() {
   } catch (err) {
     // Ignore; loadArticles will surface any lingering issue.
   }
-  await loadArticles();
+  await Promise.all([loadArticles(), loadOverview()]);
   el.refreshBtn.disabled = false;
   el.refreshBtn.textContent = "Refresh";
 }
-
-el.sourceFilter.addEventListener("change", (e) => {
-  state.source = e.target.value;
-  loadArticles();
-});
 
 el.searchInput.addEventListener("input", (e) => {
   clearTimeout(searchDebounce);
@@ -210,6 +254,7 @@ el.searchInput.addEventListener("input", (e) => {
   searchDebounce = setTimeout(() => {
     state.q = value;
     loadArticles();
+    loadOverview();
   }, 300);
 });
 
@@ -217,8 +262,11 @@ el.refreshBtn.addEventListener("click", manualRefresh);
 
 (async function init() {
   await loadMeta();
-  await loadArticles();
-  setInterval(loadArticles, 5 * 60 * 1000);
+  await Promise.all([loadArticles(), loadOverview()]);
+  setInterval(() => {
+    loadArticles();
+    loadOverview();
+  }, 5 * 60 * 1000);
 })();
 
 if ("serviceWorker" in navigator) {
