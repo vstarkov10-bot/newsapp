@@ -113,6 +113,13 @@ a {
   margin-bottom: 1.25rem;
 }
 
+.filter-blocks {
+  display: flex;
+  gap: 1.5rem;
+  flex-wrap: wrap;
+  align-items: flex-end;
+}
+
 .filter-block {
   display: flex;
   flex-direction: column;

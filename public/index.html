@@ -25,13 +25,18 @@
 
     <main class="container">
       <section class="filters">
-        <div class="filter-block">
-          <span class="filter-label">Topics</span>
-          <div class="filter-group" id="topicFilters" aria-label="Filter by topic (multiple allowed)"></div>
-        </div>
-        <div class="filter-block">
-          <span class="filter-label">Sources</span>
-          <div class="filter-group" id="sourceFilters" aria-label="Filter by source (multiple allowed)"></div>
+        <div class="filter-blocks">
+          <div class="filter-block">
+            <span class="filter-label">Topics</span>
+            <div class="filter-group" id="topicFilters" aria-label="Filter by topic (multiple allowed)"></div>
+          </div>
+          <div class="filter-block">
+            <span class="filter-label">Sources</span>
+            <div class="filter-group" id="sourceFilters" aria-label="Filter by source (multiple allowed)"></div>
+          </div>
+          <div class="filter-block">
+            <button id="sendToClaudeBtn" class="btn">Send to Claude</button>
+          </div>
         </div>
         <div class="filter-row">
           <input

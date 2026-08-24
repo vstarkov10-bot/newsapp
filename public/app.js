@@ -2,9 +2,11 @@ const state = {
   topics: new Set(),
   sources: new Set(),
   q: "",
+  lastArticles: [],
 };
 
 let searchDebounce = null;
+let topicsMeta = [];
 
 const el = {
   topicFilters: document.getElementById("topicFilters"),
@@ -18,6 +20,7 @@ const el = {
   headlinesSection: document.getElementById("headlines"),
   headlinesList: document.getElementById("headlinesList"),
   headlinesNote: document.getElementById("headlinesNote"),
+  sendToClaudeBtn: document.getElementById("sendToClaudeBtn"),
 };
 
 function timeAgo(iso) {
@@ -35,6 +38,7 @@ function timeAgo(iso) {
 async function loadMeta() {
   const res = await fetch("/api/meta");
   const meta = await res.json();
+  topicsMeta = meta.topics;
 
   el.topicFilters.innerHTML = "";
   addMultiPill(el.topicFilters, "All", "all", state.topics);
@@ -197,6 +201,8 @@ async function loadArticles() {
     if (!res.ok) throw new Error(`Request failed: ${res.status}`);
     const data = await res.json();
 
+    state.lastArticles = data.articles;
+
     renderFeedErrors(data.feedErrors);
     renderArticles(data);
 
@@ -255,6 +261,66 @@ async function loadTopHeadlines() {
   }
 }
 
+function buildClaudeDigest(articles, topics) {
+  const header =
+    "Summarize these news headlines: first a roughly 250-word overall " +
+    "summary, then a short paragraph summarizing each topic section below.\n\n";
+
+  const byTopic = new Map(topics.map((t) => [t.id, []]));
+  for (const a of articles) {
+    for (const t of a.topics) {
+      if (byTopic.has(t)) byTopic.get(t).push(a);
+    }
+  }
+
+  const sections = [];
+  for (const topic of topics) {
+    const items = byTopic.get(topic.id);
+    if (!items || items.length === 0) continue;
+    const lines = items.map((a) => `- [${a.source}] ${a.title} — ${a.summary}`);
+    sections.push(`## ${topic.label}\n${lines.join("\n")}`);
+  }
+
+  return header + sections.join("\n\n");
+}
+
+async function sendToClaude() {
+  const articles = state.lastArticles;
+  if (!articles || articles.length === 0) {
+    flashButton(el.sendToClaudeBtn, "No articles loaded");
+    return;
+  }
+
+  const digest = buildClaudeDigest(articles, topicsMeta);
+
+  if (navigator.share) {
+    try {
+      await navigator.share({ text: digest, title: "Daily Briefing" });
+      return;
+    } catch (err) {
+      if (err.name === "AbortError") return; // user cancelled the share sheet
+      // fall through to clipboard on any other share failure
+    }
+  }
+
+  try {
+    await navigator.clipboard.writeText(digest);
+    flashButton(el.sendToClaudeBtn, "Copied — paste into Claude");
+  } catch (err) {
+    flashButton(el.sendToClaudeBtn, "Couldn't copy");
+  }
+}
+
+function flashButton(btn, message) {
+  const original = btn.textContent;
+  btn.textContent = message;
+  btn.disabled = true;
+  setTimeout(() => {
+    btn.textContent = original;
+    btn.disabled = false;
+  }, 2000);
+}
+
 async function manualRefresh() {
   el.refreshBtn.disabled = true;
   el.refreshBtn.textContent = "Refreshing…";
@@ -279,6 +345,7 @@ el.searchInput.addEventListener("input", (e) => {
 });
 
 el.refreshBtn.addEventListener("click", manualRefresh);
+el.sendToClaudeBtn.addEventListener("click", sendToClaude);
 
 (async function init() {
   await loadMeta();
