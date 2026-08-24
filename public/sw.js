@@ -1,4 +1,4 @@
-const CACHE_NAME = "daily-briefing-shell-v1";
+const CACHE_NAME = "daily-briefing-shell-v2";
 const SHELL_FILES = [
   "/",
   "/styles.css",
@@ -31,8 +31,9 @@ self.addEventListener("activate", (event) => {
 self.addEventListener("fetch", (event) => {
   const url = new URL(event.request.url);
 
-  // Never cache the API: article data must always come from the network.
-  if (url.pathname.startsWith("/api/")) {
+  // Never cache the API or the twice-daily review data: both must always
+  // come from the network so updates show up promptly.
+  if (url.pathname.startsWith("/api/") || url.pathname.startsWith("/data/")) {
     return;
   }
 

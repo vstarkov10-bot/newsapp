@@ -21,6 +21,10 @@ const el = {
   headlinesList: document.getElementById("headlinesList"),
   headlinesNote: document.getElementById("headlinesNote"),
   sendToClaudeBtn: document.getElementById("sendToClaudeBtn"),
+  morningReviewList: document.getElementById("morningReviewList"),
+  morningReviewMeta: document.getElementById("morningReviewMeta"),
+  eveningReviewList: document.getElementById("eveningReviewList"),
+  eveningReviewMeta: document.getElementById("eveningReviewMeta"),
 };
 
 function timeAgo(iso) {
@@ -112,6 +116,62 @@ function buildSearchLink(query, className) {
   link.rel = "noopener noreferrer";
   link.textContent = "Search web";
   return link;
+}
+
+async function loadReviewPanel(fileName, listEl, metaEl) {
+  try {
+    const res = await fetch(`/data/${fileName}?t=${Date.now()}`);
+    if (!res.ok) throw new Error(`Request failed: ${res.status}`);
+    const data = await res.json();
+
+    if (!data.generatedAt || !data.stories || data.stories.length === 0) {
+      metaEl.textContent = data.note || "Not generated yet.";
+      listEl.innerHTML = "";
+      return;
+    }
+
+    metaEl.textContent = `Generated ${timeAgo(data.generatedAt)}`;
+    listEl.innerHTML = "";
+
+    for (const s of data.stories) {
+      const item = document.createElement("article");
+      item.className = "review-item";
+
+      const h3 = document.createElement("h3");
+      const link = document.createElement("a");
+      link.href = s.url;
+      link.target = "_blank";
+      link.rel = "noopener noreferrer";
+      link.textContent = s.title;
+      h3.appendChild(link);
+
+      const meta = document.createElement("div");
+      meta.className = "review-item-meta";
+      meta.textContent = [s.source, s.topic].filter(Boolean).join(" · ");
+
+      item.appendChild(h3);
+      item.appendChild(meta);
+
+      if (s.reason) {
+        const reason = document.createElement("p");
+        reason.className = "review-item-reason";
+        reason.textContent = s.reason;
+        item.appendChild(reason);
+      }
+
+      item.appendChild(buildSearchLink(s.title, "search-link"));
+
+      listEl.appendChild(item);
+    }
+  } catch (err) {
+    metaEl.textContent = `Couldn't load: ${err.message}`;
+    listEl.innerHTML = "";
+  }
+}
+
+function loadReviews() {
+  loadReviewPanel("morning-review.json", el.morningReviewList, el.morningReviewMeta);
+  loadReviewPanel("evening-review.json", el.eveningReviewList, el.eveningReviewMeta);
 }
 
 function buildCard(a) {
@@ -365,10 +425,12 @@ el.sendToClaudeBtn.addEventListener("click", sendToClaude);
 
 (async function init() {
   await loadMeta();
+  loadReviews();
   await Promise.all([loadArticles(), loadTopHeadlines()]);
   setInterval(() => {
     loadArticles();
     loadTopHeadlines();
+    loadReviews();
   }, 5 * 60 * 1000);
 })();
 
