@@ -104,6 +104,16 @@ function groupBySource(articles) {
   return groups;
 }
 
+function buildSearchLink(query, className) {
+  const link = document.createElement("a");
+  link.className = className;
+  link.href = `https://www.google.com/search?q=${encodeURIComponent(query)}`;
+  link.target = "_blank";
+  link.rel = "noopener noreferrer";
+  link.textContent = "Search web";
+  return link;
+}
+
 function buildCard(a) {
   const card = document.createElement("article");
   card.className = "card";
@@ -142,10 +152,15 @@ function buildCard(a) {
   footer.appendChild(tags);
   footer.appendChild(time);
 
+  const actions = document.createElement("div");
+  actions.className = "card-actions";
+  actions.appendChild(buildSearchLink(a.title, "search-link"));
+
   card.appendChild(source);
   card.appendChild(h2);
   card.appendChild(summary);
   card.appendChild(footer);
+  card.appendChild(actions);
 
   return card;
 }
@@ -250,6 +265,7 @@ async function loadTopHeadlines() {
 
       li.appendChild(link);
       li.appendChild(source);
+      li.appendChild(buildSearchLink(h.title, "search-link search-link-inline"));
       el.headlinesList.appendChild(li);
     }
 
