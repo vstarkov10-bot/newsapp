@@ -6,6 +6,8 @@
   --border: #e3e1db;
   --accent: #2f8fd1;
   --accent-contrast: #ffffff;
+  --claude-orange: #d97757;
+  --claude-orange-contrast: #ffffff;
   --pill-bg: #ececE7;
   --pill-active-bg: #1a1a1a;
   --pill-active-text: #ffffff;
@@ -21,6 +23,8 @@
     --border: #33333c;
     --accent: #6cc0f5;
     --accent-contrast: #0b1520;
+    --claude-orange: #e08b6c;
+    --claude-orange-contrast: #1a0f0a;
     --pill-bg: #2a2a33;
     --pill-active-bg: #f2f1ed;
     --pill-active-text: #15151a;
@@ -93,6 +97,11 @@ a {
 
 .btn:hover {
   opacity: 0.9;
+}
+
+.btn-claude {
+  background: var(--claude-orange);
+  color: var(--claude-orange-contrast);
 }
 
 .btn:disabled {
