@@ -423,6 +423,22 @@ el.searchInput.addEventListener("input", (e) => {
 el.refreshBtn.addEventListener("click", manualRefresh);
 el.sendToClaudeBtn.addEventListener("click", sendToClaude);
 
+const tabPanels = {
+  main: document.getElementById("tabMain"),
+  morning: document.getElementById("tabMorning"),
+  evening: document.getElementById("tabEvening"),
+};
+
+document.querySelectorAll(".tab").forEach((btn) => {
+  btn.addEventListener("click", () => {
+    const target = btn.dataset.tab;
+    document.querySelectorAll(".tab").forEach((b) => b.classList.toggle("active", b === btn));
+    Object.entries(tabPanels).forEach(([key, panel]) => {
+      panel.hidden = key !== target;
+    });
+  });
+});
+
 (async function init() {
   await loadMeta();
   loadReviews();

@@ -23,55 +23,67 @@
       </div>
     </header>
 
+    <nav class="tabs" aria-label="Sections">
+      <button class="tab active" data-tab="main">Main</button>
+      <button class="tab" data-tab="morning">Morning Review</button>
+      <button class="tab" data-tab="evening">Evening Review</button>
+    </nav>
+
     <main class="container">
-      <section class="filters">
-        <div class="filter-blocks">
-          <div class="filter-block">
-            <span class="filter-label">Topics</span>
-            <div class="filter-group" id="topicFilters" aria-label="Filter by topic (multiple allowed)"></div>
+      <div id="tabMain" class="tab-panel">
+        <section class="filters">
+          <div class="filter-blocks">
+            <div class="filter-block">
+              <span class="filter-label">Topics</span>
+              <div class="filter-group" id="topicFilters" aria-label="Filter by topic (multiple allowed)"></div>
+            </div>
+            <div class="filter-block">
+              <span class="filter-label">Sources</span>
+              <div class="filter-group" id="sourceFilters" aria-label="Filter by source (multiple allowed)"></div>
+            </div>
+            <div class="filter-block">
+              <button id="sendToClaudeBtn" class="btn btn-claude">Send to Claude</button>
+            </div>
           </div>
-          <div class="filter-block">
-            <span class="filter-label">Sources</span>
-            <div class="filter-group" id="sourceFilters" aria-label="Filter by source (multiple allowed)"></div>
+          <div class="filter-row">
+            <input
+              id="searchInput"
+              type="search"
+              placeholder="Search headlines…"
+              aria-label="Search headlines"
+            />
           </div>
-          <div class="filter-block">
-            <button id="sendToClaudeBtn" class="btn btn-claude">Send to Claude</button>
-          </div>
-        </div>
-        <div class="filter-row">
-          <input
-            id="searchInput"
-            type="search"
-            placeholder="Search headlines…"
-            aria-label="Search headlines"
-          />
-        </div>
-      </section>
+        </section>
 
-      <section id="morningReview" class="review-panel">
-        <h2 class="review-heading">Morning Review <span class="review-time">7:00</span></h2>
-        <p id="morningReviewMeta" class="review-meta muted"></p>
-        <div id="morningReviewList" class="review-list"></div>
-      </section>
+        <section id="headlines" class="headlines" hidden>
+          <h2 class="headlines-heading">Top Headlines</h2>
+          <ol id="headlinesList" class="headlines-list"></ol>
+          <p id="headlinesNote" class="headlines-note muted"></p>
+        </section>
 
-      <section id="eveningReview" class="review-panel">
-        <h2 class="review-heading">Evening Review <span class="review-time">22:00</span></h2>
-        <p id="eveningReviewMeta" class="review-meta muted"></p>
-        <div id="eveningReviewList" class="review-list"></div>
-      </section>
+        <section id="feedErrors" class="feed-errors" hidden></section>
 
-      <section id="headlines" class="headlines" hidden>
-        <h2 class="headlines-heading">Top Headlines</h2>
-        <ol id="headlinesList" class="headlines-list"></ol>
-        <p id="headlinesNote" class="headlines-note muted"></p>
-      </section>
+        <section id="results" class="results">
+          <p class="muted" id="statusLine">Loading articles…</p>
+          <div id="articleGrid" class="source-list"></div>
+        </section>
+      </div>
 
-      <section id="feedErrors" class="feed-errors" hidden></section>
+      <div id="tabMorning" class="tab-panel" hidden>
+        <section id="morningReview" class="review-panel">
+          <h2 class="review-heading">Morning Review <span class="review-time">7:00</span></h2>
+          <p id="morningReviewMeta" class="review-meta muted"></p>
+          <div id="morningReviewList" class="review-list"></div>
+        </section>
+      </div>
 
-      <section id="results" class="results">
-        <p class="muted" id="statusLine">Loading articles…</p>
-        <div id="articleGrid" class="source-list"></div>
-      </section>
+      <div id="tabEvening" class="tab-panel" hidden>
+        <section id="eveningReview" class="review-panel">
+          <h2 class="review-heading">Evening Review <span class="review-time">22:00</span></h2>
+          <p id="eveningReviewMeta" class="review-meta muted"></p>
+          <div id="eveningReviewList" class="review-list"></div>
+        </section>
+      </div>
     </main>
 
     <footer class="footer">
