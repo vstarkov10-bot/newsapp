@@ -36,19 +36,6 @@ If a publisher changes an RSS URL, that single feed will fail gracefully
 (a banner notes which feed couldn't be reached) without breaking the rest
 of the app — just update the URL in `src/feeds.js`.
 
-## AI Suggestions (optional)
-
-The "AI Suggestions" button asks Claude to search the live web (not limited
-to the 4 configured publishers) and pick the most important/relevant recent
-stories for the currently selected topics. This is separate from the RSS
-pipeline above and requires an `ANTHROPIC_API_KEY` environment variable —
-without it, the button just shows an explanatory message instead of
-erroring. See `src/suggest.js` for the prompt and `src/suggestCache.js` for
-the 10-minute per-topic-selection cache that keeps repeat clicks cheap.
-
-Each click costs real money (Claude Opus 5 tokens + web search usage) —
-budget accordingly if this is exposed publicly.
-
 ## API
 
 - `GET /api/meta` — available topics and sources.
@@ -58,7 +45,4 @@ budget accordingly if this is exposed publicly.
 - `GET /api/headlines?topics=&sources=&q=` — up to 5 top headlines from the
   same filtered set, round-robined across sources (no AI involved — just
   recency, spread across publishers).
-- `POST /api/suggest?topics=` — AI-curated stories from across the web for
-  the given topics (comma-separated; omit for all four). Requires
-  `ANTHROPIC_API_KEY`.
 - `POST /api/refresh` — force an immediate feed refresh.

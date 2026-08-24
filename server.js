@@ -10,7 +10,6 @@ const {
   startAutoRefresh,
 } = require("./src/store");
 const { parseListParam } = require("./src/query");
-const { getSuggestions } = require("./src/suggestCache");
 
 const PORT = process.env.PORT || 3000;
 const MIN_MANUAL_REFRESH_INTERVAL_MS = 60 * 1000;
@@ -54,19 +53,6 @@ app.get("/api/headlines", (req, res) => {
     headlines,
     articleCount: articles.length,
     lastUpdated: cache.lastUpdated,
-  });
-});
-
-app.post("/api/suggest", async (req, res) => {
-  const topicIds = parseListParam(req.query.topics);
-  const selected = topicIds.length > 0 ? TOPICS.filter((t) => topicIds.includes(t.id)) : TOPICS;
-  const topicLabels = selected.map((t) => t.label);
-
-  const result = await getSuggestions(topicLabels);
-
-  res.json({
-    suggestions: result.suggestions,
-    error: result.error,
   });
 });
 

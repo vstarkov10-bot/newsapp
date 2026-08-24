@@ -35,9 +35,6 @@
             <div class="filter-group" id="sourceFilters" aria-label="Filter by source (multiple allowed)"></div>
           </div>
           <div class="filter-block">
-            <button id="aiSuggestBtn" class="btn">AI Suggestions</button>
-          </div>
-          <div class="filter-block">
             <button id="sendToClaudeBtn" class="btn btn-claude">Send to Claude</button>
           </div>
         </div>
@@ -55,17 +52,6 @@
         <h2 class="headlines-heading">Top Headlines</h2>
         <ol id="headlinesList" class="headlines-list"></ol>
         <p id="headlinesNote" class="headlines-note muted"></p>
-      </section>
-
-      <section id="aiSuggestions" class="ai-suggestions" hidden>
-        <div class="ai-suggestions-header">
-          <h2 class="ai-suggestions-heading">AI Suggested Stories</h2>
-          <button id="aiSuggestCloseBtn" class="btn-close" aria-label="Close AI suggestions">&times;</button>
-        </div>
-        <p class="ai-suggestions-subtitle muted">
-          Picked by Claude from across the web — not limited to the sources above.
-        </p>
-        <div id="aiSuggestionsList" class="ai-suggestions-list"></div>
       </section>
 
       <section id="feedErrors" class="feed-errors" hidden></section>
