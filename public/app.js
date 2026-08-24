@@ -21,6 +21,10 @@ const el = {
   headlinesList: document.getElementById("headlinesList"),
   headlinesNote: document.getElementById("headlinesNote"),
   sendToClaudeBtn: document.getElementById("sendToClaudeBtn"),
+  aiSuggestBtn: document.getElementById("aiSuggestBtn"),
+  aiSuggestCloseBtn: document.getElementById("aiSuggestCloseBtn"),
+  aiSuggestionsSection: document.getElementById("aiSuggestions"),
+  aiSuggestionsList: document.getElementById("aiSuggestionsList"),
 };
 
 function timeAgo(iso) {
@@ -321,6 +325,72 @@ function flashButton(btn, message) {
   }, 2000);
 }
 
+function renderAiSuggestions(suggestions) {
+  el.aiSuggestionsList.innerHTML = "";
+
+  for (const s of suggestions) {
+    const item = document.createElement("article");
+    item.className = "suggestion-item";
+
+    const h3 = document.createElement("h3");
+    const link = document.createElement("a");
+    link.href = s.url;
+    link.target = "_blank";
+    link.rel = "noopener noreferrer";
+    link.textContent = s.title;
+    h3.appendChild(link);
+
+    const meta = document.createElement("div");
+    meta.className = "suggestion-meta";
+    meta.textContent = [s.source, s.topic].filter(Boolean).join(" · ");
+
+    const reason = document.createElement("p");
+    reason.className = "suggestion-reason";
+    reason.textContent = s.reason || "";
+
+    item.appendChild(h3);
+    item.appendChild(meta);
+    if (s.reason) item.appendChild(reason);
+
+    el.aiSuggestionsList.appendChild(item);
+  }
+}
+
+async function loadAiSuggestions() {
+  el.aiSuggestBtn.disabled = true;
+  el.aiSuggestBtn.textContent = "Searching…";
+  el.aiSuggestionsSection.hidden = false;
+  el.aiSuggestionsList.innerHTML = "<p class=\"muted\">Asking Claude to search the web…</p>";
+
+  const params = new URLSearchParams();
+  if (state.topics.size > 0) params.set("topics", [...state.topics].join(","));
+
+  try {
+    const res = await fetch(`/api/suggest?${params.toString()}`, { method: "POST" });
+    if (!res.ok) throw new Error(`Request failed: ${res.status}`);
+    const data = await res.json();
+
+    if (data.suggestions && data.suggestions.length > 0) {
+      renderAiSuggestions(data.suggestions);
+    } else {
+      el.aiSuggestionsList.innerHTML = "";
+      const msg = document.createElement("p");
+      msg.className = "muted";
+      msg.textContent = data.error || "No suggestions available right now.";
+      el.aiSuggestionsList.appendChild(msg);
+    }
+  } catch (err) {
+    el.aiSuggestionsList.innerHTML = "";
+    const msg = document.createElement("p");
+    msg.className = "muted";
+    msg.textContent = `Couldn't load suggestions: ${err.message}`;
+    el.aiSuggestionsList.appendChild(msg);
+  }
+
+  el.aiSuggestBtn.disabled = false;
+  el.aiSuggestBtn.textContent = "AI Suggestions";
+}
+
 async function manualRefresh() {
   el.refreshBtn.disabled = true;
   el.refreshBtn.textContent = "Refreshing…";
@@ -346,6 +416,10 @@ el.searchInput.addEventListener("input", (e) => {
 
 el.refreshBtn.addEventListener("click", manualRefresh);
 el.sendToClaudeBtn.addEventListener("click", sendToClaude);
+el.aiSuggestBtn.addEventListener("click", loadAiSuggestions);
+el.aiSuggestCloseBtn.addEventListener("click", () => {
+  el.aiSuggestionsSection.hidden = true;
+});
 
 (async function init() {
   await loadMeta();
