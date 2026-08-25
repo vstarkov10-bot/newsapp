@@ -1,54 +1,47 @@
 {
-  "generatedAt": "2026-08-24T19:15:00Z",
+  "generatedAt": "2026-08-25T19:12:00Z",
   "stories": [
     {
-      "title": "Bessent announces 'D-day' sanctions against Iran in 'Operation Economic Outcast'",
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/08/24/bessent-dday-iran-secondary-sanctions",
+      "title": "China warns US sanctions on Iran will intensify tensions",
+      "source": "The Hill",
+      "url": "https://thehill.com/policy/international/6048518-china-criticizes-us-iran-sanctions/",
       "topic": "Politics",
-      "reason": "Treasury expanded secondary sanctions to digital assets, technology, gold, aviation, and shipping, marking a major escalation of economic pressure on Iran."
+      "reason": "Beijing vowed 'all necessary measures' to protect its Iran ties, drawing a major power directly into the sanctions standoff days before Xi's planned Washington visit."
     },
     {
-      "title": "Canada to hit US with retaliatory tariffs as trade war escalates",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/23/canada-to-hit-us-with-retaliatory-tariffs-as-trade-war-escalates",
+      "title": "Canada announces targeted countermeasures and $7.5B in support for workers and businesses",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/08/25/nx-s1-5944240/canada-us-tariffs",
       "topic": "Economy",
-      "reason": "Carney announced dollar-for-dollar retaliation on US steel, dairy, appliances, and electronics starting September 8 after trade talks collapsed."
+      "reason": "Ottawa formalized dollar-for-dollar retaliatory tariffs on US steel, dairy, and electronics effective September 8, plus a loan package for affected industries."
     },
     {
-      "title": "Firefighters make progress holding wildfire in Reno area, where 87K have been urged to evacuate",
-      "source": "CNN",
-      "url": "https://www.cnn.com/2026/08/23/us/hawk-fire-nevada-governor-emergency-reno-hnk",
+      "title": "Strikes in Gaza kill 4, including 2 children, a week after US asked Israel to curb attacks",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/world/gaza/strikes-gaza-kill-4-2-children-week-us-asked-israel-curb-attacks-rcna594240",
       "topic": "World",
-      "reason": "The uncontained Hawk Fire has forced roughly 90,000 evacuations and closed hospital facilities near the University of Nevada, Reno."
+      "reason": "The strikes come despite explicit US pressure to reduce attacks, raising questions about Washington's influence over the ceasefire's enforcement."
     },
     {
-      "title": "Stock market today: S&P 500, Nasdaq slip as Bessent announces 'economic asphyxiation' campaign against Iran",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-august-24-dow-sp-500-nasdaq-080306047.html",
-      "topic": "Economy",
-      "reason": "Markets are digesting both the new Iran sanctions and the US-Canada tariff escalation in the same session."
-    },
-    {
-      "title": "Google's Gemini app surges to 1 billion users",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/",
-      "topic": "AI",
-      "reason": "Gemini reached the milestone faster than ChatGPT did, becoming Google's fastest-growing product ever."
-    },
-    {
-      "title": "Nvidia stock tumbles again, pacing for seventh-straight drop ahead of earnings",
-      "source": "Forbes",
-      "url": "https://www.forbes.com/sites/zacharyfolk/2026/08/24/nvidia-stock-tumbles-another-2-pacing-for-seventh-straight-drop-ahead-of-earnings/",
+      "title": "Apple unveils a more powerful Mac mini featuring the all-new M6 and M5 Pro",
+      "source": "Apple Newsroom",
+      "url": "https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/",
       "topic": "Tech",
-      "reason": "Investor anxiety is building ahead of Wednesday's earnings call, which will move valuations across the entire AI trade."
+      "reason": "Apple's first 2nm chip lands in a surprise refresh of the Mac mini and Mac Studio, with the M6 promising up to 4x faster AI performance."
     },
     {
-      "title": "EU begins enforcing AI Act, putting AI models under the microscope",
-      "source": "Help Net Security",
-      "url": "https://www.helpnetsecurity.com/2026/08/04/eu-ai-act-enforcement-ai-models/",
+      "title": "Stock market today: Nasdaq, Russell 2000 climb ahead of Nvidia earnings, Fed symposium",
+      "source": "TheStreet",
+      "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-aug-25-2026",
+      "topic": "Economy",
+      "reason": "Markets rebounded on falling yields and chip-stock strength as investors position for Wednesday's Nvidia earnings and the Fed's next policy signal."
+    },
+    {
+      "title": "DeepSeek enters the multimodal AI race with an experimental vision model",
+      "source": "The Next Web",
+      "url": "https://thenextweb.com/news/deepseek-v4-flash-vision-exp-opus-benchmarks",
       "topic": "AI",
-      "reason": "New transparency rules now require chatbots to disclose themselves and deepfakes to carry labels, with fines up to €15 million for violations."
+      "reason": "DeepSeek-V4-Flash-Vision-Exp reportedly approaches Claude Opus 4.8 on multimodal agent benchmarks, intensifying competition from Chinese labs."
     }
   ]
 }
