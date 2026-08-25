@@ -3,6 +3,8 @@ const state = {
   sources: new Set(),
   q: "",
   lastArticles: [],
+  morningStories: [],
+  eveningStories: [],
 };
 
 let searchDebounce = null;
@@ -23,8 +25,10 @@ const el = {
   sendToClaudeBtn: document.getElementById("sendToClaudeBtn"),
   morningReviewList: document.getElementById("morningReviewList"),
   morningReviewMeta: document.getElementById("morningReviewMeta"),
+  morningSendToClaudeBtn: document.getElementById("morningSendToClaudeBtn"),
   eveningReviewList: document.getElementById("eveningReviewList"),
   eveningReviewMeta: document.getElementById("eveningReviewMeta"),
+  eveningSendToClaudeBtn: document.getElementById("eveningSendToClaudeBtn"),
 };
 
 function timeAgo(iso) {
@@ -118,7 +122,7 @@ function buildSearchLink(query, className) {
   return link;
 }
 
-async function loadReviewPanel(fileName, listEl, metaEl) {
+async function loadReviewPanel(fileName, listEl, metaEl, stateKey) {
   try {
     const res = await fetch(`/data/${fileName}?t=${Date.now()}`);
     if (!res.ok) throw new Error(`Request failed: ${res.status}`);
@@ -127,8 +131,11 @@ async function loadReviewPanel(fileName, listEl, metaEl) {
     if (!data.generatedAt || !data.stories || data.stories.length === 0) {
       metaEl.textContent = data.note || "Not generated yet.";
       listEl.innerHTML = "";
+      state[stateKey] = [];
       return;
     }
+
+    state[stateKey] = data.stories;
 
     metaEl.textContent = `Generated ${timeAgo(data.generatedAt)}`;
     listEl.innerHTML = "";
@@ -170,8 +177,8 @@ async function loadReviewPanel(fileName, listEl, metaEl) {
 }
 
 function loadReviews() {
-  loadReviewPanel("morning-review.json", el.morningReviewList, el.morningReviewMeta);
-  loadReviewPanel("evening-review.json", el.eveningReviewList, el.eveningReviewMeta);
+  loadReviewPanel("morning-review.json", el.morningReviewList, el.morningReviewMeta, "morningStories");
+  loadReviewPanel("evening-review.json", el.eveningReviewList, el.eveningReviewMeta, "eveningStories");
 }
 
 function buildCard(a) {
@@ -360,15 +367,17 @@ function buildClaudeDigest(articles, topics) {
   return header + sections.join("\n\n");
 }
 
-async function sendToClaude() {
-  const articles = state.lastArticles;
-  if (!articles || articles.length === 0) {
-    flashButton(el.sendToClaudeBtn, "No articles loaded");
-    return;
-  }
+function buildReviewDigest(label, stories) {
+  const header =
+    `Summarize these ${label} news stories: a short overall takeaway, ` +
+    "then one sentence per story.\n\n";
+  const lines = stories.map(
+    (s) => `- [${s.source}] ${s.title} (${s.topic}) — ${s.reason || ""}`
+  );
+  return header + lines.join("\n");
+}
 
-  const digest = buildClaudeDigest(articles, topicsMeta);
-
+async function shareDigest(digest, btn) {
   if (navigator.share) {
     try {
       await navigator.share({ text: digest, title: "Daily Briefing" });
@@ -381,10 +390,30 @@ async function sendToClaude() {
 
   try {
     await navigator.clipboard.writeText(digest);
-    flashButton(el.sendToClaudeBtn, "Copied — paste into Claude");
+    flashButton(btn, "Copied — paste into Claude");
   } catch (err) {
-    flashButton(el.sendToClaudeBtn, "Couldn't copy");
+    flashButton(btn, "Couldn't copy");
   }
+}
+
+async function sendToClaude() {
+  const articles = state.lastArticles;
+  if (!articles || articles.length === 0) {
+    flashButton(el.sendToClaudeBtn, "No articles loaded");
+    return;
+  }
+  const digest = buildClaudeDigest(articles, topicsMeta);
+  await shareDigest(digest, el.sendToClaudeBtn);
+}
+
+async function sendReviewToClaude(label, stateKey, btn) {
+  const stories = state[stateKey];
+  if (!stories || stories.length === 0) {
+    flashButton(btn, "No stories loaded");
+    return;
+  }
+  const digest = buildReviewDigest(label, stories);
+  await shareDigest(digest, btn);
 }
 
 function flashButton(btn, message) {
@@ -422,6 +451,12 @@ el.searchInput.addEventListener("input", (e) => {
 
 el.refreshBtn.addEventListener("click", manualRefresh);
 el.sendToClaudeBtn.addEventListener("click", sendToClaude);
+el.morningSendToClaudeBtn.addEventListener("click", () =>
+  sendReviewToClaude("morning review", "morningStories", el.morningSendToClaudeBtn)
+);
+el.eveningSendToClaudeBtn.addEventListener("click", () =>
+  sendReviewToClaude("evening review", "eveningStories", el.eveningSendToClaudeBtn)
+);
 
 const tabPanels = {
   main: document.getElementById("tabMain"),

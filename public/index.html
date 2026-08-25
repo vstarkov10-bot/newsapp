@@ -71,7 +71,10 @@
 
       <div id="tabMorning" class="tab-panel" hidden>
         <section id="morningReview" class="review-panel">
-          <h2 class="review-heading">Morning Review <span class="review-time">7:00</span></h2>
+          <div class="review-header">
+            <h2 class="review-heading">Morning Review <span class="review-time">7:00</span></h2>
+            <button id="morningSendToClaudeBtn" class="btn btn-claude btn-small">Send to Claude</button>
+          </div>
           <p id="morningReviewMeta" class="review-meta muted"></p>
           <div id="morningReviewList" class="review-list"></div>
         </section>
@@ -79,7 +82,10 @@
 
       <div id="tabEvening" class="tab-panel" hidden>
         <section id="eveningReview" class="review-panel">
-          <h2 class="review-heading">Evening Review <span class="review-time">22:00</span></h2>
+          <div class="review-header">
+            <h2 class="review-heading">Evening Review <span class="review-time">22:00</span></h2>
+            <button id="eveningSendToClaudeBtn" class="btn btn-claude btn-small">Send to Claude</button>
+          </div>
           <p id="eveningReviewMeta" class="review-meta muted"></p>
           <div id="eveningReviewList" class="review-list"></div>
         </section>
