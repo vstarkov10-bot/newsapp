@@ -1,54 +1,40 @@
 {
-  "generatedAt": "2026-08-25T04:10:00Z",
+  "generatedAt": "2026-08-26T04:15:00Z",
   "stories": [
     {
-      "title": "US threatens sanctions on countries that don't cut economic ties to Tehran",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/08/24/g-s1-139743/treasury-secretary-scott-bessent-to-unveil-new-economic-sanctions-on-iran",
+      "title": "Bessent threatens Iran secondary sanctions, says Trump is asking world leaders to cooperate",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/business/economy/bessent-iran-sanctions-d-day-rcna594103",
       "topic": "Politics",
-      "reason": "Iran's Supreme National Security Council has vowed a 'seismic' retaliation, and the sanctions net now extends to China, India, Turkey, Iraq, and the UAE."
+      "reason": "Trump is personally calling world leaders to cut Iran trade, and the administration's restraint toward Chinese firms ahead of Xi's Washington visit is drawing scrutiny."
     },
     {
-      "title": "Fed Chair Powell signals path to rate cuts in Jackson Hole speech",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/news/fed-chair-powell-opens-door-to-september-rate-cut-in-jackson-hole-speech-says-economic-outlook-may-warrant-change-in-stance-140020886.html",
-      "topic": "Economy",
-      "reason": "Odds of a September rate cut jumped to near 90% after Powell said the policy stance 'may warrant' adjusting, despite lingering tariff-driven inflation risk."
+      "title": "Supreme Court hands preliminary win to Trump on mail-in ballots executive order",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/politics/supreme-court/supreme-court-hands-preliminary-win-trump-mail-ballots-executive-order-rcna590120",
+      "topic": "Politics",
+      "reason": "A 6-3 ruling lifted an injunction blocking parts of Trump's order restricting mail ballots, though the underlying legal fight continues ahead of the midterms."
     },
     {
-      "title": "Stock market news for Aug. 24, 2026: chip stocks weigh on Wall Street",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/24/stock-market-today-live-updates.html",
-      "topic": "Economy",
-      "reason": "Micron, AMD, and Broadcom all fell sharply even as the Dow closed higher, a split reaction ahead of Nvidia's earnings this week."
-    },
-    {
-      "title": "Canadian dollar slides as Ottawa and Washington head for all-out trade war",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/24/canada-us-trade-war-deal.html",
-      "topic": "Economy",
-      "reason": "Carney's retaliatory tariffs on steel, dairy, and electronics take effect September 8, and Canadian small businesses are already bracing for the hit."
-    },
-    {
-      "title": "OpenAI launches ChatGPT for Teens with stronger safety protections",
-      "source": "U.S. News & World Report",
-      "url": "https://www.usnews.com/news/technology/articles/2026-08-18/openai-launches-chatgpt-for-teens-promising-a-more-age-appropriate-chatbot",
+      "title": "Nvidia earnings: live updates and commentary",
+      "source": "Kiplinger",
+      "url": "https://www.kiplinger.com/investing/live/nvidia-earnings-live-updates-and-commentary-august-2026",
       "topic": "AI",
-      "reason": "The rollout uses automatic age-prediction rather than verification, and child-safety experts are already questioning how reliable that detection is."
+      "reason": "Nvidia reports fiscal Q2 results after today's close with analysts expecting $92.2 billion in revenue, a result that will move valuations across the entire AI trade."
     },
     {
-      "title": "Anthropic, Macquarie, and GIC launch Theseus Infrastructure for AI data centers",
-      "source": "Data Center Dynamics",
-      "url": "https://www.datacenterdynamics.com/en/news/gic-and-macquarie-form-theseus-infrastructure-to-serve-anthropics-data-center-needs/",
+      "title": "Stock market today: live updates",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/08/25/stock-market-today-live-updates.html",
+      "topic": "Economy",
+      "reason": "The Dow notched a third straight winning session, but futures wobbled ahead of Nvidia's earnings as investors weigh the AI trade's next catalyst."
+    },
+    {
+      "title": "Fully AI-generated music to be banned from ARIA charts",
+      "source": "ABC News (Australia)",
+      "url": "https://www.abc.net.au/news/2026-08-25/ai-generated-music-to-be-banned-from-aria-charts/107072642",
       "topic": "AI",
-      "reason": "A purpose-built data center platform with Anthropic as anchor tenant, signaling how much capital the AI buildout now requires."
-    },
-    {
-      "title": "Hawk Fire containment reaches 27% as evacuations ease around Reno",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/out-of-control-hawk-fire-in-reno-nevada-keeping-tens-of-thousands-evacuated/",
-      "topic": "World",
-      "reason": "Crews stopped the fire short of the Somersett neighborhood and reopened US-395, though a damage assessment already counts 32 homes destroyed."
+      "reason": "Australia's national chart body becomes an early mover in defining what counts as human-made music as generative AI reshapes the industry."
     }
   ]
 }
