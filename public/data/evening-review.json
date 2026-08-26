@@ -1,47 +1,40 @@
 {
-  "generatedAt": "2026-08-25T19:12:00Z",
+  "generatedAt": "2026-08-26T19:12:00Z",
   "stories": [
     {
-      "title": "China warns US sanctions on Iran will intensify tensions",
-      "source": "The Hill",
-      "url": "https://thehill.com/policy/international/6048518-china-criticizes-us-iran-sanctions/",
-      "topic": "Politics",
-      "reason": "Beijing vowed 'all necessary measures' to protect its Iran ties, drawing a major power directly into the sanctions standoff days before Xi's planned Washington visit."
-    },
-    {
-      "title": "Canada announces targeted countermeasures and $7.5B in support for workers and businesses",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/08/25/nx-s1-5944240/canada-us-tariffs",
-      "topic": "Economy",
-      "reason": "Ottawa formalized dollar-for-dollar retaliatory tariffs on US steel, dairy, and electronics effective September 8, plus a loan package for affected industries."
-    },
-    {
-      "title": "Strikes in Gaza kill 4, including 2 children, a week after US asked Israel to curb attacks",
-      "source": "NBC News",
-      "url": "https://www.nbcnews.com/world/gaza/strikes-gaza-kill-4-2-children-week-us-asked-israel-curb-attacks-rcna594240",
-      "topic": "World",
-      "reason": "The strikes come despite explicit US pressure to reduce attacks, raising questions about Washington's influence over the ceasefire's enforcement."
-    },
-    {
-      "title": "Apple unveils a more powerful Mac mini featuring the all-new M6 and M5 Pro",
-      "source": "Apple Newsroom",
-      "url": "https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/",
+      "title": "Meta settles social media addiction case with states for up to $18 billion",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/08/26/meta-social-media-trial-settlement.html",
       "topic": "Tech",
-      "reason": "Apple's first 2nm chip lands in a surprise refresh of the Mac mini and Mac Studio, with the M6 promising up to 4x faster AI performance."
+      "reason": "A 29-state coalition forced Meta into mandatory teen safety changes -- daily time limits, a midnight-to-6am night mode -- alongside one of the largest tech settlements ever."
     },
     {
-      "title": "Stock market today: Nasdaq, Russell 2000 climb ahead of Nvidia earnings, Fed symposium",
-      "source": "TheStreet",
-      "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-aug-25-2026",
-      "topic": "Economy",
-      "reason": "Markets rebounded on falling yields and chip-stock strength as investors position for Wednesday's Nvidia earnings and the Fed's next policy signal."
+      "title": "Trump and Xi discuss Iran in wide-ranging call as US presses China and others to break from Tehran",
+      "source": "Yahoo News",
+      "url": "https://www.yahoo.com/news/articles/trump-says-discussed-iran-chinas-155305945.html",
+      "topic": "Politics",
+      "reason": "The call came as US and Iranian officials agreed to high-level talks Friday in Oman, a possible de-escalation signal even as sanctions pressure intensifies."
     },
     {
-      "title": "DeepSeek enters the multimodal AI race with an experimental vision model",
-      "source": "The Next Web",
-      "url": "https://thenextweb.com/news/deepseek-v4-flash-vision-exp-opus-benchmarks",
+      "title": "OpenAI's Jalapeño AI chip brings new 'threat' to Nvidia margins as custom silicon gains ground",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/openais-first-custom-chip-jalapeno-reportedly-beats-nvidias-blackwell-and-rubin-in-inference-benchmarks/",
       "topic": "AI",
-      "reason": "DeepSeek-V4-Flash-Vision-Exp reportedly approaches Claude Opus 4.8 on multimodal agent benchmarks, intensifying competition from Chinese labs."
+      "reason": "OpenAI's self-reported benchmarks claim up to 1.9x more throughput than Blackwell systems, landing just hours before Nvidia's own earnings report."
+    },
+    {
+      "title": "Nvidia earnings: live updates and commentary",
+      "source": "Kiplinger",
+      "url": "https://www.kiplinger.com/investing/live/nvidia-earnings-live-updates-and-commentary-august-2026",
+      "topic": "AI",
+      "reason": "Nvidia reports fiscal Q2 results after today's close, with ~$92 billion in revenue expected -- a result that will set the tone for the entire AI trade."
+    },
+    {
+      "title": "Canada strikes back in a trade war with the U.S.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/08/26/nx-s1-5944392/canada-strikes-back-in-a-trade-war-with-the-u-s",
+      "topic": "Economy",
+      "reason": "Ottawa's formal countertariffs on roughly $20 billion of US goods took a further step today as the trade dispute between the two allies deepens."
     }
   ]
 }
