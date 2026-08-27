@@ -1,40 +1,40 @@
 {
-  "generatedAt": "2026-08-26T04:15:00Z",
+  "generatedAt": "2026-08-27T04:15:00Z",
   "stories": [
     {
-      "title": "Bessent threatens Iran secondary sanctions, says Trump is asking world leaders to cooperate",
-      "source": "NBC News",
-      "url": "https://www.nbcnews.com/business/economy/bessent-iran-sanctions-d-day-rcna594103",
-      "topic": "Politics",
-      "reason": "Trump is personally calling world leaders to cut Iran trade, and the administration's restraint toward Chinese firms ahead of Xi's Washington visit is drawing scrutiny."
-    },
-    {
-      "title": "Supreme Court hands preliminary win to Trump on mail-in ballots executive order",
-      "source": "NBC News",
-      "url": "https://www.nbcnews.com/politics/supreme-court/supreme-court-hands-preliminary-win-trump-mail-ballots-executive-order-rcna590120",
-      "topic": "Politics",
-      "reason": "A 6-3 ruling lifted an injunction blocking parts of Trump's order restricting mail ballots, though the underlying legal fight continues ahead of the midterms."
-    },
-    {
-      "title": "Nvidia earnings: live updates and commentary",
-      "source": "Kiplinger",
-      "url": "https://www.kiplinger.com/investing/live/nvidia-earnings-live-updates-and-commentary-august-2026",
-      "topic": "AI",
-      "reason": "Nvidia reports fiscal Q2 results after today's close with analysts expecting $92.2 billion in revenue, a result that will move valuations across the entire AI trade."
-    },
-    {
-      "title": "Stock market today: live updates",
+      "title": "Nvidia earnings takeaways: Huang forecasts 70% fiscal 2028 revenue growth, far above estimates",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/25/stock-market-today-live-updates.html",
-      "topic": "Economy",
-      "reason": "The Dow notched a third straight winning session, but futures wobbled ahead of Nvidia's earnings as investors weigh the AI trade's next catalyst."
+      "url": "https://www.cnbc.com/2026/08/26/nvidia-nvda-earnings-report-q2-2027-live-updates.html",
+      "topic": "AI",
+      "reason": "Revenue of $96.2 billion beat estimates by $4.3 billion and Q3 guidance of $108 billion sent shares up 4%, a result that sets the tone for the entire AI trade."
     },
     {
-      "title": "Fully AI-generated music to be banned from ARIA charts",
-      "source": "ABC News (Australia)",
-      "url": "https://www.abc.net.au/news/2026-08-25/ai-generated-music-to-be-banned-from-aria-charts/107072642",
-      "topic": "AI",
-      "reason": "Australia's national chart body becomes an early mover in defining what counts as human-made music as generative AI reshapes the industry."
+      "title": "SpaceX plans to build the 'biggest launch site on Earth' for $100 billion in Louisiana",
+      "source": "Space.com",
+      "url": "https://www.space.com/space-exploration/private-spaceflight/spacex-announces-enormous-usd100-billion-starbase-louisiana-starship-launch-site",
+      "topic": "Tech",
+      "reason": "A 125,000-acre site enabling 30+ Starship flights a day would make Louisiana the busiest rocket launch hub on the planet, with construction starting in 2027."
+    },
+    {
+      "title": "Judge clears the way for Postal Service work on Trump's mail-in voting order for now",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/08/26/nx-s1-5945260/trump-mail-in-voting-ballots",
+      "topic": "Politics",
+      "reason": "A Boston federal judge canceled her own nationwide block on USPS following Supreme Court guidance, though the underlying legality of Trump's order is still unresolved."
+    },
+    {
+      "title": "Nasdaq futures rise on bullish Nvidia sales growth",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/08/26/stock-market-today-live-updates.html",
+      "topic": "Economy",
+      "reason": "Salesforce jumped 13% and Okta over 20% on strong earnings, with Nvidia's guidance easing fears the AI spending boom was losing momentum."
+    },
+    {
+      "title": "Underlying pace of inflation remained soft in July, giving Fed room for patience on hikes",
+      "source": "Breitbart",
+      "url": "https://www.breitbart.com/economy/2026/08/26/pce-price-index-august/",
+      "topic": "Economy",
+      "reason": "Core PCE held steady at 3.3% year-over-year, the Fed's preferred inflation gauge, reinforcing Powell's Jackson Hole signal that a rate cut is on the table."
     }
   ]
 }
