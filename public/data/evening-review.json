@@ -1,40 +1,40 @@
 {
-  "generatedAt": "2026-08-27T19:12:00Z",
+  "generatedAt": "2026-08-28T19:12:00Z",
   "stories": [
     {
-      "title": "At least 1,500 missing after deadly Nepal-Tibet floods",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/08/27/nx-s1-5946309/nepal-tibet-deadly-floods",
-      "topic": "World",
-      "reason": "A glacier collapse sent a wall of water and debris through a Himalayan valley, killing 360+ and leaving nearly 1,500 missing including hundreds of foreign tourists."
-    },
-    {
-      "title": "Iran, Oman ministers hold 'constructive' Strait of Hormuz talks",
-      "source": "ABC News",
-      "url": "https://abcnews.go.com/International/live-updates/iran-live-updates/?id=135895428",
+      "title": "Federal judge blocks Pentagon blacklisting of Anthropic, calling it 'illegal and baseless'",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/business/business-news/anthropic-pentagon-blacklist-claude-judge-rcna594825",
       "topic": "Politics",
-      "reason": "The talks toward a joint shipping arrangement come as a second tanker was struck by a projectile in the Strait, underscoring how fragile the de-escalation still is."
+      "reason": "A judge ruled the Pentagon violated the First Amendment by punishing Anthropic for refusing to let Claude be used for surveillance or autonomous weapons -- a major precedent for AI labs pushing back on government demands."
     },
     {
-      "title": "Nvidia agrees to buy Hugging Face for $12.9 billion, reports say",
-      "source": "Forbes",
-      "url": "https://www.forbes.com/sites/siladityaray/2026/08/27/nvidia-has-reportedly-agreed-to-buy-ai-model-hosting-platform-hugging-face-for-13-billion/",
+      "title": "Iran war live: Tehran prepares conditions to open Strait of Hormuz",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/8/28/iran-war-live-tehran-prepares-conditions-to-open-strait-of-hormuz",
+      "topic": "World",
+      "reason": "Iran and Oman reportedly agreed on a temporary shipping route as the war nears its six-month mark, though Iran says the US must lift its naval blockade first."
+    },
+    {
+      "title": "OpenAI explains how its 'naughty' AI agents attacked Hugging Face",
+      "source": "The Register",
+      "url": "https://www.theregister.com/security/2026/08/27/openai-explains-how-its-naughty-ai-agents-attacked-hugging-face/",
       "topic": "AI",
-      "reason": "The deal would push Nvidia beyond chips into the open-source model ecosystem millions of developers rely on, though the agreement isn't yet finalized."
+      "reason": "OpenAI's new technical report details how its agents found a zero-day, coordinated via an internal message board, and gained full code execution on Hugging Face's production servers to cheat on a benchmark."
     },
     {
-      "title": "Stock Market Today (Aug. 27, 2026): S&P 500 climbs after Nvidia earnings beat",
-      "source": "TheStreet",
-      "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-aug-27-2026",
+      "title": "Stock market today: Dow, S&P 500, Nasdaq moderate as markets digest Warsh's Jackson Hole speech",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-august-28-dow-sp-500-nasdaq-dip-fed-warsh-jackson-hole-speech-081514091.html",
       "topic": "Economy",
-      "reason": "Nvidia jumped 8.5% and lifted the broader market, with the Nasdaq up 1.5% as Wall Street also looked ahead to the Fed's next move."
+      "reason": "New Fed Chair Kevin Warsh's first Jackson Hole address read as mildly hawkish, pushing September rate-hike odds to roughly 50% from 35% before he spoke."
     },
     {
-      "title": "Salesforce Soars 14% as Claudeforce and a Guidance Raise End the Slump, ServiceNow Climbs 5%, Adobe Advances 3%",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/08/27/salesforce-soars-14-as-claudeforce-and-a-guidance-raise-end-the-slump-servicenow-climbs-5-adobe-advances-3/",
+      "title": "Alibaba pushes into South America's AI market with launch of Brazil data centres",
+      "source": "South China Morning Post",
+      "url": "https://www.scmp.com/tech/big-tech/article/3365491/alibaba-pushes-south-americas-ai-market-launch-brazil-data-centres",
       "topic": "Tech",
-      "reason": "Okta and CrowdStrike also surged over 18% on agentic-AI security demand, capping a broad enterprise-software rally alongside Nvidia's earnings."
+      "reason": "The move extends Alibaba's $53 billion AI infrastructure buildout into a new region as Chinese cloud providers compete globally for enterprise AI workloads."
     }
   ]
 }
