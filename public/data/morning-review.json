@@ -1,40 +1,40 @@
 {
-  "generatedAt": "2026-08-27T04:15:00Z",
+  "generatedAt": "2026-08-28T04:15:00Z",
   "stories": [
     {
-      "title": "Nvidia earnings takeaways: Huang forecasts 70% fiscal 2028 revenue growth, far above estimates",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/26/nvidia-nvda-earnings-report-q2-2027-live-updates.html",
+      "title": "Middle East War Escalates: Tanker Hit in Strait of Hormuz as Qatar Leads Diplomatic Push",
+      "source": "Gulf News",
+      "url": "https://gulfnews.com/world/middle-east-war-tanker-hit-in-hormuz-as-qatar-pushes-for-diplomacy-1.500653674",
+      "topic": "World",
+      "reason": "A fresh tanker strike came even as Qatar's PM visited Tehran to revive talks, and the UAE says 15 of its vessels have now been hit since the war began."
+    },
+    {
+      "title": "Broadcom seeks more than $60bn in debt to fund AI chips for Anthropic",
+      "source": "The Next Web",
+      "url": "https://thenextweb.com/news/broadcom-60bn-ai-chip-debt-anthropic",
       "topic": "AI",
-      "reason": "Revenue of $96.2 billion beat estimates by $4.3 billion and Q3 guidance of $108 billion sent shares up 4%, a result that sets the tone for the entire AI trade."
+      "reason": "The financing could reach $100 billion total, illustrating the scale of capital now required just to keep pace with AI compute demand."
     },
     {
-      "title": "SpaceX plans to build the 'biggest launch site on Earth' for $100 billion in Louisiana",
-      "source": "Space.com",
-      "url": "https://www.space.com/space-exploration/private-spaceflight/spacex-announces-enormous-usd100-billion-starbase-louisiana-starship-launch-site",
-      "topic": "Tech",
-      "reason": "A 125,000-acre site enabling 30+ Starship flights a day would make Louisiana the busiest rocket launch hub on the planet, with construction starting in 2027."
-    },
-    {
-      "title": "Judge clears the way for Postal Service work on Trump's mail-in voting order for now",
+      "title": "Official leading Trump's Gaza ceasefire effort criticizes Israel for its attacks",
       "source": "NPR",
-      "url": "https://www.npr.org/2026/08/26/nx-s1-5945260/trump-mail-in-voting-ballots",
+      "url": "https://www.npr.org/2026/08/27/g-s1-140400/israel-gaza-ceasefire",
       "topic": "Politics",
-      "reason": "A Boston federal judge canceled her own nationwide block on USPS following Supreme Court guidance, though the underlying legality of Trump's order is still unresolved."
+      "reason": "Public friction between Washington's own ceasefire envoy and Israel signals the fragile truce is under real strain even as Hamas has reportedly agreed to disarm."
     },
     {
-      "title": "Nasdaq futures rise on bullish Nvidia sales growth",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/26/stock-market-today-live-updates.html",
+      "title": "Will the Fed Hike Rates in September? A 25-Basis-Point Move Is Now Expected",
+      "source": "Chase",
+      "url": "https://www.chase.com/personal/investments/learning-and-insights/article/september-2026-rate-hike-now-expected-amid-energy-shocks",
       "topic": "Economy",
-      "reason": "Salesforce jumped 13% and Okta over 20% on strong earnings, with Nvidia's guidance easing fears the AI spending boom was losing momentum."
+      "reason": "Iran-linked energy shocks have flipped some forecasters from expecting a cut to expecting a hike, a sharp reversal from Powell's dovish Jackson Hole tone just days ago."
     },
     {
-      "title": "Underlying pace of inflation remained soft in July, giving Fed room for patience on hikes",
-      "source": "Breitbart",
-      "url": "https://www.breitbart.com/economy/2026/08/26/pce-price-index-august/",
-      "topic": "Economy",
-      "reason": "Core PCE held steady at 3.3% year-over-year, the Fed's preferred inflation gauge, reinforcing Powell's Jackson Hole signal that a rate cut is on the table."
+      "title": "Russian-speaking cybercriminals hacked 7 firms using SpaceX's Cursor AI",
+      "source": "Business Standard",
+      "url": "https://www.business-standard.com/world-news/russian-speaking-cybercriminals-hacked-7-firms-using-spacex-s-cursor-ai-126082700939_1.html",
+      "topic": "AI",
+      "reason": "The Aur0ra ransomware gang repeatedly tricked Cursor's AI agent into believing real intrusions were a security test, bypassing its safety guardrails."
     }
   ]
 }
