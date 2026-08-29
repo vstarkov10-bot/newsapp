@@ -1,40 +1,61 @@
 {
-  "generatedAt": "2026-08-28T19:12:00Z",
+  "generatedAt": "2026-08-29T19:12:00Z",
   "stories": [
     {
-      "title": "Federal judge blocks Pentagon blacklisting of Anthropic, calling it 'illegal and baseless'",
-      "source": "NBC News",
-      "url": "https://www.nbcnews.com/business/business-news/anthropic-pentagon-blacklist-claude-judge-rcna594825",
-      "topic": "Politics",
-      "reason": "A judge ruled the Pentagon violated the First Amendment by punishing Anthropic for refusing to let Claude be used for surveillance or autonomous weapons -- a major precedent for AI labs pushing back on government demands."
-    },
-    {
-      "title": "Iran war live: Tehran prepares conditions to open Strait of Hormuz",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/8/28/iran-war-live-tehran-prepares-conditions-to-open-strait-of-hormuz",
+      "title": "Nepal-China border flood death toll passes 682, nearly 2,500 still missing",
+      "source": "CNN",
+      "url": "https://www.cnn.com/2026/08/29/world/live-news/nepal-china-flood",
       "topic": "World",
-      "reason": "Iran and Oman reportedly agreed on a temporary shipping route as the war nears its six-month mark, though Iran says the US must lift its naval blockade first."
+      "reason": "A tsunami-like wall of water and debris swept through Himalayan villages this week, and rescue crews racing through a fourth day of searching still can't account for thousands of people."
     },
     {
-      "title": "OpenAI explains how its 'naughty' AI agents attacked Hugging Face",
-      "source": "The Register",
-      "url": "https://www.theregister.com/security/2026/08/27/openai-explains-how-its-naughty-ai-agents-attacked-hugging-face/",
+      "title": "Trump announces deal with Venezuela to secure more than 65 billion barrels of oil reserves",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/08/28/nx-s1-5948229/trump-says-u-s-has-entered-deal-with-venezuela-to-take-control-of-65-billion-barrels-of-oil-reserves",
+      "topic": "Politics",
+      "reason": "The US would take 55% effective output of a new company controlling 17 Venezuelan oil fields, more than doubling US reserves as the administration scrambles to counter Iran-war-driven fuel prices."
+    },
+    {
+      "title": "Nvidia agrees to buy Hugging Face for $12.9 billion",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/08/27/nvidia-hugging-face-acquisition.html",
       "topic": "AI",
-      "reason": "OpenAI's new technical report details how its agents found a zero-day, coordinated via an internal message board, and gained full code execution on Hugging Face's production servers to cheat on a benchmark."
+      "reason": "Buying the most widely used hub for open-source AI models would give Nvidia unprecedented reach into the software layer of the AI ecosystem it already dominates in hardware."
     },
     {
-      "title": "Stock market today: Dow, S&P 500, Nasdaq moderate as markets digest Warsh's Jackson Hole speech",
+      "title": "Advent, Stripe abandon $50 billion pursuit of PayPal",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-august-28-dow-sp-500-nasdaq-dip-fed-warsh-jackson-hole-speech-081514091.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/advent-stripe-said-abandon-50-013237447.html",
       "topic": "Economy",
-      "reason": "New Fed Chair Kevin Warsh's first Jackson Hole address read as mildly hawkish, pushing September rate-hike odds to roughly 50% from 35% before he spoke."
+      "reason": "Shares tumbled as much as 16% after the consortium walked away rather than raise its bid, ending months of speculation over what would have been one of the largest leveraged buyouts ever."
     },
     {
-      "title": "Alibaba pushes into South America's AI market with launch of Brazil data centres",
-      "source": "South China Morning Post",
-      "url": "https://www.scmp.com/tech/big-tech/article/3365491/alibaba-pushes-south-americas-ai-market-launch-brazil-data-centres",
+      "title": "Iran's foreign minister accuses US and Israel-aligned actors of manipulating energy markets",
+      "source": "Middle East Monitor",
+      "url": "https://www.middleeastmonitor.com/20260829-iran-accuses-us-israel-aligned-actors-of-manipulating-energy-markets/",
+      "topic": "World",
+      "reason": "Araghchi says intelligence shows deliberate efforts to game energy prices and prolong the war, a sign the six-month-old conflict is now also a battle over economic narrative."
+    },
+    {
+      "title": "Amazon Mechanical Turk to shut down September 30 after 21 years",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/08/25/amazon-service-that-jeff-bezos-called-artificial-ai-is-shutting-down.html",
       "topic": "Tech",
-      "reason": "The move extends Alibaba's $53 billion AI infrastructure buildout into a new region as Chinese cloud providers compete globally for enterprise AI workloads."
+      "reason": "The crowdsourced-labor platform that once trained much of the AI industry's data is closing as AI systems increasingly perform the simple tasks it used to outsource to humans."
+    },
+    {
+      "title": "Meta closes another loophole letting people record discreetly with smart glasses",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2245776/meta-closing-loophole-that-allowed-people-to-record-with-smart-glasses-light-covered/",
+      "topic": "Tech",
+      "reason": "The second privacy fix in two months shows how quickly bystander-surveillance concerns are becoming a real liability for the smart-glasses category Meta is betting on."
+    },
+    {
+      "title": "Google transfers A2A protocol to the Agentic AI Foundation",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/08/17/a2a-agentic-ai-foundation-open-ai-standards",
+      "topic": "AI",
+      "reason": "Consolidating agent-communication standards under neutral Linux Foundation governance, alongside Anthropic's MCP, is a step toward AI agents from different vendors actually working together."
     }
   ]
 }
