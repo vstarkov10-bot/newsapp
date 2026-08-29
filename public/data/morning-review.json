@@ -1,40 +1,40 @@
 {
-  "generatedAt": "2026-08-28T04:15:00Z",
+  "generatedAt": "2026-08-29T04:20:00Z",
   "stories": [
     {
-      "title": "Middle East War Escalates: Tanker Hit in Strait of Hormuz as Qatar Leads Diplomatic Push",
-      "source": "Gulf News",
-      "url": "https://gulfnews.com/world/middle-east-war-tanker-hit-in-hormuz-as-qatar-pushes-for-diplomacy-1.500653674",
+      "title": "Russian attack triggers explosions near Kyiv, 6 injured, 165 evacuated",
+      "source": "Kyiv Post",
+      "url": "https://www.kyivpost.com/post/83299",
       "topic": "World",
-      "reason": "A fresh tanker strike came even as Qatar's PM visited Tehran to revive talks, and the UAE says 15 of its vessels have now been hit since the war began."
+      "reason": "A strike on an enterprise in the Bucha district sparked a major fire and secondary explosions, with rescue crews forced to pause repeatedly during air raid alerts."
     },
     {
-      "title": "Broadcom seeks more than $60bn in debt to fund AI chips for Anthropic",
-      "source": "The Next Web",
-      "url": "https://thenextweb.com/news/broadcom-60bn-ai-chip-debt-anthropic",
-      "topic": "AI",
-      "reason": "The financing could reach $100 billion total, illustrating the scale of capital now required just to keep pace with AI compute demand."
-    },
-    {
-      "title": "Official leading Trump's Gaza ceasefire effort criticizes Israel for its attacks",
+      "title": "Norway's King Harald V dies at 89, his son becomes King Haakon VIII",
       "source": "NPR",
-      "url": "https://www.npr.org/2026/08/27/g-s1-140400/israel-gaza-ceasefire",
-      "topic": "Politics",
-      "reason": "Public friction between Washington's own ceasefire envoy and Israel signals the fragile truce is under real strain even as Hamas has reportedly agreed to disarm."
+      "url": "https://www.npr.org/2026/08/28/nx-s1-5947778/norways-king-harald-v-dies-king-haakon-viii",
+      "topic": "World",
+      "reason": "Europe's oldest monarch, who fled the Nazi invasion as a child and helped modernize Norway's monarchy over 35 years, has died, ending an era for the Norwegian royal house."
     },
     {
-      "title": "Will the Fed Hike Rates in September? A 25-Basis-Point Move Is Now Expected",
-      "source": "Chase",
-      "url": "https://www.chase.com/personal/investments/learning-and-insights/article/september-2026-rate-hike-now-expected-amid-energy-shocks",
+      "title": "BLS revises U.S. job growth down 79,000 in preliminary benchmark update",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/economy/articles/bls-revises-u-job-growth-172153070.html",
       "topic": "Economy",
-      "reason": "Iran-linked energy shocks have flipped some forecasters from expecting a cut to expecting a hike, a sharp reversal from Powell's dovish Jackson Hole tone just days ago."
+      "reason": "Downward revisions concentrated in retail, health services and finance mark the seventh time in eight years the benchmark update has pushed U.S. employment estimates lower, deepening concern about labor-market weakness."
     },
     {
-      "title": "Russian-speaking cybercriminals hacked 7 firms using SpaceX's Cursor AI",
-      "source": "Business Standard",
-      "url": "https://www.business-standard.com/world-news/russian-speaking-cybercriminals-hacked-7-firms-using-spacex-s-cursor-ai-126082700939_1.html",
+      "title": "Nvidia pauses AI cloud revenue-sharing deals amid antitrust concerns",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-pauses-ai-cloud-revenue-120700044.html",
       "topic": "AI",
-      "reason": "The Aur0ra ransomware gang repeatedly tricked Cursor's AI agent into believing real intrusions were a security test, bypassing its safety guardrails."
+      "reason": "Nvidia pulled back its AI Compute Partnership financing program just weeks after launch after employees flagged antitrust risk in how much control it sought over customers' businesses -- a sign of growing regulatory sensitivity around Nvidia's market power."
+    },
+    {
+      "title": "Six months since the war on Iran began, its costs are still climbing",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/8/28/iran-war-live-tehran-prepares-conditions-to-open-strait-of-hormuz",
+      "topic": "Politics",
+      "reason": "As the conflict approaches its half-year mark, higher US fuel prices and extended military deployments underscore how a war meant to be brief has become a lingering drag on both economies."
     }
   ]
 }
