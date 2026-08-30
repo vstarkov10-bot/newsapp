@@ -1,61 +1,61 @@
 {
-  "generatedAt": "2026-08-29T19:12:00Z",
+  "generatedAt": "2026-08-30T19:15:00Z",
   "stories": [
     {
-      "title": "Nepal-China border flood death toll passes 682, nearly 2,500 still missing",
+      "title": "Ferry carrying nearly 270 people capsizes off northern Cyprus, at least 7 dead",
       "source": "CNN",
-      "url": "https://www.cnn.com/2026/08/29/world/live-news/nepal-china-flood",
+      "url": "https://www.cnn.com/2026/08/30/europe/cyprus-boat-capsizes-turkey-intl",
       "topic": "World",
-      "reason": "A tsunami-like wall of water and debris swept through Himalayan villages this week, and rescue crews racing through a fourth day of searching still can't account for thousands of people."
+      "reason": "The Filo Jet capsized in rough weather en route from Kyrenia to Turkey; 237 were rescued but roughly two dozen remain missing, and police have detained the captain and seven others."
     },
     {
-      "title": "Trump announces deal with Venezuela to secure more than 65 billion barrels of oil reserves",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/08/28/nx-s1-5948229/trump-says-u-s-has-entered-deal-with-venezuela-to-take-control-of-65-billion-barrels-of-oil-reserves",
+      "title": "Iceland rejects reopening EU accession talks in close referendum",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/30/iceland-rejects-eu-membership-plan-in-referendum",
       "topic": "Politics",
-      "reason": "The US would take 55% effective output of a new company controlling 17 Venezuelan oil fields, more than doubling US reserves as the administration scrambles to counter Iran-war-driven fuel prices."
+      "reason": "A narrow 52.8%-47.2% 'No' vote, on 82.5% turnout, keeps Iceland out of EU membership talks for now, even as the government had argued renewed talks could help counter Arctic security and economic pressures."
     },
     {
-      "title": "Nvidia agrees to buy Hugging Face for $12.9 billion",
+      "title": "OpenAI to cut off Cursor's model access after SpaceX's $60 billion acquisition",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/27/nvidia-hugging-face-acquisition.html",
+      "url": "https://www.cnbc.com/2026/08/29/openai-cursor-spacex-model-access.html",
       "topic": "AI",
-      "reason": "Buying the most widely used hub for open-source AI models would give Nvidia unprecedented reach into the software layer of the AI ecosystem it already dominates in hardware."
+      "reason": "OpenAI says it can't trust Musk's companies to honor its terms of service, escalating the Altman-Musk feud and pushing Cursor toward Anthropic's Claude models instead."
     },
     {
-      "title": "Advent, Stripe abandon $50 billion pursuit of PayPal",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/advent-stripe-said-abandon-50-013237447.html",
+      "title": "September Fed rate decision now a 'coin flip' after Warsh's hawkish Jackson Hole signals",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/08/28/-september-fed-decision-now-a-coin-flip-as-rate-hike-odds-increase.html",
       "topic": "Economy",
-      "reason": "Shares tumbled as much as 16% after the consortium walked away rather than raise its bid, ending months of speculation over what would have been one of the largest leveraged buyouts ever."
+      "reason": "Odds of a September hike have surged since Warsh's speech, with 2-year Treasury yields hitting their highest since late July as Iran-linked oil price shocks complicate the inflation fight."
     },
     {
-      "title": "Iran's foreign minister accuses US and Israel-aligned actors of manipulating energy markets",
-      "source": "Middle East Monitor",
-      "url": "https://www.middleeastmonitor.com/20260829-iran-accuses-us-israel-aligned-actors-of-manipulating-energy-markets/",
-      "topic": "World",
-      "reason": "Araghchi says intelligence shows deliberate efforts to game energy prices and prolong the war, a sign the six-month-old conflict is now also a battle over economic narrative."
-    },
-    {
-      "title": "Amazon Mechanical Turk to shut down September 30 after 21 years",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/25/amazon-service-that-jeff-bezos-called-artificial-ai-is-shutting-down.html",
-      "topic": "Tech",
-      "reason": "The crowdsourced-labor platform that once trained much of the AI industry's data is closing as AI systems increasingly perform the simple tasks it used to outsource to humans."
-    },
-    {
-      "title": "Meta closes another loophole letting people record discreetly with smart glasses",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2245776/meta-closing-loophole-that-allowed-people-to-record-with-smart-glasses-light-covered/",
-      "topic": "Tech",
-      "reason": "The second privacy fix in two months shows how quickly bystander-surveillance concerns are becoming a real liability for the smart-glasses category Meta is betting on."
-    },
-    {
-      "title": "Google transfers A2A protocol to the Agentic AI Foundation",
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/08/17/a2a-agentic-ai-foundation-open-ai-standards",
+      "title": "Nvidia in talks to invest in Perplexity at over $30 billion valuation",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-discusses-perplexity-investment-30-031804276.html",
       "topic": "AI",
-      "reason": "Consolidating agent-communication standards under neutral Linux Foundation governance, alongside Anthropic's MCP, is a step toward AI agents from different vendors actually working together."
+      "reason": "The deal would value Perplexity 50% higher than a year ago as its annualized revenue triples to $750 million, deepening Nvidia's circular pattern of funding the AI startups that buy its chips."
+    },
+    {
+      "title": "SoftBank plans record $6.3 billion retail bond to help fund its OpenAI stake",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/ai/articles/softbank-lines-another-6-3-215224110.html",
+      "topic": "Tech",
+      "reason": "The biggest retail bond ever issued by a Japanese company shows how much debt SoftBank is taking on to keep funding its roughly $30 billion in additional OpenAI commitments."
+    },
+    {
+      "title": "Pew: 34% of US adults now use AI chatbots for health information",
+      "source": "Pew Research Center",
+      "url": "https://www.pewresearch.org/science/2026/08/25/from-diagnoses-to-treatments-why-americans-use-ai-chatbots-for-health/",
+      "topic": "AI",
+      "reason": "Chatbots have quietly become a mainstream health resource for a third of Americans, even though fewer than a third say they're comfortable sharing personal health data with them."
+    },
+    {
+      "title": "Andreessen Horowitz raises $1.1 billion 'Machine Age' fund for AI hardware",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/28/a16z-creates-a-1-1b-machine-age-fund-to-accelerate-the-physical-buildout-of-ai/",
+      "topic": "Tech",
+      "reason": "The fund targets chips, power, cooling and robotics as AI data-center racks race toward a projected 1 megawatt of draw within three years, a sign the industry's bottleneck is shifting from models to physical infrastructure."
     }
   ]
 }
