@@ -1,40 +1,61 @@
 {
-  "generatedAt": "2026-08-29T04:20:00Z",
+  "generatedAt": "2026-08-30T04:20:00Z",
   "stories": [
     {
-      "title": "Russian attack triggers explosions near Kyiv, 6 injured, 165 evacuated",
-      "source": "Kyiv Post",
-      "url": "https://www.kyivpost.com/post/83299",
+      "title": "Nepal flood death toll climbs to 675 as nearly 2,400 remain missing",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/world/asia/nepal-floods-death-toll-climbs-missing-rescue-efforts-rcna594990",
       "topic": "World",
-      "reason": "A strike on an enterprise in the Bucha district sparked a major fire and secondary explosions, with rescue crews forced to pause repeatedly during air raid alerts."
+      "reason": "A glacier collapse near Langtang Lirung unleashed the flood five days ago, and rescuers are still struggling to reach devastated Himalayan valleys as the toll keeps rising, including around 90 missing Americans."
     },
     {
-      "title": "Norway's King Harald V dies at 89, his son becomes King Haakon VIII",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/08/28/nx-s1-5947778/norways-king-harald-v-dies-king-haakon-viii",
-      "topic": "World",
-      "reason": "Europe's oldest monarch, who fled the Nazi invasion as a child and helped modernize Norway's monarchy over 35 years, has died, ending an era for the Norwegian royal house."
-    },
-    {
-      "title": "BLS revises U.S. job growth down 79,000 in preliminary benchmark update",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/economy/articles/bls-revises-u-job-growth-172153070.html",
-      "topic": "Economy",
-      "reason": "Downward revisions concentrated in retail, health services and finance mark the seventh time in eight years the benchmark update has pushed U.S. employment estimates lower, deepening concern about labor-market weakness."
-    },
-    {
-      "title": "Nvidia pauses AI cloud revenue-sharing deals amid antitrust concerns",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-pauses-ai-cloud-revenue-120700044.html",
-      "topic": "AI",
-      "reason": "Nvidia pulled back its AI Compute Partnership financing program just weeks after launch after employees flagged antitrust risk in how much control it sought over customers' businesses -- a sign of growing regulatory sensitivity around Nvidia's market power."
-    },
-    {
-      "title": "Six months since the war on Iran began, its costs are still climbing",
+      "title": "Israel-Hamas truce failure would be a 'point of no return,' US envoy warns",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/8/28/iran-war-live-tehran-prepares-conditions-to-open-strait-of-hormuz",
+      "url": "https://www.aljazeera.com/news/2026/8/26/israel-hamas-truce-failure-point-of-no-return-envoy-warns",
       "topic": "Politics",
-      "reason": "As the conflict approaches its half-year mark, higher US fuel prices and extended military deployments underscore how a war meant to be brief has become a lingering drag on both economies."
+      "reason": "The official leading Trump's Gaza peace effort is publicly warning the fragile ceasefire could collapse for good, even as Israeli strikes continue to kill Palestinians in the enclave almost daily."
+    },
+    {
+      "title": "Meta reaches $16.68 billion settlement in teen social media safety case",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/article/meta-reaches-1668-billion-settlement-in-social-media-case-134220470.html",
+      "topic": "Tech",
+      "reason": "Ending a trial brought by 29 states over allegations Facebook and Instagram were engineered to be addictive to kids, Meta must now add daily time caps and overnight limits for teen accounts nationwide."
+    },
+    {
+      "title": "SpaceX announces $100 billion Starbase Louisiana spaceport",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/25/spacex-will-build-a-second-100b-starbase-spaceport-in-louisiana/",
+      "topic": "Tech",
+      "reason": "The largest capital investment in Louisiana's history would give SpaceX a second Starship campus with five launch complexes, underscoring how fast the company is scaling beyond Texas."
+    },
+    {
+      "title": "US inflation rises in August as firms pass tariff costs on to consumers",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/news/us-inflation-rises-august-companies-124259084.html",
+      "topic": "Economy",
+      "reason": "Core inflation is stuck at 3.3%, well above the Fed's target, as tariff-hit categories like apparel keep getting more expensive -- complicating Chair Warsh's path to rate cuts."
+    },
+    {
+      "title": "2026 tech layoffs hit 127,180 across 281 companies, already topping all of 2025",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/articles/tech-layoffs-august-2026-apple-122400800.html",
+      "topic": "Economy",
+      "reason": "Cuts at Apple, TikTok, LinkedIn and Netflix push this year's tech job losses past last year's total, a sign AI-driven restructuring is accelerating rather than slowing down."
+    },
+    {
+      "title": "OpenAI says unreleased model Astra solved 10 open problems in mathematics",
+      "source": "The Next Web",
+      "url": "https://thenextweb.com/news/openai-astra-model-ten-math-proofs-non-sofic-groups",
+      "topic": "AI",
+      "reason": "Astra reportedly produced the first-ever proof that non-sofic groups exist, a question open for 27 years, plus a sphere-packing bound unimproved since 1978 -- for under $2,000 in compute, with every step machine-verified."
+    },
+    {
+      "title": "OpenAI retires the original DALL-E tool from ChatGPT",
+      "source": "Tom's Guide",
+      "url": "https://www.tomsguide.com/ai/chatgpt/you-have-until-august-30-to-save-your-chatgpt-dall-e-images-heres-how-to-avoid-losing-them-forever",
+      "topic": "AI",
+      "reason": "One of the earliest mainstream generative-AI tools disappears today as OpenAI consolidates image generation into ChatGPT Images, marking the end of a product that helped kick off the AI image boom."
     }
   ]
 }
