@@ -1,61 +1,61 @@
 {
-  "generatedAt": "2026-08-30T19:15:00Z",
+  "generatedAt": "2026-08-31T19:20:00Z",
   "stories": [
     {
-      "title": "Ferry carrying nearly 270 people capsizes off northern Cyprus, at least 7 dead",
-      "source": "CNN",
-      "url": "https://www.cnn.com/2026/08/30/europe/cyprus-boat-capsizes-turkey-intl",
+      "title": "Iran fires missiles at US bases in Jordan after American strikes near Hormuz",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/08/31/g-s1-141175/attacks-flare-us-iran",
       "topic": "World",
-      "reason": "The Filo Jet capsized in rough weather en route from Kyrenia to Turkey; 237 were rescued but roughly two dozen remain missing, and police have detained the captain and seven others."
+      "reason": "Iran's Revolutionary Guard says it launched missiles and drones at two bases housing US forces and shot down a US drone, the sharpest exchange yet after a month-long lull in the six-month war."
     },
     {
-      "title": "Iceland rejects reopening EU accession talks in close referendum",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/30/iceland-rejects-eu-membership-plan-in-referendum",
-      "topic": "Politics",
-      "reason": "A narrow 52.8%-47.2% 'No' vote, on 82.5% turnout, keeps Iceland out of EU membership talks for now, even as the government had argued renewed talks could help counter Arctic security and economic pressures."
-    },
-    {
-      "title": "OpenAI to cut off Cursor's model access after SpaceX's $60 billion acquisition",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/29/openai-cursor-spacex-model-access.html",
-      "topic": "AI",
-      "reason": "OpenAI says it can't trust Musk's companies to honor its terms of service, escalating the Altman-Musk feud and pushing Cursor toward Anthropic's Claude models instead."
-    },
-    {
-      "title": "September Fed rate decision now a 'coin flip' after Warsh's hawkish Jackson Hole signals",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/28/-september-fed-decision-now-a-coin-flip-as-rate-hike-odds-increase.html",
+      "title": "Oil tops $90 a barrel and stocks slide as US-Iran fighting flares again",
+      "source": "The Washington Times",
+      "url": "https://www.washingtontimes.com/news/2026/aug/31/oil-prices-shoot-stocks-trend-downward-middle-east-flare-ripples/",
       "topic": "Economy",
-      "reason": "Odds of a September hike have surged since Warsh's speech, with 2-year Treasury yields hitting their highest since late July as Iran-linked oil price shocks complicate the inflation fight."
+      "reason": "Crude jumped more than 3% and the S&P 500 fell as traders priced in fresh inflation risk from the conflict, complicating the Fed's already-uncertain path on September rates."
     },
     {
-      "title": "Nvidia in talks to invest in Perplexity at over $30 billion valuation",
+      "title": "California lawmakers race to pass two dozen AI bills before adjourning for the year",
+      "source": "Pluribus News",
+      "url": "https://pluribusnews.com/news-and-events/the-ai-bills-to-watch-before-california-legislators-adjourn/",
+      "topic": "Politics",
+      "reason": "Bills covering chatbot safety, kids' use of AI companions, and frontier-model oversight face a hard deadline tonight, after which Governor Newsom gets 30 days to sign or veto each one."
+    },
+    {
+      "title": "Rescuers race to reach roughly 900 workers trapped in Nepal's flooded hydropower tunnels",
+      "source": "CNN",
+      "url": "https://edition.cnn.com/2026/08/31/asia/nepal-missing-hydropower-tunnels-flood-explainer-intl-hnk",
+      "topic": "World",
+      "reason": "Nine tunnels across two districts were buried in mud when last week's glacier-collapse flood hit, and industry officials say Nepal lacks the equipment to reach many of the missing on its own."
+    },
+    {
+      "title": "China's DeepSeek nears $7.4 billion funding round at a $74 billion valuation ahead of 2027 IPO",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-discusses-perplexity-investment-30-031804276.html",
+      "url": "https://finance.yahoo.com/technology/ai/articles/deepseek-raises-7-4-billion-204747028.html",
       "topic": "AI",
-      "reason": "The deal would value Perplexity 50% higher than a year ago as its annualized revenue triples to $750 million, deepening Nvidia's circular pattern of funding the AI startups that buy its chips."
+      "reason": "The round, roughly doubling DeepSeek's valuation from June, funds a compute buildout as the low-cost model maker prepares for a Shanghai listing and intensifies price competition with US labs."
     },
     {
-      "title": "SoftBank plans record $6.3 billion retail bond to help fund its OpenAI stake",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/ai/articles/softbank-lines-another-6-3-215224110.html",
-      "topic": "Tech",
-      "reason": "The biggest retail bond ever issued by a Japanese company shows how much debt SoftBank is taking on to keep funding its roughly $30 billion in additional OpenAI commitments."
-    },
-    {
-      "title": "Pew: 34% of US adults now use AI chatbots for health information",
-      "source": "Pew Research Center",
-      "url": "https://www.pewresearch.org/science/2026/08/25/from-diagnoses-to-treatments-why-americans-use-ai-chatbots-for-health/",
+      "title": "AI chatbots beat search engines at debunking foreign propaganda, NPR/NewsGuard test finds",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/08/30/nx-s1-5876436/chatbots-search-propaganda",
       "topic": "AI",
-      "reason": "Chatbots have quietly become a mainstream health resource for a third of Americans, even though fewer than a third say they're comfortable sharing personal health data with them."
+      "reason": "Tested against 30 false narratives pushed by China, Iran and Russia, chatbots debunked them more reliably than AI summaries on top of search results -- a notable data point as governments worry about AI-amplified disinformation."
     },
     {
-      "title": "Andreessen Horowitz raises $1.1 billion 'Machine Age' fund for AI hardware",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/28/a16z-creates-a-1-1b-machine-age-fund-to-accelerate-the-physical-buildout-of-ai/",
+      "title": "Nvidia forecasts 70% sales growth next year, far outpacing analyst estimates",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/08/26/nvidias-70percent-sales-growth-projection-for-2028-wows-analysts-on-earnings-call.html",
       "topic": "Tech",
-      "reason": "The fund targets chips, power, cooling and robotics as AI data-center racks race toward a projected 1 megawatt of draw within three years, a sign the industry's bottleneck is shifting from models to physical infrastructure."
+      "reason": "The forecast, roughly $200 billion above the prior outlook, triggered Nvidia's biggest one-day rally since April 2025 even as the company warns memory shortages are capping how fast it can grow."
+    },
+    {
+      "title": "Nepal criticized for hesitating to accept foreign rescue help after deadly floods",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/08/31/nx-s1-5949971/nepals-hesitance-help-flood",
+      "topic": "World",
+      "reason": "Delays in accepting outside specialists may have cost crucial time for hundreds still trapped, raising questions about disaster-response coordination as the death toll continues to climb."
     }
   ]
 }
