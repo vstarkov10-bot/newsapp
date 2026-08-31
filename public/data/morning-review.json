@@ -1,61 +1,61 @@
 {
-  "generatedAt": "2026-08-30T04:20:00Z",
+  "generatedAt": "2026-08-31T04:20:00Z",
   "stories": [
     {
-      "title": "Nepal flood death toll climbs to 675 as nearly 2,400 remain missing",
+      "title": "US strikes Iranian rocket launchers on the Strait of Hormuz in first military action in weeks",
       "source": "NBC News",
-      "url": "https://www.nbcnews.com/world/asia/nepal-floods-death-toll-climbs-missing-rescue-efforts-rcna594990",
+      "url": "https://www.nbcnews.com/politics/national-security/us-forces-strike-iranian-rocket-launchers-strait-hormuz-first-military-rcna595194",
       "topic": "World",
-      "reason": "A glacier collapse near Langtang Lirung unleashed the flood five days ago, and rescuers are still struggling to reach devastated Himalayan valleys as the toll keeps rising, including around 90 missing Americans."
+      "reason": "US Central Command says it hit Iranian forces on Larak Island preparing to launch sea mines into the strait, breaking a month-long lull in the six-month war and prompting Iran to vow retaliation."
     },
     {
-      "title": "Israel-Hamas truce failure would be a 'point of no return,' US envoy warns",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/26/israel-hamas-truce-failure-point-of-no-return-envoy-warns",
+      "title": "Oil jumps, stock futures fall after US strike on Iran reignites Middle East tensions",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/08/30/stock-market-today-live-updates.html",
+      "topic": "Economy",
+      "reason": "Crude gained 2% and Dow futures slipped as traders priced in renewed escalation risk, compounding pressure from Fed Chair Warsh's hawkish rate-hike signals from last week."
+    },
+    {
+      "title": "Supreme Court backs Trump's order to curb mail-in voting ahead of the midterms",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/politics/supreme-court/supreme-court-hands-preliminary-win-trump-mail-ballots-executive-order-rcna590120",
       "topic": "Politics",
-      "reason": "The official leading Trump's Gaza peace effort is publicly warning the fragile ceasefire could collapse for good, even as Israeli strikes continue to kill Palestinians in the enclave almost daily."
+      "reason": "The court let DHS begin compiling state voter-eligibility lists for now, a preliminary win for Trump that could reshape mail-ballot rules in Democratic-led states before November."
     },
     {
-      "title": "Meta reaches $16.68 billion settlement in teen social media safety case",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/article/meta-reaches-1668-billion-settlement-in-social-media-case-134220470.html",
+      "title": "Canada's retaliatory tariffs on $20 billion of US goods take effect September 8",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/23/canada-to-hit-us-with-retaliatory-tariffs-as-trade-war-escalates",
+      "topic": "Economy",
+      "reason": "Carney says Canada will match US tariffs dollar-for-dollar after trade talks collapsed, escalating a fight that's already raising costs on steel, dairy, appliances and electronics."
+    },
+    {
+      "title": "DARPA and the Air Force fly an AI-controlled F-16 fighter jet",
+      "source": "DARPA",
+      "url": "https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16",
+      "topic": "AI",
+      "reason": "An AI agent flew a modified operational-fleet F-16 under the VENOM program, showing ordinary combat aircraft -- not just experimental jets -- can be converted to autonomous control."
+    },
+    {
+      "title": "Google DeepMind's Demis Hassabis steps down as CEO to become chairman",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/08/06/googles-ai-leadership-shuffle",
+      "topic": "AI",
+      "reason": "Facing delayed models and departures, Google is putting Koray Kavukcuoglu in charge of daily operations while Hassabis shifts to long-term AI safety and governance work at Alphabet."
+    },
+    {
+      "title": "Apple confirms September 9 event unveiling its first foldable iPhone",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/08/26/apple-officially-announces-iphone-18-pro-foldable-event/",
       "topic": "Tech",
-      "reason": "Ending a trial brought by 29 states over allegations Facebook and Instagram were engineered to be addictive to kids, Meta must now add daily time caps and overnight limits for teen accounts nationwide."
+      "reason": "The book-style 'iPhone Ultra,' expected to start near $2,000, would be Apple's biggest hardware category bet in years as foldable phones go mainstream."
     },
     {
-      "title": "SpaceX announces $100 billion Starbase Louisiana spaceport",
+      "title": "Google rolls out 'Preferred Sources' button to help publishers hit by AI search traffic declines",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/25/spacex-will-build-a-second-100b-starbase-spaceport-in-louisiana/",
+      "url": "https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses/",
       "topic": "Tech",
-      "reason": "The largest capital investment in Louisiana's history would give SpaceX a second Starship campus with five launch complexes, underscoring how fast the company is scaling beyond Texas."
-    },
-    {
-      "title": "US inflation rises in August as firms pass tariff costs on to consumers",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/news/us-inflation-rises-august-companies-124259084.html",
-      "topic": "Economy",
-      "reason": "Core inflation is stuck at 3.3%, well above the Fed's target, as tariff-hit categories like apparel keep getting more expensive -- complicating Chair Warsh's path to rate cuts."
-    },
-    {
-      "title": "2026 tech layoffs hit 127,180 across 281 companies, already topping all of 2025",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/articles/tech-layoffs-august-2026-apple-122400800.html",
-      "topic": "Economy",
-      "reason": "Cuts at Apple, TikTok, LinkedIn and Netflix push this year's tech job losses past last year's total, a sign AI-driven restructuring is accelerating rather than slowing down."
-    },
-    {
-      "title": "OpenAI says unreleased model Astra solved 10 open problems in mathematics",
-      "source": "The Next Web",
-      "url": "https://thenextweb.com/news/openai-astra-model-ten-math-proofs-non-sofic-groups",
-      "topic": "AI",
-      "reason": "Astra reportedly produced the first-ever proof that non-sofic groups exist, a question open for 27 years, plus a sphere-packing bound unimproved since 1978 -- for under $2,000 in compute, with every step machine-verified."
-    },
-    {
-      "title": "OpenAI retires the original DALL-E tool from ChatGPT",
-      "source": "Tom's Guide",
-      "url": "https://www.tomsguide.com/ai/chatgpt/you-have-until-august-30-to-save-your-chatgpt-dall-e-images-heres-how-to-avoid-losing-them-forever",
-      "topic": "AI",
-      "reason": "One of the earliest mainstream generative-AI tools disappears today as OpenAI consolidates image generation into ChatGPT Images, marking the end of a product that helped kick off the AI image boom."
+      "reason": "With Google search traffic to publishers down roughly a third since AI Overviews rolled out, this embeddable button is Google's answer to mounting antitrust pressure and a wave of publisher revolt."
     }
   ]
 }
