@@ -6,6 +6,7 @@ const { detectTopics } = require("./topics");
 const REFRESH_INTERVAL_MS = 10 * 60 * 1000; // 10 minutes
 const FETCH_TIMEOUT_MS = 10 * 1000;
 const MAX_ARTICLES_PER_FEED = 30;
+const MAX_ARTICLE_AGE_MS = 14 * 24 * 60 * 60 * 1000; // 14 days
 
 const parser = new Parser({
   timeout: FETCH_TIMEOUT_MS,
@@ -100,9 +101,19 @@ async function doRefresh() {
     }
   }
 
-  const deduped = Array.from(byId.values()).sort((a, b) => {
-    const da = a.publishedAt ? new Date(a.publishedAt).getTime() : 0;
-    const db = b.publishedAt ? new Date(b.publishedAt).getTime() : 0;
+  // Drop stale/undated items: RSS feeds occasionally resurface old evergreen
+  // or "most read" content with no reliable pubDate, which would otherwise
+  // sit in the feed indefinitely since nothing else filters by recency.
+  const now = Date.now();
+  const fresh = Array.from(byId.values()).filter((a) => {
+    if (!a.publishedAt) return false;
+    const t = new Date(a.publishedAt).getTime();
+    return Number.isFinite(t) && now - t <= MAX_ARTICLE_AGE_MS;
+  });
+
+  const deduped = fresh.sort((a, b) => {
+    const da = new Date(a.publishedAt).getTime();
+    const db = new Date(b.publishedAt).getTime();
     return db - da;
   });
 
