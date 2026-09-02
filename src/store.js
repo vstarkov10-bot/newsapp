@@ -2,6 +2,7 @@ const Parser = require("rss-parser");
 const crypto = require("crypto");
 const { FEEDS } = require("./feeds");
 const { detectTopics } = require("./topics");
+const { isLikelyEnglish } = require("./lang");
 
 const REFRESH_INTERVAL_MS = 10 * 60 * 1000; // 10 minutes
 const FETCH_TIMEOUT_MS = 10 * 1000;
@@ -111,7 +112,12 @@ async function doRefresh() {
     return Number.isFinite(t) && now - t <= MAX_ARTICLE_AGE_MS;
   });
 
-  const deduped = fresh.sort((a, b) => {
+  // Drop non-English items: publisher feeds occasionally mix in syndicated
+  // foreign-language content (e.g. a Spanish-language explainer), and this
+  // app only wants English headlines.
+  const english = fresh.filter((a) => isLikelyEnglish(`${a.title} ${a.summary}`));
+
+  const deduped = english.sort((a, b) => {
     const da = new Date(a.publishedAt).getTime();
     const db = new Date(b.publishedAt).getTime();
     return db - da;

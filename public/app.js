@@ -187,7 +187,9 @@ function buildCard(a) {
 
   const source = document.createElement("div");
   source.className = "card-source";
-  source.textContent = a.feedName;
+  source.textContent = a.feedName && a.feedName !== a.source
+    ? `${a.source} · ${a.feedName}`
+    : a.source;
 
   const h2 = document.createElement("h2");
   const link = document.createElement("a");
