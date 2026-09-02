@@ -1,61 +1,61 @@
 {
-  "generatedAt": "2026-09-01T04:25:00Z",
+  "generatedAt": "2026-09-02T04:25:00Z",
   "stories": [
     {
-      "title": "Trump threatens to blow up Iran's Kharg Island oil hub 'to smithereens'",
+      "title": "Iran war live: US bombs Iran, Tehran retaliates on Gulf neighbours",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/9/2/iran-war-live-us-bombs-iran-tehran-retaliates-on-gulf-neighbours-jordan",
+      "topic": "World",
+      "reason": "Iran's Revolutionary Guard says it hit Prince Hassan airbase and a US Marine base in Jordan, and Supreme Leader Khamenei has issued his first statement since fighting resumed, warning of 'unforgettable lessons' for Washington."
+    },
+    {
+      "title": "Oil tops $92 a barrel as global bond yields hit their highest since 2008",
       "source": "Fortune",
-      "url": "https://fortune.com/2026/08/31/trump-blow-kharg-island-smithereens-us-iran-strikes-gulf-oil/",
-      "topic": "World",
-      "reason": "After Iran retaliated for the US strike near Hormuz by hitting American bases in Jordan, Trump is now threatening the terminal that ships roughly 90% of Iran's oil exports, a major escalation risk."
-    },
-    {
-      "title": "Tim Cook steps down as Apple CEO, hands reins to John Ternus",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/08/31/tim-cook-last-day-john-ternus-apple-ceo/",
-      "topic": "Tech",
-      "reason": "It's Apple's first CEO transition in 15 years; Cook becomes executive chairman while hardware chief Ternus takes over a company facing intensifying AI competition."
-    },
-    {
-      "title": "Oil climbs above $86 a barrel as Trump's Kharg Island threat raises supply-disruption fears",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/31/us-trump-hormuz-iran-kharg-larak-oil-analysts-sanctions-.html",
+      "url": "https://fortune.com/2026/09/01/oil-prices-bond-yields-inflation-fe/",
       "topic": "Economy",
-      "reason": "Analysts say striking Iran's main export hub would be a sharp escalation beyond the tit-for-tat exchanges so far, and markets are already pricing in the risk to global crude supply."
+      "reason": "The 10-year Treasury yield hit its highest level since January 2025 and a gauge of global government debt reached an 18-year high, as Iran-war-driven oil prices revive inflation fears worldwide."
     },
     {
-      "title": "House returns from recess to pass funding bill weeks ahead of shutdown deadline",
+      "title": "FTC and 22 states sue Amazon over alleged $20 billion ad auction price-rigging scheme",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/business/business-news/amazon-sued-ftc-22-us-states-advertising-practices-rcna595411",
+      "topic": "Tech",
+      "reason": "Regulators allege Amazon secretly inserted a phantom 'soft reserve' bid to drive up ad auction prices for 1.2 million advertisers since 2019, with costs ultimately passed on to shoppers."
+    },
+    {
+      "title": "Anthropic signs $35 billion cloud deal with Nvidia-backed Lambda for a Texas data center",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-signs-35-billion-lambda-144113886.html",
+      "topic": "AI",
+      "reason": "The deal secures roughly 350 megawatts of Nvidia compute at a Hut 8-developed site to keep pace with surging demand for Claude, after Anthropic ran into a supply crunch earlier this year."
+    },
+    {
+      "title": "EU designates ChatGPT a 'Very Large Online Search Engine,' triggering strict oversight",
+      "source": "Gizmodo",
+      "url": "https://gizmodo.com/the-eu-has-officially-decided-chatgpt-is-a-search-engine-2000805030",
+      "topic": "AI",
+      "reason": "It's the first time an AI chatbot has been classified this way under the EU's Digital Services Act, forcing OpenAI into systemic risk assessments, audits and regulator data-sharing by late November."
+    },
+    {
+      "title": "Ed Markey defeats Seth Moulton in Massachusetts' Democratic Senate primary",
       "source": "NPR",
-      "url": "https://www.npr.org/2026/08/31/nx-s1-5945760/funding-bill-at-the-top-of-the-agenda-as-house-returns-from-recess",
+      "url": "https://www.npr.org/2026/09/01/nx-s1-5953111/ed-markey-wins-massachusetts-democratic-primary-us-senate-seth-moulton",
       "topic": "Politics",
-      "reason": "A bipartisan stopgap already passed by the Senate would extend government funding through December 11, and lawmakers are moving early to avoid a shutdown ahead of the November midterms."
+      "reason": "The 80-year-old incumbent's decisive win over a generational-change challenger is an early test of how Democrats will navigate age and leadership questions heading into the midterms."
     },
     {
-      "title": "Anthropic signs out Claude users and wipes payment cards after infostealer malware hijacked login sessions",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-warns-infostealer-malware-is-hijacking-claude-sessions-to-drain-usage/",
-      "topic": "AI",
-      "reason": "Malware families including Vidar and RedLine stole session cookies to bypass passwords and 2FA entirely, draining usage limits -- a reminder that AI accounts are now a real target for infostealers."
+      "title": "China's factory activity expands at fastest pace in years as exports pick up",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/economy/articles/chinas-august-factory-activity-picks-015156951.html",
+      "topic": "Economy",
+      "reason": "The RatingDog manufacturing PMI hit a two-month high of 51.5 with the longest new-order growth streak since 2018, a sign Chinese industry is holding up despite ongoing trade tensions."
     },
     {
-      "title": "Anthropic previews a hardware standard letting AI agents operate lab robots and microscopes",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/27/anthropic-pushes-into-physical-world-with-new-standard-to-help-ai-agents-operate-machines.html",
-      "topic": "AI",
-      "reason": "The Model Hardware Standard would let any AI agent control lab and manufacturing equipment through one shared interface instead of fragmented vendor-specific systems, a step toward AI operating the physical world, not just software."
-    },
-    {
-      "title": "Rescuers still searching for hundreds trapped in Nepal's flooded hydropower tunnels",
-      "source": "CNN",
-      "url": "https://edition.cnn.com/2026/08/31/asia/nepal-missing-hydropower-tunnels-flood-explainer-intl-hnk",
+      "title": "Nepal's flash floods destroyed dozens of schools, threatening education for thousands of children",
+      "source": "ABC News",
+      "url": "https://abcnews.com/International/wireStory/saved-lunch-break-nepal-floods-destroyed-schools-students-136071256",
       "topic": "World",
-      "reason": "More than a week after the glacier-collapse flood, roughly 900 workers remain unaccounted for across nine buried tunnels, and officials say Nepal still lacks the equipment to reach many of them."
-    },
-    {
-      "title": "AI-investor-backed group launches multimillion-dollar ad campaign defending data centers",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/31/a-group-funded-by-andreessen-horowitz-and-brockman-plan-data-center-ads-to-sway-midterms/",
-      "topic": "Politics",
-      "reason": "Build American AI, backed by Andreessen Horowitz and OpenAI's Greg Brockman with roughly $50 million on hand, is trying to shift public opinion in battleground states as data centers become a flashpoint ahead of the midterms."
+      "reason": "With 18 schools destroyed and 20 more damaged on top of 32 washed-out bridges, the disaster's toll is extending well beyond the death count into long-term recovery for tens of thousands of children."
     }
   ]
 }
