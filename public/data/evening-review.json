@@ -1,61 +1,61 @@
 {
-  "generatedAt": "2026-09-01T19:20:00Z",
+  "generatedAt": "2026-09-02T19:20:00Z",
   "stories": [
     {
-      "title": "Trump warns Iran will be 'totally wiped out' as US strikes IRGC and port targets",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/live-updates/iran-war-us-strikes-strait-of-hormuz-larak-island/",
-      "topic": "World",
-      "reason": "Fresh US strikes hit Iranian targets near Asaluyeh and Lavan Island and explosions were reported in Dubai as residents sheltered, marking the sharpest escalation yet in the six-month war."
-    },
-    {
-      "title": "Death toll from Nepal-China floods surpasses 1,000 as nearly 4,000 remain missing",
+      "title": "Iran says US strike killed five at a wedding as CENTCOM investigates",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/1/death-toll-from-devastating-floods-in-china-and-nepal-surpasses-1000",
+      "url": "https://www.aljazeera.com/news/2026/9/2/what-do-we-know-about-the-fatal-us-bombing-of-a-wedding-in-irans-sirik",
       "topic": "World",
-      "reason": "Rescue teams have pulled nearly 12,000 survivors since last Wednesday, but the UN warns the toll will likely keep climbing as crews reach communities still cut off a week after the flood."
+      "reason": "Iranian officials say a US strike hit a home hosting a wedding in Sirik, killing five including a child and wounding 68, a claim CENTCOM says it is investigating rather than denying outright -- a flashpoint that could harden the six-month war further."
     },
     {
-      "title": "US Army Secretary Dan Driscoll resigns after clashes with Hegseth over fired generals",
-      "source": "CNN",
-      "url": "https://www.cnn.com/2026/08/31/politics/army-secretary-dan-driscoll-resigns",
-      "topic": "Politics",
-      "reason": "The youngest-ever Army secretary quit after the Defense Secretary purged generals tied to his modernization push, exposing a deepening rift atop the Pentagon during an active war footing."
+      "title": "DRC Ebola outbreak becomes deadliest in the country's history, death toll tops 3,000",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/31/over-6000-ebola-cases-confirmed-in-drc-as-death-toll-nears-3000",
+      "topic": "World",
+      "reason": "More than 6,000 confirmed cases and over 3,000 deaths make this the worst Ebola epidemic on record, prompting the WHO to declare it a Public Health Emergency of International Concern."
     },
     {
-      "title": "Stocks slide and oil jumps nearly 4% as US-Iran conflict escalates further",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-september-1-dow-sp-500-nasdaq-080617884.html",
-      "topic": "Economy",
-      "reason": "The Dow, S&P 500 and Nasdaq all fell as rising bond yields and oil above $89 a barrel revived inflation worries just weeks before the Fed's next rate decision."
-    },
-    {
-      "title": "Pentagon adds ChatGPT and Grok to its GenAI.mil platform; Claude notably absent",
+      "title": "Trump administration backs OpenAI's fair-use defense in New York Times copyright case",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
+      "url": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/",
       "topic": "AI",
-      "reason": "More than 3 million military and civilian personnel now get OpenAI and xAI tools alongside Gemini, while Anthropic remains locked out over its refusal to loosen surveillance and weapons-use guardrails."
+      "reason": "It's the first time the US government has weighed in on the wave of AI-training copyright lawsuits, arguing fair use on national-security and competitiveness grounds -- a major signal for every AI lab facing similar suits."
     },
     {
-      "title": "Amazon, Microsoft, Alphabet and Meta on pace for $725 billion in 2026 AI capex",
-      "source": "Tom's Hardware",
-      "url": "https://www.tomshardware.com/tech-industry/big-tech/big-techs-ai-spending-plans-reach-725-billion",
+      "title": "OpenAI says its Astra model is the first to cross the 'Critical' cybersecurity threshold",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/01/open-ai-astra-cyber-model.html",
+      "topic": "AI",
+      "reason": "Astra scored a perfect 100% on ExploitBench and autonomously chained together two previously unknown zero-days, prompting OpenAI to restrict access to its cybersecurity capabilities before any public release."
+    },
+    {
+      "title": "NYC, the nation's largest school district, bans AI for students through 8th grade",
+      "source": "AP News",
+      "url": "https://abcnews.com/US/wireStory/nyc-nations-largest-school-district-bans-ai-students-136149168",
+      "topic": "AI",
+      "reason": "The one-year moratorium affects nearly 600,000 students and blocks ChatGPT and Claude alike, making it the most expansive classroom AI ban in the country as officials weigh screen-time and cognitive-development concerns."
+    },
+    {
+      "title": "Uber to cut 3,300 jobs, redirecting spending toward robotaxis",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/02/uber-is-laying-off-10-of-staff-or-3300-people/",
+      "topic": "Tech",
+      "reason": "The 10% workforce cut -- Uber's largest since the pandemic -- funds a $10 billion-plus push into autonomous vehicles as CEO Dara Khosrowshahi reshapes the company for a driverless future."
+    },
+    {
+      "title": "Texas freezes new data-center grid connections as 'ghost demand' hits 474 gigawatts",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/energy/articles/analysis-texas-halt-powering-data-100250823.html",
+      "topic": "Tech",
+      "reason": "Governor Abbott's freeze puts roughly a fifth of the entire US data-center pipeline at risk of delay, an early sign that the AI industry's infrastructure buildout is colliding with real grid limits."
+    },
+    {
+      "title": "Stocks rebound as oil rally stalls and a Fed official tempers rate-hike bets",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-september-2-dow-sp-500-nasdaq-082624175.html",
       "topic": "Economy",
-      "reason": "The combined figure, up 77% year over year and larger than Switzerland's GDP, is the biggest single-year corporate infrastructure buildout in history, almost entirely aimed at AI data centers and chips."
-    },
-    {
-      "title": "Russian missile and drone barrage kills at least 12 in Kyiv, including six railway workers",
-      "source": "Kyiv Independent",
-      "url": "https://kyivindependent.com/ukraine-war-latest-russia-kills-at-least-12-in-kyiv-and-suburbs-including-6-rail-workers/",
-      "topic": "World",
-      "reason": "A ballistic missile strike hit a railway depot on a sixth straight night of attacks on the capital, underscoring that Russia's war grinds on even as global attention is consumed by the Iran conflict."
-    },
-    {
-      "title": "USPS whistleblower says rushed mail-voting verification system could disrupt the midterms",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/09/01/nx-s1-5950869/trump-mail-in-voting-usps",
-      "topic": "Politics",
-      "reason": "The claim adds a new flashpoint to the fight over Trump's mail-voting executive order just as the Supreme Court has let parts of it move forward ahead of November."
+      "reason": "The Dow rose 0.8% and the S&P 500 climbed 0.6%, clawing back part of Tuesday's 419-point drop as crude pulled off its highs even with the Iran conflict still unresolved."
     }
   ]
 }
