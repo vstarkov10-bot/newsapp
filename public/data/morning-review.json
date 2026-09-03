@@ -1,61 +1,61 @@
 {
-  "generatedAt": "2026-09-02T04:25:00Z",
+  "generatedAt": "2026-09-03T04:25:00Z",
   "stories": [
     {
-      "title": "Iran war live: US bombs Iran, Tehran retaliates on Gulf neighbours",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/9/2/iran-war-live-us-bombs-iran-tehran-retaliates-on-gulf-neighbours-jordan",
+      "title": "After six months, the Iran war has reached a costly stalemate",
+      "source": "Reuters",
+      "url": "https://www.investing.com/news/commodities-news/analysisafter-six-months-the-iran-war-has-reached-its-endgame--a-costly-stalemate-4878735",
       "topic": "World",
-      "reason": "Iran's Revolutionary Guard says it hit Prince Hassan airbase and a US Marine base in Jordan, and Supreme Leader Khamenei has issued his first statement since fighting resumed, warning of 'unforgettable lessons' for Washington."
+      "reason": "Washington's counter-blockade and Tehran's near-total closure of the Strait of Hormuz have settled into a dangerous standoff, with mediated talks stalled and no side willing to appear to concede."
     },
     {
-      "title": "Oil tops $92 a barrel as global bond yields hit their highest since 2008",
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/09/01/oil-prices-bond-yields-inflation-fe/",
-      "topic": "Economy",
-      "reason": "The 10-year Treasury yield hit its highest level since January 2025 and a gauge of global government debt reached an 18-year high, as Iran-war-driven oil prices revive inflation fears worldwide."
-    },
-    {
-      "title": "FTC and 22 states sue Amazon over alleged $20 billion ad auction price-rigging scheme",
+      "title": "Federal judge blocks Trump's latest order limiting birthright citizenship",
       "source": "NBC News",
-      "url": "https://www.nbcnews.com/business/business-news/amazon-sued-ftc-22-us-states-advertising-practices-rcna595411",
-      "topic": "Tech",
-      "reason": "Regulators allege Amazon secretly inserted a phantom 'soft reserve' bid to drive up ad auction prices for 1.2 million advertisers since 2019, with costs ultimately passed on to shoppers."
-    },
-    {
-      "title": "Anthropic signs $35 billion cloud deal with Nvidia-backed Lambda for a Texas data center",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-signs-35-billion-lambda-144113886.html",
-      "topic": "AI",
-      "reason": "The deal secures roughly 350 megawatts of Nvidia compute at a Hut 8-developed site to keep pace with surging demand for Claude, after Anthropic ran into a supply crunch earlier this year."
-    },
-    {
-      "title": "EU designates ChatGPT a 'Very Large Online Search Engine,' triggering strict oversight",
-      "source": "Gizmodo",
-      "url": "https://gizmodo.com/the-eu-has-officially-decided-chatgpt-is-a-search-engine-2000805030",
-      "topic": "AI",
-      "reason": "It's the first time an AI chatbot has been classified this way under the EU's Digital Services Act, forcing OpenAI into systemic risk assessments, audits and regulator data-sharing by late November."
-    },
-    {
-      "title": "Ed Markey defeats Seth Moulton in Massachusetts' Democratic Senate primary",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/09/01/nx-s1-5953111/ed-markey-wins-massachusetts-democratic-primary-us-senate-seth-moulton",
+      "url": "https://www.nbcnews.com/politics/white-house/federal-judge-blocks-trumps-latest-order-limiting-birthright-citizensh-rcna595794",
       "topic": "Politics",
-      "reason": "The 80-year-old incumbent's decisive win over a generational-change challenger is an early test of how Democrats will navigate age and leadership questions heading into the midterms."
+      "reason": "A judge called the new order 'almost certainly unconstitutional' months after the Supreme Court struck down Trump's original attempt, setting up another round of litigation over the 14th Amendment."
     },
     {
-      "title": "China's factory activity expands at fastest pace in years as exports pick up",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/economy/articles/chinas-august-factory-activity-picks-015156951.html",
+      "title": "US pushes hands-off AI regulation at G20 while the EU moves toward new law",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/2/us-pushes-looser-approach-to-ai-regulation-while-eu-pushes-new-law",
+      "topic": "AI",
+      "reason": "Washington's 'Carolina Principles' pitch for minimal AI rules, backed by Zuckerberg, Musk and Hassabis, puts the US on a collision course with Brussels just a day after the EU classified ChatGPT as a search engine."
+    },
+    {
+      "title": "ChatGPT Health adds Epic integration, giving clinicians access to 325 million patients' records",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/",
+      "topic": "AI",
+      "reason": "The read-only integration lets doctors query ChatGPT using a patient's real appointment notes, labs and medications, a significant expansion of AI into frontline clinical workflows."
+    },
+    {
+      "title": "US private payrolls rose just 38,000 in August, weakest pace since January",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/02/private-payrolls-rose-by-38000-in-august-fewer-than-expected-adp-reports.html",
       "topic": "Economy",
-      "reason": "The RatingDog manufacturing PMI hit a two-month high of 51.5 with the longest new-order growth streak since 2018, a sign Chinese industry is holding up despite ongoing trade tensions."
+      "reason": "ADP's report came in well below the 48,000 economists expected, with manufacturing shedding 17,000 jobs, adding to evidence of a cooling labor market ahead of the Fed's September meeting."
     },
     {
-      "title": "Nepal's flash floods destroyed dozens of schools, threatening education for thousands of children",
-      "source": "ABC News",
-      "url": "https://abcnews.com/International/wireStory/saved-lunch-break-nepal-floods-destroyed-schools-students-136071256",
+      "title": "ChatGPT's ad business hits $1 billion annualized revenue in under 200 days",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/media-advertising/articles/chatgpt-ads-reaches-1b-annualized-144247308.html",
+      "topic": "Economy",
+      "reason": "The rapid ramp-up, now expanding self-serve access to Europe, India and the Middle East, shows OpenAI moving fast to diversify revenue beyond subscriptions as it burns through billions in compute spending."
+    },
+    {
+      "title": "DRC Ebola vaccine trials set to begin by November as death toll passes 3,000",
+      "source": "MedicalXpress",
+      "url": "https://medicalxpress.com/news/2026-09-dr-congo-ebola-vaccine-trials.html",
       "topic": "World",
-      "reason": "With 18 schools destroyed and 20 more damaged on top of 32 washed-out bridges, the disaster's toll is extending well beyond the death count into long-term recovery for tens of thousands of children."
+      "reason": "Three candidate vaccines from IAVI, Moderna and Oxford are being fast-tracked against a Bundibugyo-strain outbreak that has no approved vaccine, offering the first real response tool in the deadliest Ebola epidemic on record."
+    },
+    {
+      "title": "At least 25 top Pentagon officials have departed under Defense Secretary Hegseth",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/military-leaders-fired-forced-out-resigned-hegseth-defense-secretary-trump-pentagon/",
+      "topic": "Politics",
+      "reason": "Army Secretary Dan Driscoll's resignation pushed the tally of fired or departed generals, admirals and civilian defense leaders past two dozen, deepening questions about turmoil atop the military during an active war."
     }
   ]
 }
