@@ -1,61 +1,61 @@
 {
-  "generatedAt": "2026-09-03T04:25:00Z",
+  "generatedAt": "2026-09-04T04:25:00Z",
   "stories": [
     {
-      "title": "After six months, the Iran war has reached a costly stalemate",
-      "source": "Reuters",
-      "url": "https://www.investing.com/news/commodities-news/analysisafter-six-months-the-iran-war-has-reached-its-endgame--a-costly-stalemate-4878735",
+      "title": "Vance 'extremely skeptical' US struck an Iran wedding, despite NYT analysis pointing to a US bomb",
+      "source": "TIME",
+      "url": "https://time.com/article/2026/09/03/vance-iran-war-press-briefing/",
       "topic": "World",
-      "reason": "Washington's counter-blockade and Tehran's near-total closure of the Strait of Hormuz have settled into a dangerous standoff, with mediated talks stalled and no side willing to appear to concede."
+      "reason": "The vice president downplayed the six-month conflict as he cast doubt on Iran's claim that US strikes killed 18 people nationwide, even as independent visual analysis identifies American munitions at the wedding site."
     },
     {
-      "title": "Federal judge blocks Trump's latest order limiting birthright citizenship",
-      "source": "NBC News",
-      "url": "https://www.nbcnews.com/politics/white-house/federal-judge-blocks-trumps-latest-order-limiting-birthright-citizensh-rcna595794",
-      "topic": "Politics",
-      "reason": "A judge called the new order 'almost certainly unconstitutional' months after the Supreme Court struck down Trump's original attempt, setting up another round of litigation over the 14th Amendment."
+      "title": "Trump imposes tariffs up to 100% on foreign-made drones, targeting China",
+      "source": "Manufacturing Dive",
+      "url": "https://www.manufacturingdive.com/news/trump-tariffs-drones-uas-components-defense-supply-chain-war/827889/",
+      "topic": "Economy",
+      "reason": "Drones over 55 pounds or with thermal imaging face the full 100% rate, while even allied manufacturers in Japan, South Korea and Europe face new tariffs, deepening the US-China tech decoupling."
     },
     {
-      "title": "US pushes hands-off AI regulation at G20 while the EU moves toward new law",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/2/us-pushes-looser-approach-to-ai-regulation-while-eu-pushes-new-law",
-      "topic": "AI",
-      "reason": "Washington's 'Carolina Principles' pitch for minimal AI rules, backed by Zuckerberg, Musk and Hassabis, puts the US on a collision course with Brussels just a day after the EU classified ChatGPT as a search engine."
+      "title": "Lithuania warns Russia is 'highly likely' to escalate attacks on the EU",
+      "source": "Euronews",
+      "url": "https://www.euronews.com/my-europe/2026/09/03/highly-likely-russia-will-escalate-attacks-on-eu-lithuanian-minister-says",
+      "topic": "World",
+      "reason": "Following Germany's attribution of the Leipzig drone plot to Moscow, Lithuania's foreign minister is urging stronger EU-wide deterrence and says the country would move to a war footing if directly attacked."
     },
     {
-      "title": "ChatGPT Health adds Epic integration, giving clinicians access to 325 million patients' records",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/",
-      "topic": "AI",
-      "reason": "The read-only integration lets doctors query ChatGPT using a patient's real appointment notes, labs and medications, a significant expansion of AI into frontline clinical workflows."
+      "title": "UniQure files for first-ever gene therapy approval for Huntington's disease",
+      "source": "BioSpace",
+      "url": "https://www.biospace.com/fda/uniqure-files-for-fda-uk-approval-of-first-gene-therapy-for-huntingtons-disease",
+      "topic": "World",
+      "reason": "AMT-130 would be the first treatment to address the underlying cause of the fatal genetic disease rather than just symptoms, with three-year data showing it slows disease progression."
     },
     {
-      "title": "US private payrolls rose just 38,000 in August, weakest pace since January",
+      "title": "Stocks jump and Fed rate-hike odds fall ahead of Friday's jobs report",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/02/private-payrolls-rose-by-38000-in-august-fewer-than-expected-adp-reports.html",
+      "url": "https://www.cnbc.com/2026/09/03/stock-market-today-live-updates.html",
       "topic": "Economy",
-      "reason": "ADP's report came in well below the 48,000 economists expected, with manufacturing shedding 17,000 jobs, adding to evidence of a cooling labor market ahead of the Fed's September meeting."
+      "reason": "The Dow's best day since early August came as traders pared bets on a September rate hike to roughly even odds, with economists expecting Friday's report to show 53,000 jobs added in August."
     },
     {
-      "title": "ChatGPT's ad business hits $1 billion annualized revenue in under 200 days",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/media-advertising/articles/chatgpt-ads-reaches-1b-annualized-144247308.html",
-      "topic": "Economy",
-      "reason": "The rapid ramp-up, now expanding self-serve access to Europe, India and the Middle East, shows OpenAI moving fast to diversify revenue beyond subscriptions as it burns through billions in compute spending."
+      "title": "Nvidia launches PAIR, a free tool that pools idle home computers into a personal AI cluster",
+      "source": "Tom's Hardware",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-pair-utility-joins-every-gpu-in-your-home-into-a-cluster-for-agentic-ai-tasks-tool-uses-spare-cycles-to-keep-agent-swarms-from-hammering-one-gpu",
+      "topic": "AI",
+      "reason": "Announced at IFA 2026, the free beta lets GeForce and Apple Silicon devices on a home network share the load of local AI inference and agentic workloads, encrypted end-to-end via mTLS."
     },
     {
-      "title": "DRC Ebola vaccine trials set to begin by November as death toll passes 3,000",
-      "source": "MedicalXpress",
-      "url": "https://medicalxpress.com/news/2026-09-dr-congo-ebola-vaccine-trials.html",
-      "topic": "World",
-      "reason": "Three candidate vaccines from IAVI, Moderna and Oxford are being fast-tracked against a Bundibugyo-strain outbreak that has no approved vaccine, offering the first real response tool in the deadliest Ebola epidemic on record."
-    },
-    {
-      "title": "At least 25 top Pentagon officials have departed under Defense Secretary Hegseth",
+      "title": "American missing in Nepal floods has been contacted, officials say",
       "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/military-leaders-fired-forced-out-resigned-hegseth-defense-secretary-trump-pentagon/",
+      "url": "https://www.cbsnews.com/news/nepal-flood-missing-american-contacted-nepali-officials-tell-cbs-news/",
+      "topic": "World",
+      "reason": "The contact with one of roughly 65 Americans still listed as missing is a rare hopeful development a week into a disaster where thousands remain unaccounted for."
+    },
+    {
+      "title": "Rep. Massie launches new discharge petition to force DOJ compliance on Epstein files",
+      "source": "Washington Times",
+      "url": "https://www.washingtontimes.com/news/2026/aug/31/thomas-massie-launches-discharge-petition-bill-enforce-release/",
       "topic": "Politics",
-      "reason": "Army Secretary Dan Driscoll's resignation pushed the tally of fired or departed generals, admirals and civilian defense leaders past two dozen, deepening questions about turmoil atop the military during an active war."
+      "reason": "The follow-up bill would let lawmakers, state officials and survivors sue the Justice Department over noncompliance, and comes amid accusations Speaker Johnson may recess the House to avoid a vote."
     }
   ]
 }
