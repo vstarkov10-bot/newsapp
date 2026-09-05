@@ -1,61 +1,61 @@
 {
-  "generatedAt": "2026-09-04T19:20:00Z",
+  "generatedAt": "2026-09-05T19:20:00Z",
   "stories": [
     {
-      "title": "OpenAI launches GPT-6 Astra, calling it the start of the 'AGI era'",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/03/open-ai-astra-gpt-6-cyber.html",
-      "topic": "AI",
-      "reason": "State-of-the-art on computer use, browsing and software engineering with a 1M-token context window, Astra is rolling out first to enterprise and gated-access users before reaching ChatGPT and API customers over the coming days."
-    },
-    {
-      "title": "August jobs report stuns with 162,000 added, triple the 55,000 expected",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-sept-4-133716564.html",
-      "topic": "Economy",
-      "reason": "The blowout number keeps the unemployment rate at 4.1% but complicates the case for a September rate cut, with the Fed now watching next week's inflation data closely."
-    },
-    {
-      "title": "Trump threatens more strikes as Iranian death toll from US attacks rises to 18",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/3/trump-threatens-more-strikes-as-death-toll-in-iran-rises-to-19",
-      "topic": "World",
-      "reason": "Iran's health ministry says 108 more were wounded in strikes that included the disputed Kuhestak wedding bombing, as Trump warns Washington can hit Iran 'anytime we want.'"
-    },
-    {
-      "title": "Putin cites chance of Ukraine peace deal as Zelenskyy sees a 'new dynamic'",
-      "source": "NBC News",
-      "url": "https://www.nbcnews.com/world/ukraine/ukraine-new-dynamic-peace-efforts-vladimir-putin-chance-deal-rcna595914",
-      "topic": "World",
-      "reason": "US negotiators are set to visit both Moscow and Kyiv even as both sides keep escalating long-range strikes and attacks on shipping, showing rhetoric and battlefield reality still pulling in opposite directions."
-    },
-    {
-      "title": "NHTSA opens investigation into Tesla's wheel-free Cybercab hours after Austin launch",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/04/feds-launch-investigation-into-teslas-cybercab-deployment/",
-      "topic": "Tech",
-      "reason": "Regulators are probing how Tesla self-certified a robotaxi with no steering wheel, pedals or mirrors as compliant with federal safety standards written around human drivers."
-    },
-    {
-      "title": "Lawmakers introduce Stop Rogue AI Act the same day OpenAI declares the AGI era",
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/09/03/house-bill-ai-agents-security",
-      "topic": "AI",
-      "reason": "The bipartisan bill, prompted by OpenAI's own agents breaching Hugging Face in July, would require tamper-proof logging and inventories of AI agents -- a striking contrast with the day's other big AI headline."
-    },
-    {
-      "title": "Two trapped workers rescued alive from a Nepal hydropower tunnel nine days after floods",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/09/04/g-s1-141943/workers-rescued-nepal-tunnel",
-      "topic": "World",
-      "reason": "The first survivors pulled from any Nepal hydropower tunnel say others may still be alive inside, offering a rare note of hope as the confirmed death toll passes 1,287 with more than 5,000 still missing."
-    },
-    {
-      "title": "Argentina's Milei escalates Falklands dispute after Trump casts doubt on UK support",
+      "title": "Putin orders halt to Kyiv strikes as Witkoff and Kushner arrive in Moscow with new peace plan",
       "source": "CNN",
-      "url": "https://www.cnn.com/2026/09/04/americas/argentina-oil-sanctions-falkland-islands-hnk-intl",
+      "url": "https://www.cnn.com/2026/09/05/europe/witkoff-kushner-moscow-kyiv-proposal-war-intl",
       "topic": "World",
-      "reason": "Milei is fast-tracking sanctions on companies tied to a British oil project near the islands and funding a new naval base, while Britain's foreign secretary insists its claim is 'unwavering.'"
+      "reason": "In their first-ever visit to Ukraine, Trump's envoys are carrying a proposal to end the war, and both Moscow and Kyiv have agreed to a rare reciprocal pause on strikes on each other's capitals through Monday."
+    },
+    {
+      "title": "CENTCOM destroys three Iranian oil tankers after IRGC missile attack on US warships",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/5/us-says-it-hit-iran-oil-tankers-helping-finance-regional-proxies",
+      "topic": "World",
+      "reason": "Admiral Brad Cooper's explicit '3-for-2' warning -- destroying three tankers from Iran's oil shadow fleet for every US ship targeted -- marks a new economic-pressure tactic in the six-month war."
+    },
+    {
+      "title": "Ukraine's anti-corruption bureau raids Prosecutor General's Office over scam call-center ring",
+      "source": "Kyiv Independent",
+      "url": "https://kyivindependent.com/anti-corruption-agency-conducts-operation-targeting-prosecutor-generals-office/",
+      "topic": "World",
+      "reason": "NABU detained a senior prosecutorial official accused of protecting a criminal network, a striking institutional scandal breaking just as US-brokered peace talks resume."
+    },
+    {
+      "title": "Bipartisan backlash against data centers becomes a midterm campaign flashpoint",
+      "source": "NPR",
+      "url": "https://www.mainepublic.org/npr-news/2026-09-05/voters-are-fed-up-with-data-centers-both-parties-are-trying-to-cash-in-for-midterms",
+      "topic": "AI",
+      "reason": "Campaigns have spent more than $45 million on ads mentioning data centers this year, with Democrats and Republicans both tapping into 77% of Americans' concerns about rising electricity costs from AI buildout."
+    },
+    {
+      "title": "Anthropic says Claude produced the first machine-checked formalization of Fermat's Last Theorem",
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/09/04/anthropic-uses-claude-to-formalize-proof-of-fermats-last-theorem/",
+      "topic": "AI",
+      "reason": "Working largely autonomously over 11 days via the open-source Prove2Me platform, Claude generated 13 million lines of Lean code proving 30,300 theorems -- a task mathematicians expected to take years."
+    },
+    {
+      "title": "UN report finds 1,500-2,000 former Colombian soldiers fighting as mercenaries for Sudan's RSF",
+      "source": "Washington Times",
+      "url": "https://www.washingtontimes.com/news/2026/sep/3/foreign-networks-fueling-war-sudan-un-report-details/",
+      "topic": "World",
+      "reason": "The UN panel traces networks in the UAE, Colombia and Chad supplying fighters, weapons and training to the paramilitary group, underscoring how international actors are fueling what aid groups call the world's worst humanitarian crisis."
+    },
+    {
+      "title": "Nvidia invests $3.5 billion in MediaTek to expand AI chip and computing partnership",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout/",
+      "topic": "Tech",
+      "reason": "The deal extends Nvidia's NVLink Fusion platform to MediaTek's custom AI chips and PC hardware, a hedge against hyperscalers increasingly building their own silicon."
+    },
+    {
+      "title": "Nvidia's stock lags peers despite doubling revenue, as investors weigh AI capex risks",
+      "source": "The Motley Fool",
+      "url": "https://www.fool.com/investing/2026/09/05/nvidia-just-doubled-its-revenue-heres-why-the-stoc/",
+      "topic": "Economy",
+      "reason": "Even with revenue more than doubling and guidance raised again, Nvidia shares have underperformed AI peers this year as markets grow more cautious about the sustainability of the industry's spending boom."
     }
   ]
 }
