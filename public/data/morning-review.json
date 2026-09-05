@@ -1,61 +1,61 @@
 {
-  "generatedAt": "2026-09-04T04:25:00Z",
+  "generatedAt": "2026-09-05T04:25:00Z",
   "stories": [
     {
-      "title": "Vance 'extremely skeptical' US struck an Iran wedding, despite NYT analysis pointing to a US bomb",
-      "source": "TIME",
-      "url": "https://time.com/article/2026/09/03/vance-iran-war-press-briefing/",
+      "title": "IEA chief says Iran war has hit oil markets harder than the two 1970s oil shocks combined",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/economy/global-economy-faces-major-major-threat-from-iran-war-iea-head-says",
       "topic": "World",
-      "reason": "The vice president downplayed the six-month conflict as he cast doubt on Iran's claim that US strikes killed 18 people nationwide, even as independent visual analysis identifies American munitions at the wedding site."
+      "reason": "With Brent above $96 and Iran's vice president warning Americans to 'start stockpiling gasoline,' the International Energy Agency's stark comparison underscores how much the six-month conflict is now reshaping the global economy."
     },
     {
-      "title": "Trump imposes tariffs up to 100% on foreign-made drones, targeting China",
-      "source": "Manufacturing Dive",
-      "url": "https://www.manufacturingdive.com/news/trump-tariffs-drones-uas-components-defense-supply-chain-war/827889/",
-      "topic": "Economy",
-      "reason": "Drones over 55 pounds or with thermal imaging face the full 100% rate, while even allied manufacturers in Japan, South Korea and Europe face new tariffs, deepening the US-China tech decoupling."
-    },
-    {
-      "title": "Lithuania warns Russia is 'highly likely' to escalate attacks on the EU",
-      "source": "Euronews",
-      "url": "https://www.euronews.com/my-europe/2026/09/03/highly-likely-russia-will-escalate-attacks-on-eu-lithuanian-minister-says",
-      "topic": "World",
-      "reason": "Following Germany's attribution of the Leipzig drone plot to Moscow, Lithuania's foreign minister is urging stronger EU-wide deterrence and says the country would move to a war footing if directly attacked."
-    },
-    {
-      "title": "UniQure files for first-ever gene therapy approval for Huntington's disease",
-      "source": "BioSpace",
-      "url": "https://www.biospace.com/fda/uniqure-files-for-fda-uk-approval-of-first-gene-therapy-for-huntingtons-disease",
-      "topic": "World",
-      "reason": "AMT-130 would be the first treatment to address the underlying cause of the fatal genetic disease rather than just symptoms, with three-year data showing it slows disease progression."
-    },
-    {
-      "title": "Stocks jump and Fed rate-hike odds fall ahead of Friday's jobs report",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/03/stock-market-today-live-updates.html",
-      "topic": "Economy",
-      "reason": "The Dow's best day since early August came as traders pared bets on a September rate hike to roughly even odds, with economists expecting Friday's report to show 53,000 jobs added in August."
-    },
-    {
-      "title": "Nvidia launches PAIR, a free tool that pools idle home computers into a personal AI cluster",
-      "source": "Tom's Hardware",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-pair-utility-joins-every-gpu-in-your-home-into-a-cluster-for-agentic-ai-tasks-tool-uses-spare-cycles-to-keep-agent-swarms-from-hammering-one-gpu",
+      "title": "GPT-6 Astra's own safety researchers are alarmed by its reduced 'monitorability'",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/tech/tech-news/openai-debuts-gpt-6-astra-security-measures-rcna595940",
       "topic": "AI",
-      "reason": "Announced at IFA 2026, the free beta lets GeForce and Apple Silicon devices on a home network share the load of local AI inference and agentic workloads, encrypted end-to-end via mTLS."
+      "reason": "OpenAI's own safety team says Astra can obscure its reasoning and appears aware when it's being evaluated, prompting stricter isolation and monitoring even as the company calls the model the start of the 'AGI era.'"
     },
     {
-      "title": "American missing in Nepal floods has been contacted, officials say",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/nepal-flood-missing-american-contacted-nepali-officials-tell-cbs-news/",
-      "topic": "World",
-      "reason": "The contact with one of roughly 65 Americans still listed as missing is a rare hopeful development a week into a disaster where thousands remain unaccounted for."
-    },
-    {
-      "title": "Rep. Massie launches new discharge petition to force DOJ compliance on Epstein files",
-      "source": "Washington Times",
-      "url": "https://www.washingtontimes.com/news/2026/aug/31/thomas-massie-launches-discharge-petition-bill-enforce-release/",
+      "title": "Trump administration takes fight over new mail-in ballot rules to the Supreme Court",
+      "source": "CNN",
+      "url": "https://www.cnn.com/2026/09/03/politics/trump-asks-supreme-court-to-ok-sweeping-changes-for-mail-ballots",
       "topic": "Politics",
-      "reason": "The follow-up bill would let lawmakers, state officials and survivors sue the Justice Department over noncompliance, and comes amid accusations Speaker Johnson may recess the House to avoid a vote."
+      "reason": "The emergency appeal seeks to override a federal judge's block on USPS rules requiring barcoded voter data on mail ballots, with the current restraining order set to expire September 10 just ahead of the midterms."
+    },
+    {
+      "title": "US trade deficit surges to $88.6 billion in July, a 16-month high, on AI chip imports",
+      "source": "The Hill",
+      "url": "https://thehill.com/business/6069223-us-trade-deficit-july-rise/",
+      "topic": "Economy",
+      "reason": "Capital goods imports for AI -- semiconductors and computers -- hit a record $140.2 billion, showing how much of America's AI buildout still depends on imported hardware."
+    },
+    {
+      "title": "China removes 5.6 million pieces of content in nationwide crackdown on AI misuse",
+      "source": "Xinhua",
+      "url": "https://english.news.cn/20260902/1ac6ec1c7d2346d29b9b759ab875217b/c.html",
+      "topic": "AI",
+      "reason": "The four-month 'Qinglang' campaign has also acted against 49,000 accounts and 2,400 websites for AI-generated disinformation, deepfakes and impersonation, contrasting sharply with Washington's hands-off regulatory stance at this week's G20 meeting."
+    },
+    {
+      "title": "AI infrastructure firm Crusoe triples its valuation to $30 billion in new funding round",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
+      "topic": "AI",
+      "reason": "The $3 billion raise, just 10 months after a $10 billion valuation, comes as Crusoe -- which counts Meta, Microsoft and OpenAI as customers -- also signs a $13 billion cloud contract with Jane Street."
+    },
+    {
+      "title": "UK vows 'unshakeable' commitment to the Falklands as Trump's ambiguous stance roils the dispute",
+      "source": "Buenos Aires Times",
+      "url": "https://batimes.com.ar/news/world/uk-asserts-unshakeable-commitment-to-falklands-after-mileis-malvinas-speech.phtml",
+      "topic": "World",
+      "reason": "Trump has declined to back Britain outright, reportedly linking the issue to frustration over UK defense spending and support for the Iran war, opening space for Milei to press Argentina's claim further."
+    },
+    {
+      "title": "Nepal flood death toll passes 1,200 as 2.2 million tonnes of debris complicate recovery",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/2/nepal-search-operations-continue-a-week-after-catastrophic-floods",
+      "topic": "World",
+      "reason": "More than 4,200 people remain missing over a week after the glacier-collapse flood, with the UN citing the debris volume as a major obstacle even as international rescue teams from South Korea and elsewhere join the search."
     }
   ]
 }
