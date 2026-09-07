@@ -1,61 +1,61 @@
 {
-  "generatedAt": "2026-09-06T19:20:00Z",
+  "generatedAt": "2026-09-07T19:20:00Z",
   "stories": [
     {
-      "title": "Witkoff and Kushner call Kyiv talks 'substantive,' push for trilateral format with Russia",
-      "source": "CNN",
-      "url": "https://www.cnn.com/2026/09/06/europe/witkoff-kushner-visit-kyiv-intl",
+      "title": "Amazon cargo plane overruns runway at Miami airport, killing 5",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/09/06/nx-s1-5959749/amazon-cargo-plane-crashes-at-miami-airport",
       "topic": "World",
-      "reason": "In their first-ever visit to Ukraine, Trump's envoys met Zelenskyy after three hours with Putin in Moscow, with both sides now open to reviving three-way talks -- the most concrete diplomatic movement on the war in months."
+      "reason": "The Prime Air-operated Boeing 767 was traveling nearly 130 mph when it left the runway and slammed into ground vehicles; the pilots hadn't declared an emergency, and the FAA and NTSB are now investigating."
     },
     {
-      "title": "Trump renews threat to strike Iran's fortified 'Pickaxe Mountain' nuclear site",
+      "title": "Israeli strikes kill at least 11 in a southern Lebanon village, including two children",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/5/why-is-trump-threatening-to-strike-irans-pickaxe-mountain-again-now",
+      "url": "https://www.aljazeera.com/news/2026/9/7/israeli-air-attack-kills-at-least-10-people-in-southern-lebanon",
       "topic": "World",
-      "reason": "The underground facility near Natanz is one of Iran's last untouched nuclear sites, and Iranian officials warn a direct strike would trigger heavy retaliation, raising the stakes just as US-Iran clashes hit a third exchange this week."
+      "reason": "The strikes on Kfar Rumman, including a drone strike that killed two medics in their car, came without an evacuation warning and mark a sharp escalation despite a ceasefire with Hezbollah reached more than two months ago."
     },
     {
-      "title": "AI agents helped a hacker breach an enterprise network and steal root credentials in under 10 hours",
-      "source": "The Register",
-      "url": "https://www.theregister.com/security/2026/09/02/ai-agents-carried-out-every-step-of-this-ransomware-attack-then-left-the-victim-an-80-page-security-audit/5294009",
-      "topic": "AI",
-      "reason": "A Palo Alto Networks Unit 42 investigation found the attacker used frontier AI models to compress an intrusion that would normally take human red teams two weeks into a single automated overnight operation."
-    },
-    {
-      "title": "Kushner says Israeli government acting 'a little irrational' on Gaza ahead of Knesset election",
-      "source": "Times of Israel",
-      "url": "https://www.timesofisrael.com/liveblog-september-06-2026/",
-      "topic": "World",
-      "reason": "The unusually blunt comment from Trump's own envoy exposes friction between Washington and Netanyahu's government over stalled plans to disarm Hamas and complete an Israeli withdrawal from Gaza."
-    },
-    {
-      "title": "Trump's super PAC makes its first major midterm move: a $10 million Texas Senate ad blitz",
-      "source": "NBC News",
-      "url": "https://www.nbcnews.com/politics/2026-election/trump-aligned-super-pac-ads-spend-10-million-texas-senate-race-paxton-rcna596261",
-      "topic": "Politics",
-      "reason": "The ads target Democratic nominee James Talarico on taxes, signaling that a once-safe Republican Senate seat is now considered competitive enough to warrant an early, aggressive defense."
-    },
-    {
-      "title": "Ukrainian drones strike a Russian oil refinery in Ryazan despite the Kyiv-Moscow strike pause",
-      "source": "Kyiv Independent",
-      "url": "https://kyivindependent.com/ukrainian-drones-reportedly-target-ryazan-oil-refinery-cities-across-russia/",
-      "topic": "World",
-      "reason": "The overnight strikes on Rostov Oblast, hospitalizing a child, show the reciprocal pause on capital strikes hasn't stopped fighting elsewhere even as US-brokered peace talks continue."
-    },
-    {
-      "title": "Stocks fall and rate-hike odds jump to 63% after blowout August jobs report",
+      "title": "Iran vows a 'more painful' response as Hormuz traffic collapses and gas prices hit a Labor Day record",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/03/stock-market-today-live-updates.html",
+      "url": "https://www.cnbc.com/2026/09/06/iran-us-response-oil-tanker-strikes.html",
       "topic": "Economy",
-      "reason": "The Dow dropped more than 270 points as 162,000 new jobs -- triple expectations -- pushed the 10-year Treasury yield to 4.78% and revived the case for a Fed rate hike this month."
+      "reason": "Only about four commodity vessels crossed the Strait of Hormuz on a recent day versus a normal 15, while US retail diesel hit a record $5.85 a gallon as the parliament speaker threatens a 'faster, more intense' reply to US strikes."
     },
     {
-      "title": "Nearly 600,000 evacuated as Typhoon Saudel floods China's Fujian province, collapsing over 100 homes",
-      "source": "Xinhua",
-      "url": "https://english.news.cn/20260903/9d02b9ce5eec4789bea5b15bbf31a41c/c.html",
+      "title": "Global bond yields hit multi-decade highs in Japan, Germany and France",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-06/latest-oil-market-news-and-analysis-for-september-7",
+      "topic": "Economy",
+      "reason": "Japan's 10-year yield broke 3% for the first time since 1996 and French and German yields hit levels last seen in 2008 and 2011, as oil-driven inflation fears challenge the assumption that economies can absorb higher-for-longer rates."
+    },
+    {
+      "title": "FluidStack raises $1.5 billion at an $18 billion valuation to build AI data centers",
+      "source": "Forbes",
+      "url": "https://www.forbes.com/sites/iainmartin/2026/09/03/a-tiny-startup-helping-google-take-on-nvidia-is-now-worth-18-billion/",
+      "topic": "AI",
+      "reason": "The startup, which owns no chips itself, more than doubled its valuation in months by building the data centers that will house a customer's 1 million Google TPUs, illustrating how lucrative AI infrastructure has become even for non-chip players."
+    },
+    {
+      "title": "LG Electronics shares jump 8% on plans for a Bear Robotics Nasdaq listing",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/07/stock-market-today-live-updates.html",
+      "topic": "Tech",
+      "reason": "LG's majority-owned robotics unit is seeking a pre-IPO round at a roughly $1.5 billion valuation ahead of a planned US listing, part of a broader investor rush into physical AI and robotics."
+    },
+    {
+      "title": "LAUSD becomes the second major US school district to restrict student AI use",
+      "source": "K-12 Dive",
+      "url": "https://www.k12dive.com/news/lausd-restricts-all-students-from-using-ai-tools/829612/",
+      "topic": "AI",
+      "reason": "Los Angeles Unified is blocking generative AI on school-issued devices for all students while a new committee develops guardrails, following New York City's similar moratorium days earlier."
+    },
+    {
+      "title": "Hurricane Lowell to pass near Kauai as a major hurricane, prompting tropical storm warnings",
+      "source": "CNN",
+      "url": "https://www.cnn.com/2026/09/04/weather/hurricane-lowell-hawaii-storm-path-climate",
       "topic": "World",
-      "reason": "Putian recorded 416.5mm of rain in two days, breaking its September record, with multiple people missing and firefighters wading through waist-deep water to rescue elderly residents in Fuding."
+      "reason": "Lowell is expected to pass just west of Kauai and Niihau late Monday with gusts up to 74 mph and waves as high as 14 feet, marking Hawaii's third major storm threat in three weeks."
     }
   ]
 }
