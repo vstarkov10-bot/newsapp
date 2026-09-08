@@ -1,61 +1,61 @@
 {
-  "generatedAt": "2026-09-07T19:20:00Z",
+  "generatedAt": "2026-09-08T19:20:00Z",
   "stories": [
     {
-      "title": "Amazon cargo plane overruns runway at Miami airport, killing 5",
+      "title": "Houthis launch heaviest attack in years on Saudi oil facilities, wounding 73",
       "source": "NPR",
-      "url": "https://www.npr.org/2026/09/06/nx-s1-5959749/amazon-cargo-plane-crashes-at-miami-airport",
+      "url": "https://www.npr.org/2026/09/08/g-s1-142296/houthi-attacks-saudi-arabia",
       "topic": "World",
-      "reason": "The Prime Air-operated Boeing 767 was traveling nearly 130 mph when it left the runway and slammed into ground vehicles; the pilots hadn't declared an emergency, and the FAA and NTSB are now investigating."
+      "reason": "Dozens of ballistic missiles set Aramco facilities and an airbase ablaze after a four-year Saudi-Houthi truce collapsed in July, and Saudi Arabia has already retaliated -- opening a dangerous new front alongside the Iran war."
     },
     {
-      "title": "Israeli strikes kill at least 11 in a southern Lebanon village, including two children",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/7/israeli-air-attack-kills-at-least-10-people-in-southern-lebanon",
+      "title": "UK bans goods from Israeli West Bank settlements, accuses settlers of 'ethnic cleansing'",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/09/08/nx-s1-5961044/uk-occcupied-west-bank-goods-israel",
       "topic": "World",
-      "reason": "The strikes on Kfar Rumman, including a drone strike that killed two medics in their car, came without an evacuation warning and mark a sharp escalation despite a ceasefire with Hezbollah reached more than two months ago."
+      "reason": "Israel says it will close the British consulate in Jerusalem in response, while the US warns British companies could face restrictions -- and France and Canada are preparing similar bans."
     },
     {
-      "title": "Iran vows a 'more painful' response as Hormuz traffic collapses and gas prices hit a Labor Day record",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/06/iran-us-response-oil-tanker-strikes.html",
-      "topic": "Economy",
-      "reason": "Only about four commodity vessels crossed the Strait of Hormuz on a recent day versus a normal 15, while US retail diesel hit a record $5.85 a gallon as the parliament speaker threatens a 'faster, more intense' reply to US strikes."
+      "title": "Witkoff reports 'substantive progress' on Ukraine peace talks as brief ceasefire ends",
+      "source": "The Hill",
+      "url": "https://thehill.com/policy/international/6075212-witkoff-progress-russia-ukraine-talks/",
+      "topic": "World",
+      "reason": "The temporary halt in fighting expired today and heavy Russian airstrikes have resumed, even as Zelenskyy says he hopes to meet Trump around September 20 to build on the groundwork laid in Moscow and Kyiv."
     },
     {
-      "title": "Global bond yields hit multi-decade highs in Japan, Germany and France",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-06/latest-oil-market-news-and-analysis-for-september-7",
-      "topic": "Economy",
-      "reason": "Japan's 10-year yield broke 3% for the first time since 1996 and French and German yields hit levels last seen in 2008 and 2011, as oil-driven inflation fears challenge the assumption that economies can absorb higher-for-longer rates."
-    },
-    {
-      "title": "FluidStack raises $1.5 billion at an $18 billion valuation to build AI data centers",
-      "source": "Forbes",
-      "url": "https://www.forbes.com/sites/iainmartin/2026/09/03/a-tiny-startup-helping-google-take-on-nvidia-is-now-worth-18-billion/",
+      "title": "Mistral raises €3 billion at a €21 billion valuation, Europe's largest-ever tech funding round",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/",
       "topic": "AI",
-      "reason": "The startup, which owns no chips itself, more than doubled its valuation in months by building the data centers that will house a customer's 1 million Google TPUs, illustrating how lucrative AI infrastructure has become even for non-chip players."
+      "reason": "Led by Samsung with BlackRock and Luxembourg's government joining as new investors, the round underscores how 'sovereign AI' has become a serious commercial category as Europe seeks alternatives to US and Chinese labs."
     },
     {
-      "title": "LG Electronics shares jump 8% on plans for a Bear Robotics Nasdaq listing",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/07/stock-market-today-live-updates.html",
-      "topic": "Tech",
-      "reason": "LG's majority-owned robotics unit is seeking a pre-IPO round at a roughly $1.5 billion valuation ahead of a planned US listing, part of a broader investor rush into physical AI and robotics."
-    },
-    {
-      "title": "LAUSD becomes the second major US school district to restrict student AI use",
-      "source": "K-12 Dive",
-      "url": "https://www.k12dive.com/news/lausd-restricts-all-students-from-using-ai-tools/829612/",
+      "title": "China unveils plan to quadruple AI computing capacity to 9,800 exaflops by 2030",
+      "source": "South China Morning Post",
+      "url": "https://www.scmp.com/tech/policy/article/3366733/china-targets-fourfold-boost-ai-computing-capacity-2030-major-tech-push",
       "topic": "AI",
-      "reason": "Los Angeles Unified is blocking generative AI on school-issued devices for all students while a new committee develops guardrails, following New York City's similar moratorium days earlier."
+      "reason": "The five-year plan commits 3.8 trillion yuan ($532 billion) in infrastructure spending and calls for 10,000-GPU compute clusters, a state-directed answer to Washington's chip restrictions."
     },
     {
-      "title": "Hurricane Lowell to pass near Kauai as a major hurricane, prompting tropical storm warnings",
-      "source": "CNN",
-      "url": "https://www.cnn.com/2026/09/04/weather/hurricane-lowell-hawaii-storm-path-climate",
-      "topic": "World",
-      "reason": "Lowell is expected to pass just west of Kauai and Niihau late Monday with gusts up to 74 mph and waves as high as 14 feet, marking Hawaii's third major storm threat in three weeks."
+      "title": "Canada's retaliatory tariffs take effect hours after Trump's Bombardier threat",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/08/canada-retaliatory-tariffs.html",
+      "topic": "Economy",
+      "reason": "PM Mark Carney's $27.6 billion in tariffs on US goods kicked in just after midnight, escalating a trade war Trump deepened by threatening to block Bombardier jet sales unless production moves to America."
+    },
+    {
+      "title": "Stocks fall as Saudi attacks and trade tensions compound Middle East oil jitters",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-sept-8-133744027.html",
+      "topic": "Economy",
+      "reason": "Apple, Alphabet and Microsoft led declines of more than 2% as investors weighed the widening Saudi-Houthi conflict, renewed US-Iran strikes and escalating US-Canada trade friction all at once."
+    },
+    {
+      "title": "US sanctions all remaining Iranian airlines over oil-smuggling ties",
+      "source": "Reuters",
+      "url": "https://www.cbsnews.com/live-updates/iran-war-us-strait-of-hormuz-oil-gas-price-strikes/",
+      "topic": "Politics",
+      "reason": "Treasury Secretary Bessent warned that doing business with the sanctioned carriers risks being cut off from the global financial system, tightening the economic squeeze as Brent crude hits a seven-week high near $97."
     }
   ]
 }
