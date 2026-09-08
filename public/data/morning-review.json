@@ -1,61 +1,61 @@
 {
-  "generatedAt": "2026-09-07T04:25:00Z",
+  "generatedAt": "2026-09-08T04:25:00Z",
   "stories": [
     {
-      "title": "Iran plans to announce an 'exclusion zone' near the Strait of Hormuz",
-      "source": "AP",
-      "url": "https://www.manilatimes.net/2026/09/07/world/americas-emea/iran-says-it-plans-to-announce-a-new-exclusion-zone-near-the-strait-of-hormuz/2419496",
-      "topic": "World",
-      "reason": "The zone would run from the US naval blockade line into the Persian Gulf, with any vessel entering it while trying to transit Hormuz added to Iran's sanctions list -- a direct counter-move a day after the US destroyed three of its oil tankers."
-    },
-    {
-      "title": "Witkoff and Kushner leave Kyiv pushing a 'refreshed' peace proposal after no Moscow breakthrough",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/ukraine-russia-us-talks-peace-war-witkoff-kushner/",
-      "topic": "World",
-      "reason": "Despite three hours with Putin producing no announced breakthrough, the envoys called their Kyiv talks with Zelenskyy 'encouraging' and say next steps will be announced in the coming weeks, with both sides open to reviving trilateral talks."
-    },
-    {
-      "title": "Armed man charges toward Ohio gubernatorial candidate Amy Acton at campaign event, injuring several",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/amy-acton-ohio-armed-man-attack/",
+      "title": "Trump threatens to block Bombardier jet sales in the US unless production moves stateside",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/7/trump-threatens-to-block-canadas-bombardier-sales-unless-planes-made-in-us",
       "topic": "Politics",
-      "reason": "The suspect, carrying two legally-owned pistols and brass knuckles, knocked down two elderly attendees while shoving toward Acton at the Canfield Fair, the latest incident to raise alarm about political violence ahead of the midterms."
+      "reason": "The threat lands hours before Canada's retaliatory tariffs on $20 billion of US goods take effect, escalating the trade war just as Quebec's premier vows government support for the aircraft maker."
     },
     {
-      "title": "Missouri Supreme Court blocks Trump-backed congressional map, orders a statewide referendum",
+      "title": "Hurricane Lowell menaces Hawaii with life-threatening surf and 120 mph winds",
       "source": "NBC News",
-      "url": "https://www.nbcnews.com/politics/2026-election/missouri-supreme-court-rules-gop-drawn-map-cant-used-november-election-rcna595688",
-      "topic": "Politics",
-      "reason": "The unanimous ruling keeps the pre-2025 map in effect for November's election while voters decide the new one's fate, and Missouri's attorney general says she'll appeal to the US Supreme Court."
-    },
-    {
-      "title": "China's Galactic Energy reaches orbit with its Pallas-1 rocket on its debut flight",
-      "source": "Technology.org",
-      "url": "https://www.technology.org/2026/09/06/china-pallas-1-debut-launch-reusable-rockets/",
-      "topic": "Tech",
-      "reason": "The success puts another Chinese private company on a path toward reusable orbital launch, intensifying competition with SpaceX's Falcon 9 as more than a dozen Chinese firms race toward booster recovery this year."
-    },
-    {
-      "title": "Broadcom's AI chip revenue soars 221% to $16.7 billion, with guidance implying $230 billion by 2028",
-      "source": "The Motley Fool",
-      "url": "https://www.fool.com/investing/2026/09/04/broadcoms-artificial-intelligence-ai-chip-sales-su/",
-      "topic": "Economy",
-      "reason": "Management says demand for custom AI chips continues to outstrip supply, underscoring how far the AI infrastructure buildout still has to run even as some investors question its pace."
-    },
-    {
-      "title": "China's Moonshot AI files for a $3 billion Hong Kong IPO at a $50 billion valuation",
-      "source": "TechCrunch",
-      "url": "https://techstartups.com/2026/09/03/chinese-ai-startup-moonshot-files-for-3-billion-hong-kong-ipo-at-50-billion-valuation/",
-      "topic": "AI",
-      "reason": "The maker of the 2.8-trillion-parameter Kimi K3 model would list well behind rivals DeepSeek ($74B) and Z.AI ($66B), highlighting how crowded and capital-intensive China's AI startup race has become."
-    },
-    {
-      "title": "Sweden's election tightens to a razor-thin margin 11 days before the September 13 vote",
-      "source": "Reuters",
-      "url": "https://www.timeslive.co.za/news/world/2026-09-02-swedens-election-tightens-with-11-days-to-go-tv4-poll-shows/",
+      "url": "https://www.nbcnews.com/weather/hurricanes/hurricane-lowell-hawaii-islands-life-threatening-surf-rcna596294",
       "topic": "World",
-      "reason": "A new poll puts the centre-left opposition at 50.3% against the governing right-wing coalition's 47.7%, the smallest gap of the campaign, setting up a genuine toss-up in one of Europe's most closely watched elections."
+      "reason": "A state of emergency and National Guard activation are in effect as the storm passes near Kauai and Niihau, threatening up to 14 inches of rain, flash flooding and dangerous coastal inundation."
+    },
+    {
+      "title": "Duterte impeachment trial reveals 37 recipients of her confidential funds were already dead",
+      "source": "Inquirer.net",
+      "url": "https://newsinfo.inquirer.net/487671/live-updates-sara-duterte-impeachment-trial-sept-7-2026/",
+      "topic": "Politics",
+      "reason": "Philippine statistics records show one supposed informant had been dead for 61 years and another was a two-month-old baby, deepening the corruption case against the sitting vice president."
+    },
+    {
+      "title": "Adobe names Anil Chakravarthy as CEO, succeeding Shantanu Narayen after 18 years",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/03/adobe-anil-chakravarthy-ceo.html",
+      "topic": "Tech",
+      "reason": "Chakravarthy takes over December 1 tasked with leading Adobe's fight against AI-native rivals eating into its creative-software dominance, while Narayen moves to executive chair."
+    },
+    {
+      "title": "CISA flags actively exploited authentication bypass in LiteLLM's AI gateway",
+      "source": "SecurityOnline",
+      "url": "https://securityonline.info/cisa-kev-vulnerabilities/",
+      "topic": "AI",
+      "reason": "The flaw lets attackers access AI tooling with a fabricated bearer token and no valid credentials, and with over 80,000 internet-facing LiteLLM systems exposed, federal agencies face a September 16 patch deadline."
+    },
+    {
+      "title": "Nvidia's AI equity investment portfolio hits $99 billion, up from $7 billion a year ago",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/04/nvidia-ai-investments-99-billion.html",
+      "topic": "Economy",
+      "reason": "Roughly half the stake is in frontier labs like OpenAI and Anthropic, illustrating how Nvidia is using its chip profits to lock in demand and influence across nearly every layer of the AI stack."
+    },
+    {
+      "title": "Chip stocks rally as investors bet on demand from OpenAI's new GPT-6 Astra model",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-07/stock-market-today-dow-s-p-live-updates",
+      "topic": "Economy",
+      "reason": "Micron rose 6%, Marvell 7% and Sandisk nearly 12% as markets priced in fresh AI-driven chip demand even as broader indexes slipped on Middle East-driven oil price worries."
+    },
+    {
+      "title": "Australian consumer sentiment sinks as fuel prices rebound and rate-hike fears grow",
+      "source": "ABC News Australia",
+      "url": "https://www.abc.net.au/news/2026-09-08/asx-markets-business-live-news-september-8-2026/107127114",
+      "topic": "Economy",
+      "reason": "The Westpac-Melbourne Institute sentiment index fell 5.2% to 84.4, showing how Iran-war-driven oil prices are squeezing household confidence well beyond the US and Gulf region."
     }
   ]
 }
