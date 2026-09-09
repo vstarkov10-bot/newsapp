@@ -1,61 +1,61 @@
 {
-  "generatedAt": "2026-09-08T19:20:00Z",
+  "generatedAt": "2026-09-09T19:20:00Z",
   "stories": [
     {
-      "title": "Houthis launch heaviest attack in years on Saudi oil facilities, wounding 73",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/09/08/g-s1-142296/houthi-attacks-saudi-arabia",
+      "title": "Iran fires ballistic missiles at US base in Jordan; 18 of 20 intercepted",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/9/what-is-jordans-al-azraq-base-and-why-is-iran-targeting-it",
       "topic": "World",
-      "reason": "Dozens of ballistic missiles set Aramco facilities and an airbase ablaze after a four-year Saudi-Houthi truce collapsed in July, and Saudi Arabia has already retaliated -- opening a dangerous new front alongside the Iran war."
+      "reason": "The IRGC barrage against Muwaffaq Salti Air Base near Amman drags a fourth country directly into the fighting, with US Patriot batteries and Jordanian air defenses needed to stop the strike from causing casualties."
     },
     {
-      "title": "UK bans goods from Israeli West Bank settlements, accuses settlers of 'ethnic cleansing'",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/09/08/nx-s1-5961044/uk-occcupied-west-bank-goods-israel",
-      "topic": "World",
-      "reason": "Israel says it will close the British consulate in Jerusalem in response, while the US warns British companies could face restrictions -- and France and Canada are preparing similar bans."
+      "title": "NSA, CISA and FBI accuse six Chinese AI firms of industrial-scale distillation of US models",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2253604/us-authorities-accuse-chinese-ai-companies-of-industrial-scale-campaigns-to-copy-american-models/",
+      "topic": "AI",
+      "reason": "The joint advisory names DeepSeek, Alibaba, Moonshot AI, MiniMax, StepFun and Z.AI, alleging systematic extraction from Claude, GPT, Gemini and Grok since late 2024 -- the most direct US intelligence accusation yet against China's AI industry."
     },
     {
-      "title": "Witkoff reports 'substantive progress' on Ukraine peace talks as brief ceasefire ends",
-      "source": "The Hill",
-      "url": "https://thehill.com/policy/international/6075212-witkoff-progress-russia-ukraine-talks/",
-      "topic": "World",
-      "reason": "The temporary halt in fighting expired today and heavy Russian airstrikes have resumed, even as Zelenskyy says he hopes to meet Trump around September 20 to build on the groundwork laid in Moscow and Kyiv."
+      "title": "OpenAI says its AI cracked a Navier-Stokes Millennium Prize problem, but a credit dispute erupts",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/09/08/openai-math-solution-navier-stokes-credit",
+      "topic": "AI",
+      "reason": "10,000 parallel AI agents and 88 hours of compute reportedly resolved one of math's six remaining Millennium Prize problems, but a mathematician accuses OpenAI of building on his unpublished, unaffiliated work without proper credit."
     },
     {
-      "title": "Mistral raises €3 billion at a €21 billion valuation, Europe's largest-ever tech funding round",
+      "title": "Meta launches Muse, a personal AI agent that can email, book travel and shop for you",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/",
+      "url": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/",
       "topic": "AI",
-      "reason": "Led by Samsung with BlackRock and Luxembourg's government joining as new investors, the round underscores how 'sovereign AI' has become a serious commercial category as Europe seeks alternatives to US and Chinese labs."
+      "reason": "Aimed squarely at mainstream consumers rather than developers, Muse plugs into email, calendars and Stripe-powered checkout with tiered $20/$100 plans, escalating the race with OpenAI and Google to own the 'agent that acts for you' category."
     },
     {
-      "title": "China unveils plan to quadruple AI computing capacity to 9,800 exaflops by 2030",
-      "source": "South China Morning Post",
-      "url": "https://www.scmp.com/tech/policy/article/3366733/china-targets-fourfold-boost-ai-computing-capacity-2030-major-tech-push",
-      "topic": "AI",
-      "reason": "The five-year plan commits 3.8 trillion yuan ($532 billion) in infrastructure spending and calls for 10,000-GPU compute clusters, a state-directed answer to Washington's chip restrictions."
-    },
-    {
-      "title": "Canada's retaliatory tariffs take effect hours after Trump's Bombardier threat",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/08/canada-retaliatory-tariffs.html",
-      "topic": "Economy",
-      "reason": "PM Mark Carney's $27.6 billion in tariffs on US goods kicked in just after midnight, escalating a trade war Trump deepened by threatening to block Bombardier jet sales unless production moves to America."
-    },
-    {
-      "title": "Stocks fall as Saudi attacks and trade tensions compound Middle East oil jitters",
+      "title": "Stocks slide as oil surges past $100 a barrel, even as Meta shares gain",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-sept-8-133744027.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-midday-sept-9-165800985.html",
       "topic": "Economy",
-      "reason": "Apple, Alphabet and Microsoft led declines of more than 2% as investors weighed the widening Saudi-Houthi conflict, renewed US-Iran strikes and escalating US-Canada trade friction all at once."
+      "reason": "The VIX jumped more than 5% and the 10-year yield climbed as Iran's strike on Jordan pushed crude above the psychologically important $100 mark, overshadowing gains from Meta's AI-agent launch."
     },
     {
-      "title": "US sanctions all remaining Iranian airlines over oil-smuggling ties",
-      "source": "Reuters",
-      "url": "https://www.cbsnews.com/live-updates/iran-war-us-strait-of-hormuz-oil-gas-price-strikes/",
+      "title": "Rep. Chris Pappas wins New Hampshire's Democratic Senate primary in a landslide",
+      "source": "New Hampshire Public Radio",
+      "url": "https://www.nhpr.org/politics/2026-09-08/pappas-sununu-win-senate-primaries-nh-newhampshire-elections-2026",
       "topic": "Politics",
-      "reason": "Treasury Secretary Bessent warned that doing business with the sanctioned carriers risks being cut off from the global financial system, tightening the economic squeeze as Brent crude hits a seven-week high near $97."
+      "reason": "Pappas's 60-38 win over a progressive challenger sets up a marquee November contest against former Sen. John Sununu for Jeanne Shaheen's open seat, one of the races that will decide Senate control."
+    },
+    {
+      "title": "Wife of Amazon cargo-plane crash victim sues after fatal Miami runway disaster",
+      "source": "CBS News Miami",
+      "url": "https://www.cbsnews.com/miami/news/amazon-cargo-plane-crash-lawsuit-miami-international-airport-september-9-2026/",
+      "topic": "World",
+      "reason": "The first lawsuit lands as NTSB investigators probe why the Boeing 767's crew applied full takeoff power seconds before overrunning the runway and killing five ground workers, keeping scrutiny on the airport and its contractors."
+    },
+    {
+      "title": "Google DeepMind releases AlphaGenome Atlas, a 1-petabyte map of the human genome",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-02835-4",
+      "topic": "AI",
+      "reason": "The dataset predicts the molecular effects of every possible single-nucleotide variant across roughly 9 billion genome positions, a resource researchers say could dramatically accelerate disease-variant discovery."
     }
   ]
 }
