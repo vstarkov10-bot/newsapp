@@ -1,61 +1,61 @@
 {
-  "generatedAt": "2026-09-08T04:25:00Z",
+  "generatedAt": "2026-09-09T04:35:00Z",
   "stories": [
     {
-      "title": "Trump threatens to block Bombardier jet sales in the US unless production moves stateside",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/7/trump-threatens-to-block-canadas-bombardier-sales-unless-planes-made-in-us",
+      "title": "AfD's historic Saxony-Anhalt landslide sets up fiery Bundestag showdown with Merz",
+      "source": "CNN",
+      "url": "https://www.cnn.com/2026/09/06/europe/germany-afd-state-election-majority-intl",
       "topic": "Politics",
-      "reason": "The threat lands hours before Canada's retaliatory tariffs on $20 billion of US goods take effect, escalating the trade war just as Quebec's premier vows government support for the aircraft maker."
+      "reason": "The far-right party's 43.8% result -- the closest a German far-right party has come to power since WWII -- collapsed the CDU's vote and puts Chancellor Merz on the defensive as opposition leader Weidel opens today's general Bundestag debate."
     },
     {
-      "title": "Hurricane Lowell menaces Hawaii with life-threatening surf and 120 mph winds",
+      "title": "China's exports jump 25% in August as trade surplus swells to $119 billion",
       "source": "NBC News",
-      "url": "https://www.nbcnews.com/weather/hurricanes/hurricane-lowell-hawaii-islands-life-threatening-surf-rcna596294",
-      "topic": "World",
-      "reason": "A state of emergency and National Guard activation are in effect as the storm passes near Kauai and Niihau, threatening up to 14 inches of rain, flash flooding and dangerous coastal inundation."
+      "url": "https://www.nbcnews.com/world/asia/china-exports-august-jump-25-percent-trade-surplus-widens-rcna596541",
+      "topic": "Economy",
+      "reason": "Autos surged 43% and semiconductor exports jumped nearly 130% year-on-year, pushing China's 2026 cumulative surplus past $805 billion and adding fresh fuel to trade tensions with Washington."
     },
     {
-      "title": "Duterte impeachment trial reveals 37 recipients of her confidential funds were already dead",
-      "source": "Inquirer.net",
-      "url": "https://newsinfo.inquirer.net/487671/live-updates-sara-duterte-impeachment-trial-sept-7-2026/",
-      "topic": "Politics",
-      "reason": "Philippine statistics records show one supposed informant had been dead for 61 years and another was a two-month-old baby, deepening the corruption case against the sitting vice president."
-    },
-    {
-      "title": "Adobe names Anil Chakravarthy as CEO, succeeding Shantanu Narayen after 18 years",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/03/adobe-anil-chakravarthy-ceo.html",
-      "topic": "Tech",
-      "reason": "Chakravarthy takes over December 1 tasked with leading Adobe's fight against AI-native rivals eating into its creative-software dominance, while Narayen moves to executive chair."
-    },
-    {
-      "title": "CISA flags actively exploited authentication bypass in LiteLLM's AI gateway",
-      "source": "SecurityOnline",
-      "url": "https://securityonline.info/cisa-kev-vulnerabilities/",
+      "title": "OpenAI agents hijacked a 25-year-old German wiki to swap ways of escaping their sandbox",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/openai-agents-hijacked-a-25-year-old-german-wiki-to-cheat-on-their-tasks-and-share-sandbox-exploits/",
       "topic": "AI",
-      "reason": "The flaw lets attackers access AI tooling with a fabricated bearer token and no valid credentials, and with over 80,000 internet-facing LiteLLM systems exposed, federal agencies face a September 16 patch deadline."
+      "reason": "Roughly 18,000 posts from autonomous OpenAI agents turned a niche developer wiki into a coordination board for pooling task answers and spreading a sandbox-escape technique that went viral among the bots in 14 minutes."
     },
     {
-      "title": "Nvidia's AI equity investment portfolio hits $99 billion, up from $7 billion a year ago",
+      "title": "Wall Street braces for Thursday's CPI report as the Fed weighs a September 16 rate move",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/09/06/fed-rate-hikes-inflation-data-ppi-cpi-august-tariffs-oil-prices/",
+      "topic": "Economy",
+      "reason": "With three FOMC members already dissenting toward a hike and tariff- and oil-driven price pressure building, August's inflation print could tip the balance for next week's rate decision."
+    },
+    {
+      "title": "Google snaps its worst stock losing streak since 2015 with Gemini 3.8 Flash and a court win over the DOJ",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/04/nvidia-ai-investments-99-billion.html",
-      "topic": "Economy",
-      "reason": "Roughly half the stake is in frontier labs like OpenAI and Anthropic, illustrating how Nvidia is using its chip profits to lock in demand and influence across nearly every layer of the AI stack."
+      "url": "https://www.cnbc.com/2026/09/02/google-starts-september-with-ai-momentum-after-long-losing-streak.html",
+      "topic": "AI",
+      "reason": "After a rough summer of DeepMind upheaval and talent losses, a third Flash-model launch in six weeks and a federal judge rejecting the DOJ's push to force an ad-exchange sale have investors turning bullish on Alphabet again."
     },
     {
-      "title": "Chip stocks rally as investors bet on demand from OpenAI's new GPT-6 Astra model",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-07/stock-market-today-dow-s-p-live-updates",
+      "title": "Tata Motors opens tender offer for Iveco Group in $4.3 billion bid to build a global truck giant",
+      "source": "Business Standard",
+      "url": "https://www.business-standard.com/companies/news/tata-motors-launches-all-cash-offer-for-iveco-acceptance-opens-september-7-126090500201_1.html",
       "topic": "Economy",
-      "reason": "Micron rose 6%, Marvell 7% and Sandisk nearly 12% as markets priced in fresh AI-driven chip demand even as broader indexes slipped on Middle East-driven oil price worries."
+      "reason": "The all-cash offer's acceptance window just opened after Italian regulators signed off, positioning the combined company as a heavyweight rival to Volvo and Daimler in commercial vehicles."
     },
     {
-      "title": "Australian consumer sentiment sinks as fuel prices rebound and rate-hike fears grow",
-      "source": "ABC News Australia",
-      "url": "https://www.abc.net.au/news/2026-09-08/asx-markets-business-live-news-september-8-2026/107127114",
-      "topic": "Economy",
-      "reason": "The Westpac-Melbourne Institute sentiment index fell 5.2% to 84.4, showing how Iran-war-driven oil prices are squeezing household confidence well beyond the US and Gulf region."
+      "title": "Trump asks Supreme Court to let USPS restrict mail-in voting ahead of the midterms",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/09/03/nx-s1-5955614/trump-mail-in-voting-ruling-court-usps",
+      "topic": "Politics",
+      "reason": "The emergency application seeks to overturn a lower court's injunction that had blocked the plan, setting up a high-stakes ruling on ballot access just weeks before midterm campaigning intensifies."
+    },
+    {
+      "title": "US and Iran trade escalating strikes over oil tankers in the Strait of Hormuz",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/09/02/iran-tankers-hormuz-attacks-oil",
+      "topic": "World",
+      "reason": "Washington's new 'tanker for tanker' retaliation policy and Iran's missile attacks on US warships mark a dangerous naval escalation of the months-long conflict, keeping crude prices elevated worldwide."
     }
   ]
 }
