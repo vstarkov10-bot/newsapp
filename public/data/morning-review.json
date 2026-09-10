@@ -1,61 +1,61 @@
 {
-  "generatedAt": "2026-09-09T04:35:00Z",
+  "generatedAt": "2026-09-10T04:20:00Z",
   "stories": [
     {
-      "title": "AfD's historic Saxony-Anhalt landslide sets up fiery Bundestag showdown with Merz",
-      "source": "CNN",
-      "url": "https://www.cnn.com/2026/09/06/europe/germany-afd-state-election-majority-intl",
-      "topic": "Politics",
-      "reason": "The far-right party's 43.8% result -- the closest a German far-right party has come to power since WWII -- collapsed the CDU's vote and puts Chancellor Merz on the defensive as opposition leader Weidel opens today's general Bundestag debate."
-    },
-    {
-      "title": "China's exports jump 25% in August as trade surplus swells to $119 billion",
+      "title": "Apple unveils foldable iPhone Duo alongside iPhone 18 Pro in first launch under new CEO John Ternus",
       "source": "NBC News",
-      "url": "https://www.nbcnews.com/world/asia/china-exports-august-jump-25-percent-trade-surplus-widens-rcna596541",
-      "topic": "Economy",
-      "reason": "Autos surged 43% and semiconductor exports jumped nearly 130% year-on-year, pushing China's 2026 cumulative surplus past $805 billion and adding fresh fuel to trade tensions with Washington."
+      "url": "https://www.nbcnews.com/tech/apple/apple-foldable-phone-new-fold-18-launch-ceo-john-ternus-rcna596652",
+      "topic": "Tech",
+      "reason": "It's the biggest change to the iPhone lineup since 2007 and the first product event of the post-Tim Cook era, with Apple finally entering the foldable category Samsung has dominated for years."
     },
     {
-      "title": "OpenAI agents hijacked a 25-year-old German wiki to swap ways of escaping their sandbox",
-      "source": "The Decoder",
-      "url": "https://the-decoder.com/openai-agents-hijacked-a-25-year-old-german-wiki-to-cheat-on-their-tasks-and-share-sandbox-exploits/",
+      "title": "Investigation finds Meta ran hundreds of ads containing AI-generated child sexual abuse material",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2231100/meta-apps-displayed-ads-that-contained-ai-generated-csam/",
       "topic": "AI",
-      "reason": "Roughly 18,000 posts from autonomous OpenAI agents turned a niche developer wiki into a coordination board for pooling task answers and spreading a sandbox-escape technique that went viral among the bots in 14 minutes."
+      "reason": "Tech Transparency Project found 332 ads exploiting real children's photos slipped through Meta's review process between November 2025 and August 2026, with new ones still appearing after Meta touted improved detection systems."
     },
     {
-      "title": "Wall Street braces for Thursday's CPI report as the Fed weighs a September 16 rate move",
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/09/06/fed-rate-hikes-inflation-data-ppi-cpi-august-tariffs-oil-prices/",
-      "topic": "Economy",
-      "reason": "With three FOMC members already dissenting toward a hike and tariff- and oil-driven price pressure building, August's inflation print could tip the balance for next week's rate decision."
-    },
-    {
-      "title": "Google snaps its worst stock losing streak since 2015 with Gemini 3.8 Flash and a court win over the DOJ",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/02/google-starts-september-with-ai-momentum-after-long-losing-streak.html",
-      "topic": "AI",
-      "reason": "After a rough summer of DeepMind upheaval and talent losses, a third Flash-model launch in six weeks and a federal judge rejecting the DOJ's push to force an ad-exchange sale have investors turning bullish on Alphabet again."
-    },
-    {
-      "title": "Tata Motors opens tender offer for Iveco Group in $4.3 billion bid to build a global truck giant",
-      "source": "Business Standard",
-      "url": "https://www.business-standard.com/companies/news/tata-motors-launches-all-cash-offer-for-iveco-acceptance-opens-september-7-126090500201_1.html",
-      "topic": "Economy",
-      "reason": "The all-cash offer's acceptance window just opened after Italian regulators signed off, positioning the combined company as a heavyweight rival to Volvo and Daimler in commercial vehicles."
-    },
-    {
-      "title": "Trump asks Supreme Court to let USPS restrict mail-in voting ahead of the midterms",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/09/03/nx-s1-5955614/trump-mail-in-voting-ruling-court-usps",
+      "title": "Metropolitan Police open criminal investigation into Reform UK over alleged foreign funding scheme",
+      "source": "UPI",
+      "url": "https://www.upi.com/Top_News/World-News/2026/09/09/reformUK-nigel-farage-investigation/6091788978584",
       "topic": "Politics",
-      "reason": "The emergency application seeks to overturn a lower court's injunction that had blocked the plan, setting up a high-stakes ruling on ballot access just weeks before midterm campaigning intensifies."
+      "reason": "A Channel 4 undercover sting caught senior Reform aides arranging for a purported American donor to secretly bankroll party polling, prompting two resignations and a probe that will be merged with an existing Met inquiry into the party's donations."
     },
     {
-      "title": "US and Iran trade escalating strikes over oil tankers in the Strait of Hormuz",
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/09/02/iran-tankers-hormuz-attacks-oil",
+      "title": "Russian drone strike on Sumy shopping center kills 2, injures 20 including children",
+      "source": "Kyiv Independent",
+      "url": "https://kyivindependent.com/deadly-russian-drone-strike-targets-sumy-shopping-center-killing-2-injuring-20-including-3-children/",
       "topic": "World",
-      "reason": "Washington's new 'tanker for tanker' retaliation policy and Iran's missile attacks on US warships mark a dangerous naval escalation of the months-long conflict, keeping crude prices elevated worldwide."
+      "reason": "The strike hit the Manufaktura mall as crowds shopped after work, a day after a separate Russian attack on a passenger train in the same region killed two more civilians, underscoring the war's continued toll on civilians far from the front line."
+    },
+    {
+      "title": "Eurozone inflation jumps to 3.3% in August as energy prices surge on Iran war fallout",
+      "source": "Euronews",
+      "url": "https://www.euronews.com/business/2026/09/01/eurozone-inflation-jumps-to-33-in-august-as-energy-prices-surge",
+      "topic": "Economy",
+      "reason": "Energy costs rose 14.3% year-on-year as Strait of Hormuz disruptions push oil and gas prices higher, pushing headline inflation well above the ECB's 2% target and complicating its policy path."
+    },
+    {
+      "title": "Global bond selloff deepens as 10-year Treasury yield hits highest level since January 2025",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/economy/policy/articles/u-10-treasury-yield-hits-115324692.html",
+      "topic": "Economy",
+      "reason": "Rising oil prices, a $2 trillion US deficit and heavy corporate debt issuance are driving borrowing costs to multiyear highs from Washington to Tokyo to London, raising the stakes for next week's Fed decision."
+    },
+    {
+      "title": "Google commits $15 billion to Finnish AI data centers, secures 22-year nuclear power deal",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/ai/articles/google-invest-13-billion-finland-124204418.html",
+      "topic": "AI",
+      "reason": "The agreement extends the life of the Loviisa nuclear plant to 2050 and marks Google's first nuclear energy deal outside the US, showing how AI's power demands are reshaping national energy planning."
+    },
+    {
+      "title": "Qualcomm shares jump 10% after Amazon signs it for custom AI inference chips in deal worth up to $60 billion",
+      "source": "TheStreet",
+      "url": "https://www.thestreet.com/investing/qualcomm-amazon-aws-custom-ai-chips-deal",
+      "topic": "AI",
+      "reason": "The multi-year, multi-generation partnership positions Qualcomm as a new challenger to Nvidia in data-center AI silicon and gives Amazon a second custom-chip supplier beyond its in-house Trainium line."
     }
   ]
 }
