@@ -1,61 +1,61 @@
 {
-  "generatedAt": "2026-09-09T19:20:00Z",
+  "generatedAt": "2026-09-10T19:25:00Z",
   "stories": [
     {
-      "title": "Iran fires ballistic missiles at US base in Jordan; 18 of 20 intercepted",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/9/what-is-jordans-al-azraq-base-and-why-is-iran-targeting-it",
+      "title": "Houthis seize strategic Red Sea port city of Mocha, push toward the Bab al-Mandeb chokepoint",
+      "source": "CNN",
+      "url": "https://www.cnn.com/2026/09/10/middleeast/houthis-capture-mocha-red-sea-strait-intl",
       "topic": "World",
-      "reason": "The IRGC barrage against Muwaffaq Salti Air Base near Amman drags a fourth country directly into the fighting, with US Patriot batteries and Jordanian air defenses needed to stop the strike from causing casualties."
+      "reason": "The fall of Mocha and nearby Zuqar Island tightens Iran-backed rebels' grip on the strait linking Asia to Europe via the Suez Canal, prompting Yemen's government to call it a regional emergency requiring international intervention."
     },
     {
-      "title": "NSA, CISA and FBI accuse six Chinese AI firms of industrial-scale distillation of US models",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2253604/us-authorities-accuse-chinese-ai-companies-of-industrial-scale-campaigns-to-copy-american-models/",
-      "topic": "AI",
-      "reason": "The joint advisory names DeepSeek, Alibaba, Moonshot AI, MiniMax, StepFun and Z.AI, alleging systematic extraction from Claude, GPT, Gemini and Grok since late 2024 -- the most direct US intelligence accusation yet against China's AI industry."
-    },
-    {
-      "title": "OpenAI says its AI cracked a Navier-Stokes Millennium Prize problem, but a credit dispute erupts",
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/09/08/openai-math-solution-navier-stokes-credit",
-      "topic": "AI",
-      "reason": "10,000 parallel AI agents and 88 hours of compute reportedly resolved one of math's six remaining Millennium Prize problems, but a mathematician accuses OpenAI of building on his unpublished, unaffiliated work without proper credit."
-    },
-    {
-      "title": "Meta launches Muse, a personal AI agent that can email, book travel and shop for you",
+      "title": "ID-verification giant IDScan confirms breach exposing more than 150 million driver's licenses",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/",
+      "url": "https://techcrunch.com/2026/09/10/id-verification-giant-idscan-confirms-data-breach-with-more-than-150-million-drivers-licenses-stolen/",
+      "topic": "Tech",
+      "reason": "Hackers pulled full names, license numbers and other government-ID data from the cloud platform used by venues and retailers nationwide to check customer identities, one of the largest identity-document breaches on record."
+    },
+    {
+      "title": "DOJ investigates whether Nvidia structured its $20 billion Groq deal to dodge antitrust review",
+      "source": "The Next Web",
+      "url": "https://thenextweb.com/news/doj-nvidia-groq-licensing-antitrust-review",
       "topic": "AI",
-      "reason": "Aimed squarely at mainstream consumers rather than developers, Muse plugs into email, calendars and Stripe-powered checkout with tiered $20/$100 plans, escalating the race with OpenAI and Google to own the 'agent that acts for you' category."
+      "reason": "Prosecutors are scrutinizing the non-exclusive chip-technology licensing pact and Nvidia's hiring of Groq's founder, testing how far the AI giant can go in absorbing rivals' technology without triggering a formal merger review."
     },
     {
-      "title": "Stocks slide as oil surges past $100 a barrel, even as Meta shares gain",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-midday-sept-9-165800985.html",
-      "topic": "Economy",
-      "reason": "The VIX jumped more than 5% and the 10-year yield climbed as Iran's strike on Jordan pushed crude above the psychologically important $100 mark, overshadowing gains from Meta's AI-agent launch."
-    },
-    {
-      "title": "Rep. Chris Pappas wins New Hampshire's Democratic Senate primary in a landslide",
-      "source": "New Hampshire Public Radio",
-      "url": "https://www.nhpr.org/politics/2026-09-08/pappas-sununu-win-senate-primaries-nh-newhampshire-elections-2026",
-      "topic": "Politics",
-      "reason": "Pappas's 60-38 win over a progressive challenger sets up a marquee November contest against former Sen. John Sununu for Jeanne Shaheen's open seat, one of the races that will decide Senate control."
-    },
-    {
-      "title": "Wife of Amazon cargo-plane crash victim sues after fatal Miami runway disaster",
-      "source": "CBS News Miami",
-      "url": "https://www.cbsnews.com/miami/news/amazon-cargo-plane-crash-lawsuit-miami-international-airport-september-9-2026/",
+      "title": "Bangladesh's worst-ever measles outbreak nears 1,000 deaths as vaccination gaps persist",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/world/asia/bangladesh-measles-outbreak-kills-nearly-1000-rcna596960",
       "topic": "World",
-      "reason": "The first lawsuit lands as NTSB investigators probe why the Boeing 767's crew applied full takeoff power seconds before overrunning the runway and killing five ground workers, keeping scrutiny on the airport and its contractors."
+      "reason": "More than 166,000 suspected cases since March have overwhelmed hospitals, with experts blaming disrupted immunization programs during the country's post-uprising political turmoil for the world's largest current outbreak."
     },
     {
-      "title": "Google DeepMind releases AlphaGenome Atlas, a 1-petabyte map of the human genome",
-      "source": "Nature",
-      "url": "https://www.nature.com/articles/d41586-026-02835-4",
+      "title": "Trump says Iran war will end 'immediately' after the midterms as oil stays above $100",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/9/trump-says-iran-war-will-end-immediately-after-us-midterm-elections",
+      "topic": "Politics",
+      "reason": "Trump suggested Iran is prolonging the seven-month war to hurt Republicans politically and ruled out near-term negotiations, tying the conflict's endgame directly to the November election he's now headlining rallies for."
+    },
+    {
+      "title": "Wall Street falls as producer prices rise and Treasury yields hit fresh highs ahead of Friday's CPI",
+      "source": "TheStreet",
+      "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-sept-10-2026",
+      "topic": "Economy",
+      "reason": "August's 0.4% PPI increase matched estimates but did nothing to ease bond-market jitters, leaving Friday's consumer inflation report as the last major data point before the Fed's September 16 rate decision."
+    },
+    {
+      "title": "California enacts first-in-the-nation laws requiring independent AI audits and creating an auditor registry",
+      "source": "Xinhua",
+      "url": "https://english.news.cn/20260910/0dde5e26a2fa48c1a435df9485f2411e/c.html",
       "topic": "AI",
-      "reason": "The dataset predicts the molecular effects of every possible single-nucleotide variant across roughly 9 billion genome positions, a resource researchers say could dramatically accelerate disease-variant discovery."
+      "reason": "Governor Newsom's signing of AB 1405 and SB 813 stops AI companies from grading their own homework on state-law compliance, a template other states and Washington could follow as federal AI regulation stays gridlocked."
+    },
+    {
+      "title": "Anthropic models three AI-driven US economic futures through 2030, with GDP up to 32% higher in the extreme case",
+      "source": "Computerworld",
+      "url": "https://www.computerworld.com/article/4220493/anthropic-maps-three-ai-futures-for-2030-the-most-extreme-could-upend-the-economy.html",
+      "topic": "Economy",
+      "reason": "The new Econ Scenario Explorer tool projects scenarios ranging from a modest 1.6% GDP boost to a $44.4 trillion 'extreme' economy, but also flags unemployment climbing as high as 17.9% and wages falling if automation outpaces new job creation."
     }
   ]
 }
