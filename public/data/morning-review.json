@@ -1,61 +1,61 @@
 {
-  "generatedAt": "2026-09-10T04:20:00Z",
+  "generatedAt": "2026-09-11T04:25:00Z",
   "stories": [
     {
-      "title": "Apple unveils foldable iPhone Duo alongside iPhone 18 Pro in first launch under new CEO John Ternus",
-      "source": "NBC News",
-      "url": "https://www.nbcnews.com/tech/apple/apple-foldable-phone-new-fold-18-launch-ceo-john-ternus-rcna596652",
-      "topic": "Tech",
-      "reason": "It's the biggest change to the iPhone lineup since 2007 and the first product event of the post-Tim Cook era, with Apple finally entering the foldable category Samsung has dominated for years."
-    },
-    {
-      "title": "Investigation finds Meta ran hundreds of ads containing AI-generated child sexual abuse material",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2231100/meta-apps-displayed-ads-that-contained-ai-generated-csam/",
-      "topic": "AI",
-      "reason": "Tech Transparency Project found 332 ads exploiting real children's photos slipped through Meta's review process between November 2025 and August 2026, with new ones still appearing after Meta touted improved detection systems."
-    },
-    {
-      "title": "Metropolitan Police open criminal investigation into Reform UK over alleged foreign funding scheme",
-      "source": "UPI",
-      "url": "https://www.upi.com/Top_News/World-News/2026/09/09/reformUK-nigel-farage-investigation/6091788978584",
-      "topic": "Politics",
-      "reason": "A Channel 4 undercover sting caught senior Reform aides arranging for a purported American donor to secretly bankroll party polling, prompting two resignations and a probe that will be merged with an existing Met inquiry into the party's donations."
-    },
-    {
-      "title": "Russian drone strike on Sumy shopping center kills 2, injures 20 including children",
-      "source": "Kyiv Independent",
-      "url": "https://kyivindependent.com/deadly-russian-drone-strike-targets-sumy-shopping-center-killing-2-injuring-20-including-3-children/",
+      "title": "Multiple US military aircraft damaged in Iranian strikes on air base in Jordan",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/multiple-us-military-aircraft-damaged-iran-strikes-military-base-jordan/",
       "topic": "World",
-      "reason": "The strike hit the Manufaktura mall as crowds shopped after work, a day after a separate Russian attack on a passenger train in the same region killed two more civilians, underscoring the war's continued toll on civilians far from the front line."
+      "reason": "An A-10 Warthog lost a wing and roughly eight F-15s sustained damage at Muwaffaq Salti Air Base, the first confirmed damage to US military hardware since Iran's missile barrage on Jordan two days ago, marking a sharp escalation in the war's reach."
     },
     {
-      "title": "Eurozone inflation jumps to 3.3% in August as energy prices surge on Iran war fallout",
-      "source": "Euronews",
-      "url": "https://www.euronews.com/business/2026/09/01/eurozone-inflation-jumps-to-33-in-august-as-energy-prices-surge",
-      "topic": "Economy",
-      "reason": "Energy costs rose 14.3% year-on-year as Strait of Hormuz disruptions push oil and gas prices higher, pushing headline inflation well above the ECB's 2% target and complicating its policy path."
+      "title": "Supreme Court blocks Missouri's GOP-favored congressional map for the second time this week",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/politics/supreme-court/supreme-court-blocks-missouris-attempt-use-newly-drawn-republican-cong-rcna596857",
+      "topic": "Politics",
+      "reason": "The unsigned emergency order forces Missouri to use its 2022 map rather than a Trump-backed redraw that would have eliminated a Kansas City Democratic seat, a setback for the GOP's mid-decade redistricting push ahead of November's midterms."
     },
     {
-      "title": "Global bond selloff deepens as 10-year Treasury yield hits highest level since January 2025",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/economy/policy/articles/u-10-treasury-yield-hits-115324692.html",
-      "topic": "Economy",
-      "reason": "Rising oil prices, a $2 trillion US deficit and heavy corporate debt issuance are driving borrowing costs to multiyear highs from Washington to Tokyo to London, raising the stakes for next week's Fed decision."
+      "title": "Putin arrives in Delhi for BRICS summit, holds bilateral talks with Modi in first such appearance since the Ukraine war began",
+      "source": "The Week",
+      "url": "https://www.theweek.in/news/india/2026/09/11/delhi-set-for-brics-putin-arrives-in-delhi-as-india-russia-target-dollar100-billion-trade.html",
+      "topic": "World",
+      "reason": "The visit, aimed at pushing India-Russia trade toward $100 billion, underscores how sanctions and Western isolation attempts have failed to sideline Moscow as it deepens ties with major non-Western economies."
     },
     {
-      "title": "Google commits $15 billion to Finnish AI data centers, secures 22-year nuclear power deal",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/ai/articles/google-invest-13-billion-finland-124204418.html",
+      "title": "Microsoft plans to triple data-center capacity to 38 gigawatts by 2032 to end AI bottlenecks",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/microsoft-plans-38-gigawatts-of-data-center-capacity-by-2032-bloomberg-news-reports-4897030",
       "topic": "AI",
-      "reason": "The agreement extends the life of the Loviisa nuclear plant to 2050 and marks Google's first nuclear energy deal outside the US, showing how AI's power demands are reshaping national energy planning."
+      "reason": "Capacity shortages have already forced Microsoft to turn away cloud and AI customers, and the buildout implies capital spending north of $175 billion this year alone as hyperscalers race to keep pace with demand."
     },
     {
-      "title": "Qualcomm shares jump 10% after Amazon signs it for custom AI inference chips in deal worth up to $60 billion",
-      "source": "TheStreet",
-      "url": "https://www.thestreet.com/investing/qualcomm-amazon-aws-custom-ai-chips-deal",
+      "title": "Oracle's cloud infrastructure revenue surges 121% as it books $30 billion in new AI contracts",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/oracle-q1-fy2027-earnings-beat-203648159.html",
+      "topic": "Economy",
+      "reason": "The results, which beat estimates and pushed Oracle's backlog to $664 billion, show the AI infrastructure boom is still accelerating even as some investors question whether hyperscaler spending has outrun demand."
+    },
+    {
+      "title": "Anthropic details how it disrupted a Russian espionage campaign and blocked a bioweapons-linked request to Claude",
+      "source": "Rappler",
+      "url": "https://www.rappler.com/technology/anthropic-threat-intelligence-report-september-2026/",
       "topic": "AI",
-      "reason": "The multi-year, multi-generation partnership positions Qualcomm as a new challenger to Nvidia in data-center AI silicon and gives Amazon a second custom-chip supplier beyond its in-house Trainium line."
+      "reason": "The threat-intelligence report, covering misuse disrupted between December 2025 and August 2026, also flags state-linked distillation attempts from seven China-based labs, illustrating how frontier AI has become both a security tool and a target."
+    },
+    {
+      "title": "Wall Street braces for today's CPI print, the last inflation read before the Fed's September 16 decision",
+      "source": "Kiplinger",
+      "url": "https://www.kiplinger.com/investing/economy/cpi-report-august-2026-what-to-expect",
+      "topic": "Economy",
+      "reason": "Economists expect headline inflation at 3.4% year-over-year after Wednesday's in-line producer price data failed to calm bond markets, leaving the report as the swing factor for whether the Fed hikes or holds next week."
+    },
+    {
+      "title": "Second mathematician accuses OpenAI of dishonesty over how it credited outside work in its Millennium Prize claim",
+      "source": "Quartz",
+      "url": "https://qz.com/openai-mathematician-training-data-dishonesty-andreas-thom-091026",
+      "topic": "AI",
+      "reason": "Andreas Thom's allegation lands days after NYU's Tristan Buckmaster made a similar claim, deepening scrutiny of OpenAI's celebrated Navier-Stokes breakthrough and its practice of drawing on unpublished outside research."
     }
   ]
 }
