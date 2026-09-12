@@ -1,61 +1,61 @@
 {
-  "generatedAt": "2026-09-11T04:25:00Z",
+  "generatedAt": "2026-09-12T04:25:00Z",
   "stories": [
     {
-      "title": "Multiple US military aircraft damaged in Iranian strikes on air base in Jordan",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/multiple-us-military-aircraft-damaged-iran-strikes-military-base-jordan/",
+      "title": "August 2026 ties for hottest month on record as global temperatures hit 1.65°C above pre-industrial levels",
+      "source": "Euronews",
+      "url": "https://www.euronews.com/my-europe/2026/09/10/august-2026-was-worlds-joint-hottest-month-on-record-according-to-copernicus",
       "topic": "World",
-      "reason": "An A-10 Warthog lost a wing and roughly eight F-15s sustained damage at Muwaffaq Salti Air Base, the first confirmed damage to US military hardware since Iran's missile barrage on Jordan two days ago, marking a sharp escalation in the war's reach."
+      "reason": "Copernicus data shows the month tied July 2023's record and pushed monthly warming back above the 1.5°C threshold for the first time since November 2025, capping western Europe's hottest summer on record."
     },
     {
-      "title": "Supreme Court blocks Missouri's GOP-favored congressional map for the second time this week",
-      "source": "NBC News",
-      "url": "https://www.nbcnews.com/politics/supreme-court/supreme-court-blocks-missouris-attempt-use-newly-drawn-republican-cong-rcna596857",
+      "title": "Indonesia's wildfire emissions surge to the world's highest amid its most intense fire season in 11 years",
+      "source": "The Jakarta Post",
+      "url": "http://www.thejakartapost.com/world/2026/09/09/indonesian-wildfire-emissions-surge-to-worlds-highest",
+      "topic": "World",
+      "reason": "Fires in Kalimantan and Sumatra emitted 19.7 million tons of CO2 in a single week, over a third of the global total, as a strengthening El Nino puts 2026 on pace to match Indonesia's catastrophic 2015 burning season."
+    },
+    {
+      "title": "BRICS summit opens in Delhi with 11 leaders as India navigates an Iran-UAE rift over the joint declaration",
+      "source": "Forbes India",
+      "url": "https://www.forbesindia.com/article/news/explainer/brics-2026-india-hosts-11-nation-bloc-amid-global-trade-tensions/2998241/1",
       "topic": "Politics",
-      "reason": "The unsigned emergency order forces Missouri to use its 2022 map rather than a Trump-backed redraw that would have eliminated a Kansas City Democratic seat, a setback for the GOP's mid-decade redistricting push ahead of November's midterms."
+      "reason": "The two-day summit tests whether the bloc can present a united front on trade, currency and Global South reforms even as its own members are on opposite sides of the region's wars."
     },
     {
-      "title": "Putin arrives in Delhi for BRICS summit, holds bilateral talks with Modi in first such appearance since the Ukraine war began",
-      "source": "The Week",
-      "url": "https://www.theweek.in/news/india/2026/09/11/delhi-set-for-brics-putin-arrives-in-delhi-as-india-russia-target-dollar100-billion-trade.html",
+      "title": "Documentary alleging an AI targeting system enabled mass killing in Gaza gets a standing ovation in Venice; IDF rejects the claims",
+      "source": "The Times of Israel",
+      "url": "https://www.timesofisrael.com/idf-rejects-testimonies-in-israeli-made-documentary-about-ai-powered-killing-in-gaza",
+      "topic": "AI",
+      "reason": "The film draws on 24 anonymous Israeli military and intelligence whistleblowers describing an AI system called 'Lavender' used to identify targets from mass surveillance data, while the IDF insists strike decisions were made only by human personnel."
+    },
+    {
+      "title": "Israeli strikes escalate in southern Lebanon despite ceasefire, killing dozens including women and children",
+      "source": "UN News",
+      "url": "https://news.un.org/en/story/2026/09/1168275",
       "topic": "World",
-      "reason": "The visit, aimed at pushing India-Russia trade toward $100 billion, underscores how sanctions and Western isolation attempts have failed to sideline Moscow as it deepens ties with major non-Western economies."
+      "reason": "Peacekeepers report a marked deterioration along the Blue Line as Israel expands its military footprint in violation of a UN Security Council resolution, raising fears of a full reopening of the Lebanon front."
     },
     {
-      "title": "Microsoft plans to triple data-center capacity to 38 gigawatts by 2032 to end AI bottlenecks",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/microsoft-plans-38-gigawatts-of-data-center-capacity-by-2032-bloomberg-news-reports-4897030",
+      "title": "AIR Security emerges from stealth with $50 million to build a firewall for AI agents",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/ai-agent-firewall-startup-air-security-emerges-from-stealth-with-50-million/",
       "topic": "AI",
-      "reason": "Capacity shortages have already forced Microsoft to turn away cloud and AI customers, and the buildout implies capital spending north of $175 billion this year alone as hyperscalers race to keep pace with demand."
+      "reason": "Backed by Sequoia and Greenoaks, the startup says it found over 17,800 public AI add-ons relying on untrusted instruction sources and skills impersonating Anthropic and OpenAI to bypass security reviews -- a preview of the agent supply-chain risks enterprises now face."
     },
     {
-      "title": "Oracle's cloud infrastructure revenue surges 121% as it books $30 billion in new AI contracts",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/oracle-q1-fy2027-earnings-beat-203648159.html",
+      "title": "Oil tops $105 a barrel as Iran plans Strait of Hormuz talks with Gulf states in Oman",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/08/oil-prices-today-brent-wti-hormuz-iran-war.html",
       "topic": "Economy",
-      "reason": "The results, which beat estimates and pushed Oracle's backlog to $664 billion, show the AI infrastructure boom is still accelerating even as some investors question whether hyperscaler spending has outrun demand."
+      "reason": "Crude is up more than 8% this month and US gas prices have jumped 41% since the war began, with Monday's talks the first sign of potential diplomacy over the blockaded strait even as fighting continues."
     },
     {
-      "title": "Anthropic details how it disrupted a Russian espionage campaign and blocked a bioweapons-linked request to Claude",
-      "source": "Rappler",
-      "url": "https://www.rappler.com/technology/anthropic-threat-intelligence-report-september-2026/",
-      "topic": "AI",
-      "reason": "The threat-intelligence report, covering misuse disrupted between December 2025 and August 2026, also flags state-linked distillation attempts from seven China-based labs, illustrating how frontier AI has become both a security tool and a target."
-    },
-    {
-      "title": "Wall Street braces for today's CPI print, the last inflation read before the Fed's September 16 decision",
-      "source": "Kiplinger",
-      "url": "https://www.kiplinger.com/investing/economy/cpi-report-august-2026-what-to-expect",
-      "topic": "Economy",
-      "reason": "Economists expect headline inflation at 3.4% year-over-year after Wednesday's in-line producer price data failed to calm bond markets, leaving the report as the swing factor for whether the Fed hikes or holds next week."
-    },
-    {
-      "title": "Second mathematician accuses OpenAI of dishonesty over how it credited outside work in its Millennium Prize claim",
-      "source": "Quartz",
-      "url": "https://qz.com/openai-mathematician-training-data-dishonesty-andreas-thom-091026",
-      "topic": "AI",
-      "reason": "Andreas Thom's allegation lands days after NYU's Tristan Buckmaster made a similar claim, deepening scrutiny of OpenAI's celebrated Navier-Stokes breakthrough and its practice of drawing on unpublished outside research."
+      "title": "Lawsuit accuses DHS of systematically surveilling and intimidating people who observe ICE operations",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/09/10/nx-s1-5961220/dhs-ice-observers-surveillance-lawsuit",
+      "topic": "Politics",
+      "reason": "Common Cause's suit describes members photographed, followed, pepper-sprayed or visited at home by federal officers after monitoring immigration enforcement, testing the legal limits of citizens' right to observe government action in public."
     }
   ]
 }
