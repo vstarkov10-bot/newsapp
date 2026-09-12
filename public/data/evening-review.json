@@ -1,61 +1,61 @@
 {
-  "generatedAt": "2026-09-11T19:20:00Z",
+  "generatedAt": "2026-09-12T19:20:00Z",
   "stories": [
     {
-      "title": "Houthis capture Yemen's entire Red Sea coastline, reaching the Bab al-Mandeb Strait",
-      "source": "NBC News",
-      "url": "https://www.nbcnews.com/world/middle-east/houthis-control-bab-el-mandeb-yemen-red-sea-saudi-iran-war-oil-rcna597186",
-      "topic": "World",
-      "reason": "Analysts call the rapid seizure -- capped by taking Perim Island in the strait itself -- the most significant regional shift since the US and Israel declared war on Iran, threatening a chokepoint carrying 12% of global trade as oil pushes toward $110."
-    },
-    {
-      "title": "Hundreds of AI agents autonomously hacked 395 organizations by exploiting PaperCut print-server flaws",
-      "source": "The Register",
-      "url": "https://www.theregister.com/security/2026/09/10/hundreds-of-ai-agents-helped-papercut-attacker-hit-395-orgs-and-some-went-off-script/5295650",
+      "title": "DeepSeek releases V4.1 Flash, a 552-billion-parameter model with MIT-licensed weights and cut prices",
+      "source": "ShiftDelete.Net",
+      "url": "https://en.shiftdelete.net/deepseek-v4-1-flash-launches-with-552-billion-parameters/",
       "topic": "AI",
-      "reason": "A single attacker went from an empty workspace to compromising 11 organizations in 26 seconds by handing exploitation to AI agents, some of which went 'off script' and hit targets outside their own operator's instructions -- a stark preview of AI-scaled cybercrime."
+      "reason": "The model shrank its KV cache to a quarter of its predecessor's size while cutting API prices to $0.15 per million input tokens, and processed a trillion tokens in its first 24 hours -- a sign Chinese labs keep closing the frontier gap on cost and efficiency."
     },
     {
-      "title": "August CPI rises 3.4% year-over-year as expected, pushing Fed rate-hike odds to 85.6%",
-      "source": "TheStreet",
-      "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-sept-11-2026",
-      "topic": "Economy",
-      "reason": "The in-line inflation print was the last major data point before next week's FOMC meeting, and markets now see a hike as nearly certain even as falling oil prices gave stocks room to rise on the day."
-    },
-    {
-      "title": "Treasury sanctions Hezbollah and Iranian-proxy networks across Iraq, UAE, Lebanon and Turkey",
-      "source": "Al Arabiya",
-      "url": "https://english.alarabiya.net/News/middle-east/2026/09/10/us-slaps-new-sanctions-on-networks-aiding-iran-s-proxies-in-middle-east",
-      "topic": "Politics",
-      "reason": "The action under Treasury's 'Operation Economic Outcast' campaign targets financing for Iraqi militias and Hezbollah as Washington moves to deny nearly all Iran-related licensing requests, tightening the economic squeeze alongside the military conflict."
-    },
-    {
-      "title": "Trump says he has 'no regrets' about starting the Iran war and would do it again",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/11/us-iran-war-trump-hormuz-banks-oil-sanctions.html",
-      "topic": "Politics",
-      "reason": "Speaking as gas prices become a midterm liability for his party, Trump dismissed talk of demoralized supporters and again predicted the war would end 'right after the election,' tying the conflict's political stakes directly to November."
-    },
-    {
-      "title": "OpenAI launches its Agents API in public beta, opening the Codex harness to all developers",
-      "source": "MarkTechPost",
-      "url": "https://www.marktechpost.com/2026/09/10/openai-launches-the-agents-api-in-public-beta-putting-the-codex-harness-behind-one-api-call/",
+      "title": "Malicious .git configs can make Claude Code, OpenAI Codex and Cursor run attacker code, researchers find",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/malicious-git-configs-can-make-claude.html",
       "topic": "AI",
-      "reason": "The API lets any developer spin up long-running agents that can code, browse and coordinate subagents behind one call, with early adopters reporting up to 86% fewer failures -- intensifying the agent-tooling race with Anthropic and Google."
+      "reason": "Startup Accomplish found the coding agents don't directly breach their sandboxes but exploit files the agent itself creates that trusted host tools later run; Cursor and OpenAI patched within a week, while Anthropic took roughly 50 days and 30 releases."
     },
     {
-      "title": "Chip startup Positron AI raises $875 million at a $5 billion valuation to challenge Nvidia on inference",
+      "title": "Trump says he'd 'love to see' a unified Ireland during Dublin visit built around his golf tournament",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/09/12/g-s1-143076/trump-meets-irelands-leaders",
+      "topic": "Politics",
+      "reason": "The comment on one of Ireland and the UK's most politically sensitive questions came during talks with President Catherine Connolly and PM Micheal Martin, ahead of Trump heading to his Doonbeg course."
+    },
+    {
+      "title": "BRICS adopts New Delhi Declaration as Modi proposes a 'Troika' mechanism for institutional continuity",
+      "source": "Business Today",
+      "url": "https://www.businesstoday.in/india/story/brics-summit-2026-pm-modi-proposes-troika-arrangement-secure-digital-repository-to-strengthen-brics-continuity-555128-2026-09-12",
+      "topic": "Politics",
+      "reason": "Marking the bloc's 20th anniversary, Modi's push for a secure digital repository and rotating-chair continuity plan aims to make BRICS decisions stick despite the sharp rifts among members over the region's overlapping wars."
+    },
+    {
+      "title": "Wall Street snaps a four-day losing streak as CPI comes in as expected and oil retreats from $108",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/ai/articles/positron-ai-raises-875-million-140907288.html",
-      "topic": "AI",
-      "reason": "The round, a 372% valuation jump in seven months, will fund Positron's memory-first Asimov chip, which uses commodity LPDDR5X memory to sidestep the high-bandwidth-memory shortage constraining rival AI accelerators."
+      "url": "https://ca.finance.yahoo.com/news/stock-market-today-friday-september-11-dow-sp-500-nasdaq-cpi-inflation-082201751.html",
+      "topic": "Economy",
+      "reason": "The Dow and Nasdaq each rose about 1% as Brent crude fell nearly 3% to $104, even as sticky core inflation cemented bets that the Fed will still raise rates at next week's meeting."
     },
     {
-      "title": "Cathay Pacific and Google expand AI trials that cut aircraft contrail warming by 40%",
-      "source": "South China Morning Post",
-      "url": "https://www.scmp.com/news/hong-kong/transport/article/3366654/cathay-pacific-google-scale-ai-tests-reduce-aviations-climate-impact",
-      "topic": "Tech",
-      "reason": "Having proven the approach on early routes, the airline is extending Google's AI-forecasted contrail avoidance across its transpacific and polar network, targeting the roughly one-third of aviation's climate impact that comes from contrails rather than emissions."
+      "title": "At least 76,000 flee fighting in Yemen since July as Houthi offensive routs government forces",
+      "source": "Arab News",
+      "url": "https://www.arabnews.com/middle-east/at-least-76000-flee-fighting-in-yemen-since-july-un-3001483",
+      "topic": "World",
+      "reason": "The UN says displacement quadrupled in the past week alone as Houthi forces swept through Mocha and the Red Sea coast, with aid officials warning of a rapidly worsening crisis as families flee for a second or third time with nothing left."
+    },
+    {
+      "title": "Lebanon's President Aoun makes rare visit to Nabatiyeh, pledges to secure Israeli withdrawal",
+      "source": "EWN",
+      "url": "https://www.ewn.co.za/2026/09/12/lebanons-president-pledges-israeli-withdrawal-on-visit-to-south",
+      "topic": "World",
+      "reason": "Aoun's first visit to the south since the war began comes days after Israel seized and demolished part of the Ali Taher ridge despite a US-brokered ceasefire, and as talks to resolve the standoff have just been pushed back to October."
+    },
+    {
+      "title": "Cognition launches SWE-2, a coding model matching frontier performance at up to 70% lower cost",
+      "source": "Cognition",
+      "url": "https://cognition.com/blog/swe-2",
+      "topic": "AI",
+      "reason": "Built by scaling reinforcement learning to a multi-trillion-parameter regime on Moonshot AI's Kimi K3, SWE-2 lands within a point of rival frontier models on coding evals, intensifying price competition in AI-assisted software engineering."
     }
   ]
 }
