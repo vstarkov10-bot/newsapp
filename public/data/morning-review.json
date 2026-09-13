@@ -1,61 +1,61 @@
 {
-  "generatedAt": "2026-09-12T04:25:00Z",
+  "generatedAt": "2026-09-13T04:25:00Z",
   "stories": [
     {
-      "title": "August 2026 ties for hottest month on record as global temperatures hit 1.65°C above pre-industrial levels",
-      "source": "Euronews",
-      "url": "https://www.euronews.com/my-europe/2026/09/10/august-2026-was-worlds-joint-hottest-month-on-record-according-to-copernicus",
+      "title": "Saudi Arabia shuts down major East-West oil pipeline after drone attack, compounding Red Sea disruption",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/world/middle-east/saudi-arabia-shutdown-key-pipeline-limits-oil-flow-yemen-houthis-rcna597362",
       "topic": "World",
-      "reason": "Copernicus data shows the month tied July 2023's record and pushed monthly warming back above the 1.5°C threshold for the first time since November 2025, capping western Europe's hottest summer on record."
+      "reason": "The 745-mile pipeline carrying 4-5% of global oil supply was Saudi Arabia's bypass around the blockaded Strait of Hormuz, and its closure alongside the Houthis' new grip on the Red Sea has squeezed crude routes on both sides of the Arabian Peninsula."
     },
     {
-      "title": "Indonesia's wildfire emissions surge to the world's highest amid its most intense fire season in 11 years",
-      "source": "The Jakarta Post",
-      "url": "http://www.thejakartapost.com/world/2026/09/09/indonesian-wildfire-emissions-surge-to-worlds-highest",
-      "topic": "World",
-      "reason": "Fires in Kalimantan and Sumatra emitted 19.7 million tons of CO2 in a single week, over a third of the global total, as a strengthening El Nino puts 2026 on pace to match Indonesia's catastrophic 2015 burning season."
+      "title": "Anthropic CEO calls for the AI industry to deliberately slow capability development after a safety researcher's alarming resignation",
+      "source": "CNN",
+      "url": "https://www.cnn.com/2026/09/12/tech/anthropic-ceo-essay-ai",
+      "topic": "AI",
+      "reason": "Dario Amodei's essay proposes independent reviewers and cross-lab safety coordination days after researcher Jacob Coxon quit warning that AI could 'kill us all by the end of the decade,' with Musk and Altman both signaling support for the plan."
     },
     {
-      "title": "BRICS summit opens in Delhi with 11 leaders as India navigates an Iran-UAE rift over the joint declaration",
-      "source": "Forbes India",
-      "url": "https://www.forbesindia.com/article/news/explainer/brics-2026-india-hosts-11-nation-bloc-amid-global-trade-tensions/2998241/1",
+      "title": "Modi and Xi hold first substantial bilateral talks in three years at BRICS, agree to a 'fair, reasonable' border settlement",
+      "source": "Malay Mail",
+      "url": "https://www.malaymail.com/news/world/2026/09/13/six-years-after-border-clash-modi-and-xi-talk-peace-and-trade-at-brics-summit/235006",
       "topic": "Politics",
-      "reason": "The two-day summit tests whether the bloc can present a united front on trade, currency and Global South reforms even as its own members are on opposite sides of the region's wars."
+      "reason": "Xi's first visit to India in seven years and the leaders' agreement that 'differences should not become disputes' signals a significant thaw between the world's two most populous countries six years after their deadly border clash."
     },
     {
-      "title": "Documentary alleging an AI targeting system enabled mass killing in Gaza gets a standing ovation in Venice; IDF rejects the claims",
-      "source": "The Times of Israel",
-      "url": "https://www.timesofisrael.com/idf-rejects-testimonies-in-israeli-made-documentary-about-ai-powered-killing-in-gaza",
+      "title": "Pentagon in talks to lend AI cloud startup Fluidstack $5 billion, its largest loan to date",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/ai/articles/pentagon-talks-lend-5-billion-215353279.html",
       "topic": "AI",
-      "reason": "The film draws on 24 anonymous Israeli military and intelligence whistleblowers describing an AI system called 'Lavender' used to identify targets from mass surveillance data, while the IDF insists strike decisions were made only by human personnel."
+      "reason": "The Office of Strategic Capital loan would fund data-center component manufacturing to shore up the US supply chain, deepening the Pentagon's direct financial stake in the AI buildout Anthropic is also backing with its own $50 billion Fluidstack partnership."
     },
     {
-      "title": "Israeli strikes escalate in southern Lebanon despite ceasefire, killing dozens including women and children",
-      "source": "UN News",
-      "url": "https://news.un.org/en/story/2026/09/1168275",
-      "topic": "World",
-      "reason": "Peacekeepers report a marked deterioration along the Blue Line as Israel expands its military footprint in violation of a UN Security Council resolution, raising fears of a full reopening of the Lebanon front."
-    },
-    {
-      "title": "AIR Security emerges from stealth with $50 million to build a firewall for AI agents",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/ai-agent-firewall-startup-air-security-emerges-from-stealth-with-50-million/",
-      "topic": "AI",
-      "reason": "Backed by Sequoia and Greenoaks, the startup says it found over 17,800 public AI add-ons relying on untrusted instruction sources and skills impersonating Anthropic and OpenAI to bypass security reviews -- a preview of the agent supply-chain risks enterprises now face."
-    },
-    {
-      "title": "Oil tops $105 a barrel as Iran plans Strait of Hormuz talks with Gulf states in Oman",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/08/oil-prices-today-brent-wti-hormuz-iran-war.html",
+      "title": "Markets price an 80% chance of a Fed rate hike Wednesday after hot inflation data",
+      "source": "CoinGape",
+      "url": "https://coingape.com/fomc-meeting-sept-2026-date-schedule-expectations-and-how-to-watch/",
       "topic": "Economy",
-      "reason": "Crude is up more than 8% this month and US gas prices have jumped 41% since the war began, with Monday's talks the first sign of potential diplomacy over the blockaded strait even as fighting continues."
+      "reason": "August producer prices rose 5.4% year-over-year and core CPI came in hotter than expected, pushing traders to bet the FOMC will raise rates from its current 3.5-3.75% range despite the drag from the Iran war on growth."
     },
     {
-      "title": "Lawsuit accuses DHS of systematically surveilling and intimidating people who observe ICE operations",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/09/10/nx-s1-5961220/dhs-ice-observers-surveillance-lawsuit",
-      "topic": "Politics",
-      "reason": "Common Cause's suit describes members photographed, followed, pepper-sprayed or visited at home by federal officers after monitoring immigration enforcement, testing the legal limits of citizens' right to observe government action in public."
+      "title": "Apple opens pre-orders for the iPhone 18 Pro and its first foldable iPhone Duo ahead of Friday's launch",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/09/09/apple-september-2026-event-recap/",
+      "topic": "Tech",
+      "reason": "Pre-orders opened Saturday for the new lineup alongside Apple Watch Series 12, Watch Ultra 4 and AirPods 5, with iOS 27 rolling out Monday ahead of devices reaching customers September 18."
+    },
+    {
+      "title": "US Space Force awards Antares $161 million to build America's first orbital nuclear reactor since 1965",
+      "source": "Payload Space",
+      "url": "https://payloadspace.com/antares-wins-161m-award-for-space-nuclear-power/",
+      "topic": "Tech",
+      "reason": "The Strategic Breakthrough award tasks the startup with a ground demonstration and flight certification of its heat-pipe microreactor, part of a Trump administration push for orbital reactors by 2028 as space becomes a new nuclear-power frontier."
+    },
+    {
+      "title": "Bangladesh to launch a nationwide measles vaccination campaign for children up to age 6 on September 25",
+      "source": "Dhaka Tribune",
+      "url": "https://www.dhakatribune.com/bangladesh/health/419516/health-minister-special-measles-vaccination",
+      "topic": "World",
+      "reason": "The renewed mop-up drive comes after April and May's emergency campaign failed to stop transmission, with officials noting most new cases are in children who were never vaccinated in the world's worst current measles outbreak."
     }
   ]
 }
