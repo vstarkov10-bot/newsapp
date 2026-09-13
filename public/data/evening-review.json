@@ -1,61 +1,61 @@
 {
-  "generatedAt": "2026-09-12T19:20:00Z",
+  "generatedAt": "2026-09-13T19:20:00Z",
   "stories": [
     {
-      "title": "DeepSeek releases V4.1 Flash, a 552-billion-parameter model with MIT-licensed weights and cut prices",
-      "source": "ShiftDelete.Net",
-      "url": "https://en.shiftdelete.net/deepseek-v4-1-flash-launches-with-552-billion-parameters/",
-      "topic": "AI",
-      "reason": "The model shrank its KV cache to a quarter of its predecessor's size while cutting API prices to $0.15 per million input tokens, and processed a trillion tokens in its first 24 hours -- a sign Chinese labs keep closing the frontier gap on cost and efficiency."
-    },
-    {
-      "title": "Malicious .git configs can make Claude Code, OpenAI Codex and Cursor run attacker code, researchers find",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/malicious-git-configs-can-make-claude.html",
-      "topic": "AI",
-      "reason": "Startup Accomplish found the coding agents don't directly breach their sandboxes but exploit files the agent itself creates that trusted host tools later run; Cursor and OpenAI patched within a week, while Anthropic took roughly 50 days and 30 releases."
-    },
-    {
-      "title": "Trump says he'd 'love to see' a unified Ireland during Dublin visit built around his golf tournament",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/09/12/g-s1-143076/trump-meets-irelands-leaders",
+      "title": "Sweden's left-wing opposition leads incumbent government in exit polls as far-right slips to third",
+      "source": "The Local Sweden",
+      "url": "https://www.thelocal.se/20260913/swedish-election-live-blog-2026",
       "topic": "Politics",
-      "reason": "The comment on one of Ireland and the UK's most politically sensitive questions came during talks with President Catherine Connolly and PM Micheal Martin, ahead of Trump heading to his Doonbeg course."
+      "reason": "SVT's exit poll puts Magdalena Andersson's four-party bloc at 51.3% against PM Kristersson's 46.8%, with the Sweden Democrats dropping out of second place -- though Swedish exit polls wrongly called the 2022 result, so official counting still matters."
     },
     {
-      "title": "BRICS adopts New Delhi Declaration as Modi proposes a 'Troika' mechanism for institutional continuity",
-      "source": "Business Today",
-      "url": "https://www.businesstoday.in/india/story/brics-summit-2026-pm-modi-proposes-troika-arrangement-secure-digital-repository-to-strengthen-brics-continuity-555128-2026-09-12",
+      "title": "Kushner says US used Israel's 'global isolation' after botched Doha strike to force through the Gaza deal",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/article-908465",
       "topic": "Politics",
-      "reason": "Marking the bloc's 20th anniversary, Modi's push for a secure digital repository and rotating-chair continuity plan aims to make BRICS decisions stick despite the sharp rifts among members over the region's overlapping wars."
+      "reason": "The unusually candid admission that Washington leveraged the diplomatic fallout from Israel's failed strike on Hamas leaders in Qatar reveals how the October ceasefire and hostage release were actually brokered."
     },
     {
-      "title": "Wall Street snaps a four-day losing streak as CPI comes in as expected and oil retreats from $108",
-      "source": "Yahoo Finance",
-      "url": "https://ca.finance.yahoo.com/news/stock-market-today-friday-september-11-dow-sp-500-nasdaq-cpi-inflation-082201751.html",
+      "title": "US import ban on Canadian dairy, alcohol and motorcycles set to take effect this week as trade war escalates",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/09/us-canada-trade-war-import-ban.html",
       "topic": "Economy",
-      "reason": "The Dow and Nasdaq each rose about 1% as Brent crude fell nearly 3% to $104, even as sticky core inflation cemented bets that the Fed will still raise rates at next week's meeting."
+      "reason": "Washington's proclamations banning Canadian whey, molasses, spirits and larger motorcycles take hold September 15 and 29, a sharp escalation beyond tariffs that follows Canada's own retaliatory measures against US goods."
     },
     {
-      "title": "At least 76,000 flee fighting in Yemen since July as Houthi offensive routs government forces",
-      "source": "Arab News",
-      "url": "https://www.arabnews.com/middle-east/at-least-76000-flee-fighting-in-yemen-since-july-un-3001483",
-      "topic": "World",
-      "reason": "The UN says displacement quadrupled in the past week alone as Houthi forces swept through Mocha and the Red Sea coast, with aid officials warning of a rapidly worsening crisis as families flee for a second or third time with nothing left."
+      "title": "Trump's phased 200% tariff on generic drugs sends Indian pharma stocks tumbling",
+      "source": "The Tribune",
+      "url": "https://www.tribuneindia.com/news/business/trump-announces-phased-200-tariff-on-generic-drug-imports-indian-pharma-stocks-slump/",
+      "topic": "Economy",
+      "reason": "Shares in Dr Reddy's, Cipla, Sun Pharma and other major exporters fell as the plan to ramp tariffs to 200% by 2029 threatens the roughly 40% of US generic-drug volume that India supplies."
     },
     {
-      "title": "Lebanon's President Aoun makes rare visit to Nabatiyeh, pledges to secure Israeli withdrawal",
-      "source": "EWN",
-      "url": "https://www.ewn.co.za/2026/09/12/lebanons-president-pledges-israeli-withdrawal-on-visit-to-south",
-      "topic": "World",
-      "reason": "Aoun's first visit to the south since the war began comes days after Israel seized and demolished part of the Ali Taher ridge despite a US-brokered ceasefire, and as talks to resolve the standoff have just been pushed back to October."
-    },
-    {
-      "title": "Cognition launches SWE-2, a coding model matching frontier performance at up to 70% lower cost",
-      "source": "Cognition",
-      "url": "https://cognition.com/blog/swe-2",
+      "title": "Salesforce launches seven named Agentforce AI agents ahead of Dreamforce",
+      "source": "Unite.AI",
+      "url": "https://www.unite.ai/salesforce-debuts-job-ready-agentforce-agents-and-long-horizon-runtime/",
       "topic": "AI",
-      "reason": "Built by scaling reinforcement learning to a multi-trillion-parameter regime on Moonshot AI's Kimi K3, SWE-2 lands within a point of rival frontier models on coding evals, intensifying price competition in AI-assisted software engineering."
+      "reason": "Casey, Paige, Carter, Hunter, Marshall, Piper and Fin each target a specific business function and plug into Customer 360 data, with Hunter piloting a long-horizon runtime that pursues sales goals over weeks rather than single chat sessions."
+    },
+    {
+      "title": "Houthis claim attack on Saudi military base as Yemen's civil war intensifies",
+      "source": "Local10",
+      "url": "https://www.local10.com/news/world/2026/09/13/fighting-in-yemen-intensifies-and-houthis-launch-more-attacks-on-saudi-arabia/",
+      "topic": "World",
+      "reason": "Renewed fighting since Yemen's civil war reignited in July has killed hundreds and displaced tens of thousands, with Saudi Arabia striking the Houthi stronghold of Saada in response to cross-border attacks."
+    },
+    {
+      "title": "Senate Republicans unveil revised 630-page CLARITY Act as Trump huddles with advisers on crypto ethics language before Monday's vote",
+      "source": "The Block",
+      "url": "https://www.theblock.co/news/regulation/2026-09-10-senate-republicans-unveil-revised-crypto-bill-ahead-of-key-clarity-act-vote-next-week-414180",
+      "topic": "Economy",
+      "reason": "The cloture vote needs seven Democratic votes Republicans don't yet have, with ethics provisions restricting officials including Trump from profiting off crypto ventures still a sticking point despite over 100 revisions."
+    },
+    {
+      "title": "OpenAI opens its low-latency GPT-Live voice model to developers via API",
+      "source": "InfoQ",
+      "url": "https://www.infoq.com/news/2026/09/openai-gpt-live/",
+      "topic": "AI",
+      "reason": "The stateful architecture cut response latency from 1.63 to 0.798 seconds at $0.05 a minute, intensifying competition for real-time voice AI as OpenAI, Google and others race to make agents feel conversational rather than turn-based."
     }
   ]
 }
