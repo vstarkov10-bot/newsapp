@@ -1,61 +1,61 @@
 {
-  "generatedAt": "2026-09-14T19:20:00Z",
+  "generatedAt": "2026-09-15T19:20:00Z",
   "stories": [
     {
-      "title": "Trump dismisses AI guardrails, blasts Anthropic's Amodei, calls safety concerns a 'sick conspiracy'",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/14/trump-ai-data-centers-anthropic-dario-amodei.html",
-      "topic": "Politics",
-      "reason": "Trump said the only guardrail AI needs is 'a STRONG AND SMART President,' directly rebuking Amodei's call to pace AI development days after Microsoft's Nadella voiced support for it -- exposing a widening rift between Washington and parts of the AI industry."
-    },
-    {
-      "title": "Anthropic locks down $517 billion in compute deals ahead of IPO, nearly tripling prior guidance",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-locks-down-517-billion-153609285.html",
-      "topic": "AI",
-      "reason": "The compute commitments, up from the $180 billion Anthropic told investors to expect through 2029, secure at least 14.8 gigawatts of capacity even as its own CEO publicly argues the industry should slow down."
-    },
-    {
-      "title": "SoftBank secures $11.87 billion loan for its OpenAI bet as shares plunge 13% on AI safety concerns",
-      "source": "Tech Startups",
-      "url": "https://techstartups.com/2026/09/14/softbank-secures-11-87-billion-to-keep-funding-openai-even-as-its-stock-plunges-13/",
-      "topic": "Economy",
-      "reason": "The upsized two-year facility from roughly 20 banks exceeded SoftBank's original $10 billion target, underscoring how deep Masayoshi Son has committed to OpenAI even as investors punish the stock over the industry's own safety warnings."
-    },
-    {
-      "title": "Anthropic, OpenAI and Google have held quiet talks since July on a joint AI safety standards body",
-      "source": "CNN",
-      "url": "https://www.cnn.com/2026/09/14/tech/ai-standards-body",
-      "topic": "AI",
-      "reason": "The rivals are discussing a FINRA-style self-regulatory model proposed by DeepMind's Demis Hassabis, though they remain split on how much government involvement it should have -- a sign the slowdown debate is pushing toward concrete institutions, not just essays."
-    },
-    {
-      "title": "Netanyahu-Lapid meeting 'blows up' over how to fund Israel's increased defense budget",
-      "source": "The Jerusalem Post",
-      "url": "http://www.jpost.com/israel-news/politics-and-diplomacy/article-908562",
-      "topic": "Politics",
-      "reason": "Lapid said he'd back more IDF funding only if it comes from ultra-Orthodox coalition budgets rather than taxes on the middle class and reservists, reopening a fault line in Israeli politics as the multi-front war drags into its seventh month."
-    },
-    {
-      "title": "Iranian cargo vessel struck near Qeshm Island in the Strait of Hormuz, killing one crew member",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260914-iranian-ship-qeshm-island-tehran-hormuz",
-      "topic": "World",
-      "reason": "Tehran blamed a 'terrorist enemy' for the unclaimed strike, which also forced the postponement of planned Oman-hosted talks between Iran and Gulf states over the blockaded strait."
-    },
-    {
-      "title": "Indonesia races to find 129 people missing after a ferry capsized in the Java Sea",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/09/14/nx-s1-5968417/indonesia-search-missing-ferry",
-      "topic": "World",
-      "reason": "The Virgo Transport 8 was carrying more than 240 people in rough 3-meter seas when it capsized; 622 personnel on 17 vessels and five aircraft are now searching the wreck as strong currents hamper the effort."
-    },
-    {
-      "title": "North Korea says its live-fire drill of missiles, drones and artillery demonstrated 'huge destructive power'",
+      "title": "Trump interrupts Nvidia CEO Jensen Huang onstage to call AI safety fears a 'hoax'",
       "source": "NBC News",
-      "url": "https://www.nbcnews.com/world/asia/north-korea-says-recent-live-fire-drill-demonstrated-huge-destructive-rcna597635",
+      "url": "https://www.nbcnews.com/politics/donald-trump/nvidia-ceo-jensen-huang-ai-speakerphone-all-hands-meeting-rcna597761",
+      "topic": "Politics",
+      "reason": "Trump's live speakerphone call at the All-In Summit directly rebuked Amodei, Altman and Musk's weekend calls to slow AI development, escalating the fight over AI safety into a defining political and industry rift."
+    },
+    {
+      "title": "Bernie Sanders and Steve Bannon share a stage to promote curbs on AI at 'Pro-Human Assembly'",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/09/15/nx-s1-5968678/bernie-sanders-and-steve-bannon-to-share-a-stage-to-promote-curbs-on-ai",
+      "topic": "Politics",
+      "reason": "The rare pairing of a progressive leader and a MAGA strategist to press Congress on AI regulation shows how the technology is scrambling traditional political alliances just as Trump dismisses the same concerns as fearmongering."
+    },
+    {
+      "title": "EPA repeals Biden-era power plant emissions rules in what it calls the largest deregulatory move in US history",
+      "source": "Honolulu Star-Advertiser",
+      "url": "https://www.staradvertiser.com/2026/09/14/breaking-news/epa-scraps-power-plant-emissions-limits-in-sweeping-rollback/",
+      "topic": "Politics",
+      "reason": "The rollback also seeks to permanently bar future administrations from regulating power-sector greenhouse gases, with the EPA citing $310 billion in consumer savings against critics' warnings of hundreds of thousands of avoidable deaths."
+    },
+    {
+      "title": "Bank of America shares sink 5.7% after CEO warns of flat trading revenue and falling investment-banking fees",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/14/bank-of-america-bac-q3-investment-banking-fees.html",
+      "topic": "Economy",
+      "reason": "CEO Brian Moynihan's warning of a more than 10% drop in Q3 IB fees marks a sharp reversal from a second quarter that saw 50% growth in the same business, dragging down bank stocks broadly."
+    },
+    {
+      "title": "NATO's Rutte vows more support for Ukraine after Russian drone strikes near the Polish border",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/14/nato-pledges-increased-support-for-ukraine-after-russia-strikes-warsaw-bound-train",
       "topic": "World",
-      "reason": "The drill fired multiple weapons simultaneously to test overwhelming South Korean and US air defenses, coming a day after a trilateral US-South Korea-Japan exercise Pyongyang called a provocation."
+      "reason": "Rutte called the strikes near NATO territory a sign of Putin's 'desperation,' pledging to bolster both Ukraine's defenses and the alliance's own eastern border as the drone campaign edges closer to allied soil."
+    },
+    {
+      "title": "Cloudflare begins blocking 'mixed-use' AI crawlers from ad-supported websites by default",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/",
+      "topic": "AI",
+      "reason": "The new default forces AI companies to separate search, agent and training crawlers or lose access to ad-supported sites entirely, alongside a new 'Pay Per Use' program compensating publishers when their content surfaces in AI answers."
+    },
+    {
+      "title": "UN warns Sudan humanitarian aid could run out within weeks amid severe funding shortages",
+      "source": "Rio Times",
+      "url": "https://www.riotimesonline.com/africa-intelligence-brief-sunday-september-13-2026/",
+      "topic": "World",
+      "reason": "With 8.6 million people displaced and 19.5 million facing crisis-level food insecurity, aid agencies say shelter, sanitation and emergency supplies could be exhausted by month's end in one of the world's most severe and overlooked crises."
+    },
+    {
+      "title": "Stocks fall broadly as the 10-year Treasury yield hits its highest since 2023 ahead of Wednesday's Fed decision",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-september-15-dow-sp-500-nasdaq-081307838.html",
+      "topic": "Economy",
+      "reason": "The Dow is now down more than 2% for September and on pace for its steepest monthly decline since 2008, with markets pricing a 90% chance the Fed hikes rates for the first time since 2023."
     }
   ]
 }
