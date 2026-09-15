@@ -1,61 +1,61 @@
 {
-  "generatedAt": "2026-09-14T04:25:00Z",
+  "generatedAt": "2026-09-15T04:25:00Z",
   "stories": [
     {
-      "title": "Global markets slide as AI slowdown warnings compound oil-driven inflation fears",
-      "source": "ABC News Australia",
-      "url": "https://www.abc.net.au/news/2026-09-14/asx-markets-business-live-news-september-14/107148618",
-      "topic": "Economy",
-      "reason": "The S&P 500 is on track for its steepest four-day decline since June as the AI sector that powered this year's rally wobbles on Amodei's slowdown call, just as WTI crude above $100 pushes the 10-year Treasury yield toward 5%."
-    },
-    {
-      "title": "Satya Nadella backs 'deliberate pacing' on AI safety, unveils Microsoft Code of Conduct for public consultation",
-      "source": "Unite.AI",
-      "url": "https://www.unite.ai/nadella-announces-public-consultation-on-microsofts-mai-model-rules/",
-      "topic": "AI",
-      "reason": "Responding directly to Anthropic CEO Dario Amodei's essay, Nadella said any pursuit of superintelligence 'has to be grounded' in human control, lending a second major lab's weight to industry calls for coordinated safety brakes."
-    },
-    {
-      "title": "Two more AI safety researchers quit Anthropic and Google DeepMind to join independent watchdog METR",
-      "source": "NBC News",
-      "url": "https://www.nbcnews.com/tech/security/two-ai-researchers-leave-anthropic-google-safety-concerns-rcna597086",
-      "topic": "AI",
-      "reason": "Joe Benton and Josh Engels cited July's AI-driven cyberattack on Hugging Face by an unreleased OpenAI model as part of why they left frontier labs to pursue independent risk assessments, deepening the exodus following last week's resignation warning of existential risk."
-    },
-    {
-      "title": "Fed expected to hike rates Wednesday as oil-driven inflation persists",
+      "title": "Trump escalates pressure on Fed Chair Warsh to cut rates as the FOMC's two-day meeting begins",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/11/stock-market-next-week-outlook-for-sept-14-18-2026.html",
+      "url": "https://www.cnbc.com/2026/09/05/trump-warsh-fed-september-rate-hike.html",
+      "topic": "Politics",
+      "reason": "Trump, Vance and Treasury Secretary Bessent are all publicly pushing for cuts even as markets price a 90% chance of a hike, setting up a direct test of central bank independence two months before the midterms."
+    },
+    {
+      "title": "Global shares slide as oil tops $106 with the Fed and Bank of Japan both poised to raise rates this week",
+      "source": "Business Standard",
+      "url": "https://www.business-standard.com/markets/news/asian-shares-slide-as-oil-spike-fuels-inflation-rate-hike-concerns-126091400050_1.html",
       "topic": "Economy",
-      "reason": "Markets now price an 86% probability of a rate increase after last week's hot CPI and PPI prints, with the Saudi pipeline shutdown and Houthi Red Sea gains adding fresh energy-price pressure ahead of the decision."
+      "reason": "Fresh Houthi attacks on Saudi Arabia and the East-West pipeline shutdown have crude near multi-month highs just as the BOJ weighs its own 25-basis-point hike to defend the yen, compounding pressure on markets already rattled by AI-slowdown warnings."
     },
     {
-      "title": "Pakistan's Sharif to meet Trump at UNGA on September 23, plans to raise India's suspension of the Indus Waters Treaty",
-      "source": "The Tribune",
-      "url": "https://www.tribuneindia.com/news/pakistan/pakistan-pm-sharif-to-meet-trump-on-sidelines-of-unga-on-september-23-report",
-      "topic": "Politics",
-      "reason": "India put the 1960 water-sharing treaty in abeyance after last year's Pahalgam terror attack, and Islamabad's push to internationalize the dispute at the UN could add a new flashpoint to already-tense South Asian relations."
-    },
-    {
-      "title": "Russian drone strikes Kyiv-Warsaw train just 2 kilometers from the Polish border",
-      "source": "Kyiv Independent",
-      "url": "https://kyivindependent.com/russian-drone-hits-kyiv-warsaw-train-near-polish-border-as-nationwide-attacks-kill-6-injure-43/",
+      "title": "India approves 18-hour daily power exports to Nepal through December as flood death toll passes 1,400",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/amp/news/2026/9/14/india-to-supply-nepal-electricity-after-floods-wrecked-hydropower-projects",
       "topic": "World",
-      "reason": "Passengers were evacuated minutes before the drone hit the train's locomotive near the Polish border, part of a 450-drone nationwide barrage that killed six and injured 43 elsewhere -- among the closest-to-NATO-territory attacks of the war."
+      "reason": "A glacial mountain collapse triggered floods that destroyed at least 12 Nepali hydropower plants and left 5,500 people missing, forcing a country that normally exports electricity to import it from India just to keep the lights on."
     },
     {
-      "title": "BRICS closes New Delhi summit with declaration condemning unilateral tariffs and demanding UN, IMF and World Bank reform",
-      "source": "Eurasia Review",
-      "url": "https://www.eurasiareview.com/14092026-brics-summit-concludes-with-adoption-of-new-delhi-declaration/",
+      "title": "Netflix's 'The AI Doc' premieres today, with Altman, Amodei and Hassabis confronting AI's existential stakes on camera",
+      "source": "Netflix Junkie",
+      "url": "https://www.netflixjunkie.com/hollywood-news-where-to-watch-the-ai-doc-is-the-documentary-available-for-streaming-online/",
+      "topic": "AI",
+      "reason": "Directed by Oscar winner Daniel Roher and drawing on 40 interviews including Yoshua Bengio and Eliezer Yudkowsky, the film's release lands squarely amid this week's real-world fight over whether AI development should slow down."
+    },
+    {
+      "title": "Newsom tells CNN he won't run for president in 2028 if Kamala Harris does",
+      "source": "CNN",
+      "url": "https://www.cnn.com/2026/09/14/politics/gavin-newsom-presidential-run-ooo",
       "topic": "Politics",
-      "reason": "The 11-nation bloc's unanimous final text pushes for a 'multipolar' world and greater emerging-market representation in global institutions, with China set to host the next summit in 2027."
+      "reason": "The California governor called a potential primary matchup with Harris 'mutual assured destruction,' a rare public deference between two of the Democratic Party's most prominent potential 2028 contenders."
     },
     {
-      "title": "Apple releases iOS 27 to all compatible iPhones",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/09/09/apple-september-2026-event-recap/",
-      "topic": "Tech",
-      "reason": "The update lands days ahead of Friday's iPhone 18 Pro and foldable iPhone Duo launch, rounding out Apple's biggest hardware refresh since the original iPhone with software support across its existing device base."
+      "title": "Ukraine strikes major Russian oil refineries overnight as both sides trade mass drone attacks",
+      "source": "Yahoo News",
+      "url": "https://www.yahoo.com/news/russias-drone-attack-kills-3-070345820.html",
+      "topic": "World",
+      "reason": "Kyiv hit the TANECO and Slavyansk-EKO refineries deep inside Russia hours after Moscow launched hundreds of drones at western Ukraine, underscoring how both sides are increasingly targeting energy infrastructure far from the front line."
+    },
+    {
+      "title": "India's wholesale inflation surges to 9.92% in August as food, fuel and manufacturing costs climb",
+      "source": "ANI",
+      "url": "https://aninews.in/news/business/wholesale-price-inflation-inches-up-to-992-yoy-in-august-2026-from-978-as-fuel-and-food-prices-rise20260914124221/",
+      "topic": "Economy",
+      "reason": "The jump from July's 9.78% shows how global energy price pressure from the Iran war and Red Sea disruptions is now feeding directly into one of the world's largest emerging economies."
+    },
+    {
+      "title": "UN reports sharp escalation in Israeli military activity along Lebanon's Blue Line, with over 4,000 war deaths to date",
+      "source": "Global Security",
+      "url": "https://www.globalsecurity.org/military/library/news/2026/09/mil-260903-unnews01.htm",
+      "topic": "World",
+      "reason": "Peacekeepers recorded 84 Israeli projectiles fired in a single day in early September despite a June ceasefire framework, as the death toll from the year-long Lebanon war passes 4,000 and displacement tops a million people."
     }
   ]
 }
