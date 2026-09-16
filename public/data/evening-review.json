@@ -1,61 +1,61 @@
 {
-  "generatedAt": "2026-09-15T19:20:00Z",
+  "generatedAt": "2026-09-16T19:20:00Z",
   "stories": [
     {
-      "title": "Trump interrupts Nvidia CEO Jensen Huang onstage to call AI safety fears a 'hoax'",
-      "source": "NBC News",
-      "url": "https://www.nbcnews.com/politics/donald-trump/nvidia-ceo-jensen-huang-ai-speakerphone-all-hands-meeting-rcna597761",
-      "topic": "Politics",
-      "reason": "Trump's live speakerphone call at the All-In Summit directly rebuked Amodei, Altman and Musk's weekend calls to slow AI development, escalating the fight over AI safety into a defining political and industry rift."
-    },
-    {
-      "title": "Bernie Sanders and Steve Bannon share a stage to promote curbs on AI at 'Pro-Human Assembly'",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/09/15/nx-s1-5968678/bernie-sanders-and-steve-bannon-to-share-a-stage-to-promote-curbs-on-ai",
-      "topic": "Politics",
-      "reason": "The rare pairing of a progressive leader and a MAGA strategist to press Congress on AI regulation shows how the technology is scrambling traditional political alliances just as Trump dismisses the same concerns as fearmongering."
-    },
-    {
-      "title": "EPA repeals Biden-era power plant emissions rules in what it calls the largest deregulatory move in US history",
-      "source": "Honolulu Star-Advertiser",
-      "url": "https://www.staradvertiser.com/2026/09/14/breaking-news/epa-scraps-power-plant-emissions-limits-in-sweeping-rollback/",
-      "topic": "Politics",
-      "reason": "The rollback also seeks to permanently bar future administrations from regulating power-sector greenhouse gases, with the EPA citing $310 billion in consumer savings against critics' warnings of hundreds of thousands of avoidable deaths."
-    },
-    {
-      "title": "Bank of America shares sink 5.7% after CEO warns of flat trading revenue and falling investment-banking fees",
+      "title": "Fed raises rates to 3.75%-4% in first hike since 2023, with most officials expecting another",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/14/bank-of-america-bac-q3-investment-banking-fees.html",
+      "url": "https://www.cnbc.com/2026/09/16/fed-rate-decision-september-2026.html",
       "topic": "Economy",
-      "reason": "CEO Brian Moynihan's warning of a more than 10% drop in Q3 IB fees marks a sharp reversal from a second quarter that saw 50% growth in the same business, dragging down bank stocks broadly."
+      "reason": "The unanimous 12-0 vote came despite direct pressure from Trump to cut, with the Fed citing elevated inflation, and 16 of 18 officials' projections pointing to at least one more hike this year."
     },
     {
-      "title": "NATO's Rutte vows more support for Ukraine after Russian drone strikes near the Polish border",
+      "title": "House votes for a third time to limit Trump's power to continue the Iran war, as 7 Republicans defect",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/14/nato-pledges-increased-support-for-ukraine-after-russia-strikes-warsaw-bound-train",
+      "url": "https://www.aljazeera.com/news/2026/9/16/us-house-votes-to-end-iran-war-7-republicans-join-in-favour",
+      "topic": "Politics",
+      "reason": "The 220-204 vote saw three new GOP defectors join, with Rep. Zach Nunn saying 'sustained combat operations now require congressional authorization' -- though the measure still faces a near-certain Trump veto if it ever reaches his desk."
+    },
+    {
+      "title": "EU's von der Leyen proposes Canada as the bloc's first-ever 'associate member' amid Trump's trade war",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/16/canada-eu-associate-member-von-der-leyen.html",
       "topic": "World",
-      "reason": "Rutte called the strikes near NATO territory a sign of Putin's 'desperation,' pledging to bolster both Ukraine's defenses and the alliance's own eastern border as the drone campaign edges closer to allied soil."
+      "reason": "The unprecedented overture to move 'from CETA to an alliance for the future' comes as Trump's tariffs and talk of a '51st state' push Canada -- which sends 70% of its exports to the US -- toward deeper European ties."
     },
     {
-      "title": "Cloudflare begins blocking 'mixed-use' AI crawlers from ad-supported websites by default",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/",
-      "topic": "AI",
-      "reason": "The new default forces AI companies to separate search, agent and training crawlers or lose access to ad-supported sites entirely, alongside a new 'Pay Per Use' program compensating publishers when their content surfaces in AI answers."
-    },
-    {
-      "title": "UN warns Sudan humanitarian aid could run out within weeks amid severe funding shortages",
-      "source": "Rio Times",
-      "url": "https://www.riotimesonline.com/africa-intelligence-brief-sunday-september-13-2026/",
-      "topic": "World",
-      "reason": "With 8.6 million people displaced and 19.5 million facing crisis-level food insecurity, aid agencies say shelter, sanitation and emergency supplies could be exhausted by month's end in one of the world's most severe and overlooked crises."
-    },
-    {
-      "title": "Stocks fall broadly as the 10-year Treasury yield hits its highest since 2023 ahead of Wednesday's Fed decision",
+      "title": "Anthropic in talks for a $100 billion raise at a $2 trillion valuation, with Nvidia eyeing a $10 billion stake",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-september-15-dow-sp-500-nasdaq-081307838.html",
-      "topic": "Economy",
-      "reason": "The Dow is now down more than 2% for September and on pace for its steepest monthly decline since 2008, with markets pricing a 90% chance the Fed hikes rates for the first time since 2023."
+      "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-pitches-ipo-investors-30-172107288.html",
+      "topic": "AI",
+      "reason": "The potential raise, backed by an annualized revenue run rate that surged from $9 billion to $65 billion in seven months, would make Anthropic's IPO one of the largest ever if it goes ahead on Nasdaq."
+    },
+    {
+      "title": "OpenAI weighs a new funding round at up to $1.5 trillion valuation ahead of a planned 2027 IPO",
+      "source": "Forbes",
+      "url": "https://www.forbes.com/sites/siladityaray/2026/09/16/openai-is-reportedly-weighing-new-funding-round-at-15-trillion-valuation/",
+      "topic": "AI",
+      "reason": "Investors have offered $1.2 trillion but OpenAI believes it's worth more, one more private round before a listing it has already pushed back to next year -- intensifying the valuation arms race with Anthropic's own pre-IPO push."
+    },
+    {
+      "title": "25 Fields Medalists, including Terence Tao, warn that AI labs' race to solve famous math problems is harming mathematics",
+      "source": "Scientific American",
+      "url": "https://www.scientificamerican.com/article/25-winners-of-maths-nobel-prize-decry-the-ai-invasion-of-their-discipline/",
+      "topic": "AI",
+      "reason": "The declaration follows OpenAI's disputed Navier-Stokes claim and NYU mathematician Tristan Buckmaster's allegation that his unpublished work influenced it, arguing the benchmark race raises plagiarism risks and undermines conceptual understanding."
+    },
+    {
+      "title": "Kosovo's former president Hashim Thaci convicted of war crimes, sentenced to 25 years",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/09/16/g-s1-143560/kosovo-former-president-war-crimes",
+      "topic": "World",
+      "reason": "The Kosovo Specialist Chambers found Thaci guilty of murdering 96 political opponents and perceived collaborators during the independence war, closing a years-long case that also convicted three co-defendants and saw Thaci resign the presidency to face trial."
+    },
+    {
+      "title": "Trump claims without evidence that his 2024 Butler assassination attempt was a 'Democrat Plot'",
+      "source": "ABC7",
+      "url": "https://abc7news.com/story/trump-claims-butler-assassination-attempt-was-democrat-plot-showing-evidence/19836147/",
+      "topic": "Politics",
+      "reason": "Citing unspecified 'new info' -- reportedly records showing an anonymous donor funded the shooter's cremation -- Trump demanded former FBI Director Christopher Wray 'pay a price,' reopening a case the bureau closed in 2025 with the shooter's motive still unknown."
     }
   ]
 }
