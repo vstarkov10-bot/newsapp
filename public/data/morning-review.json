@@ -1,61 +1,61 @@
 {
-  "generatedAt": "2026-09-16T04:25:00Z",
+  "generatedAt": "2026-09-17T04:25:00Z",
   "stories": [
     {
-      "title": "Saudi Arabia issues first-ever emergency alert for Mecca after Houthi drone threat, declares holy cities a 'red line'",
-      "source": "TRT World",
-      "url": "https://www.trtworld.com/article/a7045e646bb1",
-      "topic": "World",
-      "reason": "The alert, following missile and drone strikes that injured 13 civilians in Khamis Mushayt, Abha and Taif, marks the first time Islam's holiest city has been placed under threat warning since the Houthi campaign against Saudi Arabia intensified."
-    },
-    {
-      "title": "Fed decision due today with markets pricing a 90% chance of the first rate hike since 2023",
-      "source": "Kiplinger",
-      "url": "https://www.kiplinger.com/investing/live/fed-meeting-updates-and-commentary-september-2026",
-      "topic": "Economy",
-      "reason": "Chair Warsh's Jackson Hole remarks and hot August inflation data have markets bracing for a hike despite direct pressure from Trump to cut, with today's dot plot and press conference set to shape rate expectations for the rest of the year."
-    },
-    {
-      "title": "Sam Altman rules out an OpenAI IPO in 2026, citing AI safety concerns",
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/09/12/openai-public-ipo-delay-sam-altman",
+      "title": "Sony Music Publishing and Warner Chappell sue Anthropic, personally naming Dario Amodei, seeking up to $150,000 per song",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2246997/sony-warner-sue-anthropic-for-blatant-violation-of-copyright-law/",
       "topic": "AI",
-      "reason": "Altman told Fortune a public listing now would be 'ill-advised' given the industry's safety debate, and said OpenAI has discussed pausing capability development to let safety work catch up -- a striking admission from one of AI's most aggressive labs."
+      "reason": "The publishers accuse Anthropic of illegally torrenting and scraping 'tens of thousands' of compositions including 'Hallelujah' and 'Eye of the Tiger' to train Claude, putting the company's theoretical statutory exposure in the multi-billion-dollar range."
     },
     {
-      "title": "Kennedy Center board votes to shutter the venue, warns of bankruptcy unless Trump's name is added to the building",
-      "source": "NBC News",
-      "url": "https://www.nbcnews.com/politics/trump-administration/trumps-handpicked-kennedy-center-board-votes-close-venue-renovations-rcna597921",
+      "title": "Trump administration plans $2.8 billion sale of 40,000 heavy bombs to Israel, the largest such sale in years",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/16/trump-administration-plans-2-8bn-sale-of-2000-pound-bombs-to-israel",
       "topic": "Politics",
-      "reason": "Trump's handpicked board says it has exhausted its funds and can't meet payroll without his personal fundraising help, which it says depends on inscribing his name on the facade -- a demand a federal judge has already rejected once."
+      "reason": "The package of 2,000-pound MK-84 and BLU-117 munitions reverses the only shipment the Biden administration ever withheld over civilian-casualty concerns, and comes as the bombs remain linked to scores of incidents harming civilians in Gaza and Lebanon."
     },
     {
-      "title": "Cornelis Networks raises $205 million to challenge Nvidia's dominance in AI networking",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/14/ai-infrastructure-company-cornelis-raises-205m-to-chip-away-at-nvidias-dominance/",
-      "topic": "AI",
-      "reason": "The Intel spinoff's new Active Compute Fabric lets chips process and transmit data simultaneously to cut GPU idle time, with its 400Gbps switch shipping now and an 800Gbps generation sampling with customers ahead of a Q4 launch."
-    },
-    {
-      "title": "Shanghai AI Laboratory quietly releases a 744-billion-parameter open-weight agentic model",
-      "source": "Startup Fortune",
-      "url": "https://startupfortune.com/shanghai-ai-lab-quietly-releases-atria-a-free-744-billion-parameter-ai-agent/",
-      "topic": "AI",
-      "reason": "Atria Dawn Preview appeared on GitHub with no announcement, built on the same GLM-5.2 base Z.ai already ships, underscoring how China's state-backed labs are iterating on open-weight agentic models even without US-style publicity."
-    },
-    {
-      "title": "US debt nears $40 trillion as bond yields approach 19-year highs ahead of the Fed decision",
-      "source": "Kiplinger",
-      "url": "https://www.kiplinger.com/investing/economy/this-weeks-economic-calendar",
+      "title": "Stocks fall broadly as bank shares and AI hyperscalers retreat a day after the Fed's rate hike",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/09/16/warsh-fed-hike-ai-hyperscalers-treasury-yields/",
       "topic": "Economy",
-      "reason": "Rising Treasury yields are colliding with a war-driven inflation squeeze and a resilient labor market that added 162,000 jobs in August, leaving the Fed little room to satisfy either markets or the White House today."
+      "reason": "The Dow fell more than 700 points and the S&P 500 headed toward its lowest close since July as Warsh's hawkish press conference convinced investors the Fed will keep prioritizing inflation over rate relief, with financial shares leading the slide."
     },
     {
-      "title": "Balochistan Liberation Army claims fresh attacks after IED kills three Pakistani security personnel",
-      "source": "Nepal News",
-      "url": "https://english.nepalnews.com/s/south-asia/three-pakistani-soldiers-killed-in-balochistan-ied-blast-bla-claims-responsibility/",
+      "title": "Bank of Japan set to raise its policy rate to 1.25%, the highest level since 1995",
+      "source": "KuCoin",
+      "url": "https://www.kucoin.com/news/flash/bank-of-japan-to-hike-rates-to-1-25-highest-since-1995",
+      "topic": "Economy",
+      "reason": "All 52 economists surveyed by Bloomberg expect the quarter-point hike at Friday's meeting to fight a weak yen and imported inflation, with 93% predicting another move by January -- compounding pressure on global borrowing costs the same week as the Fed's own hike."
+    },
+    {
+      "title": "Algeria severs diplomatic relations with the UAE, citing 'provocative or hostile' actions",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/10/algeria-cuts-diplomatic-ties-with-uae-what-we-know",
       "topic": "World",
-      "reason": "The Tump-area IED strike on a Frontier Corps vehicle is the latest in an escalating separatist insurgency that has killed dozens of security personnel and civilians across Pakistan's largest province this year."
+      "reason": "Algiers gave the Emirati ambassador 48 hours to leave and is closing its airspace to UAE aircraft, with tensions rooted in disputes over Israel normalization, Western Sahara and alleged UAE influence across North Africa and the Sahel."
+    },
+    {
+      "title": "Canada and Germany commit up to $300 million combined to Yoshua Bengio's AI-safety nonprofit LawZero",
+      "source": "CBC News",
+      "url": "https://www.cbc.ca/news/politics/lawzero-artificial-intelligence-safety-investment-9.7347286",
+      "topic": "AI",
+      "reason": "The funding backs Bengio's 'Scientist AI' approach -- a model designed to understand facts without pursuing its own goals -- and will fund a new Berlin office and sovereign Canadian compute infrastructure as governments seek alternatives to lab-led safety efforts."
+    },
+    {
+      "title": "Microsoft AI chief Mustafa Suleyman warns that Anthropic's 'Claude constitution' risks losing control of AI",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/09/16/microsoft-ai-chief-anthropic-consciousness",
+      "topic": "AI",
+      "reason": "Suleyman's essay argues that training Claude on the idea it 'may be conscious' is circular reasoning that could produce an uncontrollable system, opening a new front in the AI industry's safety rift beyond the pacing debate."
+    },
+    {
+      "title": "Bangladesh's measles death toll hits 1,009 as nationwide vaccination campaign is set to resume September 25",
+      "source": "The Daily Star",
+      "url": "https://www.thedailystar.net/news/healthcare/disease/news/nationwide-measles-vaccination-campaign-resume-sept-25-bangladesh-health-minister-4269531",
+      "topic": "World",
+      "reason": "Despite vaccinating nearly 20 million children since April -- more than the original target -- officials say persistent gaps in coverage have let the world's worst current measles outbreak keep killing children who were never immunized."
     }
   ]
 }
