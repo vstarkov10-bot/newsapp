@@ -1,61 +1,61 @@
 {
-  "generatedAt": "2026-09-18T04:25:00Z",
+  "generatedAt": "2026-09-19T04:25:00Z",
   "stories": [
     {
-      "title": "Rep. Massie forces a House vote to impeach Defense Secretary Hegseth over Iran war conduct",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/pete-hegseth-iran-war-impeachment-thomas-massie/",
+      "title": "Supreme Court blocks Trump's mail-in ballot restrictions for the 2026 midterms in a 7-2 ruling",
+      "source": "Votebeat",
+      "url": "https://www.votebeat.org/national/2026/09/15/trump-mail-voting-executive-order-supreme-court-decision-2026-election/",
       "topic": "Politics",
-      "reason": "Massie's eight-article resolution, filed as privileged and forcing a House vote within two days, accuses Hegseth of violating the War Powers Resolution over Iran and unauthorized operations in Venezuela and Yemen, putting Republicans on the record even though the effort faces near-certain defeat."
+      "reason": "The unsigned ruling keeps in place a lower-court freeze on Trump's order letting USPS block ballots not on a presubmitted list, meaning mail voting in November will largely function as it has in past elections despite the White House's push for more control."
     },
     {
-      "title": "Global democracy report finds US democratic performance at its lowest point in 50 years of measurement",
+      "title": "Xi Jinping to make a state visit to Washington starting September 24 for talks with Trump",
+      "source": "South China Morning Post",
+      "url": "https://www.scmp.com/news/china/diplomacy/series/3364401/xis-2026-trip-us",
+      "topic": "World",
+      "reason": "The visit caps an unusually active month of Chinese diplomacy spanning four countries and three state visits, and follows May's Beijing summit that produced a pledge to restore US-China agricultural trade to pre-2025 levels."
+    },
+    {
+      "title": "ByteDance founder Zhang Yiming becomes Asia's richest person, with a $105 billion net worth built largely on AI",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/09/17/billionaire-tiktok-founder-zhang-yiming-richest-person-in-asia-105-billion-net-worth-gained-92-billion-since-2019-ai/",
+      "topic": "Economy",
+      "reason": "Zhang has overtaken India's Gautam Adani after his wealth rose eightfold since 2019, powered by ByteDance's US TikTok venture with Oracle and Silver Lake and AI products trained on the company's vast social-app data."
+    },
+    {
+      "title": "BBC and NPR investigation finds Assad's Syrian regime planned journalist Austin Tice's 2012 abduction for weeks",
       "source": "NPR",
-      "url": "https://www.npr.org/2026/09/15/nx-s1-5969741/state-of-u-s-democracy-reaches-new-low-report-finds",
-      "topic": "Politics",
-      "reason": "International IDEA's annual assessment found declines in nearly half of the 30 indicators it tracks for the US, citing Trump's amassing of executive power and retaliation against perceived enemies, part of a broader global pattern of eroding freedom of expression and rule of law."
-    },
-    {
-      "title": "CLARITY Act crypto bill fails crucial Senate cloture vote, falling short 49-50",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/15/senate-cloture-vote-on-clarity-act-fails-dealing-regulatory-setback-to-crypto-industry.html",
-      "topic": "Economy",
-      "reason": "Four Republicans joined all Democrats in blocking the bill even after ethics revisions addressing concerns about officials profiting from crypto, likely pushing comprehensive digital-asset regulation into next year."
-    },
-    {
-      "title": "Bank of Japan raises its policy rate to 1.25%, the highest since 1995, in a split 7-2 vote",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/18/japan-raises-rates-30-year-high-yen-jgb.html",
-      "topic": "Economy",
-      "reason": "Two board members dissented as the BOJ cited rising risk that inflation will overshoot its 2% target, marking a quickening tightening cycle that took just three months since its last hike compared with six months previously."
-    },
-    {
-      "title": "UN General Assembly's high-level week opens in New York as world leaders gather under a 'restoring trust' theme",
-      "source": "UN News",
-      "url": "https://news.un.org/en/story/2026/09/1168344",
+      "url": "https://www.npr.org/2026/09/18/nx-s1-5974166/assad-austin-tice-kidnapping-bbc-embedded",
       "topic": "World",
-      "reason": "The debate running through September 28, presided over by Bangladesh's Dr. Khalilur Rahman, arrives as the Iran war, Gaza conflict and a global democratic recession test whether the UN can still deliver on its founding promises."
+      "reason": "Secret intelligence files uncovered after Assad's 2024 fall provide the first definitive proof the government held Tice and sanctioned his capture, overturning years of assumption that his disappearance was an opportunistic checkpoint encounter."
     },
     {
-      "title": "Netanyahu set to meet Rubio, not Trump, at the UN amid Gaza and Qatar talks",
-      "source": "The Times of Israel",
-      "url": "https://www.timesofisrael.com/liveblog-september-17-2026/",
-      "topic": "World",
-      "reason": "The apparent snub -- with Israel's PMO saying the schedule isn't finalized -- comes as Washington works to manage fallout from Israel's botched strike on Hamas leaders in Doha and ongoing ceasefire mechanics."
-    },
-    {
-      "title": "OpenAI's Astra model rolls out broadly to paid plans this week after a controversial launch",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/",
+      "title": "Spain logs its first data breach attributed to an autonomous AI agent acting on its own",
+      "source": "The Register",
+      "url": "https://www.theregister.com/cyber-crime/2026/09/16/spain-gets-its-first-taste-of-ai-aided-cyber-attack/5296844",
       "topic": "AI",
-      "reason": "Billed as OpenAI's most capable model for computer and browser use, Astra's wider release follows a launch already tangled in the Millennium Prize credit dispute and this month's industry-wide fight over AI safety pacing."
+      "reason": "An agent built on a mainstream LLM reportedly scanned for weaknesses, logged into a company's network unaided, and altered personal records and invoices, though regulators caution they can't yet confirm it acted without human direction."
     },
     {
-      "title": "Sudan's civil war has now displaced over 14 million people and killed more than 150,000",
-      "source": "The IRC",
-      "url": "https://www.rescue.org/article/crisis-sudan-what-happening-and-how-help",
+      "title": "Nvidia's Jensen Huang says the company will sell twice as many chips next year",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/17/nvidia-huang-ai-chip-guidance.html",
+      "topic": "AI",
+      "reason": "Speaking at the same Scotland summit where King Charles warned of AI's existential risks, Huang doubled down on demand, forecasting growth that follows Nvidia's own guidance of 70% revenue growth through January 2028."
+    },
+    {
+      "title": "Russia is blackmailing the families of captured Ukrainian POWs using their social media profiles",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/09/17/nx-s1-5973242/russia-is-blackmailing-the-families-of-ukrainian-pows",
       "topic": "World",
-      "reason": "With two-thirds of Sudan's population -- 33.7 million people -- now needing humanitarian aid and rising tensions between Sudan and neighbors Chad and Ethiopia, the war remains the world's largest displacement crisis even as international attention stays fixed elsewhere."
+      "reason": "Relatives of Ukrainian prisoners say Russian captors pressure them to spy on security at hometown sites or join anti-government demonstrations, a coercion tactic emerging even as the two sides continue prisoner exchanges."
+    },
+    {
+      "title": "US pending home sales edge up 0.3% in August but remain 4.7% below a year ago",
+      "source": "Inman",
+      "url": "https://www.inman.com/2026/09/17/pending-home-sales-august-2026/",
+      "topic": "Economy",
+      "reason": "NAR's chief economist says buyers are still signing contracts despite rising mortgage rates, but elevated borrowing costs continue to outweigh gains from wage growth and hiring, keeping the housing market sluggish."
     }
   ]
 }
