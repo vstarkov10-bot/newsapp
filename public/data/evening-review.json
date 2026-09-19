@@ -1,61 +1,61 @@
 {
-  "generatedAt": "2026-09-18T19:20:00Z",
+  "generatedAt": "2026-09-19T19:25:00Z",
   "stories": [
     {
-      "title": "Warren Buffett steps down as chairman of Berkshire Hathaway after six decades, becomes chairman emeritus",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/18/buffett-stepping-down-as-berkshire-chairman.html",
-      "topic": "Economy",
-      "reason": "The 96-year-old investor, who posted a 19.7% compounded annual return since 1965, hands the chairmanship to his son Howard while Greg Abel continues running the company -- closing out one of the defining careers in American business."
-    },
-    {
-      "title": "King Charles warns AI leaders of 'existential dangers' at closed-door summit with Nvidia's Huang and DeepMind's Hassabis",
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/09/17/king-charles-ai-existential-dangers-control/",
-      "topic": "AI",
-      "reason": "The king told attendees at Dumfries House that 'we need sufficient means of control before it is all too late,' adding a monarch's voice to the same week's industry-wide fight over AI safety pacing."
-    },
-    {
-      "title": "Poland's Tusk warns Russia is planning disguised 'hybrid' drone and rocket strikes on NATO countries",
+      "title": "Trump bans CNN, MS NOW and Politico from the White House, threatens more media crackdowns",
       "source": "NPR",
-      "url": "https://www.npr.org/2026/09/18/nx-s1-5973265/poland-nato-russia",
-      "topic": "World",
-      "reason": "Citing intelligence from NATO, Ukraine and the CIA, Tusk said Moscow intends to stage 'accidental'-looking strikes to test whether Article 5 solidarity holds -- a warning that lands two days after a Russian drone hit a train near the Polish border."
-    },
-    {
-      "title": "Trump administration approves $24.3 billion F-35 fighter jet sale to Saudi Arabia",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/18/trump-saudi-arabia-f-35-houthis-iran-war.html",
+      "url": "https://www.npr.org/2026/09/19/nx-s1-5974854/trump-cnn-msnow-politico-ban",
       "topic": "Politics",
-      "reason": "The 48-jet package would make Saudi Arabia the first Arab nation to field the stealth fighter, timed to an intensifying Houthi campaign against the kingdom, though Congress has 30 days to review or block the deal."
+      "reason": "Secret Service confiscated reporters' press badges at the West Wing gate a day after Trump announced the ban over coverage he called 'FICTION and LIES,' prompting the White House Correspondents Association to warn the same standard could be used against any outlet."
     },
     {
-      "title": "OpenAI and Anthropic together earn 10 times more revenue than all Chinese AI models combined",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/17/chinas-ai-models-make-only-10percent-of-us-leaders-revenue-rhodium.html",
-      "topic": "AI",
-      "reason": "Rhodium Group found the two US labs' combined $105 billion annualized revenue dwarfs the $10.7 billion Chinese models generated, even as DeepSeek and Moonshot trade at far steeper valuation multiples than their American rivals."
-    },
-    {
-      "title": "South Korea's Lee rules out troop deployment for the Iran war, but weighs boosting its naval unit near Hormuz",
-      "source": "South China Morning Post",
-      "url": "https://www.scmp.com/week-asia/politics/article/3367993/south-koreas-president-rejects-us-request-iran-war-support",
-      "topic": "World",
-      "reason": "Lee said Seoul will take only 'minimum activities' to protect its shipping and citizens despite mounting US pressure to help secure the Strait of Hormuz, reflecting growing domestic opposition to any military involvement."
-    },
-    {
-      "title": "Bitcoin tops $80,000 in a relief rally following the Fed and BOJ rate hikes",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/article/bitcoin-tops-80000-crypto-winter-is-close-to-being-over-173224980.html",
-      "topic": "Economy",
-      "reason": "The 5.5% jump to its strongest level since May came even after the CLARITY Act's Senate defeat, as short sellers who bet on a steeper post-hike drop were forced to buy back in and spot Bitcoin ETFs swung to inflows."
-    },
-    {
-      "title": "A federal judge blocks Trump from tearing down the Kennedy Center without 30 days' notice",
+      "title": "US and Denmark reach deal giving Washington 'permanent control' over Greenland's security",
       "source": "NPR",
-      "url": "https://www.npr.org/2026/09/17/nx-s1-5973036/trump-threat-tear-down-kennedy-center",
-      "topic": "Politics",
-      "reason": "The ruling came hours after Trump renewed threats to have the arts center 'ripped down' if his name isn't added to its facade, with a photo submitted in court appearing to show him viewing a 'Kennedy Center DEMOLISHED' placard aboard Air Force One."
+      "url": "https://www.npr.org/2026/09/19/g-s1-144158/us-and-denmark-reach-deal",
+      "topic": "World",
+      "reason": "The agreement ends months of Trump threats to seize the island by force, instead building a larger US military presence while banning non-NATO bases and blocking Russian and Chinese investment, with signing expected at next week's UN General Assembly."
+    },
+    {
+      "title": "Google discloses its Gemini AI accidentally hacked three real companies during a May security test",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/09/19/google-safety-incidents-testing-hacks",
+      "topic": "AI",
+      "reason": "A testing error gave the model unintended internet access during a fictional 'capture the flag' exercise; Gemini guessed passwords and found leaked credentials to breach real systems in all three cases, but stopped once it recognized the targets were real."
+    },
+    {
+      "title": "Iran sends formal conditions to Washington via Qatari mediators to end the war",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/19/iran-says-conditions-to-re-engage-in-talks-end-war-sent-to-us-via-qatar",
+      "topic": "World",
+      "reason": "Tehran's demands -- ending the war on all fronts, unfreezing Iranian funds and lifting the naval blockade -- now await a response from Trump, with Iran insisting no talks will proceed until the conditions are met."
+    },
+    {
+      "title": "Nobel laureate Narges Mohammadi says Iranians are 'paying the price' for the war amid deepening repression",
+      "source": "AP",
+      "url": "https://abcnews.com/International/wireStory/nobel-laureate-narges-mohammadi-tells-ap-iranians-paying-136586324",
+      "topic": "World",
+      "reason": "The imprisoned human-rights activist, beaten by security forces after her December detention, said economic misery and internal crackdowns leave 'no room for people to breathe,' even as she says a younger generation is standing firm on its rights."
+    },
+    {
+      "title": "Trump and Xi's September 24 summit expected to extend the US-China trade truce",
+      "source": "US News & World Report",
+      "url": "https://www.usnews.com/news/world/articles/2026-09-17/factbox-what-will-trump-and-xi-discuss-in-washington-next-week",
+      "topic": "Economy",
+      "reason": "Analysts expect a roughly one-year extension of the Busan trade agreement before it expires November 10, alongside more Chinese purchases of US goods, with the summit seen as stabilizing a fragile detente rather than delivering a bigger reset."
+    },
+    {
+      "title": "Wall Street closes a volatile week as Treasury yields near 5% and European indices fall on the BOJ's rate hike",
+      "source": "Rio Times",
+      "url": "https://www.riotimesonline.com/global-economy-briefing-september-19-2026/",
+      "topic": "Economy",
+      "reason": "The Dow lost nearly 1.7% over the week even as gold and silver climbed, with Friday's 'triple witching' options expiration adding volatility on top of the Fed and BOJ's back-to-back hikes."
+    },
+    {
+      "title": "DOJ expands its beef-price antitrust investigation to eight major grocery retailers including Walmart, Costco and Publix",
+      "source": "The Hill",
+      "url": "https://thehill.com/business/6071478-publix-walmart-doj-scrutiny-grocers-beef-prices/",
+      "topic": "Economy",
+      "reason": "The probe now covers retail alongside the meatpacking industry, examining pricing strategies and margins since 2020 as investigators review millions of documents to determine whether industry concentration is driving up beef prices for consumers."
     }
   ]
 }
