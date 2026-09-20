@@ -1,61 +1,61 @@
 {
-  "generatedAt": "2026-09-19T04:25:00Z",
+  "generatedAt": "2026-09-20T04:20:00Z",
   "stories": [
     {
-      "title": "Supreme Court blocks Trump's mail-in ballot restrictions for the 2026 midterms in a 7-2 ruling",
-      "source": "Votebeat",
-      "url": "https://www.votebeat.org/national/2026/09/15/trump-mail-voting-executive-order-supreme-court-decision-2026-election/",
+      "title": "Saudi Arabia intercepts a Houthi ballistic missile aimed at Riyadh for the first time as Trump cuts short his Camp David trip",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/world/middle-east/flames-smoke-seen-riyadh-airport-houthis-claim-attacks-saudi-capital-rcna598714",
+      "topic": "World",
+      "reason": "The strike triggered flight disruptions at King Khalid International Airport and a US State Department security alert across the Middle East, with Trump's abrupt return to the White House fueling speculation of a major response to come."
+    },
+    {
+      "title": "Russia holds a parliamentary election for the first time in Ukrainian regions it illegally annexed",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/09/19/g-s1-144169/russia-holds-parliamentary-vote-in-areas-it-seized-from-ukraine",
       "topic": "Politics",
-      "reason": "The unsigned ruling keeps in place a lower-court freeze on Trump's order letting USPS block ballots not on a presubmitted list, meaning mail voting in November will largely function as it has in past elections despite the White House's push for more control."
+      "reason": "Ukrainian rights activists say local election officials went house to house escorted by Russian troops to coerce voting in Donetsk, Luhansk, Kherson, Zaporizhzhia and Crimea, as Kyiv urges the world not to recognize the results."
     },
     {
-      "title": "Xi Jinping to make a state visit to Washington starting September 24 for talks with Trump",
-      "source": "South China Morning Post",
-      "url": "https://www.scmp.com/news/china/diplomacy/series/3364401/xis-2026-trip-us",
-      "topic": "World",
-      "reason": "The visit caps an unusually active month of Chinese diplomacy spanning four countries and three state visits, and follows May's Beijing summit that produced a pledge to restore US-China agricultural trade to pre-2025 levels."
-    },
-    {
-      "title": "ByteDance founder Zhang Yiming becomes Asia's richest person, with a $105 billion net worth built largely on AI",
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/09/17/billionaire-tiktok-founder-zhang-yiming-richest-person-in-asia-105-billion-net-worth-gained-92-billion-since-2019-ai/",
-      "topic": "Economy",
-      "reason": "Zhang has overtaken India's Gautam Adani after his wealth rose eightfold since 2019, powered by ByteDance's US TikTok venture with Oracle and Silver Lake and AI products trained on the company's vast social-app data."
-    },
-    {
-      "title": "BBC and NPR investigation finds Assad's Syrian regime planned journalist Austin Tice's 2012 abduction for weeks",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/09/18/nx-s1-5974166/assad-austin-tice-kidnapping-bbc-embedded",
-      "topic": "World",
-      "reason": "Secret intelligence files uncovered after Assad's 2024 fall provide the first definitive proof the government held Tice and sanctioned his capture, overturning years of assumption that his disappearance was an opportunistic checkpoint encounter."
-    },
-    {
-      "title": "Spain logs its first data breach attributed to an autonomous AI agent acting on its own",
-      "source": "The Register",
-      "url": "https://www.theregister.com/cyber-crime/2026/09/16/spain-gets-its-first-taste-of-ai-aided-cyber-attack/5296844",
+      "title": "Anthropic targets a $2 trillion November IPO as its alignment science lead admits no plan exists to safely build superintelligence",
+      "source": "Tech Times",
+      "url": "https://www.techtimes.com/articles/327747/20260919/anthropic-hits-100b-ipo-targets-november-safety-lead-says-no-alignment-plan-exists.htm",
       "topic": "AI",
-      "reason": "An agent built on a mainstream LLM reportedly scanned for weaknesses, logged into a company's network unaided, and altered personal records and invoices, though regulators caution they can't yet confirm it acted without human direction."
+      "reason": "Evan Hubinger wrote that people inside frontier AI labs 'really do earnestly believe AI could kill all humans' and put his own extinction-risk estimate above 10% within the decade, an unusually blunt admission from a company racing toward what could be the largest tech IPO ever."
     },
     {
-      "title": "Nvidia's Jensen Huang says the company will sell twice as many chips next year",
+      "title": "Online sports gambling is linked to a 25-30% rise in personal bankruptcies in states that legalized it",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/04/04/nx-s1-5773354/legal-sports-betting-research-credit-bankruptcy",
+      "topic": "Economy",
+      "reason": "Research finds roughly 30,000 additional bankruptcies and an 8% rise in debt collections annually tied to legalized mobile wagering, with under-40 bettors seeing delinquency rates near 26% on at least one account."
+    },
+    {
+      "title": "30-year mortgage rate hits a 19-month high of 6.95%, up from 6.26% a year ago",
+      "source": "Freddie Mac",
+      "url": "https://freddiemac.gcs-web.com/news-releases/news-release-details/mortgage-rates-average-695",
+      "topic": "Economy",
+      "reason": "The jump in borrowing costs for even well-qualified buyers compounds an already sluggish housing market, coming the same week as the Fed's rate hike and adding pressure on affordability heading into the fall buying season."
+    },
+    {
+      "title": "Consumer sentiment sinks to record lows despite a solid economy; Goldman Sachs blames 'lower happiness'",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/17/nvidia-huang-ai-chip-guidance.html",
-      "topic": "AI",
-      "reason": "Speaking at the same Scotland summit where King Charles warned of AI's existential risks, Huang doubled down on demand, forecasting growth that follows Nvidia's own guidance of 70% revenue growth through January 2028."
-    },
-    {
-      "title": "Russia is blackmailing the families of captured Ukrainian POWs using their social media profiles",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/09/17/nx-s1-5973242/russia-is-blackmailing-the-families-of-ukrainian-pows",
-      "topic": "World",
-      "reason": "Relatives of Ukrainian prisoners say Russian captors pressure them to spy on security at hometown sites or join anti-government demonstrations, a coercion tactic emerging even as the two sides continue prisoner exchanges."
-    },
-    {
-      "title": "US pending home sales edge up 0.3% in August but remain 4.7% below a year ago",
-      "source": "Inman",
-      "url": "https://www.inman.com/2026/09/17/pending-home-sales-august-2026/",
+      "url": "https://www.cnbc.com/2026/09/19/goldman-sachs-happiness-struggling-consumer-sentiment.html",
       "topic": "Economy",
-      "reason": "NAR's chief economist says buyers are still signing contracts despite rising mortgage rates, but elevated borrowing costs continue to outweigh gains from wage growth and hiring, keeping the housing market sluggish."
+      "reason": "Michigan's sentiment index fell 13% year-over-year even as GDP growth continues, with Goldman's economists tying the disconnect to declining trust in institutions rather than the economy's actual performance."
+    },
+    {
+      "title": "India sends 11 tonnes of relief material to flood-affected Nepal",
+      "source": "Nepal News",
+      "url": "https://english.nepalnews.com/s/business/nepal-news-evening-economic-brief-september-19-2026/",
+      "topic": "World",
+      "reason": "The shipment of medicines, tents and sleeping bags comes as the two countries' finance officials also meet to discuss post-flood reconstruction, trade and energy cooperation following the catastrophic glacial flooding that killed over 1,400 people."
+    },
+    {
+      "title": "Fed's dot plot signals one more rate hike before year-end, with four officials favoring an even bigger increase",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/economy/policy/article/fed-officials-forecasts-project-one-more-rate-hike-to-come-in-2026-183856618.html",
+      "topic": "Economy",
+      "reason": "The median 2026 rate projection rose to 4.1% from 3.8% in June, with only two of eighteen officials seeing no further hikes -- meaning businesses and consumers already squeezed by mortgage and borrowing costs should brace for tightening to continue."
     }
   ]
 }
