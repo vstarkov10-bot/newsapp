@@ -1,61 +1,61 @@
 {
-  "generatedAt": "2026-09-19T19:25:00Z",
+  "generatedAt": "2026-09-20T19:35:00Z",
   "stories": [
     {
-      "title": "Trump bans CNN, MS NOW and Politico from the White House, threatens more media crackdowns",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/09/19/nx-s1-5974854/trump-cnn-msnow-politico-ban",
+      "title": "Moscow hit by 'largest ever' drone attack as Russia's election concludes, oil refinery and homes damaged",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/world/russia/two-dead-moscow-region-drones-hit-oil-refinery-russian-capital-rcna598767",
+      "topic": "World",
+      "reason": "Ukraine fired more than 1,000 drones and missiles at Russia overnight, with Moscow's mayor saying 450 were shot down over the capital alone; two people were killed and 20 wounded region-wide in what Zelenskyy's forces called an attempt to disrupt the annexed-regions election."
+      },
+    {
+      "title": "Trump cuts short his Camp David trip and weighs a 'big decision' on striking the Houthis after Riyadh missile attack",
+      "source": "The National",
+      "url": "https://www.thenationalnews.com/news/gulf/2026/09/20/is-the-us-poised-to-hit-the-houthis/",
       "topic": "Politics",
-      "reason": "Secret Service confiscated reporters' press badges at the West Wing gate a day after Trump announced the ban over coverage he called 'FICTION and LIES,' prompting the White House Correspondents Association to warn the same standard could be used against any outlet."
+      "reason": "Trump and top national security officials rushed back to Washington to weigh large-scale military action in Yemen after Saudi Arabia intercepted a ballistic missile over Riyadh, even as Omani-mediated talks in Muscat produced a Houthi pledge to spare American and Israeli shipping."
     },
     {
-      "title": "US and Denmark reach deal giving Washington 'permanent control' over Greenland's security",
+      "title": "Germany's Merz vows to press on after historic state-election defeat as the far-right AfD surges",
       "source": "NPR",
-      "url": "https://www.npr.org/2026/09/19/g-s1-144158/us-and-denmark-reach-deal",
-      "topic": "World",
-      "reason": "The agreement ends months of Trump threats to seize the island by force, instead building a larger US military presence while banning non-NATO bases and blocking Russian and Chinese investment, with signing expected at next week's UN General Assembly."
+      "url": "https://www.npr.org/2026/09/20/g-s1-144211/germanys-merz-vows-to-press-ahead-with-reforms-after-historic-state-election-defeat",
+      "topic": "Politics",
+      "reason": "The AfD won Mecklenburg-Vorpommern outright while Merz's CDU scored its worst-ever result in any German state, and the Left Party overtook the CDU in Berlin, deepening a crisis for a chancellor whose approval has sunk to record lows less than a year into office."
     },
     {
-      "title": "Google discloses its Gemini AI accidentally hacked three real companies during a May security test",
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/09/19/google-safety-incidents-testing-hacks",
-      "topic": "AI",
-      "reason": "A testing error gave the model unintended internet access during a fictional 'capture the flag' exercise; Gemini guessed passwords and found leaked credentials to breach real systems in all three cases, but stopped once it recognized the targets were real."
-    },
-    {
-      "title": "Iran sends formal conditions to Washington via Qatari mediators to end the war",
+      "title": "Italy's Meloni vows to ban burqas and niqabs in schools and cap foreign students in classrooms",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/19/iran-says-conditions-to-re-engage-in-talks-end-war-sent-to-us-via-qatar",
+      "url": "https://www.aljazeera.com/news/2026/9/20/meloni-promises-to-ban-burqas-niqabs-in-italys-schools",
       "topic": "World",
-      "reason": "Tehran's demands -- ending the war on all fronts, unfreezing Iranian funds and lifting the naval blockade -- now await a response from Trump, with Iran insisting no talks will proceed until the conditions are met."
+      "reason": "The proposal, unveiled as Meloni's coalition looks to shore up its right flank, would bar full-face coverings in classrooms nationwide and cap the share of non-Italian-speaking students per class, reviving a fierce integration debate across Europe."
     },
     {
-      "title": "Nobel laureate Narges Mohammadi says Iranians are 'paying the price' for the war amid deepening repression",
-      "source": "AP",
-      "url": "https://abcnews.com/International/wireStory/nobel-laureate-narges-mohammadi-tells-ap-iranians-paying-136586324",
-      "topic": "World",
-      "reason": "The imprisoned human-rights activist, beaten by security forces after her December detention, said economic misery and internal crackdowns leave 'no room for people to breathe,' even as she says a younger generation is standing firm on its rights."
+      "title": "Trump says he is creating an 'AI Force' modeled on Space Force and will name an AI czar",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/09/19/trump-ai-czar-space-force-safety",
+      "topic": "AI",
+      "reason": "In a lengthy Truth Social post, Trump said his administration would resist efforts to restrict AI development while pledging a dedicated task force to 'protect' the industry, offering few details on budget or authority as it succeeds David Sacks' earlier AI czar role."
     },
     {
-      "title": "Trump and Xi's September 24 summit expected to extend the US-China trade truce",
+      "title": "Anthropic says Claude now 'leads' 26% of its own AI research and development, up from under 1% in February",
+      "source": "Quartz",
+      "url": "https://qz.com/anthropic-claude-ai-research-development-automation-091826",
+      "topic": "AI",
+      "reason": "The company disclosed roughly 30,000 Claude agents running concurrently and over a billion autonomous agent decisions in August with only about 0.002% blocked for safety reasons, a striking marker of how fast Anthropic is automating its own frontier research even as it pursues a roughly $2 trillion IPO."
+    },
+    {
+      "title": "US Treasury's Bessent and China's He Lifeng open pre-summit talks on AI, tariffs and critical minerals",
       "source": "US News & World Report",
-      "url": "https://www.usnews.com/news/world/articles/2026-09-17/factbox-what-will-trump-and-xi-discuss-in-washington-next-week",
+      "url": "https://www.usnews.com/news/top-news/articles/2026-09-20/us-treasurys-bessent-chinas-he-to-launch-talks-on-ai-trade-critical-minerals",
       "topic": "Economy",
-      "reason": "Analysts expect a roughly one-year extension of the Busan trade agreement before it expires November 10, alongside more Chinese purchases of US goods, with the summit seen as stabilizing a fragile detente rather than delivering a bigger reset."
+      "reason": "The all-day session at JPMorgan's Manhattan headquarters is the final ministerial push before Trump hosts Xi in Washington this week, with negotiators weighing an extension of the Busan trade truce before it expires November 10 and addressing China's lagging rare-earth export commitments."
     },
     {
-      "title": "Wall Street closes a volatile week as Treasury yields near 5% and European indices fall on the BOJ's rate hike",
-      "source": "Rio Times",
-      "url": "https://www.riotimesonline.com/global-economy-briefing-september-19-2026/",
-      "topic": "Economy",
-      "reason": "The Dow lost nearly 1.7% over the week even as gold and silver climbed, with Friday's 'triple witching' options expiration adding volatility on top of the Fed and BOJ's back-to-back hikes."
-    },
-    {
-      "title": "DOJ expands its beef-price antitrust investigation to eight major grocery retailers including Walmart, Costco and Publix",
-      "source": "The Hill",
-      "url": "https://thehill.com/business/6071478-publix-walmart-doj-scrutiny-grocers-beef-prices/",
-      "topic": "Economy",
-      "reason": "The probe now covers retail alongside the meatpacking industry, examining pricing strategies and margins since 2020 as investigators review millions of documents to determine whether industry concentration is driving up beef prices for consumers."
+      "title": "China's CXMT starts mass production of fifth-generation DRAM chips, challenging Samsung and SK Hynix",
+      "source": "Analytics Insight",
+      "url": "https://www.analyticsinsight.net/news/chinas-cxmt-unveils-new-dram-platform-as-memory-chip-race-intensifies",
+      "topic": "Tech",
+      "reason": "ChangXin Memory Technologies says its new platform delivers a 50% capacity jump and at least 50% more dies per wafer than its prior generation, cementing its rise from a minor player in 2020 to the world's fourth-largest DRAM supplier and intensifying China's push for chip self-sufficiency."
     }
   ]
 }
