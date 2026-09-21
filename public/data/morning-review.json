@@ -1,61 +1,61 @@
 {
-  "generatedAt": "2026-09-20T04:20:00Z",
+  "generatedAt": "2026-09-21T04:20:00Z",
   "stories": [
     {
-      "title": "Saudi Arabia intercepts a Houthi ballistic missile aimed at Riyadh for the first time as Trump cuts short his Camp David trip",
-      "source": "NBC News",
-      "url": "https://www.nbcnews.com/world/middle-east/flames-smoke-seen-riyadh-airport-houthis-claim-attacks-saudi-capital-rcna598714",
+      "title": "Israeli man killed in West Bank shooting hours before Yom Kippur as IDF thwarts a second attack",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/defense-news/article-909173",
       "topic": "World",
-      "reason": "The strike triggered flight disruptions at King Khalid International Airport and a US State Department security alert across the Middle East, with Trump's abrupt return to the White House fueling speculation of a major response to come."
+      "reason": "Netanel Shukrun was shot dead while immersing in a spring near Neveh Tzuf ahead of the holiday, and IDF commandos captured the gunman at a Ramallah-area hospital hours later, while a separate car-ramming attempt at a Jenin-area checkpoint was foiled, prompting reinforced security across the West Bank."
     },
     {
-      "title": "Russia holds a parliamentary election for the first time in Ukrainian regions it illegally annexed",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/09/19/g-s1-144169/russia-holds-parliamentary-vote-in-areas-it-seized-from-ukraine",
+      "title": "Trump says the Houthis have agreed not to fight the US, even as they keep striking Saudi Arabia",
+      "source": "Al Arabiya English",
+      "url": "https://english.alarabiya.net/News/middle-east/2026/09/20/trump-says-yemen-s-iranbacked-houthis-have-agreed-not-to-fight-us",
       "topic": "Politics",
-      "reason": "Ukrainian rights activists say local election officials went house to house escorted by Russian troops to coerce voting in Donetsk, Luhansk, Kherson, Zaporizhzhia and Crimea, as Kyiv urges the world not to recognize the results."
+      "reason": "Trump told Fox News Washington is in 'constant communication' with the group and rejected a Saudi request to strike Yemen directly, a de-escalation signal that comes just a day after a Houthi missile hit Riyadh and forced Trump to cut short his Camp David trip."
     },
     {
-      "title": "Anthropic targets a $2 trillion November IPO as its alignment science lead admits no plan exists to safely build superintelligence",
-      "source": "Tech Times",
-      "url": "https://www.techtimes.com/articles/327747/20260919/anthropic-hits-100b-ipo-targets-november-safety-lead-says-no-alignment-plan-exists.htm",
-      "topic": "AI",
-      "reason": "Evan Hubinger wrote that people inside frontier AI labs 'really do earnestly believe AI could kill all humans' and put his own extinction-risk estimate above 10% within the decade, an unusually blunt admission from a company racing toward what could be the largest tech IPO ever."
-    },
-    {
-      "title": "Online sports gambling is linked to a 25-30% rise in personal bankruptcies in states that legalized it",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/04/04/nx-s1-5773354/legal-sports-betting-research-credit-bankruptcy",
+      "title": "Oil prices jump above $104 a barrel as Houthi strikes on Saudi Arabia raise supply-risk fears",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Jump-as-Houthi-Attacks-Raise-Saudi-Supply-Risks.html",
       "topic": "Economy",
-      "reason": "Research finds roughly 30,000 additional bankruptcies and an 8% rise in debt collections annually tied to legalized mobile wagering, with under-40 bettors seeing delinquency rates near 26% on at least one account."
+      "reason": "Brent crude climbed toward $105 after the weekend missile attack on Riyadh, adding a fresh geopolitical risk premium to energy markets already strained by the broader Iran war and threatening to push up fuel and shipping costs worldwide."
     },
     {
-      "title": "30-year mortgage rate hits a 19-month high of 6.95%, up from 6.26% a year ago",
-      "source": "Freddie Mac",
-      "url": "https://freddiemac.gcs-web.com/news-releases/news-release-details/mortgage-rates-average-695",
-      "topic": "Economy",
-      "reason": "The jump in borrowing costs for even well-qualified buyers compounds an already sluggish housing market, coming the same week as the Fed's rate hike and adding pressure on affordability heading into the fall buying season."
+      "title": "North Korea fires two ballistic missiles within three hours, prompting emergency talks in Seoul",
+      "source": "NK News",
+      "url": "https://www.nknews.org/2026/09/north-korea-launches-unidentified-projectile-toward-east-sea-jcs-2/",
+      "topic": "Politics",
+      "reason": "South Korea's presidential office convened its National Security Office and coordinated with Washington and Tokyo after the launches from Wonsan, the latest in a string of tests that came just over a week after North Korea's previous ballistic missile firing into the same waters."
     },
     {
-      "title": "Consumer sentiment sinks to record lows despite a solid economy; Goldman Sachs blames 'lower happiness'",
+      "title": "Germany's Merz calls state-election losses a 'disaster' but vows to stay on as AfD scores historic gains",
+      "source": "Newsweek",
+      "url": "https://www.newsweek.com/merz-vows-to-stay-as-far-right-afd-extends-winning-streak-in-germany-12465458",
+      "topic": "Politics",
+      "reason": "The AfD won Mecklenburg-Vorpommern outright and the CDU posted its worst-ever result in any German state, with the Left Party overtaking Merz's party in Berlin -- a result the chancellor called a 'disaster' even as he rejected calls to step aside less than a year into office."
+    },
+    {
+      "title": "Bessent hails 'very successful' US-China talks on AI and trade ahead of the Trump-Xi summit",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/19/goldman-sachs-happiness-struggling-consumer-sentiment.html",
+      "url": "https://www.cnbc.com/2026/09/20/bessent-he-lifeng-trump-xi-summit.html",
       "topic": "Economy",
-      "reason": "Michigan's sentiment index fell 13% year-over-year even as GDP growth continues, with Goldman's economists tying the disconnect to declining trust in institutions rather than the economy's actual performance."
+      "reason": "After an eight-hour session in Manhattan, the US and China agreed to set up a dialogue and notification mechanism on AI security risks, alongside progress on the Busan trade truce and rare-earth exports, setting the stage for Trump's meeting with Xi in Washington this week."
     },
     {
-      "title": "India sends 11 tonnes of relief material to flood-affected Nepal",
-      "source": "Nepal News",
-      "url": "https://english.nepalnews.com/s/business/nepal-news-evening-economic-brief-september-19-2026/",
-      "topic": "World",
-      "reason": "The shipment of medicines, tents and sleeping bags comes as the two countries' finance officials also meet to discuss post-flood reconstruction, trade and energy cooperation following the catastrophic glacial flooding that killed over 1,400 people."
+      "title": "Google's Android-based Googlebook laptops open for preorder, priced to challenge Copilot Plus PCs and MacBook Air",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2258035/pre-orders-for-the-android-based-googlebook-laptops-open-on-september-21/",
+      "topic": "Tech",
+      "reason": "Acer, Asus, Dell, HP and Lenovo are shipping the first Googlebook devices this fall, running a new OS that blends ChromeOS and Android with built-in Gemini features, marking Google's biggest bet yet on AI-native laptops."
     },
     {
-      "title": "Fed's dot plot signals one more rate hike before year-end, with four officials favoring an even bigger increase",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/economy/policy/article/fed-officials-forecasts-project-one-more-rate-hike-to-come-in-2026-183856618.html",
-      "topic": "Economy",
-      "reason": "The median 2026 rate projection rose to 4.1% from 3.8% in June, with only two of eighteen officials seeing no further hikes -- meaning businesses and consumers already squeezed by mortgage and borrowing costs should brace for tightening to continue."
+      "title": "Antitrust lawsuit accuses Anthropic, OpenAI, SpaceXAI and Google of illegally coordinating an AI slowdown",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/09/19/lawsuit-anthropic-openai-spacexai-google-antitrust-laws-ai-slowdown-subscription-value/",
+      "topic": "AI",
+      "reason": "The proposed class action, filed on behalf of paid ChatGPT, Claude, Grok and Gemini subscribers, alleges the companies' CEOs publicly coordinated a deliberate pullback in AI development after Anthropic's Dario Amodei called for industrywide deceleration, reducing the value subscribers pay for."
     }
   ]
 }
