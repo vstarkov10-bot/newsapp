@@ -1,61 +1,61 @@
 {
-  "generatedAt": "2026-09-21T04:20:00Z",
+  "generatedAt": "2026-09-22T04:20:00Z",
   "stories": [
     {
-      "title": "Israeli man killed in West Bank shooting hours before Yom Kippur as IDF thwarts a second attack",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/defense-news/article-909173",
+      "title": "Gunman opens fire on police officer outside Ontario synagogue on Yom Kippur",
+      "source": "CBC News",
+      "url": "https://www.cbc.ca/news/canada/belleville-police-shooting-siu-synagogue-9.7351776",
       "topic": "World",
-      "reason": "Netanel Shukrun was shot dead while immersing in a spring near Neveh Tzuf ahead of the holiday, and IDF commandos captured the gunman at a Ramallah-area hospital hours later, while a separate car-ramming attempt at a Jenin-area checkpoint was foiled, prompting reinforced security across the West Bank."
+      "reason": "A 29-year-old man fired roughly 30 shots at an officer guarding the Sons of Jacob Synagogue in Belleville during Yom Kippur services, critically wounding the 13-year police veteran before being shot himself, with the synagogue's president crediting the officer with saving everyone inside."
     },
     {
-      "title": "Trump says the Houthis have agreed not to fight the US, even as they keep striking Saudi Arabia",
-      "source": "Al Arabiya English",
-      "url": "https://english.alarabiya.net/News/middle-east/2026/09/20/trump-says-yemen-s-iranbacked-houthis-have-agreed-not-to-fight-us",
+      "title": "Firefighting helicopter crashes near Yosemite, killing both pilots battling the Dome Fire",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/news/us-news/2-battling-fire-yosemite-killed-helicopter-crash-rcna599074",
+      "topic": "World",
+      "reason": "The Eurocopter AS332 went down while making water drops southeast of Ostrander Lake, killing two contract pilots and prompting NTSB and FAA investigations as roughly 580 personnel continue fighting the blaze, which is only 15% contained."
+    },
+    {
+      "title": "CNN, MS NOW and Politico sue the Trump administration over their White House ban",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/09/21/trump-cnn-msnow-politico-suit",
       "topic": "Politics",
-      "reason": "Trump told Fox News Washington is in 'constant communication' with the group and rejected a Saudi request to strike Yemen directly, a de-escalation signal that comes just a day after a Houthi missile hit Riyadh and forced Trump to cut short his Camp David trip."
+      "reason": "The First Amendment lawsuit seeks an emergency court order restoring the outlets' access after Trump barred their reporters following a Truth Social post calling their coverage 'FAKE NEWS,' a move that has already led ABC, CBS, Fox and NBC to suspend joint pool coverage of the president in protest."
     },
     {
-      "title": "Oil prices jump above $104 a barrel as Houthi strikes on Saudi Arabia raise supply-risk fears",
-      "source": "OilPrice.com",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Jump-as-Houthi-Attacks-Raise-Saudi-Supply-Risks.html",
-      "topic": "Economy",
-      "reason": "Brent crude climbed toward $105 after the weekend missile attack on Riyadh, adding a fresh geopolitical risk premium to energy markets already strained by the broader Iran war and threatening to push up fuel and shipping costs worldwide."
-    },
-    {
-      "title": "North Korea fires two ballistic missiles within three hours, prompting emergency talks in Seoul",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/09/north-korea-launches-unidentified-projectile-toward-east-sea-jcs-2/",
-      "topic": "Politics",
-      "reason": "South Korea's presidential office convened its National Security Office and coordinated with Washington and Tokyo after the launches from Wonsan, the latest in a string of tests that came just over a week after North Korea's previous ballistic missile firing into the same waters."
-    },
-    {
-      "title": "Germany's Merz calls state-election losses a 'disaster' but vows to stay on as AfD scores historic gains",
-      "source": "Newsweek",
-      "url": "https://www.newsweek.com/merz-vows-to-stay-as-far-right-afd-extends-winning-streak-in-germany-12465458",
-      "topic": "Politics",
-      "reason": "The AfD won Mecklenburg-Vorpommern outright and the CDU posted its worst-ever result in any German state, with the Left Party overtaking Merz's party in Berlin -- a result the chancellor called a 'disaster' even as he rejected calls to step aside less than a year into office."
-    },
-    {
-      "title": "Bessent hails 'very successful' US-China talks on AI and trade ahead of the Trump-Xi summit",
+      "title": "Oil prices fall to an 11-day low as US-Iran diplomacy hopes and Saudi export recovery ease supply fears",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/20/bessent-he-lifeng-trump-xi-summit.html",
+      "url": "https://www.cnbc.com/2026/09/21/iran-us-oil-prices-crude-saudi-arabia-.html",
       "topic": "Economy",
-      "reason": "After an eight-hour session in Manhattan, the US and China agreed to set up a dialogue and notification mechanism on AI security risks, alongside progress on the Busan trade truce and rare-earth exports, setting the stage for Trump's meeting with Xi in Washington this week."
+      "reason": "Brent slid to $101.75 and WTI to $98.34 a barrel after Trump signaled openness to meeting Iran's president at the UN General Assembly, the clearest sign yet that the risk premium gripping energy markets since the war began may be starting to loosen."
     },
     {
-      "title": "Google's Android-based Googlebook laptops open for preorder, priced to challenge Copilot Plus PCs and MacBook Air",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2258035/pre-orders-for-the-android-based-googlebook-laptops-open-on-september-21/",
-      "topic": "Tech",
-      "reason": "Acer, Asus, Dell, HP and Lenovo are shipping the first Googlebook devices this fall, running a new OS that blends ChromeOS and Android with built-in Gemini features, marking Google's biggest bet yet on AI-native laptops."
+      "title": "Iran's Pezeshkian departs for the UN General Assembly as Trump warns of 'no-deal' consequences",
+      "source": "IranWire",
+      "url": "https://iranwire.com/en/news/157873-iran-president-pezeshkian-to-address-un-general-assembly-in-new-york/",
+      "topic": "Politics",
+      "reason": "Pezeshkian will address world leaders in New York this week and hold sideline talks on ending the war with Washington, arriving just as Trump has threatened to let Iran 'rot economically' or move to eliminate its leadership if no agreement is reached."
     },
     {
-      "title": "Antitrust lawsuit accuses Anthropic, OpenAI, SpaceXAI and Google of illegally coordinating an AI slowdown",
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/09/19/lawsuit-anthropic-openai-spacexai-google-antitrust-laws-ai-slowdown-subscription-value/",
+      "title": "AMD's stock surges 10%, pushing its market value past $1 trillion for the first time",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/amd-joins-1-trillion-market-172341283.html",
       "topic": "AI",
-      "reason": "The proposed class action, filed on behalf of paid ChatGPT, Claude, Grok and Gemini subscribers, alleges the companies' CEOs publicly coordinated a deliberate pullback in AI development after Anthropic's Dario Amodei called for industrywide deceleration, reducing the value subscribers pay for."
+      "reason": "The milestone makes AMD the fourth US chipmaker to cross the trillion-dollar threshold after Nvidia, Broadcom and Micron, capping a nearly 30% monthly rally as investors bet heavily on its share of the AI data-center buildout."
+    },
+    {
+      "title": "SoftBank launches a record $11 billion junk-bond sale to fund a deeper stake in OpenAI",
+      "source": "The Japan Times",
+      "url": "https://www.japantimes.co.jp/business/2026/09/21/companies/softbank-11-billion-junk-bonds-openai-bet/",
+      "topic": "Economy",
+      "reason": "The offering, split across dollar and euro tranches, would be the largest non-financial corporate bond deal ever from the Asia-Pacific region and pushes SoftBank's total OpenAI investment toward $64.6 billion for roughly a 13% stake, underscoring how much debt is now fueling the AI investment boom."
+    },
+    {
+      "title": "Apple's new Mac mini and Mac Studio with M6 and M5 Pro/Max/Ultra chips begin shipping",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/09/21/new-mac-mini-and-mac-studio-launch-tomorrow/",
+      "topic": "Tech",
+      "reason": "The launch extends Apple's biggest product month of the year, following the iPhone 18 Pro, the foldable iPhone Duo and new Apple Watch and AirPods models, as the company pushes deeper into on-device AI performance across its Mac lineup."
     }
   ]
 }
