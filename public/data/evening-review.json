@@ -1,61 +1,61 @@
 {
-  "generatedAt": "2026-09-21T19:35:00Z",
+  "generatedAt": "2026-09-22T19:35:00Z",
   "stories": [
     {
-      "title": "Trump tells Iran to make a deal, or he'll 'let them rot economically' or wipe out the regime",
-      "source": "UPI",
-      "url": "https://www.upi.com/Top_News/US/2026/09/20/iran-middle-east/1621789942523/",
+      "title": "Bessent says all Iranian airlines will be shut down worldwide from September 23 under sweeping new sanctions",
+      "source": "The Statesman",
+      "url": "https://www.thestatesman.com/world/no-fuel-no-landing-no-tickets-us-threatens-global-shutdown-of-iranian-airlines-from-sept-23-1503641388.html",
       "topic": "Politics",
-      "reason": "The blunt three-option ultimatum, delivered to Fox News as Trump left Camp David early, sharply raises the stakes ahead of this week's UN General Assembly, where Trump has signaled he could meet Iran's president even as Tehran's military vows to retaliate harshly against any fresh strike."
+      "reason": "The Treasury secretary's secondary-sanctions threat targets every foreign fuel supplier, airport and ticketing agent that keeps servicing Iranian aircraft, with Turkey already saying it will bar Iranian planes -- a major escalation of economic pressure timed to Iran's president arriving in New York."
     },
     {
-      "title": "World leaders descend on New York as the UN General Assembly's high-level week opens",
-      "source": "CNN",
-      "url": "https://www.cnn.com/2026/09/21/world/unga-2026-what-to-expect-latam-intl",
-      "topic": "World",
-      "reason": "With the Iran war, the Trump-Xi summit, Gaza's fragile ceasefire and Russia's war on Ukraine all unresolved, this year's gathering of nearly 200 heads of state and government carries unusually high stakes for global diplomacy."
-    },
-    {
-      "title": "Trump to hold first meeting with Venezuela's acting president Delcy Rodriguez since the Maduro raid",
-      "source": "WLRN",
-      "url": "https://www.wlrn.org/americas/2026-09-21/trump-to-meet-acting-venezuelan-president-delcy-rodriguez-in-new-york-this-week-white-house-says",
+      "title": "Trump to meet Zelensky in New York as Ukraine pushes for a mutual halt on energy and Black Sea strikes",
+      "source": "The Kyiv Independent",
+      "url": "https://kyivindependent.com/zelensky-arrives-in-us-for-high-stakes-trump-meeting-un-general-assembly/",
       "topic": "Politics",
-      "reason": "The New York 'pull-aside,' set for UN General Assembly week, will be the two leaders' first encounter since a US military operation captured Nicolas Maduro in January and installed Rodriguez as Venezuela's acting leader, marking a striking normalization of ties with Washington."
+      "reason": "Zelensky arrived in the US with roughly 20 meetings planned on the sidelines of the UN General Assembly, aiming to discuss a possible pause in strikes on energy infrastructure and finalize a new drone-cooperation deal with Washington."
     },
     {
-      "title": "Haiti extradites 18 suspects in ex-President Jovenel Moise's 2021 assassination to the US",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/09/21/nx-s1-5976026/suspects-killing-haiti-president-extradited",
+      "title": "Iran's Revolutionary Guard warns it will 'change the geography of the war' if the US escalates",
+      "source": "Business Standard",
+      "url": "https://www.business-standard.com/world-news/we-ll-change-geography-of-war-iran-s-irgc-warns-us-against-escalation-126092200276_1.html",
       "topic": "World",
-      "reason": "The group, including 17 former Colombian soldiers and a senior Haitian justice-ministry official, was flown to Florida to join a US case that has already convicted four men and secured guilty pleas from five others, in what prosecutors called a new phase of the prosecution."
+      "reason": "IRGC spokesman Hossein Mohebbi said Tehran is ready for a long war and would unveil weapons that will 'astound the world' if Trump orders fresh strikes, a defiant signal delivered as Bessent tightens sanctions and Iran's president heads to the UN."
     },
     {
-      "title": "Israeli strikes kill four Palestinians in Gaza, including an 11-year-old boy, despite the ceasefire",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/21/israeli-attacks-on-gaza-kill-three-including-a-child",
+      "title": "Saudi airstrikes on Yemen's Mokha kill six, including two children, as Houthis seize Red Sea coast",
+      "source": "RTE",
+      "url": "https://www.rte.ie/news/middle-east/2026/0922/1592449-houthi-saudi-conflict/",
       "topic": "World",
-      "reason": "The boy was shot dead by Israeli forces inside the al-Mawasi 'safe zone' in southern Gaza, the latest in a pattern of deadly ceasefire violations that has left the truce signed nearly a year ago oscillating between fragile calm and renewed bloodshed."
+      "reason": "The strikes on a civilian residence came after rapid Houthi advances captured Mokha and other Red Sea positions from Saudi-backed government forces, underscoring how the Yemen front is intensifying in parallel with the wider Iran war."
     },
     {
-      "title": "Nasdaq surges 2% and chip stocks rally as oil retreats below $100 on Iran diplomacy hopes",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-september-21-dow-sp-500-nasdaq-080214605.html",
+      "title": "Trump says he's open to banning diesel exports as US prices top $6.50 a gallon",
+      "source": "Washington Times",
+      "url": "https://www.washingtontimes.com/news/2026/sep/22/trump-says-considering-ban-diesel-exports-ease-high-us-prices/",
       "topic": "Economy",
-      "reason": "Markets opened the week in risk-on mode as falling crude prices eased inflation worries following the Fed's rate hike last week, with traders betting that renewed US-Iran diplomatic contact could de-escalate the energy-market shock from the wider war."
+      "reason": "Bessent said officials are studying whether a full or partial export ban is feasible as farmers and truckers face record fuel costs driven by Ukrainian strikes on Russian refineries, though Interior Secretary Burgum has warned the move could backfire on import-dependent regions."
     },
     {
-      "title": "Intel shares jump 6% after striking a Micro LED chip-packaging partnership with Taiwan's AUO",
-      "source": "WCCFTech",
-      "url": "https://wccftech.com/au-optronics-intel-reshape-chip-packaging-merging-micro-led-displays-with-silicon-cpos/",
-      "topic": "Tech",
-      "reason": "The deal pairs Intel's advanced packaging patents with AUO's glass and Micro LED manufacturing expertise to target co-packaged optics for AI data centers, extending a sharp rally in Intel's stock as it races Nvidia, AMD and TSMC for a share of the AI infrastructure buildout."
+      "title": "Wall Street closes at record highs as Nasdaq jumps 2.3% on a broad AI and tech rally",
+      "source": "TheStreet",
+      "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-sept-22-2026",
+      "topic": "Economy",
+      "reason": "The Dow rose 0.7%, the S&P 500 gained 1.5% and the Nasdaq surged to a record close as falling oil prices and renewed Iran-diplomacy hopes fueled a rotation into tech and communications stocks, a day after AMD's market value crossed $1 trillion."
     },
     {
-      "title": "China's StepFun launches Step 5, a 600-billion-parameter open-weight AI model to rival OpenAI and Anthropic",
-      "source": "MarkTechPost",
-      "url": "https://www.marktechpost.com/2026/09/20/stepfun-launches-step-5-preview/",
+      "title": "Pope Leo XIV heads to France this week for the first papal visit in nearly 20 years",
+      "source": "US News & World Report",
+      "url": "https://www.usnews.com/news/world/articles/2026-09-22/pope-leo-heads-to-france-as-church-confronts-shock-of-abuse-crisis",
+      "topic": "World",
+      "reason": "The four-day trip to Paris, Lourdes and Metz includes a private meeting with seven survivors of clergy sexual abuse and addresses to French, UN and European leaders, as the Church tries to rebuild trust after a damning 2021 report on decades of abuse."
+    },
+    {
+      "title": "AI helps mathematicians crack a 25,000-case, decades-old inverse Galois problem",
+      "source": "Scientific American",
+      "url": "https://www.scientificamerican.com/article/mathematicians-use-ai-to-find-mysterious-symmetries-solving-decades-old-problem/",
       "topic": "AI",
-      "reason": "The sparse mixture-of-experts model offers a 1-million-token context window for long-horizon coding and research agents at a fraction of frontier-lab prices, with weights set to open in October -- another sign of China's open-source AI push narrowing the gap with US labs."
+      "reason": "A collaboration blending professional and amateur mathematicians with AI-assisted search resolved nearly all cases of a symmetry-group problem tracing back to 19th-century mathematician Evariste Galois, another sign of AI accelerating fundamental research once thought decades from completion."
     }
   ]
 }
