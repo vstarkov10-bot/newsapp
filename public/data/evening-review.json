@@ -1,61 +1,61 @@
 {
-  "generatedAt": "2026-09-22T19:35:00Z",
+  "generatedAt": "2026-09-23T19:35:00Z",
   "stories": [
     {
-      "title": "Bessent says all Iranian airlines will be shut down worldwide from September 23 under sweeping new sanctions",
-      "source": "The Statesman",
-      "url": "https://www.thestatesman.com/world/no-fuel-no-landing-no-tickets-us-threatens-global-shutdown-of-iranian-airlines-from-sept-23-1503641388.html",
+      "title": "Iran presents a roadmap for reopening the Strait of Hormuz in three-hour UN talks with Witkoff and Kushner",
+      "source": "The National",
+      "url": "https://www.thenationalnews.com/news/mena/2026/09/23/iran-us-meeting-new-york/",
       "topic": "Politics",
-      "reason": "The Treasury secretary's secondary-sanctions threat targets every foreign fuel supplier, airport and ticketing agent that keeps servicing Iranian aircraft, with Turkey already saying it will bar Iranian planes -- a major escalation of economic pressure timed to Iran's president arriving in New York."
+      "reason": "Foreign Minister Araghchi's delegation, joined for most of the session by Qatar's prime minister, laid out conditions including lifting the naval blockade, unfreezing Iranian assets and ending the war on all fronts, with Trump calling it 'very productive' and both sides planning another meeting soon."
     },
     {
-      "title": "Trump to meet Zelensky in New York as Ukraine pushes for a mutual halt on energy and Black Sea strikes",
-      "source": "The Kyiv Independent",
-      "url": "https://kyivindependent.com/zelensky-arrives-in-us-for-high-stakes-trump-meeting-un-general-assembly/",
+      "title": "In defiant UN speech, Pezeshkian says Iran will fight 'until our last breath' and calls out Trump by name",
+      "source": "The Associated Press",
+      "url": "https://www.wsls.com/news/world/2026/09/23/irans-president-to-speak-at-the-united-nations-in-rare-wartime-address/",
       "topic": "Politics",
-      "reason": "Zelensky arrived in the US with roughly 20 meetings planned on the sidelines of the UN General Assembly, aiming to discuss a possible pause in strikes on energy infrastructure and finalize a new drone-cooperation deal with Washington."
+      "reason": "A day after Trump said he might 'annihilate' Iran, Pezeshkian told the General Assembly 'we are not terrorists' and held up photos of Iran's supreme leader and children killed in the war, a rare wartime address by a leader whose country remains at war with the host nation."
     },
     {
-      "title": "Iran's Revolutionary Guard warns it will 'change the geography of the war' if the US escalates",
-      "source": "Business Standard",
-      "url": "https://www.business-standard.com/world-news/we-ll-change-geography-of-war-iran-s-irgc-warns-us-against-escalation-126092200276_1.html",
-      "topic": "World",
-      "reason": "IRGC spokesman Hossein Mohebbi said Tehran is ready for a long war and would unveil weapons that will 'astound the world' if Trump orders fresh strikes, a defiant signal delivered as Bessent tightens sanctions and Iran's president heads to the UN."
+      "title": "Zelensky proposes an 'energy ceasefire' with Russia and calls for a trilateral summit with Putin and Trump",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/23/zelenskyy-says-ukraine-ready-for-energy-truce-with-russia-after-trump-talks",
+      "topic": "Politics",
+      "reason": "Speaking at the UN a day after meeting Trump, Zelensky said Ukraine's long-range strikes aim to cut off Russia's war-funding oil revenue rather than fuel supplies, and pressed India and other buyers to stop financing Moscow's war machine through energy trade."
     },
     {
-      "title": "Saudi airstrikes on Yemen's Mokha kill six, including two children, as Houthis seize Red Sea coast",
-      "source": "RTE",
-      "url": "https://www.rte.ie/news/middle-east/2026/0922/1592449-houthi-saudi-conflict/",
-      "topic": "World",
-      "reason": "The strikes on a civilian residence came after rapid Houthi advances captured Mokha and other Red Sea positions from Saudi-backed government forces, underscoring how the Yemen front is intensifying in parallel with the wider Iran war."
-    },
-    {
-      "title": "Trump says he's open to banning diesel exports as US prices top $6.50 a gallon",
-      "source": "Washington Times",
-      "url": "https://www.washingtontimes.com/news/2026/sep/22/trump-says-considering-ban-diesel-exports-ease-high-us-prices/",
-      "topic": "Economy",
-      "reason": "Bessent said officials are studying whether a full or partial export ban is feasible as farmers and truckers face record fuel costs driven by Ukrainian strikes on Russian refineries, though Interior Secretary Burgum has warned the move could backfire on import-dependent regions."
-    },
-    {
-      "title": "Wall Street closes at record highs as Nasdaq jumps 2.3% on a broad AI and tech rally",
-      "source": "TheStreet",
-      "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-sept-22-2026",
-      "topic": "Economy",
-      "reason": "The Dow rose 0.7%, the S&P 500 gained 1.5% and the Nasdaq surged to a record close as falling oil prices and renewed Iran-diplomacy hopes fueled a rotation into tech and communications stocks, a day after AMD's market value crossed $1 trillion."
-    },
-    {
-      "title": "Pope Leo XIV heads to France this week for the first papal visit in nearly 20 years",
-      "source": "US News & World Report",
-      "url": "https://www.usnews.com/news/world/articles/2026-09-22/pope-leo-heads-to-france-as-church-confronts-shock-of-abuse-crisis",
-      "topic": "World",
-      "reason": "The four-day trip to Paris, Lourdes and Metz includes a private meeting with seven survivors of clergy sexual abuse and addresses to French, UN and European leaders, as the Church tries to rebuild trust after a damning 2021 report on decades of abuse."
-    },
-    {
-      "title": "AI helps mathematicians crack a 25,000-case, decades-old inverse Galois problem",
-      "source": "Scientific American",
-      "url": "https://www.scientificamerican.com/article/mathematicians-use-ai-to-find-mysterious-symmetries-solving-decades-old-problem/",
+      "title": "OpenAI slashes prices with GPT-6 Sol and Luna as an AI-model price war erupts among OpenAI, xAI and Anthropic",
+      "source": "VentureBeat",
+      "url": "https://venturebeat.com/technology/openai-releases-gpt-6-sol-and-luna-models-slashing-api-costs-50-or-more",
       "topic": "AI",
-      "reason": "A collaboration blending professional and amateur mathematicians with AI-assisted search resolved nearly all cases of a symmetry-group problem tracing back to 19th-century mathematician Evariste Galois, another sign of AI accelerating fundamental research once thought decades from completion."
+      "reason": "Sol and Luna cut API costs up to 50% versus the prior GPT-5.6 tier, arriving just a day after xAI's Grok 4.7 undercut frontier pricing by 80% and hours after Anthropic's Opus 5.5 response, signaling an intensifying price war across the top AI labs."
+    },
+    {
+      "title": "Alibaba unveils its most powerful AI chip yet and commits over $53 billion to AI infrastructure",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/22/alibaba-ai-alibabacloud-zhenwu-v900-.html",
+      "topic": "AI",
+      "reason": "The Zhenwu V900 chip triples the performance of its predecessor and can link clusters of up to 500,000 accelerators, part of a push toward 20 gigawatts of global data-center capacity by 2032 that sent Alibaba's Hong Kong shares up 3% as it challenges Nvidia directly."
+    },
+    {
+      "title": "Meta quietly used human contractors to handle calls for its Muse AI assistant, rolling the feature back after a racist remark surfaced",
+      "source": "TechSpot",
+      "url": "https://www.techspot.com/news/113957-meta-muse-ai-used-human-contractors-calls-including.html",
+      "topic": "AI",
+      "reason": "Meta tested the 'human concierge' fallback after businesses kept hanging up on AI callers, but employees flagged privacy risks and a contractor was found to have made a racist comment on one call, prompting a Superintelligence Labs executive to call the undisclosed rollout 'a miss.'"
+    },
+    {
+      "title": "Countries remain far behind on UN's 30x30 biodiversity target with 2030 deadline approaching",
+      "source": "US News & World Report",
+      "url": "https://www.usnews.com/news/world/articles/2026-09-23/countries-still-way-behind-on-un-biodiversity-targets-research-shows",
+      "topic": "World",
+      "reason": "Only 20% of land and 10% of oceans are protected against the goal of 30%, with researchers finding an annual funding shortfall of $75-150 billion and just 3.5% of nominally protected ocean area considered effectively managed."
+    },
+    {
+      "title": "Nasdaq notches a second straight record close as the five-year Treasury yield hits 5% for the first time since 2007",
+      "source": "TheStreet",
+      "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-sept-23-2026",
+      "topic": "Economy",
+      "reason": "AI stocks kept powering gains even as rising yields and hawkish Fed commentary pressured banks and small caps, with the Russell 2000 sinking as bond markets priced in a longer stretch of elevated interest rates."
     }
   ]
 }
