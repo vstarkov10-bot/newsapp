@@ -1,61 +1,61 @@
 {
-  "generatedAt": "2026-09-22T04:20:00Z",
+  "generatedAt": "2026-09-23T04:35:00Z",
   "stories": [
     {
-      "title": "Gunman opens fire on police officer outside Ontario synagogue on Yom Kippur",
-      "source": "CBC News",
-      "url": "https://www.cbc.ca/news/canada/belleville-police-shooting-siu-synagogue-9.7351776",
-      "topic": "World",
-      "reason": "A 29-year-old man fired roughly 30 shots at an officer guarding the Sons of Jacob Synagogue in Belleville during Yom Kippur services, critically wounding the 13-year police veteran before being shot himself, with the synagogue's president crediting the officer with saving everyone inside."
-    },
-    {
-      "title": "Firefighting helicopter crashes near Yosemite, killing both pilots battling the Dome Fire",
-      "source": "NBC News",
-      "url": "https://www.nbcnews.com/news/us-news/2-battling-fire-yosemite-killed-helicopter-crash-rcna599074",
-      "topic": "World",
-      "reason": "The Eurocopter AS332 went down while making water drops southeast of Ostrander Lake, killing two contract pilots and prompting NTSB and FAA investigations as roughly 580 personnel continue fighting the blaze, which is only 15% contained."
-    },
-    {
-      "title": "CNN, MS NOW and Politico sue the Trump administration over their White House ban",
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/09/21/trump-cnn-msnow-politico-suit",
-      "topic": "Politics",
-      "reason": "The First Amendment lawsuit seeks an emergency court order restoring the outlets' access after Trump barred their reporters following a Truth Social post calling their coverage 'FAKE NEWS,' a move that has already led ABC, CBS, Fox and NBC to suspend joint pool coverage of the president in protest."
-    },
-    {
-      "title": "Oil prices fall to an 11-day low as US-Iran diplomacy hopes and Saudi export recovery ease supply fears",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/21/iran-us-oil-prices-crude-saudi-arabia-.html",
-      "topic": "Economy",
-      "reason": "Brent slid to $101.75 and WTI to $98.34 a barrel after Trump signaled openness to meeting Iran's president at the UN General Assembly, the clearest sign yet that the risk premium gripping energy markets since the war began may be starting to loosen."
-    },
-    {
-      "title": "Iran's Pezeshkian departs for the UN General Assembly as Trump warns of 'no-deal' consequences",
-      "source": "IranWire",
-      "url": "https://iranwire.com/en/news/157873-iran-president-pezeshkian-to-address-un-general-assembly-in-new-york/",
-      "topic": "Politics",
-      "reason": "Pezeshkian will address world leaders in New York this week and hold sideline talks on ending the war with Washington, arriving just as Trump has threatened to let Iran 'rot economically' or move to eliminate its leadership if no agreement is reached."
-    },
-    {
-      "title": "AMD's stock surges 10%, pushing its market value past $1 trillion for the first time",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/amd-joins-1-trillion-market-172341283.html",
+      "title": "Trump tells the UN the US 'totally rejects' a globalist scheme to control AI, rebrands it 'superintelligence'",
+      "source": "Fox Business",
+      "url": "https://www.foxbusiness.com/politics/trump-rebrands-ai-rejects-globalist-scheme-control-tech",
       "topic": "AI",
-      "reason": "The milestone makes AMD the fourth US chipmaker to cross the trillion-dollar threshold after Nvidia, Broadcom and Micron, capping a nearly 30% monthly rally as investors bet heavily on its share of the AI data-center buildout."
+      "reason": "In his UN General Assembly address, Trump rejected calls for international oversight or a development slowdown, framing AI regulation efforts as a 'globalist' threat and directing the US government to adopt the term 'superintelligence' going forward."
     },
     {
-      "title": "SoftBank launches a record $11 billion junk-bond sale to fund a deeper stake in OpenAI",
-      "source": "The Japan Times",
-      "url": "https://www.japantimes.co.jp/business/2026/09/21/companies/softbank-11-billion-junk-bonds-openai-bet/",
-      "topic": "Economy",
-      "reason": "The offering, split across dollar and euro tranches, would be the largest non-financial corporate bond deal ever from the Asia-Pacific region and pushes SoftBank's total OpenAI investment toward $64.6 billion for roughly a 13% stake, underscoring how much debt is now fueling the AI investment boom."
+      "title": "UN Security Council holds first-ever joint session with OpenAI, Anthropic, DeepSeek and Moonshot on AI risks",
+      "source": "Business Standard",
+      "url": "https://www.business-standard.com/world-news/deepseek-openai-and-anthropic-to-brief-un-security-council-on-ai-this-week-126092201553_1.html",
+      "topic": "AI",
+      "reason": "Sam Altman is set to appear in person and Anthropic remotely alongside Chinese rivals DeepSeek and Moonshot, marking the first time the Council has directly convened leading US and Chinese AI developers together to discuss shared safety standards."
     },
     {
-      "title": "Apple's new Mac mini and Mac Studio with M6 and M5 Pro/Max/Ultra chips begin shipping",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/09/21/new-mac-mini-and-mac-studio-launch-tomorrow/",
+      "title": "Rubio to meet Russia's Lavrov in New York as US pushes to revive Ukraine peace efforts",
+      "source": "US News & World Report",
+      "url": "https://www.usnews.com/news/world/articles/2026-09-22/us-top-diplomat-rubio-to-meet-russian-foreign-minister-lavrov-on-wednesday",
+      "topic": "Politics",
+      "reason": "The sidelines meeting during UN General Assembly week is the two top diplomats' first sit-down since July, coming as Moscow escalates missile strikes on Ukrainian industry and Kyiv seeks US backing for a mutual halt on energy-infrastructure attacks."
+    },
+    {
+      "title": "Russian missile barrage kills four and cuts power to nearly 100,000 across Ukraine's industrial heartland",
+      "source": "Al Arabiya",
+      "url": "https://english.alarabiya.net/News/world/2026/09/22/russian-strikes-on-ukraine-kill-four-before-trumpzelenskyy-talks-",
+      "topic": "World",
+      "reason": "Moscow fired 212 drones, cruise missiles and Oniks anti-ship missiles at Dnipro, Kryvyi Rih and Pavlohrad overnight, striking Ukraine's largest pipe producer and hitting 13 regions in total just as Zelensky arrived in New York for talks with Trump."
+    },
+    {
+      "title": "Iran's Pezeshkian heads to the UN vowing to expose 'oppression' of Iranians in the US-Israeli war",
+      "source": "ANI",
+      "url": "https://www.aninews.in/news/world/us/iran-president-pezeshkian-en-route-to-unga-warns-against-regional-oppression-calls-for-global-trust20260922160843/",
+      "topic": "Politics",
+      "reason": "Pezeshkian's address to the General Assembly, an unusual appearance by the leader of a country still at war with Washington, comes as Bessent's sweeping new airline sanctions take effect and Trump weighs whether to escalate militarily or strike a deal."
+    },
+    {
+      "title": "Morocco holds parliamentary elections as 28 parties compete for 395 seats",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/21/moroccan-parties-mobilise-in-markets-and-online-for-parliamentary-elections",
+      "topic": "World",
+      "reason": "The vote, held with roughly 2.2 million fewer registered voters than in 2021, will shape the next government and comes as Akhannouch's National Rally of Independents has already struck a coalition deal with the Istiqlal and Authenticity and Modernity parties."
+    },
+    {
+      "title": "Alphabet's Intrinsic open-sources its core industrial robotics platform under Apache 2.0",
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/09/22/googles-robotics-unit-intrinsic-open-sources-its-foundational-infrastructure-for-intelligent-robots/",
       "topic": "Tech",
-      "reason": "The launch extends Apple's biggest product month of the year, following the iPhone 18 Pro, the foldable iPhone Duo and new Apple Watch and AirPods models, as the company pushes deeper into on-device AI performance across its Mac lineup."
+      "reason": "Intrinsic Core bundles real-time hardware-agnostic control, Nvidia FoundationPose-based pose estimation and motion and grasp planning, a move Forbes likened to giving away 'the Android of robotics' as Alphabet races to seed the physical-AI ecosystem."
+    },
+    {
+      "title": "Dollar hits near three-month high as hawkish Fed signals continue to ripple through markets",
+      "source": "FXStreet",
+      "url": "https://www.fxstreet.com/news/united-states-dollar-index-gathers-strength-to-near-10050-on-hawkish-fed-signals-202609220652",
+      "topic": "Economy",
+      "reason": "The dollar index climbed near 100.5 after the Fed's first rate hike since 2023 and projections that four officials favor a second increase this year, tightening financial conditions further as futures markets now price a 4.2% policy rate by December."
     }
   ]
 }
