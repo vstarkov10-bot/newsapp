@@ -1,61 +1,61 @@
 {
-  "generatedAt": "2026-09-23T19:35:00Z",
+  "generatedAt": "2026-09-25T19:25:00Z",
   "stories": [
     {
-      "title": "Iran presents a roadmap for reopening the Strait of Hormuz in three-hour UN talks with Witkoff and Kushner",
-      "source": "The National",
-      "url": "https://www.thenationalnews.com/news/mena/2026/09/23/iran-us-meeting-new-york/",
-      "topic": "Politics",
-      "reason": "Foreign Minister Araghchi's delegation, joined for most of the session by Qatar's prime minister, laid out conditions including lifting the naval blockade, unfreezing Iranian assets and ending the war on all fronts, with Trump calling it 'very productive' and both sides planning another meeting soon."
-    },
-    {
-      "title": "In defiant UN speech, Pezeshkian says Iran will fight 'until our last breath' and calls out Trump by name",
-      "source": "The Associated Press",
-      "url": "https://www.wsls.com/news/world/2026/09/23/irans-president-to-speak-at-the-united-nations-in-rare-wartime-address/",
-      "topic": "Politics",
-      "reason": "A day after Trump said he might 'annihilate' Iran, Pezeshkian told the General Assembly 'we are not terrorists' and held up photos of Iran's supreme leader and children killed in the war, a rare wartime address by a leader whose country remains at war with the host nation."
-    },
-    {
-      "title": "Zelensky proposes an 'energy ceasefire' with Russia and calls for a trilateral summit with Putin and Trump",
+      "title": "Iran offers a seven-day plan to reopen the Strait of Hormuz if the US meets its conditions",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/23/zelenskyy-says-ukraine-ready-for-energy-truce-with-russia-after-trump-talks",
+      "url": "https://www.aljazeera.com/news/2026/9/25/whats-in-irans-seven-day-plan-to-reopen-the-strait-of-hormuz",
       "topic": "Politics",
-      "reason": "Speaking at the UN a day after meeting Trump, Zelensky said Ukraine's long-range strikes aim to cut off Russia's war-funding oil revenue rather than fuel supplies, and pressed India and other buyers to stop financing Moscow's war machine through energy trade."
+      "reason": "Foreign Minister Araghchi's proposal, built on the 'Islamabad Framework,' ties reopening the strait to a full ceasefire including Lebanon, release of over $12 billion in frozen assets and lifted oil-export sanctions -- the most concrete offramp floated yet, though the White House has not confirmed acceptance."
     },
     {
-      "title": "OpenAI slashes prices with GPT-6 Sol and Luna as an AI-model price war erupts among OpenAI, xAI and Anthropic",
-      "source": "VentureBeat",
-      "url": "https://venturebeat.com/technology/openai-releases-gpt-6-sol-and-luna-models-slashing-api-costs-50-or-more",
-      "topic": "AI",
-      "reason": "Sol and Luna cut API costs up to 50% versus the prior GPT-5.6 tier, arriving just a day after xAI's Grok 4.7 undercut frontier pricing by 80% and hours after Anthropic's Opus 5.5 response, signaling an intensifying price war across the top AI labs."
+      "title": "US Senate narrowly rejects resolution to curb Trump's Iran war powers, 50-49",
+      "source": "UPI",
+      "url": "https://www.upi.com/Top_News/US/2026/09/24/congress-senate-iran-war-powers/6471790280826",
+      "topic": "Politics",
+      "reason": "Four Republicans broke ranks to back the measure and one Democrat opposed it, the closest such vote yet in a war that has pushed up food and fuel prices and left the GOP's slim majority increasingly divided ahead of November's midterms."
     },
     {
-      "title": "Alibaba unveils its most powerful AI chip yet and commits over $53 billion to AI infrastructure",
+      "title": "Xi tells Trump AI must stay 'under human control' as tech CEOs dine at the White House",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/22/alibaba-ai-alibabacloud-zhenwu-v900-.html",
+      "url": "https://www.cnbc.com/2026/09/25/the-tech-download-trump-xi-ai-talks.html",
       "topic": "AI",
-      "reason": "The Zhenwu V900 chip triples the performance of its predecessor and can link clusters of up to 500,000 accelerators, part of a push toward 20 gigawatts of global data-center capacity by 2032 that sent Alibaba's Hong Kong shares up 3% as it challenges Nvidia directly."
+      "reason": "Nvidia's Jensen Huang, Elon Musk, Tim Cook, Sam Altman, Sergey Brin and Satya Nadella all sat at the state dinner as Xi pushed for shared AI guardrails while Trump rejected any international agreement, saying he wants to 'leave it exactly where it is.'"
     },
     {
-      "title": "Meta quietly used human contractors to handle calls for its Muse AI assistant, rolling the feature back after a racist remark surfaced",
-      "source": "TechSpot",
-      "url": "https://www.techspot.com/news/113957-meta-muse-ai-used-human-contractors-calls-including.html",
-      "topic": "AI",
-      "reason": "Meta tested the 'human concierge' fallback after businesses kept hanging up on AI callers, but employees flagged privacy risks and a contractor was found to have made a racist comment on one call, prompting a Superintelligence Labs executive to call the undisclosed rollout 'a miss.'"
-    },
-    {
-      "title": "Countries remain far behind on UN's 30x30 biodiversity target with 2030 deadline approaching",
-      "source": "US News & World Report",
-      "url": "https://www.usnews.com/news/world/articles/2026-09-23/countries-still-way-behind-on-un-biodiversity-targets-research-shows",
+      "title": "Pope Leo XIV warns a 'paradise of machines' could undermine humanity as he opens his France visit",
+      "source": "Washington Times",
+      "url": "https://www.washingtontimes.com/news/2026/sep/25/pope-leo-xiv-warns-paradise-machines-could-undermine-humanity-opens/",
       "topic": "World",
-      "reason": "Only 20% of land and 10% of oceans are protected against the goal of 30%, with researchers finding an annual funding shortfall of $75-150 billion and just 3.5% of nominally protected ocean area considered effectively managed."
+      "reason": "Speaking to Macron and then to UNESCO diplomats, Leo called nuclear deterrence doctrine 'mistaken' and warned against letting AI and scientific progress erode what it means to be human, extending the themes of his May encyclical on AI and the human person."
     },
     {
-      "title": "Nasdaq notches a second straight record close as the five-year Treasury yield hits 5% for the first time since 2007",
-      "source": "TheStreet",
-      "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-sept-23-2026",
+      "title": "Supreme Court revives a controversial citizenship-check data system for midterm voter audits",
+      "source": "CNN",
+      "url": "https://www.cnn.com/2026/09/25/politics/supreme-court-voter-roll-non-citizen-save",
+      "topic": "Politics",
+      "reason": "The Court let states resume using the overhauled SAVE system -- linked for the first time to Social Security records -- to screen voter rolls ahead of November, over a dissent from the three liberal justices and despite a lower court finding it had violated federal privacy law and wrongly flagged US citizens."
+    },
+    {
+      "title": "Netanyahu attacks critics including NYC Mayor Mamdani as 'antisemitic' in defiant UN speech, delegates walk out",
+      "source": "The Hill",
+      "url": "https://thehill.com/policy/international/6110373-israel-netanyahu-speech-united-nations-defiant/",
+      "topic": "Politics",
+      "reason": "Netanyahu denied genocide allegations and singled out Mamdani, who has called for his arrest under the ICC warrant against him, as protesters including Susan Sarandon were detained outside -- Mamdani dismissed the speech as 'baseless lies meant to sanitize his genocide against Palestinians.'"
+    },
+    {
+      "title": "Zelensky says Ukraine is 'very open' to a Turkey-hosted trilateral summit with Putin and Trump",
+      "source": "Turkish Minute",
+      "url": "https://www.turkishminute.com/2026/09/25/zelenskyy-says-ukraine-open-to-turkey-hosted-trilateral-summit-with-russia/",
+      "topic": "Politics",
+      "reason": "The offer, made after Zelensky met Erdogan on the UN sidelines, comes as he separately pressed Trump for a winter Patriot-missile package and Kyiv keeps signaling readiness for direct talks even as the Kremlin calls a three-way summit premature."
+    },
+    {
+      "title": "Oil prices fall as investors bet Iran's Hormuz proposal could ease the supply crunch",
+      "source": "Transport Topics",
+      "url": "https://www.ttnews.com/articles/oil-prices-investors-hormuz",
       "topic": "Economy",
-      "reason": "AI stocks kept powering gains even as rising yields and hawkish Fed commentary pressured banks and small caps, with the Russell 2000 sinking as bond markets priced in a longer stretch of elevated interest rates."
+      "reason": "Brent slid 1.6% to $98.63 a barrel as traders weighed Tehran's seven-day reopening offer against lingering doubts, continuing a pattern where crude swings sharply on every twist in the diplomatic track around the strait."
     }
   ]
 }
