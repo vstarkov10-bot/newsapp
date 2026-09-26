@@ -1,61 +1,61 @@
 {
-  "generatedAt": "2026-09-25T19:25:00Z",
+  "generatedAt": "2026-09-26T19:30:00Z",
   "stories": [
     {
-      "title": "Iran offers a seven-day plan to reopen the Strait of Hormuz if the US meets its conditions",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/25/whats-in-irans-seven-day-plan-to-reopen-the-strait-of-hormuz",
-      "topic": "Politics",
-      "reason": "Foreign Minister Araghchi's proposal, built on the 'Islamabad Framework,' ties reopening the strait to a full ceasefire including Lebanon, release of over $12 billion in frozen assets and lifted oil-export sanctions -- the most concrete offramp floated yet, though the White House has not confirmed acceptance."
-    },
-    {
-      "title": "US Senate narrowly rejects resolution to curb Trump's Iran war powers, 50-49",
-      "source": "UPI",
-      "url": "https://www.upi.com/Top_News/US/2026/09/24/congress-senate-iran-war-powers/6471790280826",
-      "topic": "Politics",
-      "reason": "Four Republicans broke ranks to back the measure and one Democrat opposed it, the closest such vote yet in a war that has pushed up food and fuel prices and left the GOP's slim majority increasingly divided ahead of November's midterms."
-    },
-    {
-      "title": "Xi tells Trump AI must stay 'under human control' as tech CEOs dine at the White House",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/25/the-tech-download-trump-xi-ai-talks.html",
+      "title": "Federal appeals court upholds Pentagon's 'supply chain risk' designation of Anthropic",
+      "source": "ABC News",
+      "url": "https://abcnews.com/Business/anthropic-appeals-court-declines-block-pentagon-blacklisting/story?id=136755690",
       "topic": "AI",
-      "reason": "Nvidia's Jensen Huang, Elon Musk, Tim Cook, Sam Altman, Sergey Brin and Satya Nadella all sat at the state dinner as Xi pushed for shared AI guardrails while Trump rejected any international agreement, saying he wants to 'leave it exactly where it is.'"
+      "reason": "The 2-1 ruling keeps the US military barred from using Anthropic's models after talks collapsed over the Pentagon's demand for unrestricted access and Anthropic's refusal to let its technology be used for autonomous weapons or domestic mass surveillance, with Anthropic now weighing a Supreme Court appeal."
     },
     {
-      "title": "Pope Leo XIV warns a 'paradise of machines' could undermine humanity as he opens his France visit",
-      "source": "Washington Times",
-      "url": "https://www.washingtontimes.com/news/2026/sep/25/pope-leo-xiv-warns-paradise-machines-could-undermine-humanity-opens/",
+      "title": "Fiji declares a national emergency over a meth-fueled HIV epidemic, now affecting 1 in 60 adults",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/09/26/g-s1-144667/hiv-crystal-meth-epidemic-fiji",
       "topic": "World",
-      "reason": "Speaking to Macron and then to UNESCO diplomats, Leo called nuclear deterrence doctrine 'mistaken' and warned against letting AI and scientific progress erode what it means to be human, extending the themes of his May encyclical on AI and the human person."
+      "reason": "Cases have risen twelve-fold since 2010 to an estimated 9,000, driven by a post-COVID surge in injected crystal meth use among 20-to-34-year-olds, making it what public health specialists call the world's fastest-growing HIV epidemic."
     },
     {
-      "title": "Supreme Court revives a controversial citizenship-check data system for midterm voter audits",
-      "source": "CNN",
-      "url": "https://www.cnn.com/2026/09/25/politics/supreme-court-voter-roll-non-citizen-save",
+      "title": "Anthropic's Claude autonomously discovers a novel CRISPR-like enzyme system in bacteriophages",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+      "topic": "AI",
+      "reason": "In a 21.5-hour autonomous campaign spanning 949 agent sessions, Claude searched roughly 1.9 billion protein clusters and flagged a previously uncharacterized enzyme system -- dubbed ART -- whose repeat structure resembles CRISPR arrays, an early result from Anthropic's new life-sciences research lab."
+    },
+    {
+      "title": "IDF suspends attack-drone use for 48 hours after an explosion kills two reservists in Gaza",
+      "source": "The Times of Israel",
+      "url": "https://www.timesofisrael.com/two-reservists-killed-in-idf-drone-explosion-accident-during-operations-in-gaza/",
+      "topic": "World",
+      "reason": "The drone crashed and later detonated as soldiers approached it in northern Gaza, killing two reservists in an apparent malfunction that has paused drone operations pending a safety review, even as ceasefire violations continue nearly a year after the truce took effect."
+    },
+    {
+      "title": "Senior IRGC commander killed in clashes with an armed group in southeastern Iran",
+      "source": "The National",
+      "url": "https://www.thenationalnews.com/news/mena/2026/09/24/irgc-commander-killed-in-clashes-with-gunmen-in-irans-restive-south-east/",
       "topic": "Politics",
-      "reason": "The Court let states resume using the overhauled SAVE system -- linked for the first time to Social Security records -- to screen voter rolls ahead of November, over a dissent from the three liberal justices and despite a lower court finding it had violated federal privacy law and wrongly flagged US citizens."
+      "reason": "Brigadier General Hossein Zarifi was killed in a raid on a suspected militant cell near Iran's border with Pakistan, a reminder that Tehran faces internal security threats in Sistan-Baluchestan even as it negotiates an end to its war with the US."
     },
     {
-      "title": "Netanyahu attacks critics including NYC Mayor Mamdani as 'antisemitic' in defiant UN speech, delegates walk out",
-      "source": "The Hill",
-      "url": "https://thehill.com/policy/international/6110373-israel-netanyahu-speech-united-nations-defiant/",
-      "topic": "Politics",
-      "reason": "Netanyahu denied genocide allegations and singled out Mamdani, who has called for his arrest under the ICC warrant against him, as protesters including Susan Sarandon were detained outside -- Mamdani dismissed the speech as 'baseless lies meant to sanitize his genocide against Palestinians.'"
-    },
-    {
-      "title": "Zelensky says Ukraine is 'very open' to a Turkey-hosted trilateral summit with Putin and Trump",
-      "source": "Turkish Minute",
-      "url": "https://www.turkishminute.com/2026/09/25/zelenskyy-says-ukraine-open-to-turkey-hosted-trilateral-summit-with-russia/",
-      "topic": "Politics",
-      "reason": "The offer, made after Zelensky met Erdogan on the UN sidelines, comes as he separately pressed Trump for a winter Patriot-missile package and Kyiv keeps signaling readiness for direct talks even as the Kremlin calls a three-way summit premature."
-    },
-    {
-      "title": "Oil prices fall as investors bet Iran's Hormuz proposal could ease the supply crunch",
-      "source": "Transport Topics",
-      "url": "https://www.ttnews.com/articles/oil-prices-investors-hormuz",
+      "title": "BlackRock and IFM near a $20-25 billion deal for Stack's Asia-Pacific data centers",
+      "source": "The Star",
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/09/24/blackrock-ifm-close-in-on-25-billion-stack-data-center-deal-bloomberg-news-reports",
       "topic": "Economy",
-      "reason": "Brent slid 1.6% to $98.63 a barrel as traders weighed Tehran's seven-day reopening offer against lingering doubts, continuing a pattern where crude swings sharply on every twist in the diplomatic track around the strait."
+      "reason": "The BlackRock-backed AI Infrastructure Partnership, whose investors include Nvidia, xAI and Microsoft, is preparing due diligence on the portfolio, another sign of the enormous capital pouring into AI data-center infrastructure across Asia."
+    },
+    {
+      "title": "Microsoft unveils an all-in-one Copilot app to challenge Anthropic and OpenAI in the workplace",
+      "source": "GeekWire",
+      "url": "https://www.geekwire.com/2026/microsoft-unveils-all-in-one-copilot-app-taking-on-anthropic-and-openai-in-new-push-to-boost-adoption/",
+      "topic": "AI",
+      "reason": "The revamped app bundles coding and agent-building tools and moves to usage-based pricing, an attempt to boost adoption after fewer than 7% of Microsoft's 450 million commercial Office 365 seats have upgraded to its AI tier amid stronger enterprise traction for rivals."
+    },
+    {
+      "title": "Qualcomm renews its global patent licensing agreement with Apple through 2027",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/09/24/qualcomm-apple-renewed-agreement/",
+      "topic": "Tech",
+      "reason": "The extension, effective April 2027, locks in continuity for iPhone modem supply even as Apple keeps developing its own in-house modem chips to eventually reduce its reliance on Qualcomm."
     }
   ]
 }
