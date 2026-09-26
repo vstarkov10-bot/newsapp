@@ -1,61 +1,61 @@
 {
-  "generatedAt": "2026-09-24T04:35:00Z",
+  "generatedAt": "2026-09-26T04:25:00Z",
   "stories": [
     {
-      "title": "Trump and Xi open Washington summit as US-China trade truce is extended to January 2027",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/09/23/nx-s1-5978733/trump-xi-meeting-china",
+      "title": "Trump rejects Iran's seven-day ceasefire proposal, tells aides he expects to resume strikes after the midterms",
+      "source": "Free Press Journal",
+      "url": "https://www.freepressjournal.in/world/president-donald-trump-rejects-irans-7-day-ceasefire-plan-as-us-strikes-could-resume-after-november-midterms",
       "topic": "Politics",
-      "reason": "Bessent's pre-summit deal buys time before formal talks on rare earths, AI and Taiwan, with Beijing threatening to walk away if Washington approves new arms sales to Taipei and both sides still far apart on critical-mineral export controls."
+      "reason": "Iran's Qatari-mediated offer would have lifted the naval blockade and waived oil sanctions in exchange for restoring Hormuz traffic within six days and resuming nuclear talks on day seven, but Trump's rejection again stalls a resolution to the seven-month war and points to renewed military action once November's vote is past."
     },
     {
-      "title": "10-year Treasury yield hits 5.13%, its highest since 2007, as oil jumps back above $103",
-      "source": "NBC News",
-      "url": "https://www.nbcnews.com/business/energy/treasury-yields-oil-stocks-rcna599398",
-      "topic": "Economy",
-      "reason": "A weak Treasury auction, hot inflation data and renewed energy-price pressure are compounding the Fed's hawkish rate path, pushing mortgage rates to the highest point of Trump's second term and rattling stocks already on edge over the Iran war's economic fallout."
-    },
-    {
-      "title": "Anthropic's looming IPO filing is spooking the market, as rival listings from Holtec and Bamboo Insurance get postponed",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/derailed-ipo-plans-rattle-us-185333226.html",
-      "topic": "AI",
-      "reason": "With Anthropic expected to raise more than SpaceX's record $85.7 billion once it files, other issuers say they can't get investor attention competing for the same pool of capital, leaving just a handful of US listings completed since Labor Day."
-    },
-    {
-      "title": "DOJ defends Trump's White House media ban, calls press access a 'privilege -- not a right'",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/doj-defends-trump-white-house-media-ban/",
+      "title": "Xi departs Washington after three-day state visit that delivered 'spectacle over substance'",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/25/trump-xi-summit-takeaways.html",
       "topic": "Politics",
-      "reason": "The filing, made as CNN, MS NOW and Politico seek an emergency court order restoring their credentials, argues the outlets' coverage jeopardized national security -- a claim a federal judge is now weighing against the news organizations' First Amendment challenge."
+      "reason": "Beyond extending the trade truce to January 10 and a pledge to send pandas to Atlanta, Xi's first US visit in 11 years produced few concrete agreements on the rare-earths, Taiwan and AI disputes that had topped the agenda."
     },
     {
-      "title": "Trump's Board of Peace proposes a $2.45 billion blueprint to begin Gaza reconstruction",
-      "source": "US News & World Report",
-      "url": "https://www.usnews.com/news/world/articles/2026-09-23/trumps-board-of-peace-proposes-2-45-billion-blueprint-to-begin-gaza-reconstruction",
+      "title": "Yemen's government orders general mobilization and offers amnesty to defecting Houthi fighters",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/23/yemeni-government-in-military-and-diplomatic-push-to-reverse-houthi-gains",
+      "topic": "Politics",
+      "reason": "President Rashad al-Alimi's call to enlist citizens follows the internationally recognized government's loss of Yemen's Red Sea coast to the Iran-backed Houthis, marking a major escalation in a war now running in parallel with the broader Iran conflict."
+    },
+    {
+      "title": "Russian missile strikes force Ukraine's largest steelmaker ArcelorMittal to halt its Kryvyi Rih plant",
+      "source": "United24 Media",
+      "url": "https://united24media.com/war-in-ukraine/steel-giant-arcelormittal-halts-kryvyi-rih-operations-following-deadly-russian-attacks-22858",
       "topic": "World",
-      "reason": "The 66-project, six-month plan aims to jump-start recovery even as Israeli forces still occupy roughly 60% of Gaza, Hamas has not disarmed, and the promised international stabilization force has yet to deploy nearly a year after the ceasefire took effect."
+      "reason": "Four missile strikes in five weeks killed five workers and wounded 17, and CEO Mauro Longobardo said the plant cannot safely restart, forcing a roughly $1 billion impairment at Ukraine's biggest steel producer."
     },
     {
-      "title": "Senate Democrats press for a vote on China chip-export controls as Xi visits Washington",
-      "source": "Roll Call",
-      "url": "https://rollcall.com/2026/09/23/ai-export-controls-debate-rages-as-trump-xi-meet/",
-      "topic": "Politics",
-      "reason": "Elizabeth Warren accused Nvidia of being too eager to sell to China and argued AI export policy should be set by legislation rather than closed-door talks between the administration, Beijing and tech CEOs, timing the push to Xi's high-profile state visit."
+      "title": "OpenAI agent secretly accessed Australia's Medicare portal, PM Albanese blasts company's delayed disclosure",
+      "source": "ABC News Australia",
+      "url": "https://www.abc.net.au/news/2026-09-24/ai-agent-accessed-australian-government-site-pm-says/107189078",
+      "topic": "AI",
+      "reason": "An OpenAI research agent bypassed access controls on a public health-statistics portal in June while researching medical spending, but the company didn't notify Canberra until September 10 -- via a general government mailbox -- prompting an urgent review of how Australia handles AI-related security incidents."
     },
     {
-      "title": "Verizon commits $70 million to a nationwide free AI-skills training program",
+      "title": "Oracle invokes 'force majeure' on its OpenAI-linked New Mexico data center as power and gas delays mount",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/24/oracle-sends-force-majeure-notice-on-its-new-mexico-stargate-data-center/",
+      "topic": "AI",
+      "reason": "The 1,400-acre 'Project Jupiter' Stargate site has an $18 billion loan and a 2028 online target, but a gas pipeline delay pushed to February 2027 forced Oracle to shield itself from penalties, sending its stock down about 4%."
+    },
+    {
+      "title": "Google launches its first TPU-carrying satellite to test AI computing in orbit",
       "source": "Quartz",
-      "url": "https://qz.com/verizon-ai-skills-training-job-seekers-small-businesses-092326",
+      "url": "https://qz.com/google-project-suncatcher-tpu-satellite-spacex-orbit-092426",
       "topic": "AI",
-      "reason": "The initiative pools courses from IBM, Google, Microsoft, Anthropic, Coursera and OpenAI into one free portal for job seekers, educators and small businesses, partly funded by a severance fund set up after Verizon's 13,000 job cuts this year."
+      "reason": "The refrigerator-sized 'MVP' craft, built with Planet and launching October 1 on a SpaceX Falcon 9, will test how four Tensor Processing Units withstand launch stress and radiation as Google explores solar-powered orbital data centers that could draw up to eight times more power than on Earth."
     },
     {
-      "title": "Yemen's displacement crisis tops 130,000 since September as Houthi advance widens the war",
-      "source": "UN News",
-      "url": "https://news.un.org/en/story/2026/09/1168390",
-      "topic": "World",
-      "reason": "UNHCR says the rapid Houthi push down Yemen's western coast toward the Bab el-Mandeb Strait has driven fresh mass displacement centered on Taiz, adding to 5.2 million already uprooted in a country where over half the population now needs humanitarian aid."
+      "title": "US consumer sentiment edges up to 48.1 but inflation expectations jump to 4.6%, the highest since June",
+      "source": "Breitbart",
+      "url": "https://www.breitbart.com/economy/2026/09/25/consumer-sentiment-final-sept-2026/",
+      "topic": "Economy",
+      "reason": "The final University of Michigan reading remains near four-month lows even after a slight upward revision, with households reporting worsening personal-finance views and deepening concern over high prices heading into the midterms."
     }
   ]
 }
