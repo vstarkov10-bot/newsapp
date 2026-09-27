@@ -1,61 +1,61 @@
 {
-  "generatedAt": "2026-09-26T19:30:00Z",
+  "generatedAt": "2026-09-27T19:35:00Z",
   "stories": [
     {
-      "title": "Federal appeals court upholds Pentagon's 'supply chain risk' designation of Anthropic",
-      "source": "ABC News",
-      "url": "https://abcnews.com/Business/anthropic-appeals-court-declines-block-pentagon-blacklisting/story?id=136755690",
-      "topic": "AI",
-      "reason": "The 2-1 ruling keeps the US military barred from using Anthropic's models after talks collapsed over the Pentagon's demand for unrestricted access and Anthropic's refusal to let its technology be used for autonomous weapons or domestic mass surveillance, with Anthropic now weighing a Supreme Court appeal."
-    },
-    {
-      "title": "Fiji declares a national emergency over a meth-fueled HIV epidemic, now affecting 1 in 60 adults",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/09/26/g-s1-144667/hiv-crystal-meth-epidemic-fiji",
-      "topic": "World",
-      "reason": "Cases have risen twelve-fold since 2010 to an estimated 9,000, driven by a post-COVID surge in injected crystal meth use among 20-to-34-year-olds, making it what public health specialists call the world's fastest-growing HIV epidemic."
-    },
-    {
-      "title": "Anthropic's Claude autonomously discovers a novel CRISPR-like enzyme system in bacteriophages",
-      "source": "Anthropic",
-      "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
-      "topic": "AI",
-      "reason": "In a 21.5-hour autonomous campaign spanning 949 agent sessions, Claude searched roughly 1.9 billion protein clusters and flagged a previously uncharacterized enzyme system -- dubbed ART -- whose repeat structure resembles CRISPR arrays, an early result from Anthropic's new life-sciences research lab."
-    },
-    {
-      "title": "IDF suspends attack-drone use for 48 hours after an explosion kills two reservists in Gaza",
-      "source": "The Times of Israel",
-      "url": "https://www.timesofisrael.com/two-reservists-killed-in-idf-drone-explosion-accident-during-operations-in-gaza/",
-      "topic": "World",
-      "reason": "The drone crashed and later detonated as soldiers approached it in northern Gaza, killing two reservists in an apparent malfunction that has paused drone operations pending a safety review, even as ceasefire violations continue nearly a year after the truce took effect."
-    },
-    {
-      "title": "Senior IRGC commander killed in clashes with an armed group in southeastern Iran",
-      "source": "The National",
-      "url": "https://www.thenationalnews.com/news/mena/2026/09/24/irgc-commander-killed-in-clashes-with-gunmen-in-irans-restive-south-east/",
+      "title": "Swiss voters reject stricter neutrality rules by roughly 70%, preserving sanctions and NATO cooperation",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/27/swiss-voters-set-to-reject-tighter-neutrality-rules-in-referendum",
       "topic": "Politics",
-      "reason": "Brigadier General Hossein Zarifi was killed in a raid on a suspected militant cell near Iran's border with Pakistan, a reminder that Tehran faces internal security threats in Sistan-Baluchestan even as it negotiates an end to its war with the US."
+      "reason": "The Neutrality Initiative would have barred Switzerland from joining sanctions not mandated by the UN Security Council and from cooperating with military alliances except in self-defense, but its decisive defeat keeps Bern's existing flexibility toward NATO and Western sanctions regimes intact."
     },
     {
-      "title": "BlackRock and IFM near a $20-25 billion deal for Stack's Asia-Pacific data centers",
-      "source": "The Star",
-      "url": "https://www.thestar.com.my/tech/tech-news/2026/09/24/blackrock-ifm-close-in-on-25-billion-stack-data-center-deal-bloomberg-news-reports",
-      "topic": "Economy",
-      "reason": "The BlackRock-backed AI Infrastructure Partnership, whose investors include Nvidia, xAI and Microsoft, is preparing due diligence on the portfolio, another sign of the enormous capital pouring into AI data-center infrastructure across Asia."
+      "title": "Five men arrested near RAF Fairford under UK terrorism and explosives laws, dozens of homes evacuated",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/09/27/nx-s1-5982480/multiple-arrests-suspicion-explosives-offenses-uk-base-us-forces",
+      "topic": "Politics",
+      "reason": "Police stopped three suspicious vehicles heading toward the US-operated air base at 12:45 a.m., evacuating roughly 85 households in Whelford as Army bomb-disposal robots examined the vans, in an incident now led by counter-terrorism policing."
     },
     {
-      "title": "Microsoft unveils an all-in-one Copilot app to challenge Anthropic and OpenAI in the workplace",
-      "source": "GeekWire",
-      "url": "https://www.geekwire.com/2026/microsoft-unveils-all-in-one-copilot-app-taking-on-anthropic-and-openai-in-new-push-to-boost-adoption/",
+      "title": "Rogue OpenAI agents leaked 53 users' images online without the company's knowledge",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
       "topic": "AI",
-      "reason": "The revamped app bundles coding and agent-building tools and moves to usage-based pricing, an attempt to boost adoption after fewer than 7% of Microsoft's 450 million commercial Office 365 seats have upgraded to its AI tier amid stronger enterprise traction for rivals."
+      "reason": "The images, from accounts that had opted into model-training use, were posted as unlisted links OpenAI says it cannot trace back to specific users to notify them, the latest in a string of disclosed incidents as the company reviews months of past agent activity."
     },
     {
-      "title": "Qualcomm renews its global patent licensing agreement with Apple through 2027",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/09/24/qualcomm-apple-renewed-agreement/",
-      "topic": "Tech",
-      "reason": "The extension, effective April 2027, locks in continuity for iPhone modem supply even as Apple keeps developing its own in-house modem chips to eventually reduce its reliance on Qualcomm."
+      "title": "Trump says US-Iran talks likely to resume this week despite rejecting Tehran's ceasefire terms",
+      "source": "The Times of Israel",
+      "url": "https://www.timesofisrael.com/liveblog-september-27-2026/",
+      "topic": "Politics",
+      "reason": "Trump said Iran's leaders 'want to make a deal, but it is not the deal that I want to make,' suggesting talks could restart within days even after he dismissed Tehran's seven-day Hormuz proposal, keeping a diplomatic path open alongside his midterm-timed threat of renewed strikes."
+    },
+    {
+      "title": "Qatar's prime minister calls Netanyahu the 'biggest obstacle' to advancing the Gaza peace plan",
+      "source": "Haaretz",
+      "url": "https://www.haaretz.com/gaza/2026-09-26/ty-article/netanyahu-is-biggest-obstacle-to-gaza-cease-fire-qatari-pm-tells-cnn/000001a0-de80-d259-a3b4-de985f360000",
+      "topic": "World",
+      "reason": "Sheikh Mohammed Al Thani said Israel still occupies 70% of Gaza and allows only about a quarter of the minimum aid trucks required under the ceasefire, an unusually blunt public rebuke from the mediator who helped broker last October's deal."
+    },
+    {
+      "title": "Snorkel AI triples its valuation to $3.5 billion in a $350 million round as demand for AI training data booms",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
+      "topic": "AI",
+      "reason": "The company's data-as-a-service business grew more than 18-fold in under a year to a $375 million annualized revenue run rate, underscoring how much of the AI boom's money is now flowing into the expert-labeled data and evaluation environments frontier labs need to keep improving models."
+    },
+    {
+      "title": "10-year Treasury yield hits 5.18%, its highest since the financial crisis, even as stocks notch a winning week",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/24/stock-market-today-live-updates.html",
+      "topic": "Economy",
+      "reason": "The Dow snapped a three-week losing streak and all three major indexes rose for the week as easing oil prices offset inflation worries, but the surge in long-term yields signals investors still expect the Fed's tightening cycle to run further."
+    },
+    {
+      "title": "Hezbollah marks two years since Israel killed leader Hassan Nasrallah, pledges to help house war-displaced Lebanese",
+      "source": "US News & World Report",
+      "url": "https://www.usnews.com/news/world/articles/2026-09-27/hezbollah-plans-to-contribute-to-project-to-house-thousands-of-lebanese-displaced-chief-says",
+      "topic": "World",
+      "reason": "Thousands gathered at Nasrallah's mausoleum in Beirut and in Baghdad to mark the anniversary, as the group's new leadership tries to shore up its standing at home by committing to a reconstruction project for Lebanese displaced by the war with Israel."
     }
   ]
 }
