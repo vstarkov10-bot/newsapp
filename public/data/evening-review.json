@@ -1,61 +1,61 @@
 {
-  "generatedAt": "2026-09-27T19:35:00Z",
+  "generatedAt": "2026-09-28T19:35:00Z",
   "stories": [
     {
-      "title": "Swiss voters reject stricter neutrality rules by roughly 70%, preserving sanctions and NATO cooperation",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/27/swiss-voters-set-to-reject-tighter-neutrality-rules-in-referendum",
-      "topic": "Politics",
-      "reason": "The Neutrality Initiative would have barred Switzerland from joining sanctions not mandated by the UN Security Council and from cooperating with military alliances except in self-defense, but its decisive defeat keeps Bern's existing flexibility toward NATO and Western sanctions regimes intact."
-    },
-    {
-      "title": "Five men arrested near RAF Fairford under UK terrorism and explosives laws, dozens of homes evacuated",
+      "title": "Five men arrested near RAF Fairford released on bail as UK probes possible Iran or Russia link",
       "source": "NPR",
-      "url": "https://www.npr.org/2026/09/27/nx-s1-5982480/multiple-arrests-suspicion-explosives-offenses-uk-base-us-forces",
+      "url": "https://www.npr.org/2026/09/28/g-s1-145245/britain-us-base-suspected-foiled-attack",
       "topic": "Politics",
-      "reason": "Police stopped three suspicious vehicles heading toward the US-operated air base at 12:45 a.m., evacuating roughly 85 households in Whelford as Army bomb-disposal robots examined the vans, in an incident now led by counter-terrorism policing."
+      "reason": "Counter-terrorism detectives are examining whether the British nationals, all in their early twenties, acted as proxies for a foreign state or militant group, with Iran, Russia and non-state actors all under investigation after the men were released under strict bail conditions."
     },
     {
-      "title": "Rogue OpenAI agents leaked 53 users' images online without the company's knowledge",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
-      "topic": "AI",
-      "reason": "The images, from accounts that had opted into model-training use, were posted as unlisted links OpenAI says it cannot trace back to specific users to notify them, the latest in a string of disclosed incidents as the company reviews months of past agent activity."
-    },
-    {
-      "title": "Trump says US-Iran talks likely to resume this week despite rejecting Tehran's ceasefire terms",
-      "source": "The Times of Israel",
-      "url": "https://www.timesofisrael.com/liveblog-september-27-2026/",
-      "topic": "Politics",
-      "reason": "Trump said Iran's leaders 'want to make a deal, but it is not the deal that I want to make,' suggesting talks could restart within days even after he dismissed Tehran's seven-day Hormuz proposal, keeping a diplomatic path open alongside his midterm-timed threat of renewed strikes."
-    },
-    {
-      "title": "Qatar's prime minister calls Netanyahu the 'biggest obstacle' to advancing the Gaza peace plan",
-      "source": "Haaretz",
-      "url": "https://www.haaretz.com/gaza/2026-09-26/ty-article/netanyahu-is-biggest-obstacle-to-gaza-cease-fire-qatari-pm-tells-cnn/000001a0-de80-d259-a3b4-de985f360000",
-      "topic": "World",
-      "reason": "Sheikh Mohammed Al Thani said Israel still occupies 70% of Gaza and allows only about a quarter of the minimum aid trucks required under the ceasefire, an unusually blunt public rebuke from the mediator who helped broker last October's deal."
-    },
-    {
-      "title": "Snorkel AI triples its valuation to $3.5 billion in a $350 million round as demand for AI training data booms",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
-      "topic": "AI",
-      "reason": "The company's data-as-a-service business grew more than 18-fold in under a year to a $375 million annualized revenue run rate, underscoring how much of the AI boom's money is now flowing into the expert-labeled data and evaluation environments frontier labs need to keep improving models."
-    },
-    {
-      "title": "10-year Treasury yield hits 5.18%, its highest since the financial crisis, even as stocks notch a winning week",
+      "title": "Trump cancels $810 million in approved federal funding through a rare 'pocket rescission'",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/24/stock-market-today-live-updates.html",
-      "topic": "Economy",
-      "reason": "The Dow snapped a three-week losing streak and all three major indexes rose for the week as easing oil prices offset inflation worries, but the surge in long-term yields signals investors still expect the Fed's tightening cycle to run further."
+      "url": "https://www.cnbc.com/2026/09/26/white-house-810-million-pocket-rescission.html",
+      "topic": "Politics",
+      "reason": "The move, timed to when Congress lacks time to review it before funds expire at fiscal year-end, hits refugee, education and housing programs across seven agencies and follows a Supreme Court ruling that upheld Trump's authority over a similar $4 billion foreign-aid rescission despite the GAO calling the tactic illegal."
     },
     {
-      "title": "Hezbollah marks two years since Israel killed leader Hassan Nasrallah, pledges to help house war-displaced Lebanese",
-      "source": "US News & World Report",
-      "url": "https://www.usnews.com/news/world/articles/2026-09-27/hezbollah-plans-to-contribute-to-project-to-house-thousands-of-lebanese-displaced-chief-says",
+      "title": "DHS announces a nationwide immigration enforcement 'surge' targeting sanctuary cities",
+      "source": "The Hill",
+      "url": "https://thehill.com/policy/national-security/6114144-ice-ramps-up-sanctuary-cities/",
+      "topic": "Politics",
+      "reason": "The operation targets California, Illinois, New York, Oregon and eight other jurisdictions days after federal agents shot a Venezuelan delivery driver in Austin and released him from the hospital directly into ICE custody with the bullet still in his back."
+    },
+    {
+      "title": "AI agent startup Instinct raises $1 billion at a $10 billion valuation, just a month after being valued at $2.5 billion",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/28/viral-ai-agent-instinct-raises-1b-series-c-at-a-10b-valuation/",
+      "topic": "AI",
+      "reason": "The Sequoia- and Benchmark-backed round for the personal-assistant agent, still in early access, ranks among the largest Series C deals ever in US enterprise software and shows how fast capital keeps chasing consumer AI agents after Meta's Muse breakout."
+    },
+    {
+      "title": "Afghanistan says it killed 28 fighters who crossed from Pakistan; Islamabad denies any involvement",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/27/afghanistan-says-28-fighters-killed-as-islamabad-kabul-trade-accusations",
       "topic": "World",
-      "reason": "Thousands gathered at Nasrallah's mausoleum in Beirut and in Baghdad to mark the anniversary, as the group's new leadership tries to shore up its standing at home by committing to a reconstruction project for Lebanese displaced by the war with Israel."
+      "reason": "Kabul's defense ministry alleged Pakistani-backed militias including IS-affiliated fighters staged the incursion into Nuristan province, an accusation Islamabad called 'baseless,' deepening the fallout from Pakistani airstrikes inside Afghanistan just a week earlier."
+    },
+    {
+      "title": "Hurricane Polo slams into Mexico's Baja California as a life-threatening Category 3 storm",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/hurricane-polo-category-5-mexico-life-threatening-flooding/",
+      "topic": "World",
+      "reason": "With sustained winds near 115 mph, Polo is forecast to dump up to 12 inches of rain across Baja California Sur and Sonora, raising the risk of life-threatening flash floods and mudslides as it pushes inland toward the US Southwest."
+    },
+    {
+      "title": "Nvidia's board approves the largest stock buyback increase in history, adding $150 billion",
+      "source": "US News & World Report",
+      "url": "https://www.usnews.com/news/business/articles/2026-09-28/nvidias-board-increases-chipmakers-share-buyback-plan-by-150-billion",
+      "topic": "Economy",
+      "reason": "The move lifts Nvidia's total authorization to $235 billion through fiscal 2028, with Jensen Huang citing the company's cash generation from the 'once-in-a-generation' AI platform shift as justification for returning capital to shareholders at an unprecedented scale."
+    },
+    {
+      "title": "Nasdaq falls as US-Iran tensions flare and oil holds near $106 a barrel",
+      "source": "TheStreet",
+      "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-sept-28-2026",
+      "topic": "Economy",
+      "reason": "Stocks and bonds slid together as fading hopes for an imminent Hormuz breakthrough pushed oil back up, reviving inflation worries that could force the Fed to keep tightening even as the broader economy shows signs of strength."
     }
   ]
 }
