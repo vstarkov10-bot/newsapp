@@ -1,61 +1,61 @@
 {
-  "generatedAt": "2026-09-28T19:35:00Z",
+  "generatedAt": "2026-09-29T19:35:00Z",
   "stories": [
     {
-      "title": "Five men arrested near RAF Fairford released on bail as UK probes possible Iran or Russia link",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/09/28/g-s1-145245/britain-us-base-suspected-foiled-attack",
-      "topic": "Politics",
-      "reason": "Counter-terrorism detectives are examining whether the British nationals, all in their early twenties, acted as proxies for a foreign state or militant group, with Iran, Russia and non-state actors all under investigation after the men were released under strict bail conditions."
-    },
-    {
-      "title": "Trump cancels $810 million in approved federal funding through a rare 'pocket rescission'",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/26/white-house-810-million-pocket-rescission.html",
-      "topic": "Politics",
-      "reason": "The move, timed to when Congress lacks time to review it before funds expire at fiscal year-end, hits refugee, education and housing programs across seven agencies and follows a Supreme Court ruling that upheld Trump's authority over a similar $4 billion foreign-aid rescission despite the GAO calling the tactic illegal."
-    },
-    {
-      "title": "DHS announces a nationwide immigration enforcement 'surge' targeting sanctuary cities",
-      "source": "The Hill",
-      "url": "https://thehill.com/policy/national-security/6114144-ice-ramps-up-sanctuary-cities/",
-      "topic": "Politics",
-      "reason": "The operation targets California, Illinois, New York, Oregon and eight other jurisdictions days after federal agents shot a Venezuelan delivery driver in Austin and released him from the hospital directly into ICE custody with the bullet still in his back."
-    },
-    {
-      "title": "AI agent startup Instinct raises $1 billion at a $10 billion valuation, just a month after being valued at $2.5 billion",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/28/viral-ai-agent-instinct-raises-1b-series-c-at-a-10b-valuation/",
-      "topic": "AI",
-      "reason": "The Sequoia- and Benchmark-backed round for the personal-assistant agent, still in early access, ranks among the largest Series C deals ever in US enterprise software and shows how fast capital keeps chasing consumer AI agents after Meta's Muse breakout."
-    },
-    {
-      "title": "Afghanistan says it killed 28 fighters who crossed from Pakistan; Islamabad denies any involvement",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/27/afghanistan-says-28-fighters-killed-as-islamabad-kabul-trade-accusations",
-      "topic": "World",
-      "reason": "Kabul's defense ministry alleged Pakistani-backed militias including IS-affiliated fighters staged the incursion into Nuristan province, an accusation Islamabad called 'baseless,' deepening the fallout from Pakistani airstrikes inside Afghanistan just a week earlier."
-    },
-    {
-      "title": "Hurricane Polo slams into Mexico's Baja California as a life-threatening Category 3 storm",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/hurricane-polo-category-5-mexico-life-threatening-flooding/",
-      "topic": "World",
-      "reason": "With sustained winds near 115 mph, Polo is forecast to dump up to 12 inches of rain across Baja California Sur and Sonora, raising the risk of life-threatening flash floods and mudslides as it pushes inland toward the US Southwest."
-    },
-    {
-      "title": "Nvidia's board approves the largest stock buyback increase in history, adding $150 billion",
+      "title": "Pope Leo says concerns that AI could 'destroy humanity' are not 'fake news,' in apparent rebuke of Trump",
       "source": "US News & World Report",
-      "url": "https://www.usnews.com/news/business/articles/2026-09-28/nvidias-board-increases-chipmakers-share-buyback-plan-by-150-billion",
-      "topic": "Economy",
-      "reason": "The move lifts Nvidia's total authorization to $235 billion through fiscal 2028, with Jensen Huang citing the company's cash generation from the 'once-in-a-generation' AI platform shift as justification for returning capital to shareholders at an unprecedented scale."
+      "url": "https://www.usnews.com/news/world/articles/2026-09-28/pope-leo-says-concerns-about-ai-doom-are-not-fake-news",
+      "topic": "AI",
+      "reason": "Speaking to reporters on his flight home from France, Leo said AI experts' warnings 'should be taken seriously' and urged dialogue to keep the technology from reaching a point where it could destroy humanity, directly contradicting Trump's dismissal of such fears as a 'hoax' at the UN last week."
     },
     {
-      "title": "Nasdaq falls as US-Iran tensions flare and oil holds near $106 a barrel",
-      "source": "TheStreet",
-      "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-sept-28-2026",
+      "title": "Trump meets Amodei, Zuckerberg, Huang, Musk, Pichai and Bezos on AI, rules out global regulation",
+      "source": "CNN",
+      "url": "https://www.cnn.com/2026/09/29/business/amodei-huang-karp-trump",
+      "topic": "AI",
+      "reason": "The White House lunch with House Speaker Johnson and top AI executives came as Trump reiterated he won't 'stifle' the technology, calling superintelligence 'bigger than the Industrial Revolution,' a stance that puts him at odds with both the Pope and several of the CEOs' own public warnings about AI risk."
+    },
+    {
+      "title": "CIA reportedly warns Spain, France and Italy of a possible Russian drone attack launched from disguised commercial ships",
+      "source": "Euronews",
+      "url": "https://www.euronews.com/2026/09/24/what-we-know-about-cia-warning-of-russian-drone-threat-to-southern-europe",
+      "topic": "World",
+      "reason": "The alleged plan involves concealing small Gerbera drones in shipping containers to launch attacks reaching the coast within one or two hours, an unconfirmed but serious enough threat that intelligence services across the Mediterranean have been put on alert."
+    },
+    {
+      "title": "US forces complete their withdrawal from Iraq's last bases after two decades, ending the military mission",
+      "source": "Military Times",
+      "url": "https://www.militarytimes.com/news/your-military/2026/09/29/us-forces-exiting-iraq-after-2-decades-leaving-opening-for-iran/",
+      "topic": "Politics",
+      "reason": "The pullout, agreed under Biden in 2024 and completed by Trump even as Washington wages war on Iran, closes out a war that killed 4,500 Americans and is being celebrated by Tehran's allies, with Iraqi security officials warning it could open the door to a resurgent ISIS and deeper Iranian influence."
+    },
+    {
+      "title": "Myanmar military airstrike on a Rakhine state market kills at least 49 people",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/28/myanmar-army-air-strike-kills-dozens-in-rakhine-state",
+      "topic": "World",
+      "reason": "Fighter jets dropped bombs on Kyauktaw's wholesale market in Arakan Army-held territory, killing vendors and shoppers and wounding 58 others, the latest mass-casualty strike in the junta's campaign against ethnic armed groups since its 2021 coup."
+    },
+    {
+      "title": "US consumer confidence dives to its lowest level in more than 12 years",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/29/consumer-optimism-slides-sharply-as-fears-escalate-over-rising-prices-and-jobs.html",
       "topic": "Economy",
-      "reason": "Stocks and bonds slid together as fading hopes for an imminent Hormuz breakthrough pushed oil back up, reviving inflation worries that could force the Fed to keep tightening even as the broader economy shows signs of strength."
+      "reason": "The Conference Board's index tumbled to 81.9 as its Expectations sub-index fell to 63.6 -- a level historically associated with a recession within a year -- with more Americans for the first time in four years calling their finances 'bad' rather than 'good.'"
+    },
+    {
+      "title": "Arm Holdings plunges 8.7% as Wall Street's AI-stock slide deepens for a third day",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-sept-29-135304543.html",
+      "topic": "Economy",
+      "reason": "The Dow, S&P 500 and Nasdaq all fell again as elevated oil prices from the US-Iran standoff keep pushing Treasury yields higher, with chip stocks bearing the brunt as investors grow more cautious on stretched AI valuations."
+    },
+    {
+      "title": "Cornell fraternity rape case reopened for grand jury review as Governor Hochul calls for outside probe",
+      "source": "GPB",
+      "url": "https://www.gpb.org/news/2026/09/29/cornell-fraternity-rape-case-reopened-new-details-emerge",
+      "topic": "Politics",
+      "reason": "Tompkins County's DA reversed his earlier decision not to charge seven Chi Phi members after a new lawsuit detailed a 2024 assault, prompting Hochul to demand an independent review of Cornell's response and New York's attorney general to examine the university's handling of the case."
     }
   ]
 }
