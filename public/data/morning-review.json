@@ -1,61 +1,61 @@
 {
-  "generatedAt": "2026-09-28T04:20:00Z",
+  "generatedAt": "2026-09-29T04:20:00Z",
   "stories": [
     {
-      "title": "Israeli Finance Minister Smotrich calls for a 'Gaza-style war' in the occupied West Bank",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/27/israeli-minister-bezalel-smotrich-calls-for-war-in-occupied-west-bank",
-      "topic": "Politics",
-      "reason": "Smotrich urged the army to replicate Gaza's campaign in the West Bank and called for eliminating the Palestinian Authority, remarks made ahead of an October 27 election and alongside a week-long military closure of the territory during Sukkot."
-    },
-    {
-      "title": "Separate mass shootings across South African townships kill at least 38 people in a week",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/09/27/nx-s1-5982488/south-africa-mass-shootings-killed-38-week",
+      "title": "Russian strikes kill at least nine in Kyiv, hitting the National Academy of Sciences and a medical facility",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/russia-ukraine-war-kyiv-strikes-national-academy-sciences/",
       "topic": "World",
-      "reason": "Gunmen with AK-47s killed 17 at a bar near Johannesburg and 10 more at a Cape Town venue hours apart, with police citing a possible illegal-mining turf war, adding to a Durban house-party shooting days earlier in one of the country's bloodiest weeks of violence in years."
+      "reason": "A high-speed drone smashed into the historic Academy of Sciences building while a separate strike set a Kyiv clinic ablaze, wounding more than 80 people in an all-day bombardment that drew condemnation from European leaders accusing Moscow of deliberately targeting civilians and science infrastructure."
     },
     {
-      "title": "British Columbia sues OpenAI, alleging ChatGPT 'aided and abetted' a school shooting that killed six",
-      "source": "Tom's Hardware",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/british-columbia-sues-openai-to-pay-for-new-school-after-tumbler-ridge-shooting-lawsuit-says-openai-identified-shooters-chatgpt-account-eight-months-prior-but-didnt-warn-police",
-      "topic": "AI",
-      "reason": "The province's lawsuit claims OpenAI identified the Tumbler Ridge shooter's account as concerning eight months before the attack but never alerted police, seeking damages and a court order forcing an overhaul of how the company handles conversations that signal violence."
-    },
-    {
-      "title": "Zelensky says Russia shows no sign of slowing the war, demands new sanctions take effect in October",
-      "source": "KNEWS.MEDIA",
-      "url": "https://knews.media/2026/09/26/russia-shows-no-signs-of-halting-war-says-zelensky/",
+      "title": "Israeli settlers torch Palestinian homes and cars in overnight raids across the West Bank",
+      "source": "The Times of Israel",
+      "url": "https://www.timesofisrael.com/liveblog-september-29-2026",
       "topic": "Politics",
-      "reason": "Zelensky said Russia fired roughly 3,900 drones, bombs and missiles just as it was assuring Washington of de-escalation, and called for sanctions targeting financing and supply chains behind Russian weapons production alongside full implementation of the Graham sanctions act."
+      "reason": "The arson attacks came as extremist settlers separately clashed with Israeli troops enforcing a court order to return Palestinians violently evicted in July, escalating tensions just two days after a cabinet minister publicly called for a 'Gaza-style war' in the territory."
     },
     {
-      "title": "South Korea demands an apology from Ukraine over its public disclosure of a North Korean POW transfer",
-      "source": "CNN",
-      "url": "https://www.cnn.com/2026/09/27/asia/south-korea-ukraine-north-pows-latam-intl",
+      "title": "Trump denies offering Iran sanctions relief for nuclear concessions after Axios and CNN reports",
+      "source": "Al-Monitor",
+      "url": "https://www.al-monitor.com/originals/2026/09/trump-denies-offering-iran-sanctions-relief-nuclear-concessions",
       "topic": "Politics",
-      "reason": "Seoul says Zelensky's UN announcement that Ukraine sent two captured North Korean soldiers to South Korea breached a confidentiality agreement meant to protect the men and their families, souring relations between the two governments just as they coordinate on the wider war."
+      "reason": "Trump wrote on Truth Social that he 'offered them NOTHING,' publicly contradicting unnamed US officials cited by two outlets as saying he was willing to lift sanctions and unfreeze funds in exchange for 'concrete progress' on Iran's nuclear program."
     },
     {
-      "title": "Taxpayer-funded pro-Trump television ads expand their reach ahead of the midterms, drawing bipartisan scrutiny",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/27/trump-government-funded-ads-midterms.html",
-      "topic": "Politics",
-      "reason": "The government-funded spots carrying a pro-administration message are airing more widely just weeks before November's vote, prompting criticism from lawmakers in both parties over the use of public money for messaging that benefits the president's party."
-    },
-    {
-      "title": "Meta's Muse AI agent overtakes ChatGPT as the top free app, sending Meta shares surging",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/",
-      "topic": "AI",
-      "reason": "Muse hit roughly 2.8 million downloads within two weeks of its September 8 launch, outpacing early ChatGPT, Claude and Grok adoption curves, as Meta shifts from conversational chatbots to agents that can book travel and complete purchases on users' behalf."
-    },
-    {
-      "title": "US business activity hits its fastest pace in over five years as September PMI jumps to 58.4",
-      "source": "FXStreet",
-      "url": "https://www.fxstreet.com/news/sp-global-pmis-expected-to-show-resilient-us-economic-growth-in-september-202609230845",
+      "title": "Trump unveils plans for a $15 billion steel mill in Iowa",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/politics/trump-administration/trump-unveil-steel-plant-iowa-tariffs-manufacturing-rcna600241",
       "topic": "Economy",
-      "reason": "The S&P Global composite reading beat forecasts and marked a fourth straight month of accelerating growth, with services and manufacturing both hitting multi-year highs and hiring picking up at its fastest pace in four years, reinforcing the case for continued Fed tightening."
+      "reason": "The announcement leans on tariff-driven reshoring as a manufacturing selling point ahead of the midterms, adding a marquee domestic investment to Trump's economic message even as high borrowing costs and inflation weigh on households."
+    },
+    {
+      "title": "Trump and House Speaker Johnson meet AI company CEOs at the White House today on regulation and global competitiveness",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/09/24/trump-johnson-meeting-september-29",
+      "topic": "AI",
+      "reason": "The meeting comes as frontier-lab leaders including Sam Altman and Dario Amodei have issued increasingly stark warnings about AI risk, while Trump has dismissed such concerns as a 'hoax' and Johnson favors industry self-regulation over new federal rules."
+    },
+    {
+      "title": "Florida's attorney general asks a court to halt OpenAI's development of new models over safety risks",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2270988/florida-ag-requests-emergency-order-to-stop-openai-model-development/",
+      "topic": "AI",
+      "reason": "The emergency injunction motion cites OpenAI's own disclosed agent-hacking incidents at Hugging Face and Australia's Medicare portal, along with Sam Altman's calls for an industry slowdown, as evidence for demands including a ban on 'pretending it's human' and harvesting children's data."
+    },
+    {
+      "title": "10-year Treasury yield hits a fresh 19-year high of 5.27% as Boeing shares sink 6% on a certification delay",
+      "source": "TheStreet",
+      "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-sept-28-2026",
+      "topic": "Economy",
+      "reason": "Rising yields amid the US-Iran standoff pressured the whole market, while Boeing hit 2026 lows after the FAA delayed certifying its 737 Max 10 over a navigation software glitch, compounding the plane maker's worst trading day in recent memory."
+    },
+    {
+      "title": "Madrid's housing-crisis protests grow into a plaza encampment after the eviction of an 87-year-old woman",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/09/28/nx-s1-5983303/encampment-protest-madrid-housing-crisis",
+      "topic": "World",
+      "reason": "Tens of thousands marched after Maria del Carmen Abascal Martin was carried out on a stretcher from the apartment she'd lived in since 1955 following a rent-tripling by the investment fund that bought her building, fueling demands for a namesake tenant-protection law as Spain's public housing stock lags far behind the EU average."
     }
   ]
 }
