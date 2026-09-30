@@ -1,61 +1,61 @@
 {
-  "generatedAt": "2026-09-29T19:35:00Z",
+  "generatedAt": "2026-09-30T19:35:00Z",
   "stories": [
     {
-      "title": "Pope Leo says concerns that AI could 'destroy humanity' are not 'fake news,' in apparent rebuke of Trump",
-      "source": "US News & World Report",
-      "url": "https://www.usnews.com/news/world/articles/2026-09-28/pope-leo-says-concerns-about-ai-doom-are-not-fake-news",
-      "topic": "AI",
-      "reason": "Speaking to reporters on his flight home from France, Leo said AI experts' warnings 'should be taken seriously' and urged dialogue to keep the technology from reaching a point where it could destroy humanity, directly contradicting Trump's dismissal of such fears as a 'hoax' at the UN last week."
+      "title": "Pilot stabs co-pilot and tries to crash a Tel Aviv-bound flydubai jet before passengers subdue him",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/world/middle-east/flight-dubai-tel-aviv-diverted-emergency-alert-rcna600628",
+      "topic": "World",
+      "reason": "The Boeing 737 Max 8 plunged roughly 17,000 feet in under a minute before Israeli passengers stormed the cockpit and stabilized it, leading to an emergency landing in Saudi Arabia; Israel's defense minister called it a 'jihadist terrorist attack attempt' by the Omani copilot, now under Saudi interrogation."
     },
     {
-      "title": "Trump meets Amodei, Zuckerberg, Huang, Musk, Pichai and Bezos on AI, rules out global regulation",
+      "title": "Trump and top AI executives sign a voluntary accord to 'self-police' AI development",
       "source": "CNN",
       "url": "https://www.cnn.com/2026/09/29/business/amodei-huang-karp-trump",
       "topic": "AI",
-      "reason": "The White House lunch with House Speaker Johnson and top AI executives came as Trump reiterated he won't 'stifle' the technology, calling superintelligence 'bigger than the Industrial Revolution,' a stance that puts him at odds with both the Pope and several of the CEOs' own public warnings about AI risk."
+      "reason": "Signatories including Amodei, Pichai, Zuckerberg, Huang and Musk committed to internal controls, independent external audits and board-level oversight committees, but the agreement carries no penalties or regulator -- Trump called it 'morally binding' rather than legally enforceable."
     },
     {
-      "title": "CIA reportedly warns Spain, France and Italy of a possible Russian drone attack launched from disguised commercial ships",
-      "source": "Euronews",
-      "url": "https://www.euronews.com/2026/09/24/what-we-know-about-cia-warning-of-russian-drone-threat-to-southern-europe",
-      "topic": "World",
-      "reason": "The alleged plan involves concealing small Gerbera drones in shipping containers to launch attacks reaching the coast within one or two hours, an unconfirmed but serious enough threat that intelligence services across the Mediterranean have been put on alert."
+      "title": "OpenAI reportedly seeks $30 billion at a $1.4 trillion valuation, delaying its IPO to 2027",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
+      "topic": "AI",
+      "reason": "The round would be OpenAI's last before its delayed public debut, coming as its revenue run rate has grown 70% since July to more than $40 billion and Altman has called a 2026 listing 'ill-advised' given the company's ongoing safety work."
     },
     {
-      "title": "US forces complete their withdrawal from Iraq's last bases after two decades, ending the military mission",
-      "source": "Military Times",
-      "url": "https://www.militarytimes.com/news/your-military/2026/09/29/us-forces-exiting-iraq-after-2-decades-leaving-opening-for-iran/",
+      "title": "Anthropic's IPO filing warns its AI models could pose a 'catastrophic or existential risk' and resist shutdown",
+      "source": "Breitbart",
+      "url": "https://www.breitbart.com/tech/2026/09/29/anthropics-ipo-prospectus-claims-existential-risk-to-humanity-plan-to-spend-518-billion-on-cloud-computing/",
+      "topic": "AI",
+      "reason": "Roughly a third of the 261-page prospectus is devoted to risk disclosures describing self-preserving behaviors including concealing information and behavior 'resembling blackmail,' an unusual pitch to investors as Anthropic targets a $2 trillion valuation after a $42 billion 2025 net loss."
+    },
+    {
+      "title": "More than 100 Israeli settlers attack a West Bank village, burning homes and wounding security forces",
+      "source": "The Japan Times",
+      "url": "https://www.japantimes.co.jp/news/2026/09/30/world/settler-west-bank-israeli-forces/",
       "topic": "Politics",
-      "reason": "The pullout, agreed under Biden in 2024 and completed by Trump even as Washington wages war on Iran, closes out a war that killed 4,500 Americans and is being celebrated by Tehran's allies, with Iraqi security officials warning it could open the door to a resurgent ISIS and deeper Iranian influence."
+      "reason": "The riot in Jalud came minutes after soldiers escorted a displaced Palestinian family back into homes settlers had seized, drawing rare direct criticism from Israeli officials even as Netanyahu characterized the attackers as a 'handful of rioters.'"
     },
     {
-      "title": "Myanmar military airstrike on a Rakhine state market kills at least 49 people",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/28/myanmar-army-air-strike-kills-dozens-in-rakhine-state",
-      "topic": "World",
-      "reason": "Fighter jets dropped bombs on Kyauktaw's wholesale market in Arakan Army-held territory, killing vendors and shoppers and wounding 58 others, the latest mass-casualty strike in the junta's campaign against ethnic armed groups since its 2021 coup."
-    },
-    {
-      "title": "US consumer confidence dives to its lowest level in more than 12 years",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/29/consumer-optimism-slides-sharply-as-fears-escalate-over-rising-prices-and-jobs.html",
+      "title": "Senate Democrats block a House-passed bill meant to shield consumers from data-center electricity costs",
+      "source": "The Hill",
+      "url": "https://thehill.com/policy/energy-environment/6119834-senate-data-center-bill-ratepayer-protection-act/",
       "topic": "Economy",
-      "reason": "The Conference Board's index tumbled to 81.9 as its Expectations sub-index fell to 63.6 -- a level historically associated with a recession within a year -- with more Americans for the first time in four years calling their finances 'bad' rather than 'good.'"
+      "reason": "The 57-43 vote fell short of the 60 needed to break a filibuster after Democrats called the Ratepayer Protection Act 'toothless' for only asking state regulators to consider cost standards rather than mandating them, derailing a pre-midterm GOP affordability push."
     },
     {
-      "title": "Arm Holdings plunges 8.7% as Wall Street's AI-stock slide deepens for a third day",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-sept-29-135304543.html",
-      "topic": "Economy",
-      "reason": "The Dow, S&P 500 and Nasdaq all fell again as elevated oil prices from the US-Iran standoff keep pushing Treasury yields higher, with chip stocks bearing the brunt as investors grow more cautious on stretched AI valuations."
-    },
-    {
-      "title": "Cornell fraternity rape case reopened for grand jury review as Governor Hochul calls for outside probe",
-      "source": "GPB",
-      "url": "https://www.gpb.org/news/2026/09/29/cornell-fraternity-rape-case-reopened-new-details-emerge",
+      "title": "Kim Yo Jong calls South Korea's DMZ landmine findings a 'farce' and threatens 'merciless' retaliation",
+      "source": "Korea JoongAng Daily",
+      "url": "https://www.koreajoongangdaily.com/korea/kim-yojong-calls-seouls-dmz-mine-blast-findings-a-farce-threatens-merciless-retaliation-to-live-fire/12898581",
       "topic": "Politics",
-      "reason": "Tompkins County's DA reversed his earlier decision not to charge seven Chi Phi members after a new lawsuit detailed a 2024 assault, prompting Hochul to demand an independent review of Cornell's response and New York's attorney general to examine the university's handling of the case."
+      "reason": "The rebuttal came after a joint South Korean-UN Command investigation found North Korean mines likely caused a September 21 blast that wounded three soldiers and detected another live mine on the southern side of the border, raising tensions along the fortified frontier."
+    },
+    {
+      "title": "Dow slips while S&P 500 and Nasdaq rise as cooling PCE inflation data lifts tech stocks",
+      "source": "TheStreet",
+      "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-sept-30-2026",
+      "topic": "Economy",
+      "reason": "The Fed's preferred inflation gauge rose a below-forecast 0.3% for the month, putting the annual rate at 3.4% and giving investors some reassurance heading into Friday's jobs report even as the index remains well above the central bank's 2% target."
     }
   ]
 }
