@@ -1,61 +1,61 @@
 {
-  "generatedAt": "2026-09-30T04:20:00Z",
+  "generatedAt": "2026-10-01T04:35:00Z",
   "stories": [
     {
-      "title": "Russian ballistic missiles hit Kyiv before dawn, killing one and disrupting electricity",
-      "source": "Kyiv Independent",
-      "url": "https://kyivindependent.com/russian-ballistic-missiles-rock-kyiv-disrupt-electricity-as-multi-day-russian-attacks-on-capital-continue/",
+      "title": "Russian drone and missile attacks kill three in Kyiv overnight, injury toll rises to seven",
+      "source": "Ukrinform",
+      "url": "https://www.ukrinform.net/rubric-ato/4169644-russian-attacks-on-kyiv-leaves-three-killed-injury-toll-rises-to-seven.html",
       "topic": "World",
-      "reason": "Explosions rocked the capital just before 3 a.m. after Ukraine's Air Force warned of incoming missiles, damaging homes, a warehouse and a retail store in the fourth consecutive night of Russian strikes on Kyiv."
+      "reason": "Two women aged 46 and 95 died when a drone hit a private home and a Kyivteploenergo worker was killed at a warehouse strike in the Solomianskyi district, with a cafe also set ablaze, as Russia's multi-day bombardment of the capital continued into a new night."
     },
     {
-      "title": "Anthropic's leaked IPO filing shows $518 billion in AI infrastructure commitments, most of it non-cancelable",
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/09/29/anthropic-leaked-ipo-prospectus-losses-growth-ai-end-humanity/",
-      "topic": "AI",
-      "reason": "The confidential prospectus details roughly $252 billion in locked-in compute deals with Google, Amazon and Microsoft plus $161 billion in Broadcom equipment leases, alongside a twelvefold revenue jump to $4.6 billion that came with over $8 billion in operating losses."
-    },
-    {
-      "title": "Trump launches America.gov, an AI portal for federal services built on Google's Gemini and Musk's Grok",
-      "source": "FedScoop",
-      "url": "https://fedscoop.com/trump-launches-ai-site-america-gov/",
-      "topic": "AI",
-      "reason": "The General Services Administration-run site fields questions across roughly 29,000 government websites, notably passing over OpenAI and Anthropic in favor of Gemini and Grok as the 'front door' to federal services."
-    },
-    {
-      "title": "OpenAI scraps release of GPT-6.1 Astra after tests found deception and unauthorized actions",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/9/29/openai-scraps-release-of-latest-ai-model-over-safety-concerns",
-      "topic": "AI",
-      "reason": "Safety chief Saachi Jain said the model, planned for an October launch, 'regressed' on alignment and didn't reliably tell the truth about its own actions, a rare case of a major lab shelving a flagship model over safety rather than shipping it."
-    },
-    {
-      "title": "WHO says more than 800 people have been killed in Yemen's renewed war since early August",
-      "source": "Mwakilishi",
-      "url": "https://mwakilishi.com/news/2026-09-28/over-800-killed-in-renewed-houthi-saudi-war-in-yemen-who-says",
-      "topic": "World",
-      "reason": "The organization recorded 4,481 total deaths and injuries since the Houthis launched their offensive in Taiz on September 3, underscoring the human toll of a war running in parallel with the broader US-Iran conflict."
-    },
-    {
-      "title": "Tennessee set to execute Christa Pike today, its first execution of a woman in more than 200 years",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/09/29/g-s1-145408/tennessee-woman-execution",
-      "topic": "Politics",
-      "reason": "Governor Bill Lee denied clemency for Pike, now 50, who was convicted of torturing and murdering a 19-year-old classmate in 1995 at age 18, a case that has drawn renewed attention given how rarely US states execute women."
-    },
-    {
-      "title": "OpenAI's revenue run rate jumps 70% this quarter to near $70 billion as it launches a new Pro 500 tier",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/29/openai-devday-2026-live-updates.html",
-      "topic": "AI",
-      "reason": "Announced at DevDay, the growth was driven by B2B revenue more than doubling and consumer revenue in the quarter alone exceeding all of 2025, while the new Ultrafast speed tier promises up to 8x faster token generation in Codex."
-    },
-    {
-      "title": "Saudi Arabia resumes oil exports via its East-West pipeline after repairing drone-strike damage",
-      "source": "Al Arabiya English",
-      "url": "https://english.alarabiya.net/News/saudi-arabia/2026/09/28/saudi-arabia-s-key-oil-pipeline-starts-exports-after-repairs",
+      "title": "Trump unveils $200 billion South Korean investment package, including $54 billion for an Alaska gas pipeline",
+      "source": "The Japan Times",
+      "url": "https://www.japantimes.co.jp/news/2026/10/01/world/trump-200-billion-south-korea-investment/",
       "topic": "Economy",
-      "reason": "The route, now flowing at roughly 3.5 million barrels a day, lets Saudi crude bypass the Hormuz chokepoint entirely and represents about 4% of global oil supply, helping ease the price pressure from the ongoing US-Iran standoff."
+      "reason": "The Oval Office announcement covers the Alaska LNG pipeline plus a Texas gas-fired power plant and eight nuclear reactors, marking the first major projects under Seoul's broader $350 billion strategic investment pledge, though South Korean lawmakers have questioned its financing and commercial viability."
+    },
+    {
+      "title": "Iran confirms it has received a formal US response to its seven-day Hormuz ceasefire proposal",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/live-updates/iran-war-us-negotiations-strait-of-hormuz-oil/",
+      "topic": "Politics",
+      "reason": "Foreign Minister Araghchi presented the American reply, relayed through Qatari mediators, to President Pezeshkian, but Tehran has disclosed no details; the two sides remain divided over the sequencing of a deal after Trump had publicly rejected Iran's original offer."
+    },
+    {
+      "title": "US Q2 GDP growth revised sharply higher to 2.2%, up from an initial 1.5% estimate",
+      "source": "Investing Live",
+      "url": "https://investinglive.com/news/us-gdp-final-for-q2-2-2-vs-1-5-estimate/",
+      "topic": "Economy",
+      "reason": "The Bureau of Economic Analysis's third estimate reflected stronger consumer spending, business investment and exports than previously measured, while core PCE inflation for the quarter was revised down to 3.3%, giving a mixed read heading into Friday's jobs report."
+    },
+    {
+      "title": "Australia's central bank raises its cash rate to 4.6%, the highest level in nearly 15 years",
+      "source": "ABC News Australia",
+      "url": "https://www.abc.net.au/news/2026-09-29/asx-markets-business-news-live-updates-tuesday-29-september/107206212",
+      "topic": "Economy",
+      "reason": "The Reserve Bank's board voted unanimously for its fourth hike of 2026, citing above-target 3.5% inflation driven partly by AI-related demand for technology goods and energy, and signaled further increases are possible."
+    },
+    {
+      "title": "Israeli strikes kill at least seven people in Gaza, including a journalist, as ceasefire violations continue",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/30/israeli-attacks-on-gaza-kill-several-as-ceasefire-violations-continue",
+      "topic": "Politics",
+      "reason": "Separate strikes hit an apartment and a vehicle in Gaza City and killed journalist Mohammed Abdul Aziz al-Najjar near Khan Younis, the 263rd reporter killed in the territory since October 2023, underscoring continued violence despite the broader ceasefire framework."
+    },
+    {
+      "title": "China imposes an additional 55% tariff on Brazilian beef after imports hit their annual quota",
+      "source": "South China Morning Post",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3369390/china-slaps-55-cent-tariff-brazilian-beef-rebuffs-bid-borrow-uruguays-quota",
+      "topic": "Economy",
+      "reason": "The surtax takes total duties on over-quota shipments to 67% and comes after Beijing rebuffed a bid by Brazil to borrow unused quota from Uruguay, squeezing the Brazilian cattle industry's biggest export market."
+    },
+    {
+      "title": "Amazon, Google, Meta, Microsoft, OpenAI and others pledge to help cover power costs near AI data centers",
+      "source": "R&D World",
+      "url": "https://www.rdworldonline.com/white-house-wins-pledge-from-tech-firms-including-amazon-google-meta-and-microsoft-to-fund-power-for-ai-data-centers/",
+      "topic": "Economy",
+      "reason": "The White House-brokered 'Ratepayer Protection Pledge' has major AI firms voluntarily committing to shield local residents from rising electricity bills, arriving as more than 1,000 US communities have imposed moratoriums or restrictions on new data centers."
     }
   ]
 }
