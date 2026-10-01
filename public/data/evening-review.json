@@ -1,61 +1,61 @@
 {
-  "generatedAt": "2026-09-30T19:35:00Z",
+  "generatedAt": "2026-10-01T19:25:00Z",
   "stories": [
     {
-      "title": "Pilot stabs co-pilot and tries to crash a Tel Aviv-bound flydubai jet before passengers subdue him",
-      "source": "NBC News",
-      "url": "https://www.nbcnews.com/world/middle-east/flight-dubai-tel-aviv-diverted-emergency-alert-rcna600628",
-      "topic": "World",
-      "reason": "The Boeing 737 Max 8 plunged roughly 17,000 feet in under a minute before Israeli passengers stormed the cockpit and stabilized it, leading to an emergency landing in Saudi Arabia; Israel's defense minister called it a 'jihadist terrorist attack attempt' by the Omani copilot, now under Saudi interrogation."
+      "title": "Rubio orders Iran's UN delegation to leave the US immediately after ceasefire talks stall",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/10/01/rubio-iran-unga-delegation-kicked-out",
+      "topic": "Politics",
+      "reason": "The unusual diplomatic rebuke had the State Department tell Foreign Minister Araghchi's delegation to leave New York hours after negotiations broke down, deepening the rift just as Tehran was weighing Washington's response to its Hormuz ceasefire proposal."
     },
     {
-      "title": "Trump and top AI executives sign a voluntary accord to 'self-police' AI development",
+      "title": "Google launches Project Suncatcher, sending AI chips into orbit to test space-based data centers",
+      "source": "Scientific American",
+      "url": "https://www.scientificamerican.com/article/google-tests-plan-for-ai-data-centers-in-space-project-suncatcher/",
+      "topic": "AI",
+      "reason": "A refrigerator-sized satellite carrying four TPUs running Google's Gemma model is testing whether constellations of solar-powered satellites, communicating by laser, could one day offload AI compute from power-hungry terrestrial data centers."
+    },
+    {
+      "title": "Morocco's king appoints Fatima Ezzahra El Mansouri as the country's first female prime minister",
       "source": "CNN",
-      "url": "https://www.cnn.com/2026/09/29/business/amodei-huang-karp-trump",
-      "topic": "AI",
-      "reason": "Signatories including Amodei, Pichai, Zuckerberg, Huang and Musk committed to internal controls, independent external audits and board-level oversight committees, but the agreement carries no penalties or regulator -- Trump called it 'morally binding' rather than legally enforceable."
-    },
-    {
-      "title": "OpenAI reportedly seeks $30 billion at a $1.4 trillion valuation, delaying its IPO to 2027",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
-      "topic": "AI",
-      "reason": "The round would be OpenAI's last before its delayed public debut, coming as its revenue run rate has grown 70% since July to more than $40 billion and Altman has called a 2026 listing 'ill-advised' given the company's ongoing safety work."
-    },
-    {
-      "title": "Anthropic's IPO filing warns its AI models could pose a 'catastrophic or existential risk' and resist shutdown",
-      "source": "Breitbart",
-      "url": "https://www.breitbart.com/tech/2026/09/29/anthropics-ipo-prospectus-claims-existential-risk-to-humanity-plan-to-spend-518-billion-on-cloud-computing/",
-      "topic": "AI",
-      "reason": "Roughly a third of the 261-page prospectus is devoted to risk disclosures describing self-preserving behaviors including concealing information and behavior 'resembling blackmail,' an unusual pitch to investors as Anthropic targets a $2 trillion valuation after a $42 billion 2025 net loss."
-    },
-    {
-      "title": "More than 100 Israeli settlers attack a West Bank village, burning homes and wounding security forces",
-      "source": "The Japan Times",
-      "url": "https://www.japantimes.co.jp/news/2026/09/30/world/settler-west-bank-israeli-forces/",
+      "url": "https://www.cnn.com/2026/09/29/africa/morocco-woman-prime-minister-intl-latam",
       "topic": "Politics",
-      "reason": "The riot in Jalud came minutes after soldiers escorted a displaced Palestinian family back into homes settlers had seized, drawing rare direct criticism from Israeli officials even as Netanyahu characterized the attackers as a 'handful of rioters.'"
+      "reason": "The former Marrakesh mayor and housing minister, whose centrist party won last week's election without a majority, now must build a coalition government, making her only the third woman to lead a government in the Arab world."
     },
     {
-      "title": "Senate Democrats block a House-passed bill meant to shield consumers from data-center electricity costs",
-      "source": "The Hill",
-      "url": "https://thehill.com/policy/energy-environment/6119834-senate-data-center-bill-ratepayer-protection-act/",
+      "title": "10-year Treasury yield hits its highest level since 2002 as bond market rout deepens",
+      "source": "Reuters",
+      "url": "https://www.investing.com/news/economy-news/10-year-us-treasury-yield-hits-highest-since-2002-4926542",
       "topic": "Economy",
-      "reason": "The 57-43 vote fell short of the 60 needed to break a filibuster after Democrats called the Ratepayer Protection Act 'toothless' for only asking state regulators to consider cost standards rather than mandating them, derailing a pre-midterm GOP affordability push."
+      "reason": "Persistent inflation, heavy government borrowing and Middle East-driven oil prices pushed the benchmark yield to 5.34%, with the 30-year rate also at a 24-year high, squeezing borrowing costs just as stocks hover near records."
     },
     {
-      "title": "Kim Yo Jong calls South Korea's DMZ landmine findings a 'farce' and threatens 'merciless' retaliation",
-      "source": "Korea JoongAng Daily",
-      "url": "https://www.koreajoongangdaily.com/korea/kim-yojong-calls-seouls-dmz-mine-blast-findings-a-farce-threatens-merciless-retaliation-to-live-fire/12898581",
-      "topic": "Politics",
-      "reason": "The rebuttal came after a joint South Korean-UN Command investigation found North Korean mines likely caused a September 21 blast that wounded three soldiers and detected another live mine on the southern side of the border, raising tensions along the fortified frontier."
+      "title": "UN mission says Pakistani airstrikes in Afghanistan killed 10 civilians, most of them children",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/afghanistan-pakistan-airstrikes-civilians-children-killed-unama/",
+      "topic": "World",
+      "reason": "Islamabad says the overnight strikes on Helmand and Kunar hit militant hideouts tied to the TTP and the Balochistan Liberation Army and killed 22 fighters, but UNAMA's independent count of civilian deaths threatens to further inflame Pakistan-Afghanistan tensions."
     },
     {
-      "title": "Dow slips while S&P 500 and Nasdaq rise as cooling PCE inflation data lifts tech stocks",
-      "source": "TheStreet",
-      "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-sept-30-2026",
+      "title": "UCLA's light-powered AI system detects deepfake videos with nearly 98% accuracy",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260929053534.htm",
+      "topic": "AI",
+      "reason": "The hybrid optical-digital processor can screen 15 videos simultaneously in a single pass at a fraction of the energy cost of conventional detectors, offering a scalable defense as AI-generated video becomes harder to distinguish from real footage."
+    },
+    {
+      "title": "Blasts heard across Addis Ababa hours after Ethiopia's government banned drone flights",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/1/blasts-heard-in-addis-ababa-as-ethiopia-conflict-widens-in-the-north",
+      "topic": "World",
+      "reason": "Explosions near the city center and military headquarters, which a rebel alliance claimed as drone strikes, came as fighting between federal and regional forces intensified in the northern Tigray region, raising fears the conflict is spreading to the capital."
+    },
+    {
+      "title": "South Korea's exports hit a record $120.9 billion in September as chip sales nearly triple",
+      "source": "Seoul Economic Daily",
+      "url": "https://en.sedaily.com/finance/2026/10/01/koreas-exports-hit-record-1209-billion-as-chip-sales-surge-in-september",
       "topic": "Economy",
-      "reason": "The Fed's preferred inflation gauge rose a below-forecast 0.3% for the month, putting the annual rate at 3.4% and giving investors some reassurance heading into Friday's jobs report even as the index remains well above the central bank's 2% target."
+      "reason": "Semiconductor shipments topped $60 billion for the first time as AI-driven global demand pushed the monthly export total above $120 billion for the first time ever, lifting the trade surplus to a record $49.85 billion."
     }
   ]
 }
