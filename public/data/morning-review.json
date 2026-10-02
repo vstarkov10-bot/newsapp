@@ -1,61 +1,61 @@
 {
-  "generatedAt": "2026-10-01T04:35:00Z",
+  "generatedAt": "2026-10-02T04:20:00Z",
   "stories": [
     {
-      "title": "Russian drone and missile attacks kill three in Kyiv overnight, injury toll rises to seven",
-      "source": "Ukrinform",
-      "url": "https://www.ukrinform.net/rubric-ato/4169644-russian-attacks-on-kyiv-leaves-three-killed-injury-toll-rises-to-seven.html",
+      "title": "UK counter-terror police arrest a dual UK-Iranian national over the RAF Fairford incident",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/10/01/uk-iranian-national-arrested-raf-fairford-terror-plot-probe",
+      "topic": "Politics",
+      "reason": "The 27-year-old was arrested in Westminster on suspicion of preparing terrorist acts after masked men were spotted near the US-run air base over the weekend, as UK officials cite 'strong indications' of Iranian involvement that Tehran denies."
+    },
+    {
+      "title": "US manufacturing expands for a ninth straight month, ISM survey shows",
+      "source": "PR Newswire",
+      "url": "https://www.prnewswire.com/news-releases/manufacturing-pmi-at-54-5-september-2026-ism-manufacturing-pmi-report-302894520.html",
+      "topic": "Economy",
+      "reason": "The ISM's September Manufacturing PMI came in at 54.5%, with new orders accelerating to 55.3%, signaling factory activity remains firmly in expansion even as 10-year Treasury yields sit at their highest level in decades."
+    },
+    {
+      "title": "Saudi-led coalition says Houthis struck a Medina power station and fired a missile at Khamis Mushait",
+      "source": "Arab News",
+      "url": "https://www.arabnews.com/saudi-arabia/saudi-arabia-intercepts-four-houthi-drones-two-ballistic-missiles-in-latest-attack-3004155",
       "topic": "World",
-      "reason": "Two women aged 46 and 95 died when a drone hit a private home and a Kyivteploenergo worker was killed at a warehouse strike in the Solomianskyi district, with a cafe also set ablaze, as Russia's multi-day bombardment of the capital continued into a new night."
+      "reason": "An investigation of drone wreckage confirmed Houthi responsibility for a strike on the Taiba substation that supplies power to the Prophet's Mosque, while coalition forces intercepted a separate ballistic missile, marking a sharp escalation in cross-border attacks on Saudi Arabia."
     },
     {
-      "title": "Trump unveils $200 billion South Korean investment package, including $54 billion for an Alaska gas pipeline",
-      "source": "The Japan Times",
-      "url": "https://www.japantimes.co.jp/news/2026/10/01/world/trump-200-billion-south-korea-investment/",
+      "title": "Ethiopia prepares to pull over 3,000 troops from Somalia as its internal conflict widens",
+      "source": "Garowe Online",
+      "url": "https://www.garoweonline.com/en/news/somalia/renewed-fighting-in-ethiopia-could-reshape-its-military-role-in-somalia",
+      "topic": "World",
+      "reason": "The redeployment to fight Tigrayan and Fano forces at home would strip troops from areas where al-Shabab is active, and Mogadishu says it was never informed, risking a security vacuum for one of Somalia's key military partners."
+    },
+    {
+      "title": "Google rolls out Gemini 4 Argon, reclaiming the AI benchmark lead from OpenAI and Anthropic",
+      "source": "VentureBeat",
+      "url": "https://venturebeat.com/technology/google-unveils-gemini-4-argon-retaking-benchmark-lead-over-openai-and-anthropic-but-in-limited-release",
+      "topic": "AI",
+      "reason": "The 1-million-token frontier model is launching first to cybersecurity defenders and select Google Cloud customers through a restricted 'Fairwind' program, with Google planning a guardrail-free version for trusted partners before wider release."
+    },
+    {
+      "title": "IBM shares jump after it unveils a self-hosted version of its Bob AI coding platform",
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/10/01/ibm-allows-on-prem-deployment-of-its-bob-agentic-development-platform",
+      "topic": "AI",
+      "reason": "The option to run Bob on-premises or in a sovereign cloud targets regulated enterprises that need to keep code and data in-house, sending IBM stock up roughly 4% as the company leans further into agentic software development tools."
+    },
+    {
+      "title": "Amazon signs a 20-year nuclear power deal with Constellation, unlocking a $3 billion upgrade to Maryland's Calvert Cliffs plant",
+      "source": "ESG Today",
+      "url": "https://www.esgtoday.com/amazon-signs-20-year-deal-with-constellation-to-upgrade-extend-life-of-nuclear-plant/",
       "topic": "Economy",
-      "reason": "The Oval Office announcement covers the Alaska LNG pipeline plus a Texas gas-fired power plant and eight nuclear reactors, marking the first major projects under Seoul's broader $350 billion strategic investment pledge, though South Korean lawmakers have questioned its financing and commercial viability."
+      "reason": "Amazon will buy 690 megawatts from an uprated Calvert Cliffs, the plant supplying 80% of Maryland's clean power, giving Constellation the revenue certainty to relicense the reactors for another 20 years as AI-driven electricity demand surges."
     },
     {
-      "title": "Iran confirms it has received a formal US response to its seven-day Hormuz ceasefire proposal",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/live-updates/iran-war-us-negotiations-strait-of-hormuz-oil/",
-      "topic": "Politics",
-      "reason": "Foreign Minister Araghchi presented the American reply, relayed through Qatari mediators, to President Pezeshkian, but Tehran has disclosed no details; the two sides remain divided over the sequencing of a deal after Trump had publicly rejected Iran's original offer."
-    },
-    {
-      "title": "US Q2 GDP growth revised sharply higher to 2.2%, up from an initial 1.5% estimate",
-      "source": "Investing Live",
-      "url": "https://investinglive.com/news/us-gdp-final-for-q2-2-2-vs-1-5-estimate/",
-      "topic": "Economy",
-      "reason": "The Bureau of Economic Analysis's third estimate reflected stronger consumer spending, business investment and exports than previously measured, while core PCE inflation for the quarter was revised down to 3.3%, giving a mixed read heading into Friday's jobs report."
-    },
-    {
-      "title": "Australia's central bank raises its cash rate to 4.6%, the highest level in nearly 15 years",
-      "source": "ABC News Australia",
-      "url": "https://www.abc.net.au/news/2026-09-29/asx-markets-business-news-live-updates-tuesday-29-september/107206212",
-      "topic": "Economy",
-      "reason": "The Reserve Bank's board voted unanimously for its fourth hike of 2026, citing above-target 3.5% inflation driven partly by AI-related demand for technology goods and energy, and signaled further increases are possible."
-    },
-    {
-      "title": "Israeli strikes kill at least seven people in Gaza, including a journalist, as ceasefire violations continue",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/30/israeli-attacks-on-gaza-kill-several-as-ceasefire-violations-continue",
-      "topic": "Politics",
-      "reason": "Separate strikes hit an apartment and a vehicle in Gaza City and killed journalist Mohammed Abdul Aziz al-Najjar near Khan Younis, the 263rd reporter killed in the territory since October 2023, underscoring continued violence despite the broader ceasefire framework."
-    },
-    {
-      "title": "China imposes an additional 55% tariff on Brazilian beef after imports hit their annual quota",
-      "source": "South China Morning Post",
-      "url": "https://www.scmp.com/news/china/diplomacy/article/3369390/china-slaps-55-cent-tariff-brazilian-beef-rebuffs-bid-borrow-uruguays-quota",
-      "topic": "Economy",
-      "reason": "The surtax takes total duties on over-quota shipments to 67% and comes after Beijing rebuffed a bid by Brazil to borrow unused quota from Uruguay, squeezing the Brazilian cattle industry's biggest export market."
-    },
-    {
-      "title": "Amazon, Google, Meta, Microsoft, OpenAI and others pledge to help cover power costs near AI data centers",
-      "source": "R&D World",
-      "url": "https://www.rdworldonline.com/white-house-wins-pledge-from-tech-firms-including-amazon-google-meta-and-microsoft-to-fund-power-for-ai-data-centers/",
-      "topic": "Economy",
-      "reason": "The White House-brokered 'Ratepayer Protection Pledge' has major AI firms voluntarily committing to shield local residents from rising electricity bills, arriving as more than 1,000 US communities have imposed moratoriums or restrictions on new data centers."
+      "title": "A Tokyo court rules the human voice is legally protected in a landmark AI voice-cloning case",
+      "source": "The Next Web",
+      "url": "https://thenextweb.com/news/tokyo-court-ai-voice-clone-kenjiro-tsuda-tiktok",
+      "topic": "AI",
+      "reason": "Though it dismissed anime star Kenjiro Tsuda's specific claim against TikTok, the court recognized unauthorized AI voice cloning as a violation of publicity rights, Japan's first such acknowledgment and a precedent likely to shape AI voice disputes elsewhere."
     }
   ]
 }
