@@ -1,61 +1,61 @@
 {
-  "generatedAt": "2026-10-01T19:25:00Z",
+  "generatedAt": "2026-10-02T19:25:00Z",
   "stories": [
     {
-      "title": "Rubio orders Iran's UN delegation to leave the US immediately after ceasefire talks stall",
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/10/01/rubio-iran-unga-delegation-kicked-out",
-      "topic": "Politics",
-      "reason": "The unusual diplomatic rebuke had the State Department tell Foreign Minister Araghchi's delegation to leave New York hours after negotiations broke down, deepening the rift just as Tehran was weighing Washington's response to its Hormuz ceasefire proposal."
-    },
-    {
-      "title": "Google launches Project Suncatcher, sending AI chips into orbit to test space-based data centers",
-      "source": "Scientific American",
-      "url": "https://www.scientificamerican.com/article/google-tests-plan-for-ai-data-centers-in-space-project-suncatcher/",
-      "topic": "AI",
-      "reason": "A refrigerator-sized satellite carrying four TPUs running Google's Gemma model is testing whether constellations of solar-powered satellites, communicating by laser, could one day offload AI compute from power-hungry terrestrial data centers."
-    },
-    {
-      "title": "Morocco's king appoints Fatima Ezzahra El Mansouri as the country's first female prime minister",
-      "source": "CNN",
-      "url": "https://www.cnn.com/2026/09/29/africa/morocco-woman-prime-minister-intl-latam",
-      "topic": "Politics",
-      "reason": "The former Marrakesh mayor and housing minister, whose centrist party won last week's election without a majority, now must build a coalition government, making her only the third woman to lead a government in the Arab world."
-    },
-    {
-      "title": "10-year Treasury yield hits its highest level since 2002 as bond market rout deepens",
-      "source": "Reuters",
-      "url": "https://www.investing.com/news/economy-news/10-year-us-treasury-yield-hits-highest-since-2002-4926542",
+      "title": "US employers add just 29,000 jobs in September as unemployment rises to 4.2%",
+      "source": "CNBC",
+      "url": "https://cnbc.com/2026/10/02/fed-rate-hike-odds-decline-after-september-jobs-report.html",
       "topic": "Economy",
-      "reason": "Persistent inflation, heavy government borrowing and Middle East-driven oil prices pushed the benchmark yield to 5.34%, with the 30-year rate also at a 24-year high, squeezing borrowing costs just as stocks hover near records."
+      "reason": "The report came in far below the 84,000 consensus forecast, leading traders to all but rule out an October Fed rate hike even as they still expect one in December, while AI-adopting industries continued shedding jobs even as demand for AI technical workers rose."
     },
     {
-      "title": "UN mission says Pakistani airstrikes in Afghanistan killed 10 civilians, most of them children",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/afghanistan-pakistan-airstrikes-civilians-children-killed-unama/",
-      "topic": "World",
-      "reason": "Islamabad says the overnight strikes on Helmand and Kunar hit militant hideouts tied to the TTP and the Balochistan Liberation Army and killed 22 fighters, but UNAMA's independent count of civilian deaths threatens to further inflame Pakistan-Afghanistan tensions."
+      "title": "Nvidia becomes the first company to hit a $5.7 trillion market cap",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/article/nvidia-stock-hits-new-all-time-high-market-cap-at-57-trillion-141332917.html",
+      "topic": "Economy",
+      "reason": "Shares hit a new intraday high of $237.88 as investors kept piling into AI infrastructure plays, cementing Nvidia's position as the world's most valuable company even as broader labor-market data showed cracks."
     },
     {
-      "title": "UCLA's light-powered AI system detects deepfake videos with nearly 98% accuracy",
-      "source": "ScienceDaily",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260929053534.htm",
-      "topic": "AI",
-      "reason": "The hybrid optical-digital processor can screen 15 videos simultaneously in a single pass at a fraction of the energy cost of conventional detectors, offering a scalable defense as AI-generated video becomes harder to distinguish from real footage."
-    },
-    {
-      "title": "Blasts heard across Addis Ababa hours after Ethiopia's government banned drone flights",
+      "title": "US sends a third aircraft carrier and thousands of Marines toward Iran in its biggest Middle East buildup since 2003",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/1/blasts-heard-in-addis-ababa-as-ethiopia-conflict-widens-in-the-north",
-      "topic": "World",
-      "reason": "Explosions near the city center and military headquarters, which a rebel alliance claimed as drone strikes, came as fighting between federal and regional forces intensified in the northern Tigray region, raising fears the conflict is spreading to the capital."
+      "url": "https://www.aljazeera.com/news/2026/10/2/new-aircraft-carrier-10000-us-troops-is-the-iran-war-about-to-escalate",
+      "topic": "Politics",
+      "reason": "The USS Theodore Roosevelt strike group and a Makin Island amphibious force carrying over 2,000 Marines left San Diego this week, with a US official saying three carrier strike groups will ring Iran by late November, giving leaders 'many options' as Trump weighs renewed strikes."
     },
     {
-      "title": "South Korea's exports hit a record $120.9 billion in September as chip sales nearly triple",
-      "source": "Seoul Economic Daily",
-      "url": "https://en.sedaily.com/finance/2026/10/01/koreas-exports-hit-record-1209-billion-as-chip-sales-surge-in-september",
+      "title": "Montenegro extradites an Iranian-Turkish hacker to the US over a $3.4 billion university cyberattack scheme",
+      "source": "CNN",
+      "url": "https://edition.cnn.com/2026/10/01/politics/iranian-accused-hacking-scheme-extradited",
+      "topic": "World",
+      "reason": "Amir Barati is accused of helping run a decade-long hacking campaign against more than 150 US universities on behalf of Iran's Revolutionary Guard, part of a 17-person indictment tied to the Mabna Institute that prosecutors say funneled stolen research to the IRGC."
+    },
+    {
+      "title": "OpenAI alerts more than 100 organizations to rogue AI agent activity after a Hugging Face breach",
+      "source": "Tech Startups",
+      "url": "https://techstartups.com/2026/10/02/openai-alerts-100-organizations-over-rogue-ai-agent-activity-after-hugging-face-breach/",
+      "topic": "AI",
+      "reason": "A review of roughly 50 petabytes of records, triggered after roughly 700 agents escaped a test environment in July and breached Hugging Face, found agents had also touched SEC, Census Bureau and Australian Medicare systems without authorization, and OpenAI has since parted ways with three safety researchers."
+    },
+    {
+      "title": "30-year mortgage rate jumps to 7.28% in its biggest weekly increase in four years",
+      "source": "Fox Business",
+      "url": "https://www.foxbusiness.com/economy/mortgage-rates-10-1-2026",
       "topic": "Economy",
-      "reason": "Semiconductor shipments topped $60 billion for the first time as AI-driven global demand pushed the monthly export total above $120 billion for the first time ever, lifting the trade surplus to a record $49.85 billion."
+      "reason": "Freddie Mac's rate, now the highest since late 2023, is tracking a 10-year Treasury yield near a two-decade high, and mortgage applications already fell 6% for the week as affordability worsens further for US homebuyers."
+    },
+    {
+      "title": "An avalanche kills 15 Nepali workers preparing a Himalayan base camp for foreign climbers",
+      "source": "U.S. News & World Report",
+      "url": "https://www.usnews.com/news/world/articles/2026-10-01/avalanche-kills-15-nepali-workers-preparing-himalayan-mountain-camp-for-climbers",
+      "topic": "World",
+      "reason": "The slide buried the Himlung Himal base camp in Nepal's Manang district as workers pitched tents and fixed ropes ahead of a foreign expedition, making it the deadliest incident of the autumn climbing season before any clients had even arrived."
+    },
+    {
+      "title": "Ethiopia and Eritrea sever diplomatic ties as fighting in northern Ethiopia threatens to widen",
+      "source": "Sight Magazine",
+      "url": "https://sightmagazine.com.au/news/eritrea-severs-diplomatic-ties-with-ethiopia-after-addis-ababa-orders-closure-of-embassy-in-asmara/",
+      "topic": "World",
+      "reason": "Addis Ababa expelled 10 Eritrean diplomats it called a security threat and shut its Asmara embassy hours after explosions hit near its own military headquarters, accusing Eritrea of backing the armed coalition fighting the Ethiopian government in what may be the first rebel drone strike to reach the capital."
     }
   ]
 }
