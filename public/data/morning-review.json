@@ -1,61 +1,61 @@
 {
-  "generatedAt": "2026-10-02T04:20:00Z",
+  "generatedAt": "2026-10-03T04:20:00Z",
   "stories": [
     {
-      "title": "UK counter-terror police arrest a dual UK-Iranian national over the RAF Fairford incident",
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/10/01/uk-iranian-national-arrested-raf-fairford-terror-plot-probe",
+      "title": "Protests shutter hundreds of French schools as clashes with police turn violent",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/2/protests-shutter-hundreds-of-french-schools-as-violence-flares",
+      "topic": "World",
+      "reason": "About 400 of France's 3,700 high schools closed and nearly 2,000 people have been arrested since the movement began over teacher shortages and overcrowded classrooms, with two Paris schools set ablaze, adding pressure on Macron's government as it also faces a public-sector budget strike."
+    },
+    {
+      "title": "Personal data leaked at three more South Korean banks as AI-powered hacking spreads",
+      "source": "The Korea Times",
+      "url": "https://www.koreatimes.co.kr/business/banking-finance/20261002/shinhan-kb-kookmin-data-breaches-raise-concerns-over-ai-powered-cyberattacks",
+      "topic": "AI",
+      "reason": "Following Shinhan Bank's breach of roughly 25,000 customers' data via AI tools that probed a loan service for vulnerabilities, KB Kookmin, Hana and Busan banks have now also disclosed leaks, prompting emergency inspections across the country's financial sector."
+    },
+    {
+      "title": "Supreme Court's new term opens with a win for Trump on voter verification and a deportation case ahead",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/politics/supreme-court/trump-clashes-ahead-new-supreme-court-term-begins-rcna600256",
       "topic": "Politics",
-      "reason": "The 27-year-old was arrested in Westminster on suspicion of preparing terrorist acts after masked men were spotted near the US-run air base over the weekend, as UK officials cite 'strong indications' of Iranian involvement that Tehran denies."
+      "reason": "The justices let the administration use a modified citizenship-verification database ahead of the midterms over three liberal justices' dissent, and will hear arguments in December on Trump's policy of deporting migrants to third countries, in a term already lined up with major immigration fights."
     },
     {
-      "title": "US manufacturing expands for a ninth straight month, ISM survey shows",
-      "source": "PR Newswire",
-      "url": "https://www.prnewswire.com/news-releases/manufacturing-pmi-at-54-5-september-2026-ism-manufacturing-pmi-report-302894520.html",
+      "title": "Trump says a $8.4 billion oil project is part of the South Korea deal; Seoul says it never agreed to that",
+      "source": "The Korea Herald",
+      "url": "https://www.koreaherald.com/article/10892345",
       "topic": "Economy",
-      "reason": "The ISM's September Manufacturing PMI came in at 54.5%, with new orders accelerating to 55.3%, signaling factory activity remains firmly in expansion even as 10-year Treasury yields sit at their highest level in decades."
+      "reason": "Trump posted that an enhanced-oil-recovery project is included in this week's $200 billion investment package and threatened to double costs elsewhere if Seoul balks, but South Korea's industry ministry says the project was never part of what the two sides actually agreed."
     },
     {
-      "title": "Saudi-led coalition says Houthis struck a Medina power station and fired a missile at Khamis Mushait",
-      "source": "Arab News",
-      "url": "https://www.arabnews.com/saudi-arabia/saudi-arabia-intercepts-four-houthi-drones-two-ballistic-missiles-in-latest-attack-3004155",
+      "title": "A Russian fighter jet reportedly shoots down its own helicopter in a friendly-fire incident, killing three",
+      "source": "Kyiv Independent",
+      "url": "https://kyivindependent.com/russian-mi-8-helicopter-reportedly-shot-down-in-friendly-fire-incident-over-voronezh-oblast/",
       "topic": "World",
-      "reason": "An investigation of drone wreckage confirmed Houthi responsibility for a strike on the Taiba substation that supplies power to the Prophet's Mosque, while coalition forces intercepted a separate ballistic missile, marking a sharp escalation in cross-border attacks on Saudi Arabia."
+      "reason": "A Su-35 crew mistook a Russian Mi-8 for a Ukrainian drone and opened fire over Voronezh Oblast, killing the pilot, navigator and gunner, according to Russian and Ukrainian Telegram channels that Russian authorities have not officially confirmed."
     },
     {
-      "title": "Ethiopia prepares to pull over 3,000 troops from Somalia as its internal conflict widens",
-      "source": "Garowe Online",
-      "url": "https://www.garoweonline.com/en/news/somalia/renewed-fighting-in-ethiopia-could-reshape-its-military-role-in-somalia",
-      "topic": "World",
-      "reason": "The redeployment to fight Tigrayan and Fano forces at home would strip troops from areas where al-Shabab is active, and Mogadishu says it was never informed, risking a security vacuum for one of Somalia's key military partners."
-    },
-    {
-      "title": "Google rolls out Gemini 4 Argon, reclaiming the AI benchmark lead from OpenAI and Anthropic",
-      "source": "VentureBeat",
-      "url": "https://venturebeat.com/technology/google-unveils-gemini-4-argon-retaking-benchmark-lead-over-openai-and-anthropic-but-in-limited-release",
+      "title": "Google's Project Suncatcher satellite reaches orbit in its first physical step toward space-based AI data centers",
+      "source": "The Register",
+      "url": "https://www.theregister.com/systems/2026/10/02/google-launches-first-datacenter-satellite-and-research-that-finds-orbiting-bit-barns-can-work/",
       "topic": "AI",
-      "reason": "The 1-million-token frontier model is launching first to cybersecurity defenders and select Google Cloud customers through a restricted 'Fairwind' program, with Google planning a guardrail-free version for trusted partners before wider release."
+      "reason": "The prototype, carrying four Trillium TPUs, launched aboard a SpaceX Falcon 9 and will spend its mission gauging how the chips handle radiation and thermal extremes, an early hardware test rather than an operational data center."
     },
     {
-      "title": "IBM shares jump after it unveils a self-hosted version of its Bob AI coding platform",
-      "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/10/01/ibm-allows-on-prem-deployment-of-its-bob-agentic-development-platform",
+      "title": "Tesla cuts planned memory on its AI5 and AI6 chips to speed up Optimus robot production",
+      "source": "Tesla North",
+      "url": "https://teslanorth.com/2026/10/01/tesla-ai5-ai6-ram-cut/",
       "topic": "AI",
-      "reason": "The option to run Bob on-premises or in a sovereign cloud targets regulated enterprises that need to keep code and data in-house, sending IBM stock up roughly 4% as the company leans further into agentic software development tools."
+      "reason": "Musk said the AI5 chip will now ship with 72GB of RAM and AI6 with 144GB, cuts driven by memory supply constraints that he says won't meaningfully affect Optimus performance since bandwidth, not capacity, was the real bottleneck."
     },
     {
-      "title": "Amazon signs a 20-year nuclear power deal with Constellation, unlocking a $3 billion upgrade to Maryland's Calvert Cliffs plant",
-      "source": "ESG Today",
-      "url": "https://www.esgtoday.com/amazon-signs-20-year-deal-with-constellation-to-upgrade-extend-life-of-nuclear-plant/",
-      "topic": "Economy",
-      "reason": "Amazon will buy 690 megawatts from an uprated Calvert Cliffs, the plant supplying 80% of Maryland's clean power, giving Constellation the revenue certainty to relicense the reactors for another 20 years as AI-driven electricity demand surges."
-    },
-    {
-      "title": "A Tokyo court rules the human voice is legally protected in a landmark AI voice-cloning case",
-      "source": "The Next Web",
-      "url": "https://thenextweb.com/news/tokyo-court-ai-voice-clone-kenjiro-tsuda-tiktok",
+      "title": "Microsoft unveils a real-time transcription model that tops independent accuracy rankings",
+      "source": "Seeking Alpha",
+      "url": "https://seekingalpha.com/news/4649242-microsoft-unveils-new-transcription-voice-models",
       "topic": "AI",
-      "reason": "Though it dismissed anime star Kenjiro Tsuda's specific claim against TikTok, the court recognized unauthorized AI voice cloning as a violation of publicity rights, Japan's first such acknowledgment and a precedent likely to shape AI voice disputes elsewhere."
+      "reason": "MAI-Transcribe-2-Streaming ranked first among 38 models on Artificial Analysis for both accuracy and latency, launching alongside two new voice-generation models as Microsoft pushes further into the voice AI tools market OpenAI and Google also compete in."
     }
   ]
 }
