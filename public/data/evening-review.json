@@ -1,61 +1,61 @@
 {
-  "generatedAt": "2026-10-03T19:25:00Z",
+  "generatedAt": "2026-10-04T19:25:00Z",
   "stories": [
     {
-      "title": "Trump is expected to name intelligence chief Jay Clayton as his new AI czar",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/trump-likely-jay-clayton-ai-czar-sources-say/",
+      "title": "Kim Jong Un oversees North Korea's launch of a missile that uses AI to adjust its flight path",
+      "source": "Insider Paper",
+      "url": "https://insiderpaper.com/north-koreas-kim-jong-un-oversaw-launch-of-missile-that-uses-ai/",
       "topic": "AI",
-      "reason": "Clayton, who could keep his Director of National Intelligence post while taking on the role, would fill the vacancy left by venture capitalist David Sacks and is tasked with pushing AI development even as safety concerns mount after a string of high-profile incidents."
+      "reason": "State media said the hypersonic weapon, fired from Wonsan and flying over 700km, can alter its trajectory at low altitude, though Seoul's defense ministry says the launch remained within allied detection and interception capabilities."
     },
     {
-      "title": "More than 150,000 march in Madrid as housing protests sweep over 50 Spanish cities",
+      "title": "Mass protests demanding India's election chief resign shake the country for a third day",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/3/tens-of-thousands-protest-in-spain-after-failed-housing-reforms",
-      "topic": "World",
-      "reason": "The demonstrations followed parliament's rejection of decrees that would have restricted evictions and reined in investment funds buying up housing, galvanized by the eviction of an 87-year-old Madrid tenant facing a 275% rent increase."
-    },
-    {
-      "title": "Russia strikes Kyiv's Northern Bridge, the second major bridge hit in two days",
-      "source": "U.S. News & World Report",
-      "url": "https://www.usnews.com/news/world/articles/2026-10-03/russia-strikes-kyivs-northern-bridge-in-a-new-tactic-to-disrupt-life-in-the-ukrainian-capital",
-      "topic": "World",
-      "reason": "The strike damaged the road surface and trolleybus lines a day after the Southern Bridge was hit five times in 24 hours, with officials saying the attacks are effectively cutting the capital in two and causing severe traffic congestion across the city."
-    },
-    {
-      "title": "Latvia's governing pro-Ukraine party leads a parliamentary election as populists make gains",
-      "source": "Sunday Guardian Live",
-      "url": "https://sundayguardianlive.com/world/latvia-election-2026-prime-minister-andris-kulbergs-united-list-leads-exit-polls-amid-significant-populist-gains-298149/",
+      "url": "https://www.aljazeera.com/news/2026/10/4/mass-protests-demanding-poll-chief-resignation-shake-india-for-third-day",
       "topic": "Politics",
-      "reason": "Exit polls show PM Andris Kulbergs' centrist United List ahead with 35.6%, but the MAGA-style Latvia First party's 11.3% points to a fragmented Saeima where cost-of-living anger is cutting into consensus on defense spending amid perceived Russian threats."
+      "reason": "Opposition leaders in Delhi and Mumbai accuse a voter-roll revision of disenfranchising millions of eligible voters in ways that benefit Modi's BJP, with the 'cockroach' movement that previously ousted a cabinet minister now joining the push to remove commissioner Gyanesh Kumar."
     },
     {
-      "title": "Google tests a 'Full Access' permission that would let Gemini Desktop control any file or app",
-      "source": "TestingCatalog",
-      "url": "https://www.testingcatalog.com/gemini-desktop-to-get-broader-computer-use-permissions/",
-      "topic": "AI",
-      "reason": "The setting, spotted in testing, would let Gemini read, modify or delete files anywhere on a Mac and act through other apps without per-action approval, though it would still ask before purchases, account creation or changes to sensitive settings."
-    },
-    {
-      "title": "Egypt to host a four-way summit with Eritrea, Somalia and Sudan as Horn of Africa tensions rise",
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665076/world/egypt-to-host-four-way-summit-with-eritrea-somalia-and-sudan",
-      "topic": "World",
-      "reason": "El-Sisi will host Eritrean, Somali and Sudanese leaders in New Alamein days after Eritrea and Ethiopia severed diplomatic ties, with the talks centered on sovereignty, territorial integrity and Red Sea security as the region's conflicts increasingly intersect."
-    },
-    {
-      "title": "Nigeria's private sector posts its strongest growth in more than four years",
-      "source": "Leadership",
-      "url": "https://leadership.ng/private-sector-growth-hits-4-year-high-as-pmi-rises-to-56-4-in-september/",
+      "title": "Micron's revenue nearly quadruples as the memory chipmaker's market cap tops $1 trillion",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/30/micron-mu-q4-earnings-report-2026.html",
       "topic": "Economy",
-      "reason": "The PMI climbed to 56.4 in September from 54.3, with new orders and output rising at the fastest pace since February 2022 even as input costs accelerated to a three-month high on higher fuel and food prices."
+      "reason": "Fiscal fourth-quarter revenue hit $54.23 billion on a 343% jump in DRAM sales, and guidance for the current quarter came in well above estimates, underscoring how AI-driven memory demand is reshaping the chip industry's biggest winners."
     },
     {
-      "title": "Meta open-sources 'Muse Gadgets' so developers can build their own hardware for its AI assistant",
-      "source": "iPhone in Canada",
-      "url": "https://www.iphoneincanada.ca/2026/10/02/metas-muse-lets-you-build-your-own-ai-gadgets/",
+      "title": "Families of two Fox News journalists killed in Ukraine sue the network over their deaths",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/10/04/nx-s1-5987973/families-of-journalists-killed-in-ukraine-sue-fox-news-for-failing-to-keep-them-safe",
+      "topic": "Politics",
+      "reason": "The suits allege Fox and a star correspondent ignored repeated security warnings before a 2022 attack near Kyiv killed Oleksandra Kuvshynova and cameraman Pierre Zakrzewski, reopening scrutiny of how networks weigh ambition against journalists' safety in war zones."
+    },
+    {
+      "title": "Yemen's army says it killed 700 Houthis in 24 hours as the group claims a strike on an Aramco site",
+      "source": "The National",
+      "url": "https://www.thenationalnews.com/news/gulf/2026/10/04/yemen-government-forces-strike-sanaa-and-saada-as-houthis-claim-aramco-attack/",
+      "topic": "World",
+      "reason": "Saudi-backed Yemeni forces say hundreds of strikes hit Houthi positions across Sanaa, Saada and several other fronts, while the Saudi-led coalition dismissed the Houthis' claimed Riyadh-area Aramco strike as a 'misleading' bid to offset their losses."
+    },
+    {
+      "title": "Spanish police clear a 3,000-person migrant camp on a Ceuta beach ahead of a royal visit",
+      "source": "The Olive Press",
+      "url": "https://www.theolivepress.es/spain-news/2026/10/04/ceuta-migrant-beach-camp-king-felipe/",
+      "topic": "World",
+      "reason": "Some 350 officers began dismantling the tent settlement that formed after more than 70,000 people crossed from Morocco in July, with the operation's timing tied to King Felipe and Queen Letizia's first visit to the enclave in his 12-year reign."
+    },
+    {
+      "title": "SpaceX's IPO filing reveals Anthropic could pay up to $84.5 billion to rent xAI's data center capacity",
+      "source": "Data Center Dynamics",
+      "url": "https://www.datacenterdynamics.com/en/news/spacex-ipo-filing-reveals-anthropic-set-to-pay-musks-firm-125bn-a-month-to-rent-xai-data-center-space/",
       "topic": "AI",
-      "reason": "The released ESP32 firmware and Linux SDK let makers embed Muse into custom displays, sensors and controls, while a companion USB-C 'Home Link' device, shipping free to 5,000 subscribers, lets the assistant reach smart-home gear over a local network."
+      "reason": "The disclosed deal has Anthropic paying $1.25 billion a month for over 300 megawatts of compute through 2029, though most of the commitment can be canceled on 90 days' notice, as Anthropic's infrastructure spending plans reach into the hundreds of billions."
+    },
+    {
+      "title": "Meta publishes six math papers co-written with its Muse Spark AI, five solving previously open problems",
+      "source": "Runtimewire",
+      "url": "https://runtimewire.com/article/meta-muse-spark-six-mathematics-research-papers",
+      "topic": "AI",
+      "reason": "Mathematicians used the model's 'Thinking Mode' through an ordinary chat interface, with no custom scaffolding, to help settle questions spanning probability, PDEs and group theory, including a counterexample that resolved a 2024 conjecture."
     }
   ]
 }
