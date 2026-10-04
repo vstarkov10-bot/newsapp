@@ -1,61 +1,61 @@
 {
-  "generatedAt": "2026-10-03T04:20:00Z",
+  "generatedAt": "2026-10-04T04:20:00Z",
   "stories": [
     {
-      "title": "Protests shutter hundreds of French schools as clashes with police turn violent",
+      "title": "Brazil votes in a tight first-round presidential election between Lula and Flavio Bolsonaro",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/2/protests-shutter-hundreds-of-french-schools-as-violence-flares",
-      "topic": "World",
-      "reason": "About 400 of France's 3,700 high schools closed and nearly 2,000 people have been arrested since the movement began over teacher shortages and overcrowded classrooms, with two Paris schools set ablaze, adding pressure on Macron's government as it also faces a public-sector budget strike."
-    },
-    {
-      "title": "Personal data leaked at three more South Korean banks as AI-powered hacking spreads",
-      "source": "The Korea Times",
-      "url": "https://www.koreatimes.co.kr/business/banking-finance/20261002/shinhan-kb-kookmin-data-breaches-raise-concerns-over-ai-powered-cyberattacks",
-      "topic": "AI",
-      "reason": "Following Shinhan Bank's breach of roughly 25,000 customers' data via AI tools that probed a loan service for vulnerabilities, KB Kookmin, Hana and Busan banks have now also disclosed leaks, prompting emergency inspections across the country's financial sector."
-    },
-    {
-      "title": "Supreme Court's new term opens with a win for Trump on voter verification and a deportation case ahead",
-      "source": "NBC News",
-      "url": "https://www.nbcnews.com/politics/supreme-court/trump-clashes-ahead-new-supreme-court-term-begins-rcna600256",
+      "url": "https://www.aljazeera.com/news/2026/10/3/what-to-know-about-brazils-2026-presidential-election",
       "topic": "Politics",
-      "reason": "The justices let the administration use a modified citizenship-verification database ahead of the midterms over three liberal justices' dissent, and will hear arguments in December on Trump's policy of deporting migrants to third countries, in a term already lined up with major immigration fights."
+      "reason": "Polls show the incumbent and Senator Flavio Bolsonaro in a virtual tie for Latin America's largest democracy, with a runoff on October 25 likely if neither wins a majority outright, in a vote shadowed by corruption concerns and US-China rivalry over Brazil's economy."
     },
     {
-      "title": "Trump says a $8.4 billion oil project is part of the South Korea deal; Seoul says it never agreed to that",
-      "source": "The Korea Herald",
-      "url": "https://www.koreaherald.com/article/10892345",
+      "title": "G7 nations agree to release 100 million barrels of oil and diesel to curb soaring fuel prices",
+      "source": "The National",
+      "url": "https://www.thenationalnews.com/business/energy/2026/10/02/g7-members-agree-to-release-100-million-barrels-of-diesel-and-other-reserves/",
       "topic": "Economy",
-      "reason": "Trump posted that an enhanced-oil-recovery project is included in this week's $200 billion investment package and threatened to double costs elsewhere if Seoul balks, but South Korea's industry ministry says the project was never part of what the two sides actually agreed."
+      "reason": "The release, front-loaded with diesel within 20 days after US pressure on Europe, comes as fuel prices hit records and the G7 also pledged not to impose export restrictions on energy products amid the ongoing Middle East conflict's pressure on markets."
     },
     {
-      "title": "A Russian fighter jet reportedly shoots down its own helicopter in a friendly-fire incident, killing three",
-      "source": "Kyiv Independent",
-      "url": "https://kyivindependent.com/russian-mi-8-helicopter-reportedly-shot-down-in-friendly-fire-incident-over-voronezh-oblast/",
+      "title": "Trump announces one-time $90 Medicare payments for more than 20 million seniors",
+      "source": "The Hill",
+      "url": "https://thehill.com/homenews/administration/6127480-seniors-medicare-improvement-fund-checks/",
+      "topic": "Economy",
+      "reason": "Funded through the Medicare Improvement Fund, the payments aim to offset Part B premiums ahead of November's midterms, though they exclude enrollees whose premiums are already paid by Medicaid or who pay income-related surcharges."
+    },
+    {
+      "title": "Gunmen kidnap 20 NYSC corps members in Nigeria, demand nearly $600,000 in ransom",
+      "source": "Channels Television",
+      "url": "https://www.channelstv.com/2026/10/01/gunmen-abduct-20-corps-members-in-imo/",
       "topic": "World",
-      "reason": "A Su-35 crew mistook a Russian Mi-8 for a Ukrainian drone and opened fire over Voronezh Oblast, killing the pilot, navigator and gunner, according to Russian and Ukrainian Telegram channels that Russian authorities have not officially confirmed."
+      "reason": "The graduates were abducted from buses along the Owerri-Onitsha Road while traveling to orientation camps, and police say 10 have been rescued so far as a senior officer leads the search for the rest amid a ₦950 million ransom demand."
     },
     {
-      "title": "Google's Project Suncatcher satellite reaches orbit in its first physical step toward space-based AI data centers",
-      "source": "The Register",
-      "url": "https://www.theregister.com/systems/2026/10/02/google-launches-first-datacenter-satellite-and-research-that-finds-orbiting-bit-barns-can-work/",
-      "topic": "AI",
-      "reason": "The prototype, carrying four Trillium TPUs, launched aboard a SpaceX Falcon 9 and will spend its mission gauging how the chips handle radiation and thermal extremes, an early hardware test rather than an operational data center."
+      "title": "Malaysia repatriates nearly 1,500 Myanmar migrants despite UN safety warnings",
+      "source": "The Jakarta Post",
+      "url": "https://www.thejakartapost.com/world/2026/10/04/myanmar-migrants-returned-to-war-torn-nation-from-malaysia",
+      "topic": "World",
+      "reason": "The group is the first of 5,000 Myanmar nationals Kuala Lumpur plans to send back under a deal it calls voluntary, but the UN says conditions in Myanmar's ongoing civil war mean safe return cannot be guaranteed, with fears some returnees could be conscripted."
     },
     {
-      "title": "Tesla cuts planned memory on its AI5 and AI6 chips to speed up Optimus robot production",
-      "source": "Tesla North",
-      "url": "https://teslanorth.com/2026/10/01/tesla-ai5-ai6-ram-cut/",
-      "topic": "AI",
-      "reason": "Musk said the AI5 chip will now ship with 72GB of RAM and AI6 with 144GB, cuts driven by memory supply constraints that he says won't meaningfully affect Optimus performance since bandwidth, not capacity, was the real bottleneck."
+      "title": "Iran executes a man detained during January's anti-government protests",
+      "source": "CP24",
+      "url": "https://www.cp24.com/news/world/2026/10/03/iran-executes-detainee-over-january-protests-judiciary-says/",
+      "topic": "Politics",
+      "reason": "The judiciary accused Siavash Jamshidi Kheirabadi of firing on police during the unrest that erupted over economic hardship and swelled into calls to end clerical rule, with Tehran again blaming foreign-backed operatives for the violence."
     },
     {
-      "title": "Microsoft unveils a real-time transcription model that tops independent accuracy rankings",
-      "source": "Seeking Alpha",
-      "url": "https://seekingalpha.com/news/4649242-microsoft-unveils-new-transcription-voice-models",
+      "title": "Apple Pay launches in India, starting with Axis Bank credit cards",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/29/apple-pay-set-to-launch-in-india-with-axis-bank-today-sources-say/",
+      "topic": "Tech",
+      "reason": "The service arrives in one of the world's biggest smartphone markets after years on the sidelines, though it launches without UPI or RuPay support and with HDFC, ICICI and SBI Card still negotiating terms to join."
+    },
+    {
+      "title": "Meta expands its Muse AI agent to 200 million small businesses on its platform",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/29/meta-is-bringing-muse-ai-to-small-businesses-and-it-already-has-a-huge-head-start.html",
       "topic": "AI",
-      "reason": "MAI-Transcribe-2-Streaming ranked first among 38 models on Artificial Analysis for both accuracy and latency, launching alongside two new voice-generation models as Microsoft pushes further into the voice AI tools market OpenAI and Google also compete in."
+      "reason": "Muse for Small Business connects to QuickBooks, Shopify, Stripe and other tools to automate customer messaging, cash flow and marketing, with analysts estimating the push could generate billions in subscription revenue if adoption follows Meta's consumer rollout."
     }
   ]
 }
