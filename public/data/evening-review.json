@@ -1,61 +1,61 @@
 {
-  "generatedAt": "2026-10-04T19:25:00Z",
+  "generatedAt": "2026-10-05T19:25:00Z",
   "stories": [
     {
-      "title": "Kim Jong Un oversees North Korea's launch of a missile that uses AI to adjust its flight path",
-      "source": "Insider Paper",
-      "url": "https://insiderpaper.com/north-koreas-kim-jong-un-oversaw-launch-of-missile-that-uses-ai/",
-      "topic": "AI",
-      "reason": "State media said the hypersonic weapon, fired from Wonsan and flying over 700km, can alter its trajectory at low altitude, though Seoul's defense ministry says the launch remained within allied detection and interception capabilities."
+      "title": "Nobel Prize in Medicine awarded for discoveries behind optogenetics",
+      "source": "Scientific American",
+      "url": "https://www.scientificamerican.com/article/2026-nobel-prize-in-physiology-or-medicine-awarded-to-karl-deisseroth-george-nagel-and-peter-hegemann-for-work-on-optogenetics/",
+      "topic": "World",
+      "reason": "Karl Deisseroth, Peter Hegemann and Georg Nagel were honored for turning a light-sensitive algal protein into a tool that can switch individual nerve cells on or off in living brains, a technique now central to neuroscience research worldwide."
     },
     {
-      "title": "Mass protests demanding India's election chief resign shake the country for a third day",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/4/mass-protests-demanding-poll-chief-resignation-shake-india-for-third-day",
+      "title": "Spain's Sanchez calls a snap election for November 29 after his housing decrees are voted down",
+      "source": "Euronews",
+      "url": "https://www.euronews.com/2026/10/05/pedro-sanchez-calls-early-elections-in-spain-after-defeat-of-housing-decrees",
       "topic": "Politics",
-      "reason": "Opposition leaders in Delhi and Mumbai accuse a voter-roll revision of disenfranchising millions of eligible voters in ways that benefit Modi's BJP, with the 'cockroach' movement that previously ousted a cabinet minister now joining the push to remove commissioner Gyanesh Kumar."
+      "reason": "Congress's rejection of measures meant to restrict evictions and rein in investment funds, following weeks of nationwide housing protests, leaves Sanchez facing voters while his Socialist Party trails in the polls."
     },
     {
-      "title": "Micron's revenue nearly quadruples as the memory chipmaker's market cap tops $1 trillion",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/30/micron-mu-q4-earnings-report-2026.html",
+      "title": "Schneider Electric agrees to buy industrial software firm PTC for $22.6 billion",
+      "source": "Silicon Republic",
+      "url": "https://www.siliconrepublic.com/business/schneider-electric-to-acquire-ptc-for-22-6bn-ai",
       "topic": "Economy",
-      "reason": "Fiscal fourth-quarter revenue hit $54.23 billion on a 343% jump in DRAM sales, and guidance for the current quarter came in well above estimates, underscoring how AI-driven memory demand is reshaping the chip industry's biggest winners."
+      "reason": "The all-cash deal, Schneider's largest ever, pays a 42% premium for PTC and aims to fuse industrial design and control software with AI, as the French conglomerate races to capture the same industrial-AI wave reshaping its rivals."
     },
     {
-      "title": "Families of two Fox News journalists killed in Ukraine sue the network over their deaths",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/10/04/nx-s1-5987973/families-of-journalists-killed-in-ukraine-sue-fox-news-for-failing-to-keep-them-safe",
+      "title": "Foxconn's quarterly revenue jumps 47% to a record on surging AI server demand",
+      "source": "GuruFocus",
+      "url": "https://www.gurufocus.com/news/9109148/foxconn-fxcof-reports-47-q3-revenue-surge-driven-by-ai-demand",
+      "topic": "Economy",
+      "reason": "Revenue hit $95.4 billion, well above estimates, with September alone crossing T$1 trillion for the first time as Nvidia's largest server assembler said it expects AI server rack shipments to more than double for the full year."
+    },
+    {
+      "title": "OpenAI starts testing visual ads inside ChatGPT's image generator",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/",
+      "topic": "AI",
+      "reason": "The labeled ads will target free users among ChatGPT's 1.2 billion weekly users starting this month in the US, marking OpenAI's clearest move yet toward advertising revenue to offset its enormous computing costs."
+    },
+    {
+      "title": "China's top AI models close the performance gap with the US to a record-low 3%",
+      "source": "Implicator.ai",
+      "url": "https://www.implicator.ai/deepseek-us-ai-benchmark-gap-3-percent/",
+      "topic": "AI",
+      "reason": "DeepSeek's V4.1 Flash scored within striking distance of Anthropic's leading model on LiveBench, down from a 15% gap earlier this year, even as Chinese labs' price wars are expected to delay industry profitability until at least 2030."
+    },
+    {
+      "title": "Huawei and Qualcomm sign a multi-year patent deal covering 5G, AI and computing",
+      "source": "Unite.AI",
+      "url": "https://www.unite.ai/huawei-qualcomm-enter-multi-year-patent-license-deal-for-5g-ai/",
+      "topic": "Tech",
+      "reason": "The agreement marks the first time Qualcomm has agreed to pay for Huawei's patents, a reversal from their historical rivalry, with Huawei saying it will push the total value of its licensing deals past $6.9 billion."
+    },
+    {
+      "title": "Iran's Revolutionary Guard warns it will strike US bases and warships if a ground invasion begins",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2633069/iran-threatens-to-target-us-bases-warships-if-washington-launches-ground-invasion",
       "topic": "Politics",
-      "reason": "The suits allege Fox and a star correspondent ignored repeated security warnings before a 2022 attack near Kyiv killed Oleksandra Kuvshynova and cameraman Pierre Zakrzewski, reopening scrutiny of how networks weigh ambition against journalists' safety in war zones."
-    },
-    {
-      "title": "Yemen's army says it killed 700 Houthis in 24 hours as the group claims a strike on an Aramco site",
-      "source": "The National",
-      "url": "https://www.thenationalnews.com/news/gulf/2026/10/04/yemen-government-forces-strike-sanaa-and-saada-as-houthis-claim-aramco-attack/",
-      "topic": "World",
-      "reason": "Saudi-backed Yemeni forces say hundreds of strikes hit Houthi positions across Sanaa, Saada and several other fronts, while the Saudi-led coalition dismissed the Houthis' claimed Riyadh-area Aramco strike as a 'misleading' bid to offset their losses."
-    },
-    {
-      "title": "Spanish police clear a 3,000-person migrant camp on a Ceuta beach ahead of a royal visit",
-      "source": "The Olive Press",
-      "url": "https://www.theolivepress.es/spain-news/2026/10/04/ceuta-migrant-beach-camp-king-felipe/",
-      "topic": "World",
-      "reason": "Some 350 officers began dismantling the tent settlement that formed after more than 70,000 people crossed from Morocco in July, with the operation's timing tied to King Felipe and Queen Letizia's first visit to the enclave in his 12-year reign."
-    },
-    {
-      "title": "SpaceX's IPO filing reveals Anthropic could pay up to $84.5 billion to rent xAI's data center capacity",
-      "source": "Data Center Dynamics",
-      "url": "https://www.datacenterdynamics.com/en/news/spacex-ipo-filing-reveals-anthropic-set-to-pay-musks-firm-125bn-a-month-to-rent-xai-data-center-space/",
-      "topic": "AI",
-      "reason": "The disclosed deal has Anthropic paying $1.25 billion a month for over 300 megawatts of compute through 2029, though most of the commitment can be canceled on 90 days' notice, as Anthropic's infrastructure spending plans reach into the hundreds of billions."
-    },
-    {
-      "title": "Meta publishes six math papers co-written with its Muse Spark AI, five solving previously open problems",
-      "source": "Runtimewire",
-      "url": "https://runtimewire.com/article/meta-muse-spark-six-mathematics-research-papers",
-      "topic": "AI",
-      "reason": "Mathematicians used the model's 'Thinking Mode' through an ordinary chat interface, with no custom scaffolding, to help settle questions spanning probability, PDEs and group theory, including a counterexample that resolved a 2024 conjecture."
+      "reason": "IRGC adviser Ali Fadavi's warning comes as the US continues massing carrier and amphibious forces in the region, underscoring how a ground invasion remains the clearest redline in the ongoing standoff."
     }
   ]
 }
