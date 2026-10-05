@@ -1,61 +1,61 @@
 {
-  "generatedAt": "2026-10-04T04:20:00Z",
+  "generatedAt": "2026-10-05T04:20:00Z",
   "stories": [
     {
-      "title": "Brazil votes in a tight first-round presidential election between Lula and Flavio Bolsonaro",
+      "title": "Brazil's election heads to a runoff as Flavio Bolsonaro edges Lula in the first round",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/10/04/nx-s1-5981181/brazil-presidential-lula-bolsonaro",
+      "topic": "Politics",
+      "reason": "With 99.96% of polling stations counted, Bolsonaro took 47.04% to Lula's 45.15%, a gap of about 2.25 million votes, setting up an October 25 runoff that will test whether the president can win a fourth term against the resurgent Bolsonaro movement."
+    },
+    {
+      "title": "Congo's Ebola death toll passes 4,000 in what officials call the fastest-growing outbreak in history",
+      "source": "ABC News",
+      "url": "https://abcnews.com/Health/wireStory/congos-ebola-outbreak-recorded-4000-deaths-authorities-struggle-136943057",
+      "topic": "World",
+      "reason": "Among roughly 8,300 cases since May, an Ebola treatment center was burned down and at least 50 health workers have died, with North Kivu now accounting for nearly 40% of new cases as the outbreak threatens to surpass West Africa's 2014-16 epidemic."
+    },
+    {
+      "title": "The US withdraws all its B-1 bombers from a UK air base after a suspected Iran-linked terror plot",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/3/what-to-know-about-brazils-2026-presidential-election",
-      "topic": "Politics",
-      "reason": "Polls show the incumbent and Senator Flavio Bolsonaro in a virtual tie for Latin America's largest democracy, with a runoff on October 25 likely if neither wins a majority outright, in a vote shadowed by corruption concerns and US-China rivalry over Brazil's economy."
-    },
-    {
-      "title": "G7 nations agree to release 100 million barrels of oil and diesel to curb soaring fuel prices",
-      "source": "The National",
-      "url": "https://www.thenationalnews.com/business/energy/2026/10/02/g7-members-agree-to-release-100-million-barrels-of-diesel-and-other-reserves/",
-      "topic": "Economy",
-      "reason": "The release, front-loaded with diesel within 20 days after US pressure on Europe, comes as fuel prices hit records and the G7 also pledged not to impose export restrictions on energy products amid the ongoing Middle East conflict's pressure on markets."
-    },
-    {
-      "title": "Trump announces one-time $90 Medicare payments for more than 20 million seniors",
-      "source": "The Hill",
-      "url": "https://thehill.com/homenews/administration/6127480-seniors-medicare-improvement-fund-checks/",
-      "topic": "Economy",
-      "reason": "Funded through the Medicare Improvement Fund, the payments aim to offset Part B premiums ahead of November's midterms, though they exclude enrollees whose premiums are already paid by Medicaid or who pay income-related surcharges."
-    },
-    {
-      "title": "Gunmen kidnap 20 NYSC corps members in Nigeria, demand nearly $600,000 in ransom",
-      "source": "Channels Television",
-      "url": "https://www.channelstv.com/2026/10/01/gunmen-abduct-20-corps-members-in-imo/",
+      "url": "https://www.aljazeera.com/news/2026/10/4/us-withdraws-b-1-bomber-aircraft-from-uks-fairford-base-amid-iran-fears",
       "topic": "World",
-      "reason": "The graduates were abducted from buses along the Owerri-Onitsha Road while traveling to orientation camps, and police say 10 have been rescued so far as a senior officer leads the search for the rest amid a ₦950 million ransom demand."
+      "reason": "All 12 bombers left RAF Fairford a week after several men, including a UK-Iranian dual national, were arrested over a suspected plot targeting the base, which UK officials say shows 'strong indications' of Iranian involvement that Tehran denies."
     },
     {
-      "title": "Malaysia repatriates nearly 1,500 Myanmar migrants despite UN safety warnings",
-      "source": "The Jakarta Post",
-      "url": "https://www.thejakartapost.com/world/2026/10/04/myanmar-migrants-returned-to-war-torn-nation-from-malaysia",
-      "topic": "World",
-      "reason": "The group is the first of 5,000 Myanmar nationals Kuala Lumpur plans to send back under a deal it calls voluntary, but the UN says conditions in Myanmar's ongoing civil war mean safe return cannot be guaranteed, with fears some returnees could be conscripted."
-    },
-    {
-      "title": "Iran executes a man detained during January's anti-government protests",
-      "source": "CP24",
-      "url": "https://www.cp24.com/news/world/2026/10/03/iran-executes-detainee-over-january-protests-judiciary-says/",
-      "topic": "Politics",
-      "reason": "The judiciary accused Siavash Jamshidi Kheirabadi of firing on police during the unrest that erupted over economic hardship and swelled into calls to end clerical rule, with Tehran again blaming foreign-backed operatives for the violence."
-    },
-    {
-      "title": "Apple Pay launches in India, starting with Axis Bank credit cards",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/29/apple-pay-set-to-launch-in-india-with-axis-bank-today-sources-say/",
-      "topic": "Tech",
-      "reason": "The service arrives in one of the world's biggest smartphone markets after years on the sidelines, though it launches without UPI or RuPay support and with HDFC, ICICI and SBI Card still negotiating terms to join."
-    },
-    {
-      "title": "Meta expands its Muse AI agent to 200 million small businesses on its platform",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/29/meta-is-bringing-muse-ai-to-small-businesses-and-it-already-has-a-huge-head-start.html",
+      "title": "Trump names four officials to lead a new 'Super Intelligence Force' on AI policy",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/ai-super-intelligence-force-trump-jay-clayton/",
       "topic": "AI",
-      "reason": "Muse for Small Business connects to QuickBooks, Shopify, Stripe and other tools to automate customer messaging, cash flow and marketing, with analysts estimating the push could generate billions in subscription revenue if adoption follows Meta's consumer rollout."
+      "reason": "DNI Jay Clayton will chair the group alongside FTC Chair Andrew Ferguson, Pentagon tech official Emil Michael and OPM Director Scott Kupor, tasked with coordinating the government's engagement with AI companies and the public as safety concerns mount."
+    },
+    {
+      "title": "Ethiopian federal forces retake Mekelle airport from Tigrayan fighters, residents say",
+      "source": "KSAT (AP)",
+      "url": "https://www.ksat.com/business/2026/10/03/ethiopian-federal-forces-retake-mekelle-airport-from-tigrayan-fighters-residents-say/",
+      "topic": "World",
+      "reason": "TPLF fighters had seized the airport on September 23, halting commercial flights, and the reported recapture comes as renewed fighting undermines the 2022 Pretoria peace deal and coincides with Ethiopia's diplomatic rupture with Eritrea."
+    },
+    {
+      "title": "Bosnian Serb leader Dodik's party holds its grip on Republika Srpska in a vote with EU stakes",
+      "source": "U.S. News & World Report",
+      "url": "https://www.usnews.com/news/world/articles/2026-10-04/bosnia-votes-sunday-in-election-that-could-affect-eu-bid",
+      "topic": "Politics",
+      "reason": "Preliminary results show Dodik's SNSD ally Zeljka Cvijanovic leading the Serb seat on Bosnia's tripartite presidency, a result that could further complicate the country's stalled EU membership bid amid competing Russian and Western influence."
+    },
+    {
+      "title": "Micron extends its AI memory demand forecast to 2031 as customers lock in longer supply deals",
+      "source": "The Motley Fool",
+      "url": "https://www.fool.com/investing/2026/10/03/micron-just-extended-the-ai-build-out-to-2031-its/",
+      "topic": "Economy",
+      "reason": "The chipmaker has now signed 26 multiyear strategic customer agreements, up from 16 in June, covering more than 35% of its revenue through 2030, as it warns supply will stay tighter than demand through 2027 and 2028."
+    },
+    {
+      "title": "A highway crash in Kenya kills at least 17 people, most of them Catholic pilgrims",
+      "source": "Courthouse News",
+      "url": "https://www.courthousenews.com/a-road-crash-on-a-highway-in-kenya-killed-at-least-17-people-most-of-them-catholic-pilgrims/",
+      "topic": "World",
+      "reason": "A truck's failed overtaking maneuver caused a multi-vehicle collision near Salama, about 90km southeast of Nairobi, striking a minibus of pilgrims headed to a prayer site in Nakuru County, prompting President Ruto to offer condolences."
     }
   ]
 }
