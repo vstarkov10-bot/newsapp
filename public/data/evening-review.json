@@ -1,61 +1,61 @@
 {
-  "generatedAt": "2026-10-05T19:25:00Z",
+  "generatedAt": "2026-10-06T19:25:00Z",
   "stories": [
     {
-      "title": "Nobel Prize in Medicine awarded for discoveries behind optogenetics",
-      "source": "Scientific American",
-      "url": "https://www.scientificamerican.com/article/2026-nobel-prize-in-physiology-or-medicine-awarded-to-karl-deisseroth-george-nagel-and-peter-hegemann-for-work-on-optogenetics/",
+      "title": "Germany arrests a former spy chief on suspicion of treason and passing state secrets to a foreign power",
+      "source": "ABC News",
+      "url": "https://abcnews.com/International/wireStory/spy-chief-arrested-germany-suspicion-trading-state-secrets-137025370",
+      "topic": "Politics",
+      "reason": "August Hanning, 80, who led Germany's BND foreign intelligence service from 1998 to 2005, is accused alongside a former aide of arranging in 2010 to have intelligence funneled to him in exchange for payment, in what could be the agency's worst breach since the Cold War."
+    },
+    {
+      "title": "A Siberian lab worker dies of suspected pneumonic plague, prompting WHO and US monitoring",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/5/russian-lab-worker-dies-of-suspected-plague-in-siberia-us-monitoring-case",
       "topic": "World",
-      "reason": "Karl Deisseroth, Peter Hegemann and Georg Nagel were honored for turning a light-sensitive algal protein into a tool that can switch individual nerve cells on or off in living brains, a technique now central to neuroscience research worldwide."
+      "reason": "Nearly 200 people are under observation in Irkutsk after the 28-year-old technician died following hospitalization, though Russian authorities have told the WHO no further plague cases have been detected and dispute accounts that she was exposed to live bacteria at the institute."
     },
     {
-      "title": "Spain's Sanchez calls a snap election for November 29 after his housing decrees are voted down",
-      "source": "Euronews",
-      "url": "https://www.euronews.com/2026/10/05/pedro-sanchez-calls-early-elections-in-spain-after-defeat-of-housing-decrees",
-      "topic": "Politics",
-      "reason": "Congress's rejection of measures meant to restrict evictions and rein in investment funds, following weeks of nationwide housing protests, leaves Sanchez facing voters while his Socialist Party trails in the polls."
-    },
-    {
-      "title": "Schneider Electric agrees to buy industrial software firm PTC for $22.6 billion",
-      "source": "Silicon Republic",
-      "url": "https://www.siliconrepublic.com/business/schneider-electric-to-acquire-ptc-for-22-6bn-ai",
-      "topic": "Economy",
-      "reason": "The all-cash deal, Schneider's largest ever, pays a 42% premium for PTC and aims to fuse industrial design and control software with AI, as the French conglomerate races to capture the same industrial-AI wave reshaping its rivals."
-    },
-    {
-      "title": "Foxconn's quarterly revenue jumps 47% to a record on surging AI server demand",
+      "title": "Nvidia closes in on becoming the first company ever worth $6 trillion",
       "source": "GuruFocus",
-      "url": "https://www.gurufocus.com/news/9109148/foxconn-fxcof-reports-47-q3-revenue-surge-driven-by-ai-demand",
+      "url": "https://www.gurufocus.com/news/9111014/nvidia-nvda-nears-historic-6-trillion-market-cap-amid-strong-gf-value-undervaluation",
       "topic": "Economy",
-      "reason": "Revenue hit $95.4 billion, well above estimates, with September alone crossing T$1 trillion for the first time as Nvidia's largest server assembler said it expects AI server rack shipments to more than double for the full year."
+      "reason": "The chipmaker's stock is up 30% this year, adding $1.3 trillion in value, with options traders pricing roughly even odds it crosses the threshold by month's end on continued confidence in AI infrastructure demand."
     },
     {
-      "title": "OpenAI starts testing visual ads inside ChatGPT's image generator",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/",
-      "topic": "AI",
-      "reason": "The labeled ads will target free users among ChatGPT's 1.2 billion weekly users starting this month in the US, marking OpenAI's clearest move yet toward advertising revenue to offset its enormous computing costs."
+      "title": "Brazil's stock market posts its biggest rally since 2020 after Bolsonaro's first-round election lead",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/live-news/20261005-brazilian-stocks-surge-to-record-after-bolsonaro-election-lead",
+      "topic": "Economy",
+      "reason": "The Bovespa jumped 7.7% to a record close and the real strengthened more than 4% against the dollar after Flavio Bolsonaro's 47.03%-to-45.16% lead over Lula, as investors bet on a market-friendlier outcome in the October 25 runoff."
     },
     {
-      "title": "China's top AI models close the performance gap with the US to a record-low 3%",
-      "source": "Implicator.ai",
-      "url": "https://www.implicator.ai/deepseek-us-ai-benchmark-gap-3-percent/",
-      "topic": "AI",
-      "reason": "DeepSeek's V4.1 Flash scored within striking distance of Anthropic's leading model on LiveBench, down from a 15% gap earlier this year, even as Chinese labs' price wars are expected to delay industry profitability until at least 2030."
+      "title": "Google signs a 3.6-gigawatt power deal with Constellation Energy to feed its AI data centers",
+      "source": "The Edge Malaysia",
+      "url": "https://theedgemalaysia.com/node/820651",
+      "topic": "Economy",
+      "reason": "The agreement ranks among the largest corporate electricity procurements ever struck in the US, underscoring how the energy demands of AI infrastructure are reshaping power markets and reviving interest in nuclear generation capacity."
     },
     {
-      "title": "Huawei and Qualcomm sign a multi-year patent deal covering 5G, AI and computing",
-      "source": "Unite.AI",
-      "url": "https://www.unite.ai/huawei-qualcomm-enter-multi-year-patent-license-deal-for-5g-ai/",
-      "topic": "Tech",
-      "reason": "The agreement marks the first time Qualcomm has agreed to pay for Huawei's patents, a reversal from their historical rivalry, with Huawei saying it will push the total value of its licensing deals past $6.9 billion."
+      "title": "Francis Halzen wins the Nobel Prize in Physics for detecting cosmic 'ghost particles'",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/10/06/g-s1-146622/nobel-prize-physics",
+      "topic": "World",
+      "reason": "Halzen's decades-long vision for the IceCube Neutrino Observatory, which uses light sensors buried in a cubic kilometer of Antarctic ice, enabled the discovery of high-energy neutrinos from beyond our galaxy and opened a new kind of astronomy."
     },
     {
-      "title": "Iran's Revolutionary Guard warns it will strike US bases and warships if a ground invasion begins",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2633069/iran-threatens-to-target-us-bases-warships-if-washington-launches-ground-invasion",
+      "title": "France suspends high school classes nationwide as protests draw 256,000 people and over 6,100 arrests",
+      "source": "U.S. News & World Report",
+      "url": "https://www.usnews.com/news/world/articles/2026-10-06/france-braces-for-day-of-school-blockades-and-street-protests",
       "topic": "Politics",
-      "reason": "IRGC adviser Ali Fadavi's warning comes as the US continues massing carrier and amphibious forces in the region, underscoring how a ground invasion remains the clearest redline in the ongoing standoff."
+      "reason": "Nearly 2,000 high schools were blockaded on the biggest day yet of a three-week movement over understaffed, overcrowded and dilapidated classrooms, prompting PM Lecornu to suspend classes for the rest of the week as police tactics draw scrutiny."
+    },
+    {
+      "title": "DeepSeek nears a $12-15 billion funding round as it builds toward a possible 2027 IPO",
+      "source": "Nairametrics",
+      "url": "https://nairametrics.com/2026/10/06/deepseek-nears-12-billion-funding-as-investors-bet-big-on-ai/",
+      "topic": "AI",
+      "reason": "Interest in the round exceeded the Chinese AI lab's original $7.4 billion target after its latest model drew strong demand, with backers including Tencent and CATL pushing the deal toward a valuation well above its roughly $74 billion prior mark."
     }
   ]
 }
