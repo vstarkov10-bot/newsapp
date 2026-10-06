@@ -1,61 +1,61 @@
 {
-  "generatedAt": "2026-10-05T04:20:00Z",
+  "generatedAt": "2026-10-06T04:20:00Z",
   "stories": [
     {
-      "title": "Brazil's election heads to a runoff as Flavio Bolsonaro edges Lula in the first round",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/10/04/nx-s1-5981181/brazil-presidential-lula-bolsonaro",
-      "topic": "Politics",
-      "reason": "With 99.96% of polling stations counted, Bolsonaro took 47.04% to Lula's 45.15%, a gap of about 2.25 million votes, setting up an October 25 runoff that will test whether the president can win a fourth term against the resurgent Bolsonaro movement."
-    },
-    {
-      "title": "Congo's Ebola death toll passes 4,000 in what officials call the fastest-growing outbreak in history",
-      "source": "ABC News",
-      "url": "https://abcnews.com/Health/wireStory/congos-ebola-outbreak-recorded-4000-deaths-authorities-struggle-136943057",
+      "title": "Nigerian military plane crash kills 32, prompting a three-day national mourning",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/10/crash-tinubu-declares-three-day-mourning-for-air-force-personnel/",
       "topic": "World",
-      "reason": "Among roughly 8,300 cases since May, an Ebola treatment center was burned down and at least 50 health workers have died, with North Kivu now accounting for nearly 40% of new cases as the outbreak threatens to surpass West Africa's 2014-16 epidemic."
+      "reason": "President Tinubu ordered flags flown at half-mast and a full Air Force investigation after the ATR-42, flying a routine route from Benin City to Lagos, crashed in Ondo state with no survivors among its 25 passengers and seven crew."
     },
     {
-      "title": "The US withdraws all its B-1 bombers from a UK air base after a suspected Iran-linked terror plot",
+      "title": "Yemen's government launches a major offensive to retake all Houthi-held territory",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/4/us-withdraws-b-1-bomber-aircraft-from-uks-fairford-base-amid-iran-fears",
+      "url": "https://www.aljazeera.com/news/2026/10/5/yemen-war-escalates-whats-the-latest-on-the-battlefield",
       "topic": "World",
-      "reason": "All 12 bombers left RAF Fairford a week after several men, including a UK-Iranian dual national, were arrested over a suspected plot targeting the base, which UK officials say shows 'strong indications' of Iranian involvement that Tehran denies."
+      "reason": "President al-Alimi vowed to fight 'until the country is liberated' after Houthi missile and drone strikes on Riyadh-area oil facilities, with a 100-jet Saudi-led coalition air campaign backing government forces that claim to have retaken the Red Sea towns of Mocha and Dhubab."
     },
     {
-      "title": "Trump names four officials to lead a new 'Super Intelligence Force' on AI policy",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/ai-super-intelligence-force-trump-jay-clayton/",
-      "topic": "AI",
-      "reason": "DNI Jay Clayton will chair the group alongside FTC Chair Andrew Ferguson, Pentagon tech official Emil Michael and OPM Director Scott Kupor, tasked with coordinating the government's engagement with AI companies and the public as safety concerns mount."
-    },
-    {
-      "title": "Ethiopian federal forces retake Mekelle airport from Tigrayan fighters, residents say",
-      "source": "KSAT (AP)",
-      "url": "https://www.ksat.com/business/2026/10/03/ethiopian-federal-forces-retake-mekelle-airport-from-tigrayan-fighters-residents-say/",
-      "topic": "World",
-      "reason": "TPLF fighters had seized the airport on September 23, halting commercial flights, and the reported recapture comes as renewed fighting undermines the 2022 Pretoria peace deal and coincides with Ethiopia's diplomatic rupture with Eritrea."
-    },
-    {
-      "title": "Bosnian Serb leader Dodik's party holds its grip on Republika Srpska in a vote with EU stakes",
-      "source": "U.S. News & World Report",
-      "url": "https://www.usnews.com/news/world/articles/2026-10-04/bosnia-votes-sunday-in-election-that-could-affect-eu-bid",
+      "title": "Germany's intelligence chief warns the country risks a 'violent conflict' with Russia",
+      "source": "ABC News Australia",
+      "url": "https://www.abc.net.au/news/2026-10-06/ukraine-germany-russia-violent-conflict-/107231422",
       "topic": "Politics",
-      "reason": "Preliminary results show Dodik's SNSD ally Zeljka Cvijanovic leading the Serb seat on Bosnia's tripartite presidency, a result that could further complicate the country's stalled EU membership bid amid competing Russian and Western influence."
+      "reason": "Martin Jaeger told lawmakers Russia is waging a 'shadow war' with a real and imminent threat of attacks on German soil, prompting Chancellor Merz to say Germany is preparing to respond 'swiftly and very clearly' to hybrid attacks like August's drone incident at Leipzig airport."
     },
     {
-      "title": "Micron extends its AI memory demand forecast to 2031 as customers lock in longer supply deals",
-      "source": "The Motley Fool",
-      "url": "https://www.fool.com/investing/2026/10/03/micron-just-extended-the-ai-build-out-to-2031-its/",
-      "topic": "Economy",
-      "reason": "The chipmaker has now signed 26 multiyear strategic customer agreements, up from 16 in June, covering more than 35% of its revenue through 2030, as it warns supply will stay tighter than demand through 2027 and 2028."
+      "title": "FBI arrests a California realtor accused of spying on Taiwan's president's son for China",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/chinese-agent-arrested-lax-taiwan-president-son/",
+      "topic": "Politics",
+      "reason": "Wanying Zhang was detained at LAX before a flight to China, accused of traveling to Seattle at Beijing's direction to photograph and track President Lai Ching-te's son and his family, a case highlighting Chinese intelligence operations on US soil."
     },
     {
-      "title": "A highway crash in Kenya kills at least 17 people, most of them Catholic pilgrims",
-      "source": "Courthouse News",
-      "url": "https://www.courthousenews.com/a-road-crash-on-a-highway-in-kenya-killed-at-least-17-people-most-of-them-catholic-pilgrims/",
+      "title": "Zelensky says Ukraine believes Russia has shared jet-drone technology with North Korea",
+      "source": "U.S. News & World Report",
+      "url": "https://www.usnews.com/news/world/articles/2026-10-04/ukraine-believes-russia-shared-jet-drone-technology-with-north-korea-says-zelenskiy",
       "topic": "World",
-      "reason": "A truck's failed overtaking maneuver caused a multi-vehicle collision near Salama, about 90km southeast of Nairobi, striking a minibus of pilgrims headed to a prayer site in Nakuru County, prompting President Ruto to offer condolences."
+      "reason": "The alleged exchange, reportedly in return for North Korean missile support, would help explain Russia's sharply increased use of 600 km/h jet-powered drones against Ukrainian cities, which Kyiv currently has no effective way to intercept besides crewed aircraft."
+    },
+    {
+      "title": "Japan's parliament opens with PM Takaichi pushing a food consumption tax cut from 8% to 1%",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/politics/japan-s-takaichi-aims-to-reassure-markets-over-spending-agenda",
+      "topic": "Economy",
+      "reason": "Takaichi is trying to reassure markets she'll respond 'flexibly' on fiscal policy even as she pushes the two-year tax cut and other inflation relief measures that opposition parties are resisting over concerns about how they'll be funded."
+    },
+    {
+      "title": "Anthropic is reportedly eyeing a mid-November Nasdaq listing at up to a $2 trillion valuation",
+      "source": "Benzinga",
+      "url": "https://www.benzinga.com/markets/private-markets/26/10/62119363/anthropic-eyes-november-ipo-as-investors-peg-ai-giant-at-up-to-2-trillion",
+      "topic": "Economy",
+      "reason": "Marketing for the offering could begin the week of November 9 with proceeds of up to $100 billion, a deal that would rank among the largest IPOs on record, though people familiar with the matter caution the timeline isn't finalized."
+    },
+    {
+      "title": "Germany's Aleph Alpha releases Kolibri, a sovereign open-weight AI model with a 1-million-token context window",
+      "source": "DataCamp",
+      "url": "https://www.datacamp.com/blog/aleph-alpha-kolibri-1",
+      "topic": "AI",
+      "reason": "Trained from scratch in Germany and Finland on nearly 24 trillion tokens, the 78-billion-parameter bilingual model is freely licensed under Apache 2.0, positioning it as a European alternative to US and Chinese labs in the race for 'sovereign' AI infrastructure."
     }
   ]
 }
