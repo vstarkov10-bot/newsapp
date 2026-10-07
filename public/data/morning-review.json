@@ -1,61 +1,61 @@
 {
-  "generatedAt": "2026-10-06T04:20:00Z",
+  "generatedAt": "2026-10-07T04:20:00Z",
   "stories": [
     {
-      "title": "Nigerian military plane crash kills 32, prompting a three-day national mourning",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/10/crash-tinubu-declares-three-day-mourning-for-air-force-personnel/",
-      "topic": "World",
-      "reason": "President Tinubu ordered flags flown at half-mast and a full Air Force investigation after the ATR-42, flying a routine route from Benin City to Lagos, crashed in Ondo state with no survivors among its 25 passengers and seven crew."
-    },
-    {
-      "title": "Yemen's government launches a major offensive to retake all Houthi-held territory",
+      "title": "Pakistan, Turkey and Saudi Arabia activate their Mecca mutual-defense pact for the first time",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/5/yemen-war-escalates-whats-the-latest-on-the-battlefield",
-      "topic": "World",
-      "reason": "President al-Alimi vowed to fight 'until the country is liberated' after Houthi missile and drone strikes on Riyadh-area oil facilities, with a 100-jet Saudi-led coalition air campaign backing government forces that claim to have retaken the Red Sea towns of Mocha and Dhubab."
-    },
-    {
-      "title": "Germany's intelligence chief warns the country risks a 'violent conflict' with Russia",
-      "source": "ABC News Australia",
-      "url": "https://www.abc.net.au/news/2026-10-06/ukraine-germany-russia-violent-conflict-/107231422",
+      "url": "https://www.aljazeera.com/news/2026/10/5/mecca-alliance-agrees-to-activate-collective-deterrence-measures",
       "topic": "Politics",
-      "reason": "Martin Jaeger told lawmakers Russia is waging a 'shadow war' with a real and imminent threat of attacks on German soil, prompting Chancellor Merz to say Germany is preparing to respond 'swiftly and very clearly' to hybrid attacks like August's drone incident at Leipzig airport."
+      "reason": "Defense and foreign ministers meeting in Riyadh agreed to rapidly deploy forces to Saudi Arabia after Houthi strikes on Riyadh's airport and an Aramco refinery, invoking a NATO-style 'attack on one is an attack on all' clause for the first time since the pact was signed in August."
     },
     {
-      "title": "FBI arrests a California realtor accused of spying on Taiwan's president's son for China",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/chinese-agent-arrested-lax-taiwan-president-son/",
+      "title": "Germany's Merz makes a surprise Kyiv visit, pledging over $1 billion in aid to Ukraine",
+      "source": "Kyiv Post",
+      "url": "https://www.kyivpost.com/post/86138",
       "topic": "Politics",
-      "reason": "Wanying Zhang was detained at LAX before a flight to China, accused of traveling to Seattle at Beijing's direction to photograph and track President Lai Ching-te's son and his family, a case highlighting Chinese intelligence operations on US soil."
+      "reason": "Merz brought roughly ten German defense and energy executives on his second wartime visit, announcing drone-interceptor and energy-infrastructure funding plus a joint drone-production deal, even as Russia struck Kyiv during his stay."
     },
     {
-      "title": "Zelensky says Ukraine believes Russia has shared jet-drone technology with North Korea",
-      "source": "U.S. News & World Report",
-      "url": "https://www.usnews.com/news/world/articles/2026-10-04/ukraine-believes-russia-shared-jet-drone-technology-with-north-korea-says-zelenskiy",
+      "title": "Trump draws bipartisan backlash after suggesting Iran could 'take out' Los Angeles or San Diego",
+      "source": "ABC News",
+      "url": "https://abcnews.com/Politics/trump-suggests-iran-los-angeles-san-diego/story?id=137024894",
+      "topic": "Politics",
+      "reason": "California officials including Gov. Newsom called the rally remarks 'deranged and dangerous,' while the White House said Trump meant the US was fighting to prevent Iran from ever gaining that capability, underscoring how his unscripted rhetoric keeps outpacing his own administration's messaging."
+    },
+    {
+      "title": "South Korea's Nuri rocket successfully launches a record 15 satellites in its first private-led flight",
+      "source": "TechRadar",
+      "url": "https://www.techradar.com/pro/nuri-rocket-launch-heralds-south-koreas-first-microsatellite-constallation-and-shows-it-might-have-the-technology-to-launch-its-own-starlink",
       "topic": "World",
-      "reason": "The alleged exchange, reportedly in return for North Korean missile support, would help explain Russia's sharply increased use of 600 km/h jet-powered drones against Ukrainian cities, which Kyiv currently has no effective way to intercept besides crewed aircraft."
+      "reason": "Hanwha Aerospace held full operational command for the first time as the rocket deployed five NEONSAT disaster-monitoring microsatellites and ten CubeSats, Nuri's largest payload since its 2021 debut and a step toward a homegrown satellite-constellation capability."
     },
     {
-      "title": "Japan's parliament opens with PM Takaichi pushing a food consumption tax cut from 8% to 1%",
-      "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/politics/japan-s-takaichi-aims-to-reassure-markets-over-spending-agenda",
-      "topic": "Economy",
-      "reason": "Takaichi is trying to reassure markets she'll respond 'flexibly' on fiscal policy even as she pushes the two-year tax cut and other inflation relief measures that opposition parties are resisting over concerns about how they'll be funded."
+      "title": "Data on 850,000 members leaked after a hack at South Korea's largest Protestant church",
+      "source": "The Korea Herald",
+      "url": "https://www.koreaherald.com/article/10895635",
+      "topic": "World",
+      "reason": "Yoido Full Gospel Church's breach, alongside a similar hit on Seoul's Sarang Church, adds to a wave of intrusions that has already hit seven South Korean banks this month using AI-assisted techniques, prompting a nationwide security scramble."
     },
     {
-      "title": "Anthropic is reportedly eyeing a mid-November Nasdaq listing at up to a $2 trillion valuation",
-      "source": "Benzinga",
-      "url": "https://www.benzinga.com/markets/private-markets/26/10/62119363/anthropic-eyes-november-ipo-as-investors-peg-ai-giant-at-up-to-2-trillion",
-      "topic": "Economy",
-      "reason": "Marketing for the offering could begin the week of November 9 with proceeds of up to $100 billion, a deal that would rank among the largest IPOs on record, though people familiar with the matter caution the timeline isn't finalized."
-    },
-    {
-      "title": "Germany's Aleph Alpha releases Kolibri, a sovereign open-weight AI model with a 1-million-token context window",
-      "source": "DataCamp",
-      "url": "https://www.datacamp.com/blog/aleph-alpha-kolibri-1",
+      "title": "France's Mistral unveils a 1-trillion-parameter model it says beats China's best open AI systems",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/06/mistrals-new-1t-model-aims-to-leapfrog-closed-and-open-rivals/",
       "topic": "AI",
-      "reason": "Trained from scratch in Germany and Finland on nearly 24 trillion tokens, the 78-billion-parameter bilingual model is freely licensed under Apache 2.0, positioning it as a European alternative to US and Chinese labs in the race for 'sovereign' AI infrastructure."
+      "reason": "Mistral Large 4, nicknamed 'Le Chonk,' is in preview for developers and government users ahead of a full October 27 release, positioning the French lab as Europe's answer in the three-way race with US and Chinese open-weight models."
+    },
+    {
+      "title": "C.H. Robinson agrees to acquire logistics rival RXO for $5.8 billion",
+      "source": "Transport Topics",
+      "url": "https://www.ttnews.com/articles/ch-robinson-rxo-deal-2026",
+      "topic": "Economy",
+      "reason": "The stock-and-cash deal creates a combined freight brokerage worth more than $25 billion in enterprise value and is expected to generate $300 million in cost savings within two years by applying C.H. Robinson's AI-driven operating model to RXO's last-mile network."
+    },
+    {
+      "title": "Anthropic expands its Claude Startups program with up to $45,000 in partner perks",
+      "source": "Unite.AI",
+      "url": "https://www.unite.ai/anthropic-expands-claude-startups-program-with-new-founder-benefits/",
+      "topic": "AI",
+      "reason": "Eligible early-stage founders now get a free year of Claude Team, $1,000 in API credits and discounts through a new partner stack, the latest move by a major AI lab to lock in developer loyalty as competition for startup mindshare intensifies."
     }
   ]
 }
