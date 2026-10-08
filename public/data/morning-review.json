@@ -1,61 +1,61 @@
 {
-  "generatedAt": "2026-10-07T04:20:00Z",
+  "generatedAt": "2026-10-08T04:20:00Z",
   "stories": [
     {
-      "title": "Pakistan, Turkey and Saudi Arabia activate their Mecca mutual-defense pact for the first time",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/5/mecca-alliance-agrees-to-activate-collective-deterrence-measures",
-      "topic": "Politics",
-      "reason": "Defense and foreign ministers meeting in Riyadh agreed to rapidly deploy forces to Saudi Arabia after Houthi strikes on Riyadh's airport and an Aramco refinery, invoking a NATO-style 'attack on one is an attack on all' clause for the first time since the pact was signed in August."
-    },
-    {
-      "title": "Germany's Merz makes a surprise Kyiv visit, pledging over $1 billion in aid to Ukraine",
-      "source": "Kyiv Post",
-      "url": "https://www.kyivpost.com/post/86138",
-      "topic": "Politics",
-      "reason": "Merz brought roughly ten German defense and energy executives on his second wartime visit, announcing drone-interceptor and energy-infrastructure funding plus a joint drone-production deal, even as Russia struck Kyiv during his stay."
-    },
-    {
-      "title": "Trump draws bipartisan backlash after suggesting Iran could 'take out' Los Angeles or San Diego",
-      "source": "ABC News",
-      "url": "https://abcnews.com/Politics/trump-suggests-iran-los-angeles-san-diego/story?id=137024894",
-      "topic": "Politics",
-      "reason": "California officials including Gov. Newsom called the rally remarks 'deranged and dangerous,' while the White House said Trump meant the US was fighting to prevent Iran from ever gaining that capability, underscoring how his unscripted rhetoric keeps outpacing his own administration's messaging."
-    },
-    {
-      "title": "South Korea's Nuri rocket successfully launches a record 15 satellites in its first private-led flight",
-      "source": "TechRadar",
-      "url": "https://www.techradar.com/pro/nuri-rocket-launch-heralds-south-koreas-first-microsatellite-constallation-and-shows-it-might-have-the-technology-to-launch-its-own-starlink",
+      "title": "Russia launches one of its biggest strikes of the war, killing at least 20 civilians across Ukraine",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20261007-at-least-two-killed-in-fire-caused-by-massive-strikes-on-kyiv",
       "topic": "World",
-      "reason": "Hanwha Aerospace held full operational command for the first time as the rocket deployed five NEONSAT disaster-monitoring microsatellites and ten CubeSats, Nuri's largest payload since its 2021 debut and a step toward a homegrown satellite-constellation capability."
+      "reason": "Roughly 70 missiles and 130 drones hit at least 12 regions including Kyiv, Poltava and Kharkiv, with a strike on a Pryluky apartment block killing five alone, as Zelensky said Ukraine's Patriot interceptor shortage left it unable to fully blunt the attack."
     },
     {
-      "title": "Data on 850,000 members leaked after a hack at South Korea's largest Protestant church",
+      "title": "Samsung Electronics posts a record $80 billion quarterly profit, up nearly 800% on AI memory demand",
       "source": "The Korea Herald",
-      "url": "https://www.koreaherald.com/article/10895635",
-      "topic": "World",
-      "reason": "Yoido Full Gospel Church's breach, alongside a similar hit on Seoul's Sarang Church, adds to a wave of intrusions that has already hit seven South Korean banks this month using AI-assisted techniques, prompting a nationwide security scramble."
-    },
-    {
-      "title": "France's Mistral unveils a 1-trillion-parameter model it says beats China's best open AI systems",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/06/mistrals-new-1t-model-aims-to-leapfrog-closed-and-open-rivals/",
-      "topic": "AI",
-      "reason": "Mistral Large 4, nicknamed 'Le Chonk,' is in preview for developers and government users ahead of a full October 27 release, positioning the French lab as Europe's answer in the three-way race with US and Chinese open-weight models."
-    },
-    {
-      "title": "C.H. Robinson agrees to acquire logistics rival RXO for $5.8 billion",
-      "source": "Transport Topics",
-      "url": "https://www.ttnews.com/articles/ch-robinson-rxo-deal-2026",
+      "url": "https://www.koreaherald.com/article/10896336",
       "topic": "Economy",
-      "reason": "The stock-and-cash deal creates a combined freight brokerage worth more than $25 billion in enterprise value and is expected to generate $300 million in cost savings within two years by applying C.H. Robinson's AI-driven operating model to RXO's last-mile network."
+      "reason": "Preliminary Q3 operating profit of 107.4 trillion won beat the previous quarter's record by 20%, driven by surging HBM and DRAM prices, even as the mobile division is expected to post a loss on the same rising memory costs."
     },
     {
-      "title": "Anthropic expands its Claude Startups program with up to $45,000 in partner perks",
-      "source": "Unite.AI",
-      "url": "https://www.unite.ai/anthropic-expands-claude-startups-program-with-new-founder-benefits/",
+      "title": "Houthi attacks kill three and injure 36 at Saudi Arabia's Riyadh and Abha airports",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/7/saudi-arabia-says-three-foreign-nationals-killed-in-attacks-on-airports",
+      "topic": "World",
+      "reason": "Saudi aviation authorities said missile and drone strikes hit King Khalid International and Abha airports on consecutive days, killing a Sudanese, a Moroccan and an Algerian national, as Houthi forces framed the attacks as retaliation for Saudi-backed strikes inside Yemen."
+    },
+    {
+      "title": "Most US voters say Trump and Congress aren't taking AI risks seriously, Reuters/Ipsos poll finds",
+      "source": "The Hill",
+      "url": "https://thehill.com/policy/technology/6133962-voters-artificial-intelligence-federal-government-regulation-poll/",
       "topic": "AI",
-      "reason": "Eligible early-stage founders now get a free year of Claude Team, $1,000 in API credits and discounts through a new partner stack, the latest move by a major AI lab to lock in developer loyalty as competition for startup mindshare intensifies."
+      "reason": "Some 57% of registered voters, including a third of Republicans, fault the administration's approach, while 84% see AI as a threat to American jobs and bipartisan majorities back stricter regulation, putting the issue squarely into next month's midterm campaign."
+    },
+    {
+      "title": "Rubio ties 'America First' to ancient Greek values in a sweeping Athens speech",
+      "source": "U.S. News & World Report",
+      "url": "https://www.usnews.com/news/world/articles/2026-10-07/rubio-to-link-ancient-greek-values-to-america-first-speech-in-athens",
+      "topic": "Politics",
+      "reason": "Speaking atop the Pnyx, Rubio traced a lineage from Athens through Rome to the US founding and called for America to dominate drones, critical minerals, cybersecurity and AI, in a speech widely read as positioning him for a future presidential run."
+    },
+    {
+      "title": "Lambda seeks up to $4 billion in its final private round before a planned 2027 IPO",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-backed-cloud-computing-firm-190754718.html",
+      "topic": "AI",
+      "reason": "The Nvidia-backed cloud provider, led by Blackstone and Coatue at a $14.5 billion valuation, has seen its order backlog triple to $50 billion since June, largely on the strength of a $35 billion compute commitment from Anthropic signed in August."
+    },
+    {
+      "title": "Marvell sets a $70-90 billion revenue target for 2031, far above Wall Street's expectations",
+      "source": "Quartz",
+      "url": "https://qz.com/marvell-investor-day-fiscal-2031-revenue-target-100626",
+      "topic": "Economy",
+      "reason": "The chipmaker's first-ever guidance that far out implies annual growth of 54-61% from an $8.2 billion base, well above analysts' $47 billion consensus, betting on data-center capital spending it projects will hit $3 trillion by 2030."
+    },
+    {
+      "title": "Amazon cuts about 1,000 corporate jobs, mostly in its Stores division",
+      "source": "Business Standard",
+      "url": "https://www.business-standard.com/amp/companies/news/amazon-cuts-1000-jobs-retail-employees-in-india-impacted-stores-lay-offs-126100800168_1.html",
+      "topic": "Economy",
+      "reason": "The cuts hit customer service, marketplace support and engineering roles across the US, UK and India during Prime Big Deal Days, the latest in a string of reductions since a 30,000-job restructuring that began last year."
     }
   ]
 }
