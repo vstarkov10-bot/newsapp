@@ -1,61 +1,61 @@
 {
-  "generatedAt": "2026-10-07T19:25:00Z",
+  "generatedAt": "2026-10-08T19:25:00Z",
   "stories": [
     {
-      "title": "Ethiopia accuses Eritrea of sending troops into Tigray, demanding an immediate withdrawal",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/7/witnesses-spot-eritrean-troops-inside-northern-ethiopia-as-tensions-flare",
+      "title": "A Russian glide bomb kills at least 30 people at a Kramatorsk bus stop",
+      "source": "Kyiv Independent",
+      "url": "https://kyivindependent.com/at-least-12-dead-after-russian-glide-bomb-strikes-kramatorsk-bus-stop/",
       "topic": "World",
-      "reason": "Witnesses reported Eritrean soldiers in trucks moving through Adigrat toward the front near Idaga Hamus days after the two countries severed diplomatic ties, raising fears that a month-old war between Addis Ababa and Tigrayan forces is pulling in a neighboring army."
+      "reason": "The strike hit two city buses as Russian forces close in on the eastern Donetsk stronghold, the second attack on a bus in Kramatorsk this month, prompting authorities to halt all public transport in the city."
     },
     {
-      "title": "Israel marks three years since the October 7 attack with nationwide memorials and renewed political tension",
+      "title": "OpenAI's revenue is reportedly $20 billion lower than previously reported, triggering an AI stock selloff",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/",
+      "topic": "AI",
+      "reason": "The Financial Times reported OpenAI's annualized revenue is nearing $50 billion rather than the $70 billion widely cited last month, a discrepancy traced to how analysts compared it with Anthropic's cloud-partner sales, sending Oracle, CoreWeave and chipmakers sharply lower."
+    },
+    {
+      "title": "A new US indictment charges Maduro and his wife with conspiring to torture Americans and Venezuelans",
+      "source": "UPI",
+      "url": "https://www.upi.com/Top_News/World-News/2026/10/08/latam-nicolas-maduro-cilia-flores-conspiracy-torture/1551791475973",
+      "topic": "Politics",
+      "reason": "Prosecutors allege the ousted Venezuelan leader and Cilia Flores ordered electric shocks, beatings and asphyxiation against detainees to silence political opposition, adding a fifth count to the drug-trafficking case against the couple since their January capture."
+    },
+    {
+      "title": "Trump says the US won't attack Iran before November's midterm elections",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/08/iran-war-trump-midterm-election.html",
+      "topic": "Politics",
+      "reason": "The pledge reverses remarks from a rally just a day earlier and comes as the war's roughly $3 billion monthly cost and higher gas prices weigh on voters, though Trump said the naval blockade of Iran will stay in place and he has rejected Tehran's latest ceasefire offer."
+    },
+    {
+      "title": "Kenya confirms its first-ever Ebola case and death, linked to the Congo outbreak",
       "source": "CNN",
-      "url": "https://www.cnn.com/2026/10/06/world/october-seven-attack-anniversary-israel-intl",
-      "topic": "Politics",
-      "reason": "Commemorations at more than 400 sites, including the Nova festival grounds, came three weeks before an election where opposition figures are pressing Netanyahu over his refusal to allow a state inquiry into the government's failures on that day."
+      "url": "https://www.cnn.com/2026/10/07/world/kenya-ebola-first-case",
+      "topic": "World",
+      "reason": "A man who had lived in Congo for years died in a Nairobi hospital after symptoms went undetected at airport screening, making Kenya the fourth country hit by an outbreak that has now killed more than 4,000 people since May."
     },
     {
-      "title": "Rahul and Priyanka Gandhi among 260 detained as Delhi police block an opposition march",
-      "source": "Business Standard",
-      "url": "https://www.business-standard.com/amp/india-news/india-bloc-protest-rahul-gandhi-detained-sir-row-what-happens-today-126100700359_1.html",
-      "topic": "Politics",
-      "reason": "The Congress leaders occupied a government building for over eight hours demanding to meet election commissioners over a voter-roll revision they say has wrongly purged eligible voters, before being detained and later released as police filed charges over the unauthorized entry."
+      "title": "Finland orders Google to halt work on two data center sites over environmental violations",
+      "source": "Euronews",
+      "url": "https://www.euronews.com/2026/10/07/finland-orders-pause-on-google-ai-data-centre-over-environmental-concerns",
+      "topic": "AI",
+      "reason": "Regulators say more than 300 hectares of forest were cleared at the Muhos and Kajaani sites without required impact assessments, threatening delays to Google's €13 billion Finnish investment after the company admitted it fell short of its own standards."
     },
     {
-      "title": "McDonald's is hit with a federal antitrust lawsuit over its AI menu-pricing tool",
+      "title": "South Korea recalls its ambassador to Ukraine in an escalating dispute over North Korean POWs",
       "source": "ABC News",
-      "url": "https://abcnews.com/Technology/wireStory/mcdonalds-sued-ai-tool-recommends-prices-us-franchisees-137046042",
-      "topic": "AI",
-      "reason": "A proposed nationwide class action filed in Illinois alleges the machine-learning system, which pools sales data across nearly 14,000 US restaurants, amounts to unlawful price coordination among independently owned franchisees under the Sherman Act."
+      "url": "https://abcnews.com/International/wireStory/south-korea-recall-ambassador-ukraine-north-korean-pow-137089285",
+      "topic": "Politics",
+      "reason": "Seoul says Zelensky broke a confidentiality agreement by revealing a prisoner transfer at the UN, endangering captured soldiers' families in North Korea, and has rejected Kyiv's apology as inadequate even as Ukraine says it wants to keep talking."
     },
     {
-      "title": "AMD says it will substantially increase chip supply in 2027 to meet AI demand",
-      "source": "TechSpot",
-      "url": "https://www.techspot.com/news/114116-amd-vows-massively-increase-ai-chip-supply-2027.html",
-      "topic": "Economy",
-      "reason": "CEO Lisa Su, visiting Taiwan suppliers including Foxconn and TSMC, said AMD is now planning three to five years out to line up wafer, packaging and memory capacity together, even as tight high-bandwidth memory and a looming power shortfall threaten to become the industry's next bottleneck."
-    },
-    {
-      "title": "Waymo upsizes its first-ever private loan to $5 billion to fund global robotaxi expansion",
-      "source": "Transport Topics",
-      "url": "https://www.ttnews.com/articles/waymo-debt-deal-5b-robotaxi",
-      "topic": "Economy",
-      "reason": "Goldman Sachs arranged the debt, which grew from an initial $3 billion target with Pimco, Blackstone and Sixth Street as lenders, as Alphabet's self-driving unit looks to fund entry into Japan and Singapore alongside rising AI compute costs without further diluting shareholders."
-    },
-    {
-      "title": "Microsoft and Nvidia unveil RTX Spark-powered Surface PCs built for running AI models locally",
-      "source": "Windows Central",
-      "url": "https://www.windowscentral.com/microsoft/windows-11/microsoft-surface-event-announced-for-october-7-heres-everything-we-know-so-far",
-      "topic": "AI",
-      "reason": "The new Surface Laptop Ultra and a developer-focused Spark Dev Box pair a 20-core Grace CPU with up to 128GB of unified memory, enough to run roughly 120-billion-parameter models on-device, as Dell, Lenovo and Asus prepare rival machines on the same Nvidia platform."
-    },
-    {
-      "title": "McKesson and CD&R agree to take Option Care Health private in a $5.8 billion deal",
-      "source": "Axios",
-      "url": "https://www.axios.com/pro/biotech-deals/2026/10/06/mckesson-cdr-acquire-option-care-health",
-      "topic": "Economy",
-      "reason": "McKesson will pay about $1.4 billion for a 49% stake in the country's largest independent infusion-therapy provider, with an option to later buy out CD&R's remaining share, at a 37% premium that sent Option Care shares up nearly 33%."
+      "title": "Maricarmen, the evicted 87-year-old who galvanized Spain's housing protests, has died",
+      "source": "Democracy Now",
+      "url": "https://www.democracynow.org/2026/10/8/maricarmen_abascal_dies",
+      "topic": "World",
+      "reason": "She died in hospital just hours before she was due to sign a new lease, two weeks after being carried from her Madrid home on a stretcher when her rent was raised fivefold, a death PM Sanchez mourned publicly as the protests her case sparked reignite."
     }
   ]
 }
