@@ -1,61 +1,61 @@
 {
-  "generatedAt": "2026-10-08T19:25:00Z",
+  "generatedAt": "2026-10-09T19:30:00Z",
   "stories": [
     {
-      "title": "A Russian glide bomb kills at least 30 people at a Kramatorsk bus stop",
-      "source": "Kyiv Independent",
-      "url": "https://kyivindependent.com/at-least-12-dead-after-russian-glide-bomb-strikes-kramatorsk-bus-stop/",
-      "topic": "World",
-      "reason": "The strike hit two city buses as Russian forces close in on the eastern Donetsk stronghold, the second attack on a bus in Kramatorsk this month, prompting authorities to halt all public transport in the city."
-    },
-    {
-      "title": "OpenAI's revenue is reportedly $20 billion lower than previously reported, triggering an AI stock selloff",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/",
-      "topic": "AI",
-      "reason": "The Financial Times reported OpenAI's annualized revenue is nearing $50 billion rather than the $70 billion widely cited last month, a discrepancy traced to how analysts compared it with Anthropic's cloud-partner sales, sending Oracle, CoreWeave and chipmakers sharply lower."
-    },
-    {
-      "title": "A new US indictment charges Maduro and his wife with conspiring to torture Americans and Venezuelans",
-      "source": "UPI",
-      "url": "https://www.upi.com/Top_News/World-News/2026/10/08/latam-nicolas-maduro-cilia-flores-conspiracy-torture/1551791475973",
-      "topic": "Politics",
-      "reason": "Prosecutors allege the ousted Venezuelan leader and Cilia Flores ordered electric shocks, beatings and asphyxiation against detainees to silence political opposition, adding a fifth count to the drug-trafficking case against the couple since their January capture."
-    },
-    {
-      "title": "Trump says the US won't attack Iran before November's midterm elections",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/08/iran-war-trump-midterm-election.html",
-      "topic": "Politics",
-      "reason": "The pledge reverses remarks from a rally just a day earlier and comes as the war's roughly $3 billion monthly cost and higher gas prices weigh on voters, though Trump said the naval blockade of Iran will stay in place and he has rejected Tehran's latest ceasefire offer."
-    },
-    {
-      "title": "Kenya confirms its first-ever Ebola case and death, linked to the Congo outbreak",
+      "title": "South African jurist Navi Pillay wins the 2026 Nobel Peace Prize",
       "source": "CNN",
-      "url": "https://www.cnn.com/2026/10/07/world/kenya-ebola-first-case",
+      "url": "https://edition.cnn.com/2026/10/09/world/live-news/nobel-peace-prize-2026-winner-intl",
       "topic": "World",
-      "reason": "A man who had lived in Congo for years died in a Nairobi hospital after symptoms went undetected at airport screening, making Kenya the fourth country hit by an outbreak that has now killed more than 4,000 people since May."
+      "reason": "The former UN human rights chief, who led the UN commission that concluded Israel committed genocide in Gaza, was honored for her decades of work promoting peace and international law, with the award ceremony set for December 10 in Oslo."
     },
     {
-      "title": "Finland orders Google to halt work on two data center sites over environmental violations",
-      "source": "Euronews",
-      "url": "https://www.euronews.com/2026/10/07/finland-orders-pause-on-google-ai-data-centre-over-environmental-concerns",
-      "topic": "AI",
-      "reason": "Regulators say more than 300 hectares of forest were cleared at the Muhos and Kajaani sites without required impact assessments, threatening delays to Google's €13 billion Finnish investment after the company admitted it fell short of its own standards."
-    },
-    {
-      "title": "South Korea recalls its ambassador to Ukraine in an escalating dispute over North Korean POWs",
-      "source": "ABC News",
-      "url": "https://abcnews.com/International/wireStory/south-korea-recall-ambassador-ukraine-north-korean-pow-137089285",
+      "title": "Trump sanctions the entire International Criminal Court hours after the Nobel announcement, and Netanyahu welcomes the move",
+      "source": "Times of Israel",
+      "url": "https://www.timesofisrael.com/liveblog-october-9-2026/",
       "topic": "Politics",
-      "reason": "Seoul says Zelensky broke a confidentiality agreement by revealing a prisoner transfer at the UN, endangering captured soldiers' families in North Korea, and has rejected Kyiv's apology as inadequate even as Ukraine says it wants to keep talking."
+      "reason": "The sanctions target the court over its arrest warrant for Netanyahu, drawing condemnation from the ICC and a pledge of support from the EU, in a move critics linked to the timing of Navi Pillay's Peace Prize win for her Gaza genocide findings."
     },
     {
-      "title": "Maricarmen, the evicted 87-year-old who galvanized Spain's housing protests, has died",
-      "source": "Democracy Now",
-      "url": "https://www.democracynow.org/2026/10/8/maricarmen_abascal_dies",
-      "topic": "World",
-      "reason": "She died in hospital just hours before she was due to sign a new lease, two weeks after being carried from her Madrid home on a stretcher when her rent was raised fivefold, a death PM Sanchez mourned publicly as the protests her case sparked reignite."
+      "title": "An ICE agent shoots a man in front of his young son in New York's Marble Hill, sparking protests",
+      "source": "Gothamist",
+      "url": "https://gothamist.com/news/ice-agent-shoots-man-marble-hill-bronx-manhattan",
+      "topic": "Politics",
+      "reason": "Mayor Mamdani said a two-hour standoff with Trump administration officials failed to secure the release of Oscar Belgal, who was shot in the neck with his 5-year-old son in the car, before ICE drove him away, prompting condemnation from Governor Hochul and protests outside the hospital."
+    },
+    {
+      "title": "OpenAI discloses it disrupted Russian and Iranian covert influence operations built on ChatGPT",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/10/08/openai-russia-iran-influence-operations-chatgpt",
+      "topic": "AI",
+      "reason": "A Russian network used a fake research center to target Ukraine's reputation while an Iranian operation deployed seven fabricated Western journalist personas to plant roughly 100 articles, marking the first time OpenAI has publicly rated disrupted campaigns at its highest severity levels."
+    },
+    {
+      "title": "Delta Air Lines posts its first earnings miss in two years and slashes its 2026 profit outlook",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/09/delta-air-lines-dal-q3-2026-earnings.html",
+      "topic": "Economy",
+      "reason": "A roughly $6 billion jump in annual fuel costs pushed Delta to cut full-year adjusted earnings guidance to $5.10-$5.60 a share from $6.50-$7.50 and slash its free-cash-flow forecast, even as revenue still grew 16% year over year."
+    },
+    {
+      "title": "Nvidia-backed Firmus withdraws its roughly $5 billion Australian IPO, citing market conditions",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/technology/nvidia-backed-data-center-provider-firmus-scraps-5bn-australian-ipo2",
+      "topic": "AI",
+      "reason": "The AI data center operator's board scrapped what would have been a landmark ASX listing after investors balked at a valuation nearly triple its August funding round, with concerns over its debt load and unproven construction track record; the company now plans to raise private capital instead."
+    },
+    {
+      "title": "GlobalFoundries signs a $2 billion deal with rival TSMC to make advanced chip-packaging components in the US",
+      "source": "Data Center Dynamics",
+      "url": "https://www.datacenterdynamics.com/en/news/globalfoundries-signs-2bn-five-year-deal-with-tsmc-for-production-of-advanced-packaging-components/",
+      "topic": "Economy",
+      "reason": "Under the five-year agreement, GlobalFoundries will produce silicon interposers for TSMC's CoWoS advanced packaging system at its Malta, New York plant starting in 2028, creating what the company calls the first US-based source for a critical AI chip component."
+    },
+    {
+      "title": "Thailand's opposition files a no-confidence motion against PM Anutin Charnvirakul and 17 other ministers",
+      "source": "Nation Thailand",
+      "url": "https://www.nationthailand.com/news/politics/40072017",
+      "topic": "Politics",
+      "reason": "The 145-lawmaker motion targets ministers solely from coalition partner Bhumjaithai's cabinet quota over alleged corruption and a push to consolidate power, with Anutin saying the debate is effectively against his entire government and expected to run three to four days in late October."
     }
   ]
 }
