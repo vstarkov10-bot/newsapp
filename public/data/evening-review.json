@@ -1,61 +1,61 @@
 {
-  "generatedAt": "2026-10-09T19:30:00Z",
+  "generatedAt": "2026-10-10T19:30:00Z",
   "stories": [
     {
-      "title": "South African jurist Navi Pillay wins the 2026 Nobel Peace Prize",
-      "source": "CNN",
-      "url": "https://edition.cnn.com/2026/10/09/world/live-news/nobel-peace-prize-2026-winner-intl",
+      "title": "A magnitude 7.7 earthquake rocks Panama, triggering tsunami warnings across the region",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/world/panama/magnitude-77-earthquake-rocks-panama-rcna602557",
       "topic": "World",
-      "reason": "The former UN human rights chief, who led the UN commission that concluded Israel committed genocide in Gaza, was honored for her decades of work promoting peace and international law, with the award ceremony set for December 10 in Oslo."
+      "reason": "The quake, centered in Herrera province and followed by a 6.6-magnitude aftershock, collapsed a cathedral tower in Penonome and prompted tsunami warnings for Panama, Colombia, Ecuador, Nicaragua and Guatemala, though no deaths were reported in the immediate aftermath."
     },
     {
-      "title": "Trump sanctions the entire International Criminal Court hours after the Nobel announcement, and Netanyahu welcomes the move",
-      "source": "Times of Israel",
-      "url": "https://www.timesofisrael.com/liveblog-october-9-2026/",
+      "title": "Pentagon's plan to livestream Nidal Hasan's execution draws bipartisan backlash",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/9/barbaric-us-lawmakers-condemn-plan-to-livestream-nidal-hasans-execution",
       "topic": "Politics",
-      "reason": "The sanctions target the court over its arrest warrant for Netanyahu, drawing condemnation from the ICC and a pledge of support from the EU, in a move critics linked to the timing of Navi Pillay's Peace Prize win for her Gaza genocide findings."
+      "reason": "Defense Secretary Hegseth's order to broadcast the Fort Hood shooter's December 3 firing-squad execution has drawn condemnation from lawmakers in both parties, with critics warning it could become propaganda for extremist groups and Vice President Vance casting doubt on whether it will actually happen."
     },
     {
-      "title": "An ICE agent shoots a man in front of his young son in New York's Marble Hill, sparking protests",
-      "source": "Gothamist",
-      "url": "https://gothamist.com/news/ice-agent-shoots-man-marble-hill-bronx-manhattan",
+      "title": "A federal judge rules the Justice Department's nationwide collection of state voter rolls unlawful",
+      "source": "The Hill",
+      "url": "https://thehill.com/regulation/court-battles/6140273-judge-blocks-doj-voter-rolls-program/",
       "topic": "Politics",
-      "reason": "Mayor Mamdani said a two-hour standoff with Trump administration officials failed to secure the release of Oscar Belgal, who was shot in the neck with his 5-year-old son in the car, before ICE drove him away, prompting condemnation from Governor Hochul and protests outside the hospital."
+      "reason": "Judge Sparkle Sooknanan's 78-page ruling struck down the DOJ's entire voter-list maintenance policy nationwide, finding it exceeded the department's legal authority and violated privacy law, just weeks before the midterm elections."
     },
     {
-      "title": "OpenAI discloses it disrupted Russian and Iranian covert influence operations built on ChatGPT",
+      "title": "India locks down Delhi and detains thousands ahead of a youth protest against the election chief",
       "source": "NPR",
-      "url": "https://www.npr.org/2026/10/08/openai-russia-iran-influence-operations-chatgpt",
-      "topic": "AI",
-      "reason": "A Russian network used a fake research center to target Ukraine's reputation while an Iranian operation deployed seven fabricated Western journalist personas to plant roughly 100 articles, marking the first time OpenAI has publicly rated disrupted campaigns at its highest severity levels."
+      "url": "https://www.npr.org/2026/10/10/g-s1-147603/india-cracks-down-on-youth-protests-as-anger-grows-against-modi-and-election-chief",
+      "topic": "World",
+      "reason": "Police shut metro stations and markets, cut mobile internet and intercepted march leaders at the airport to stop the 'Cockroach' movement from reaching Jantar Mantar, the latest escalation in a youth-led campaign against Modi's government that already forced one minister's resignation this year."
     },
     {
-      "title": "Delta Air Lines posts its first earnings miss in two years and slashes its 2026 profit outlook",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/09/delta-air-lines-dal-q3-2026-earnings.html",
-      "topic": "Economy",
-      "reason": "A roughly $6 billion jump in annual fuel costs pushed Delta to cut full-year adjusted earnings guidance to $5.10-$5.60 a share from $6.50-$7.50 and slash its free-cash-flow forecast, even as revenue still grew 16% year over year."
+      "title": "Police and masked protesters clash in Brussels as a national strike against austerity budget cuts turns violent",
+      "source": "Euronews",
+      "url": "https://www.euronews.com/2026/10/09/police-and-protesters-clash-in-brussels-as-anti-austerity-rally-disrupts-city",
+      "topic": "World",
+      "reason": "About 30,000 union members and students marched against Belgium's planned savings package, and while the main march stayed peaceful, clashes near two train stations led to water cannon, tear gas and more than 100 arrests as the government struggles to finalize next year's budget."
     },
     {
-      "title": "Nvidia-backed Firmus withdraws its roughly $5 billion Australian IPO, citing market conditions",
-      "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/business/technology/nvidia-backed-data-center-provider-firmus-scraps-5bn-australian-ipo2",
-      "topic": "AI",
-      "reason": "The AI data center operator's board scrapped what would have been a landmark ASX listing after investors balked at a valuation nearly triple its August funding round, with concerns over its debt load and unproven construction track record; the company now plans to raise private capital instead."
-    },
-    {
-      "title": "GlobalFoundries signs a $2 billion deal with rival TSMC to make advanced chip-packaging components in the US",
-      "source": "Data Center Dynamics",
-      "url": "https://www.datacenterdynamics.com/en/news/globalfoundries-signs-2bn-five-year-deal-with-tsmc-for-production-of-advanced-packaging-components/",
-      "topic": "Economy",
-      "reason": "Under the five-year agreement, GlobalFoundries will produce silicon interposers for TSMC's CoWoS advanced packaging system at its Malta, New York plant starting in 2028, creating what the company calls the first US-based source for a critical AI chip component."
-    },
-    {
-      "title": "Thailand's opposition files a no-confidence motion against PM Anutin Charnvirakul and 17 other ministers",
-      "source": "Nation Thailand",
-      "url": "https://www.nationthailand.com/news/politics/40072017",
+      "title": "Taiwan's president frames a record defense-spending increase as deterrence, not provocation",
+      "source": "Hong Kong Free Press",
+      "url": "https://hongkongfp.com/2026/10/10/taiwans-leader-says-increasing-defence-spending-to-deter-war/",
       "topic": "Politics",
-      "reason": "The 145-lawmaker motion targets ministers solely from coalition partner Bhumjaithai's cabinet quota over alleged corruption and a push to consolidate power, with Anutin saying the debate is effectively against his entire government and expected to run three to four days in late October."
+      "reason": "In his National Day speech, Lai Ching-te defended a record NT$1.1 trillion defense budget for 2027 as a response to Beijing's military and gray-zone pressure, prompting swift Chinese condemnation even as an analyst called the speech comparatively moderate."
+    },
+    {
+      "title": "Chinese AI startup Manus raises over $500 million in its first round since Meta's acquisition collapsed",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/08/manus-fund-raise-meta-muse-tencent.html",
+      "topic": "AI",
+      "reason": "Boyu Capital and IDG Capital led the round months after China's state planner forced Meta to unwind its roughly $2 billion purchase of the AI agent maker, with Tencent and other existing backers also investing as Manus resumes life as an independent company."
+    },
+    {
+      "title": "Denmark tables a bill giving people copyright-like protection over their own face and voice against AI deepfakes",
+      "source": "Time",
+      "url": "https://time.com/7298425/ai-deepfakes-denmark-copyright-amendment/",
+      "topic": "AI",
+      "reason": "The amendment would let individuals demand takedowns and damages for unauthorized AI-generated likenesses of their appearance or voice, with violations drawing steep fines for platforms, while carving out exceptions for satire, parody and political commentary."
     }
   ]
 }
