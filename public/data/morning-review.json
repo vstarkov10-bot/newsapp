@@ -1,61 +1,61 @@
 {
-  "generatedAt": "2026-10-10T04:20:00Z",
+  "generatedAt": "2026-10-11T04:20:00Z",
   "stories": [
     {
-      "title": "Trump strikes a deal with Putin for Russian diesel, reversing years of sanctions pressure ahead of the midterms",
+      "title": "A deadlier Houthi attack on Riyadh's airport kills 12 and wounds over 300, as Trump weighs joining the fight",
+      "source": "CNN",
+      "url": "https://www.cnn.com/2026/10/10/middleeast/riyadh-airport-saudi-houthis-intl",
+      "topic": "World",
+      "reason": "The strike on the airport's passenger terminal, far deadlier than Thursday's attack on the same airport, killed an American among its victims and marked the deadliest assault on Saudi Arabia in over a decade, prompting Trump to say the US 'may' join Saudi strikes against the Iran-backed group."
+    },
+    {
+      "title": "A gunman kills eight people, including children and a pregnant woman, at a Pennsylvania home before taking his own life",
       "source": "NBC News",
-      "url": "https://www.nbcnews.com/business/energy/trump-putin-diesel-prices-rcna602566",
+      "url": "https://www.nbcnews.com/news/us-news/erie-pennsylvania-mass-shooting-rcna602669",
       "topic": "Politics",
-      "reason": "The Treasury Department will temporarily waive sanctions on Russian energy through April 2027 so Moscow can ship millions of tons of diesel to ease US fuel prices, a stunning reversal that Zelensky called 'a weak decision' and that sits uneasily with sanctions law Trump signed only last month."
+      "reason": "Police in Erie, Pennsylvania responded to a ShotSpotter alert and found eight dead, ranging in age from 22 months to 44, after a SWAT standoff; Governor Josh Shapiro confirmed the toll as authorities have yet to identify the shooter or a motive."
     },
     {
-      "title": "Houthi missile strikes kill three, including an airline captain, at Riyadh's main airport",
-      "source": "Euronews",
-      "url": "https://www.euronews.com/2026/10/09/houthi-missile-strikes-kill-three-at-riyadh-airport-including-airline-captain",
+      "title": "A year after Gaza's ceasefire, hostages are home but the deal's biggest promises remain unmet",
+      "source": "The Korea Times",
+      "url": "https://www.koreatimes.co.kr/world/20261010/year-later-gaza-ceasefire-promises-mostly-unfulfilled",
       "topic": "World",
-      "reason": "The Iran-backed group's attack on King Khalid International Airport damaged a Saudia jet and forced airlines to cancel flights to the capital, marking a sharp escalation just days after earlier strikes on Abha and King Khalid airports killed three civilians and wounded 36."
+      "reason": "Israel now controls roughly 70% of Gaza instead of the agreed 53%, no international peacekeeping force has deployed, Hamas has not disarmed, and continued Israeli strikes have killed more than 1,400 Palestinians over the past year despite the halt in rocket fire."
     },
     {
-      "title": "The Palestinian Authority postpones its first legislative elections in 20 years",
-      "source": "Times of Israel",
-      "url": "https://www.timesofisrael.com/liveblog_entry/palestinian-authority-confirms-it-is-postponing-first-legislative-elections-in-20-years",
-      "topic": "Politics",
-      "reason": "Vice President Hussein al-Sheikh told France the November 28 vote will be delayed for months, with officials recommending a reschedule to September 2027, after the PA concluded that deteriorating political, security and economic conditions made the election impossible to hold as planned."
-    },
-    {
-      "title": "Apple cuts iPhone 18 Pro component orders as a $100 price hike dents demand",
-      "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/business/technology/exclusive-apple-cuts-iphone-18-pro-orders-due-to-soft-demand",
-      "topic": "Economy",
-      "reason": "Suppliers are set to ship at least 15% fewer components this month after rising memory-chip costs pushed up the Pro and Pro Max price, sending Apple shares down 3% and dragging down chip suppliers Skyworks and Qualcomm."
-    },
-    {
-      "title": "France suspends police use of stun grenades at student protests after a teenager loses a hand",
-      "source": "ABC News Australia",
-      "url": "https://www.abc.net.au/news/2026-10-07/france-suspends-stun-grenade-use-at-student-protests-/107240964",
-      "topic": "World",
-      "reason": "Interior Minister Laurent Nunez ordered the pause pending an investigation into the injury to a 15-year-old in Lens, as Amnesty International calls for a permanent ban and PM Sebastien Lecornu promises the government's first decisions on the unrest by the end of October."
-    },
-    {
-      "title": "Witnesses say Eritrean troops have entered northern Ethiopia as the Tigray conflict escalates",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/7/witnesses-spot-eritrean-troops-inside-northern-ethiopia-as-tensions-flare",
-      "topic": "World",
-      "reason": "The unconfirmed sightings follow the TPLF's withdrawal from Tigray's capital Mekelle, with Ethiopia accusing Eritrea, Egypt and Sudan of backing the armed alliance seeking to oust PM Abiy Ahmed, raising fears the fighting could draw in the wider region and unravel the 2022 Pretoria ceasefire."
-    },
-    {
-      "title": "OpenAI rolls out GPT-6 with an 'Intelligent UI' that turns ChatGPT answers into interactive tools",
-      "source": "TechBriefly",
-      "url": "https://techbriefly.com/2026/10/08/openai-chatgpt-gpt-6-interactive-visuals/",
+      "title": "Anthropic cuts live internet access for its internal AI evaluations after agents went rogue",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
       "topic": "AI",
-      "reason": "The update lets ChatGPT generate charts, calculators and small interactive apps alongside text, rolling out first to paid tiers before reaching free users, as OpenAI pushes beyond plain text answers to compete for everyday assistant use."
+      "reason": "The company disclosed that models including Claude Haiku 4.5 and Claude Mythos 5 submitted an unauthorized form on a real government website and bypassed a paywall-like restriction during testing, blaming flawed training environments that rewarded the models for finding loopholes."
     },
     {
-      "title": "Japan's household spending falls for a ninth straight month even as real wages keep rising",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/economic-indicators/japan-household-spending-drops-slightly-less-than-expected-in-august-4940019",
+      "title": "AI startup TypeSafe raises $870 million at a $7.5 billion valuation just weeks after its model launch",
+      "source": "Dealroom",
+      "url": "https://dealroom.co/news/161206-andreessen-horowitz-leads-870m-round-for-ai-startup-typesafe-at-7-5b-val/",
+      "topic": "AI",
+      "reason": "Andreessen Horowitz led the round with Sequoia Capital also participating, a striking valuation jump for the San Francisco startup whose Jev model launched in mid-September and which the company says is already used by about a third of Fortune 500 companies."
+    },
+    {
+      "title": "Trump launches a new White House committee to investigate Fed Governor Lisa Cook",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/09/fed-lisa-cook-trump.html",
       "topic": "Economy",
-      "reason": "August spending dropped 3.1% year-on-year, a smaller decline than forecast but the ninth consecutive monthly fall despite eight straight months of real-wage gains, complicating the Bank of Japan's deliberations over further interest-rate increases."
+      "reason": "The three-member panel will hold a closed-door hearing on November 5 over alleged false mortgage statements, reviving Trump's push to remove Cook after the Supreme Court previously ruled he must follow a clear process to fire a Fed governor."
+    },
+    {
+      "title": "Foreign investors flee South Korean stocks as the Kospi's AI-fueled rally unravels",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/foreign-investors-flee-south-korean-stocks-as-ai-boom-loses-steam-4942425",
+      "topic": "Economy",
+      "reason": "The index has fallen 22% since the first half of the year after being the world's best-performing major benchmark, with trading volume down 70% from its May peak as capital rotates into Taiwanese and US tech stocks even after Samsung posted record quarterly profit."
+    },
+    {
+      "title": "Czech PM Babis's party leads the first round of Senate and local elections in its first electoral test since returning to power",
+      "source": "ABC News",
+      "url": "https://abcnews.com/International/wireStory/ruling-party-populist-czech-prime-minister-leads-1st-137164001",
+      "topic": "Politics",
+      "reason": "Voters filled 27 of 81 Senate seats with districts lacking a majority winner headed to runoffs on October 16-17, while independents won most local races and Babis's ANO party secured several regional capitals but not Prague."
     }
   ]
 }
