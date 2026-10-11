@@ -1,61 +1,61 @@
 {
-  "generatedAt": "2026-10-10T19:30:00Z",
+  "generatedAt": "2026-10-11T19:30:00Z",
   "stories": [
     {
-      "title": "A magnitude 7.7 earthquake rocks Panama, triggering tsunami warnings across the region",
-      "source": "NBC News",
-      "url": "https://www.nbcnews.com/world/panama/magnitude-77-earthquake-rocks-panama-rcna602557",
-      "topic": "World",
-      "reason": "The quake, centered in Herrera province and followed by a 6.6-magnitude aftershock, collapsed a cathedral tower in Penonome and prompted tsunami warnings for Panama, Colombia, Ecuador, Nicaragua and Guatemala, though no deaths were reported in the immediate aftermath."
-    },
-    {
-      "title": "Pentagon's plan to livestream Nidal Hasan's execution draws bipartisan backlash",
+      "title": "A second Houthi strike hits Riyadh's airport, setting Terminal 4 ablaze a day after 12 died",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/9/barbaric-us-lawmakers-condemn-plan-to-livestream-nidal-hasans-execution",
-      "topic": "Politics",
-      "reason": "Defense Secretary Hegseth's order to broadcast the Fort Hood shooter's December 3 firing-squad execution has drawn condemnation from lawmakers in both parties, with critics warning it could become propaganda for extremist groups and Vice President Vance casting doubt on whether it will actually happen."
-    },
-    {
-      "title": "A federal judge rules the Justice Department's nationwide collection of state voter rolls unlawful",
-      "source": "The Hill",
-      "url": "https://thehill.com/regulation/court-battles/6140273-judge-blocks-doj-voter-rolls-program/",
-      "topic": "Politics",
-      "reason": "Judge Sparkle Sooknanan's 78-page ruling struck down the DOJ's entire voter-list maintenance policy nationwide, finding it exceeded the department's legal authority and violated privacy law, just weeks before the midterm elections."
-    },
-    {
-      "title": "India locks down Delhi and detains thousands ahead of a youth protest against the election chief",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/10/10/g-s1-147603/india-cracks-down-on-youth-protests-as-anger-grows-against-modi-and-election-chief",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/10/11/iran-war-live-12-killed-in-riyadh-us-weighs-joining-fight-against-houthis",
       "topic": "World",
-      "reason": "Police shut metro stations and markets, cut mobile internet and intercepted march leaders at the airport to stop the 'Cockroach' movement from reaching Jantar Mantar, the latest escalation in a youth-led campaign against Modi's government that already forced one minister's resignation this year."
+      "reason": "The Saudi-led coalition said it intercepted a cruise missile near the airport while a separate projectile struck the terminal and started a fire, extending the airport's closure and deepening the crisis that has Trump weighing direct US involvement against the Houthis."
     },
     {
-      "title": "Police and masked protesters clash in Brussels as a national strike against austerity budget cuts turns violent",
+      "title": "Trump says Ukraine should 'get a new president,' blaming Zelensky for high US fuel prices",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/10/10/trump-ukraine-zelensky-replace-putin-diesel",
+      "topic": "Politics",
+      "reason": "The remarks, a day after Trump's diesel deal with Putin, accused Zelensky of worsening fuel costs by continuing strikes on Russian refineries, drawing a sharp rebuke from Kyiv's foreign minister even though martial law bars Ukraine from holding elections to replace him."
+    },
+    {
+      "title": "Pope Leo XIV announces he will have surgery to remove a nodule found on his lung",
+      "source": "ABC News",
+      "url": "https://abcnews.com/International/wireStory/pope-leo-xiv-undergo-surgery-remove-nodule-lung-137170592",
+      "topic": "World",
+      "reason": "The Vatican says the nodule was caught early and the operation is scheduled for this week with about a week of hospitalization expected, raising questions over whether Leo will still preside over Wednesday's closing Mass as doctors say his planned Latin America trip should remain on track."
+    },
+    {
+      "title": "Death toll from a migrant boat capsizing off Djibouti rises to 139, with dozens still missing",
       "source": "Euronews",
-      "url": "https://www.euronews.com/2026/10/09/police-and-protesters-clash-in-brussels-as-anti-austerity-rally-disrupts-city",
+      "url": "https://www.euronews.com/2026/10/11/at-least-139-migrants-dead-after-boat-capsizes-off-djibouti-un-says",
       "topic": "World",
-      "reason": "About 30,000 union members and students marched against Belgium's planned savings package, and while the main march stayed peaceful, clashes near two train stations led to water cannon, tear gas and more than 100 arrests as the government struggles to finalize next year's budget."
+      "reason": "The vessel, carrying roughly 305 people toward Yemen, capsized overnight with 15 children among the dead and more than 80 survivors rescued, adding to a route the UN says has already claimed over 900 lives in 2025 alone."
     },
     {
-      "title": "Taiwan's president frames a record defense-spending increase as deterrence, not provocation",
-      "source": "Hong Kong Free Press",
-      "url": "https://hongkongfp.com/2026/10/10/taiwans-leader-says-increasing-defence-spending-to-deter-war/",
-      "topic": "Politics",
-      "reason": "In his National Day speech, Lai Ching-te defended a record NT$1.1 trillion defense budget for 2027 as a response to Beijing's military and gray-zone pressure, prompting swift Chinese condemnation even as an analyst called the speech comparatively moderate."
-    },
-    {
-      "title": "Chinese AI startup Manus raises over $500 million in its first round since Meta's acquisition collapsed",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/08/manus-fund-raise-meta-muse-tencent.html",
-      "topic": "AI",
-      "reason": "Boyu Capital and IDG Capital led the round months after China's state planner forced Meta to unwind its roughly $2 billion purchase of the AI agent maker, with Tencent and other existing backers also investing as Manus resumes life as an independent company."
-    },
-    {
-      "title": "Denmark tables a bill giving people copyright-like protection over their own face and voice against AI deepfakes",
+      "title": "A Senate investigation finds Big Tech is pushing AI data centers' grid costs onto household electricity bills",
       "source": "Time",
-      "url": "https://time.com/7298425/ai-deepfakes-denmark-copyright-amendment/",
+      "url": "https://time.com/article/2026/10/08/senate-investigation-ai-data-centers/",
       "topic": "AI",
-      "reason": "The amendment would let individuals demand takedowns and damages for unauthorized AI-generated likenesses of their appearance or voice, with violations drawing steep fines for platforms, while carving out exceptions for satire, parody and political commentary."
+      "reason": "A nearly yearlong probe by Senators Warren, Blumenthal and Van Hollen found Amazon, Google, Meta, Microsoft and other operators are not covering the full cost of grid upgrades their facilities trigger while using NDAs and seeking tax breaks, as a single gigawatt-scale data center can draw as much power as 100,000 homes."
+    },
+    {
+      "title": "Leaders of India's 'Cockroach' youth protest movement are released from detention",
+      "source": "U.S. News",
+      "url": "https://www.usnews.com/news/world/articles/2026-10-11/indias-cockroach-movement-leader-released-from-detention-lawyer-says",
+      "topic": "Politics",
+      "reason": "Abhijeet Dipke and two other senior leaders were freed a day after police detained thousands and locked down Delhi to stop their march against election chief Gyanesh Kumar, though the movement's core grievance over the voter list revision remains unresolved."
+    },
+    {
+      "title": "The Pentagon raises its official death toll from the Iran war to 21 service members, with 865 wounded",
+      "source": "UPI",
+      "url": "https://www.upi.com/Top_News/US/2026/10/10/pentagon-death-toll-iran-war/3431791673489/",
+      "topic": "Politics",
+      "reason": "The revised Defense Casualty Analysis System count adds two noncombat deaths to the previous tally of 19, coming after the Washington Post reported the public database understated the true toll, a claim Defense Secretary Hegseth had called 'a complete lie.'"
+    },
+    {
+      "title": "The Middle East war and record global debt dominate the IMF-World Bank meetings in Bangkok",
+      "source": "Al-Monitor",
+      "url": "https://www.al-monitor.com/originals/2026/10/middle-east-war-high-debt-levels-dominate-imf-world-bank-meetings-bangkok",
+      "topic": "Economy",
+      "reason": "With public debt near its highest share of GDP since World War Two and the US-Israel war on Iran stretching into its eighth month, the IMF is set to downgrade growth forecasts for Ukraine and Gulf states while US Treasury Secretary Bessent skips the gathering entirely."
     }
   ]
 }
