@@ -1,61 +1,61 @@
 {
-  "generatedAt": "2026-10-11T19:30:00Z",
+  "generatedAt": "2026-10-12T19:30:00Z",
   "stories": [
     {
-      "title": "A second Houthi strike hits Riyadh's airport, setting Terminal 4 ablaze a day after 12 died",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/10/11/iran-war-live-12-killed-in-riyadh-us-weighs-joining-fight-against-houthis",
-      "topic": "World",
-      "reason": "The Saudi-led coalition said it intercepted a cruise missile near the airport while a separate projectile struck the terminal and started a fire, extending the airport's closure and deepening the crisis that has Trump weighing direct US involvement against the Houthis."
-    },
-    {
-      "title": "Trump says Ukraine should 'get a new president,' blaming Zelensky for high US fuel prices",
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/10/10/trump-ukraine-zelensky-replace-putin-diesel",
+      "title": "Federal agents search Rep. Ilhan Omar's DC home as part of a criminal investigation",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/politics/trump-administration/rep-ilhan-omar-home-searched-federal-agents-criminal-probe-dhs-rcna602950",
       "topic": "Politics",
-      "reason": "The remarks, a day after Trump's diesel deal with Putin, accused Zelensky of worsening fuel costs by continuing strikes on Russian refineries, drawing a sharp rebuke from Kyiv's foreign minister even though martial law bars Ukraine from holding elections to replace him."
+      "reason": "Homeland Security Investigations agents executed the warrant 22 days before the midterms in a probe reportedly tied to immigration paperwork from her childhood, and Omar, who has not been charged, called it 'the latest escalation' in a campaign of political intimidation."
     },
     {
-      "title": "Pope Leo XIV announces he will have surgery to remove a nodule found on his lung",
-      "source": "ABC News",
-      "url": "https://abcnews.com/International/wireStory/pope-leo-xiv-undergo-surgery-remove-nodule-lung-137170592",
+      "title": "Trump claims a Russia-Ukraine 'energy ceasefire,' but Moscow keeps striking Ukrainian gas facilities",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/12/russia-ukraine-energy-ceasefire-trump.html",
+      "topic": "Politics",
+      "reason": "Zelensky said Kyiv only learned of the announcement from the media and saw no sign Russia was complying, as a jet-powered drone hit a Kharkiv-region gas site hours later and Russian Foreign Minister Lavrov dismissed the idea outright."
+    },
+    {
+      "title": "Fire destroys Paris's oldest covered food market, the historic Marche des Enfants Rouges",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20261012-fire-ravages-oldest-covered-food-market-in-paris",
       "topic": "World",
-      "reason": "The Vatican says the nodule was caught early and the operation is scheduled for this week with about a week of hospitalization expected, raising questions over whether Leo will still preside over Wednesday's closing Mass as doctors say his planned Latin America trip should remain on track."
+      "reason": "The overnight blaze collapsed part of the market's metal structure in the Marais district, a monument dating to 1615 that could stay closed for months, as officials investigate the cause and seek temporary space for displaced vendors."
     },
     {
-      "title": "Death toll from a migrant boat capsizing off Djibouti rises to 139, with dozens still missing",
-      "source": "Euronews",
-      "url": "https://www.euronews.com/2026/10/11/at-least-139-migrants-dead-after-boat-capsizes-off-djibouti-un-says",
-      "topic": "World",
-      "reason": "The vessel, carrying roughly 305 people toward Yemen, capsized overnight with 15 children among the dead and more than 80 survivors rescued, adding to a route the UN says has already claimed over 900 lives in 2025 alone."
-    },
-    {
-      "title": "A Senate investigation finds Big Tech is pushing AI data centers' grid costs onto household electricity bills",
-      "source": "Time",
-      "url": "https://time.com/article/2026/10/08/senate-investigation-ai-data-centers/",
+      "title": "Amazon is in talks to acquire AI startup Decart for about $7 billion after Anthropic walked away",
+      "source": "Seeking Alpha",
+      "url": "https://seekingalpha.com/news/4651954-amazon-in-talks-to-acquire-ai-startup-decart-for-7b-wsj",
       "topic": "AI",
-      "reason": "A nearly yearlong probe by Senators Warren, Blumenthal and Van Hollen found Amazon, Google, Meta, Microsoft and other operators are not covering the full cost of grid upgrades their facilities trigger while using NDAs and seeking tax breaks, as a single gigawatt-scale data center can draw as much power as 100,000 homes."
+      "reason": "The price nearly doubles Decart's $4 billion valuation from May and comes as Amazon races to build out its Trainium AI chips to compete with Nvidia, with the world-model and chip-switching startup having first drawn a roughly $6 billion offer from Anthropic that fell through in due diligence."
     },
     {
-      "title": "Leaders of India's 'Cockroach' youth protest movement are released from detention",
+      "title": "Microsoft unveils its Maia 300 AI chip, planning to deploy over a million to cut reliance on Nvidia",
+      "source": "The Tech Portal",
+      "url": "https://thetechportal.com/2026/10/12/microsoft-to-deploy-over-a-million-maia-300-ai-chips-to-cut-nvidia-reliance",
+      "topic": "AI",
+      "reason": "Unveiled at the OCP Global Summit, the in-house chip claims 40% more AI tokens per megawatt than leading GPU systems and is set to handle most of Microsoft's AI inference workloads from 2027, even as Nvidia remains the default for training its largest models."
+    },
+    {
+      "title": "Le Pen and Melenchon head for France's 2027 presidential runoff as the political divide deepens, poll shows",
       "source": "U.S. News",
-      "url": "https://www.usnews.com/news/world/articles/2026-10-11/indias-cockroach-movement-leader-released-from-detention-lawyer-says",
+      "url": "https://www.usnews.com/news/world/articles/2026-10-12/le-pen-melenchon-head-for-frances-political-divide-deepens-poll-shows",
       "topic": "Politics",
-      "reason": "Abhijeet Dipke and two other senior leaders were freed a day after police detained thousands and locked down Delhi to stop their march against election chief Gyanesh Kumar, though the movement's core grievance over the voter list revision remains unresolved."
+      "reason": "The Toluna Harris Interactive poll projects Le Pen winning roughly 35-37% in the first round with Melenchon's far-left bid now reaching the runoff in every scenario tested, underscoring how a hollowed-out political center is ceding ground to hardline parties as Macron's term ends."
     },
     {
-      "title": "The Pentagon raises its official death toll from the Iran war to 21 service members, with 865 wounded",
-      "source": "UPI",
-      "url": "https://www.upi.com/Top_News/US/2026/10/10/pentagon-death-toll-iran-war/3431791673489/",
-      "topic": "Politics",
-      "reason": "The revised Defense Casualty Analysis System count adds two noncombat deaths to the previous tally of 19, coming after the Washington Post reported the public database understated the true toll, a claim Defense Secretary Hegseth had called 'a complete lie.'"
+      "title": "A fourth Houthi strike in five days hits Riyadh's airport, killing one and wounding 11",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/12/saudi-arabia-says-1-dead-11-injured-in-latest-attack-on-riyadh-airport",
+      "topic": "World",
+      "reason": "Saudi forces shot down additional missiles aimed at the capital as King Khalid International Airport's closure was extended to at least October 17, deepening a crisis that began with Thursday's strike and Saturday's deadlier attack that killed 13."
     },
     {
-      "title": "The Middle East war and record global debt dominate the IMF-World Bank meetings in Bangkok",
-      "source": "Al-Monitor",
-      "url": "https://www.al-monitor.com/originals/2026/10/middle-east-war-high-debt-levels-dominate-imf-world-bank-meetings-bangkok",
+      "title": "Nigerian fintech OPay files for a New York IPO targeting a $4 billion valuation",
+      "source": "Semafor",
+      "url": "https://www.semafor.com/article/10/12/2026/opay-readies-4b-new-york-ipo",
       "topic": "Economy",
-      "reason": "With public debt near its highest share of GDP since World War Two and the US-Israel war on Iran stretching into its eighth month, the IMF is set to downgrade growth forecasts for Ukraine and Gulf states while US Treasury Secretary Bessent skips the gathering entirely."
+      "reason": "The SoftBank-backed company, whose first-half revenue jumped 137% to $467 million as lending overtook payments as its top earner, is testing Wall Street's appetite for African fintech with Standard Bank already agreeing to take up to a 4.99% stake."
     }
   ]
 }
