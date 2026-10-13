@@ -1,61 +1,61 @@
 {
-  "generatedAt": "2026-10-12T04:20:00Z",
+  "generatedAt": "2026-10-13T04:20:00Z",
   "stories": [
     {
-      "title": "North Korea fires multiple ballistic missiles toward the East Sea, prompting an emergency Seoul security briefing",
-      "source": "The Korea Herald",
-      "url": "https://www.koreaherald.com/article/10899222",
-      "topic": "World",
-      "reason": "The launches, detected from the Pyongyang area rather than North Korea's usual Wonsan site, mark its 16th such test this year and came just a week after South Korea's first test of a homegrown hypersonic glide vehicle, deepening an already tense standoff on the peninsula."
-    },
-    {
-      "title": "Polish police arrest a man suspected of plotting an attack on PM Tusk and Defense Minister Kosiniak-Kamysz",
-      "source": "NBC News",
-      "url": "https://www.nbcnews.com/world/russia/polands-police-warn-possible-plot-attack-prime-minister-donald-tusk-rcna602748",
-      "topic": "Politics",
-      "reason": "Authorities tracked the suspect, roughly 60, through online posts after an emailed tip, with officials citing a 'high probability' the threats would be carried out as Poland remains on high alert following a string of school stabbings and fears of Russian hybrid attacks."
-    },
-    {
-      "title": "Brazil's Lula accuses Meta of election interference days before his runoff against Flavio Bolsonaro",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/live-news/20261011-brazil-s-lula-accuses-meta-of-election-interference",
-      "topic": "Politics",
-      "reason": "Lula's campaign says Instagram blocked paid promotion of his posts and deactivated his ad account during the first round, prompting Brazil's top electoral court to give Meta 48 hours to explain the platform's handling of his accounts ahead of the October 25 vote."
-    },
-    {
-      "title": "Microsoft's Satya Nadella calls for an 'emergency brake' that lets humans halt AI models mid-task",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/10/microsoft-satya-nadella-ai-emergency-brake-safety.html",
-      "topic": "AI",
-      "reason": "In an essay on AI models as potential 'insider risks,' Nadella argued companies should assume any powerful model is compromised and build in independent, tamper-proof controls to contain it, a response to mounting incidents of AI agents acting outside their instructions."
-    },
-    {
-      "title": "AI agent startup Nous Research raises $90 million at a $1.5 billion valuation",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
-      "topic": "AI",
-      "reason": "Robot Ventures led the Series B with Nvidia, Samsung and others joining, bringing the three-year-old open-source Hermes Agent maker's total funding to roughly $160 million as it launches enterprise products and claims it is nearing $100 million in annualized revenue."
-    },
-    {
-      "title": "Oil tops $105 a barrel as renewed Houthi attacks on Saudi Arabia stoke supply fears",
-      "source": "Seeking Alpha",
-      "url": "https://seekingalpha.com/news/4651953-oil-tops-105-as-houthi-attacks-on-saudi-arabia-raise-inflation-fears",
+      "title": "South Korea's KOSPI plunges more than 6% and breaks below 6,000, triggering its first sell-side circuit breaker in two months",
+      "source": "Seoul Economic Daily",
+      "url": "https://en.sedaily.com/finance/2026/10/13/kospi-plunges-6-percent-falls-below-6000-on-memory-supply",
       "topic": "Economy",
-      "reason": "Crude climbed in early Asian trading as a second consecutive strike on Riyadh's airport heightened concerns over Gulf energy supplies, adding to inflation pressure just as markets weigh the odds of another Federal Reserve rate hike this month."
+      "reason": "Samsung Electronics and SK Hynix shares tumbled roughly 7-9% as foreign investors dumped chip stocks on fears that China's CXMT will flood the market with next-generation DDR5 memory, extending a four-session slide that has now wiped out 8.9% from the index."
     },
     {
-      "title": "Philippine President Marcos says alleged Chinese funds tied to VP Sara Duterte's circle are a 'highest-level' security threat",
-      "source": "GMA Network",
-      "url": "https://www.gmanetwork.com/news/topstories/nation/1005539/marcos-sara-duterte-s-alleged-china-funds-pose-highest-level-national-security-threat/story/",
+      "title": "India's opposition marches to the Supreme Court as protests over 130 million deleted voter names escalate",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/10/12/nx-s1-5998831/india-opposition-protests",
       "topic": "Politics",
-      "reason": "Marcos's comments followed an Anti-Money Laundering Council finding that a company linked to the vice president and her husband received 319 million pesos from China and Hong Kong, prompting a Department of National Defense inquiry even as Duterte's camp denies any China ties."
+      "reason": "Opposition lawmakers submitted a petition alleging irregularities in the nationwide voter-roll revision, which they say disproportionately strips Muslim and minority voters, as two sitting election commissioners have reportedly objected to deletion decisions at least 14 times over ten months."
     },
     {
-      "title": "Iran rejects the US response on reopening the Strait of Hormuz as 'insufficient' as Netanyahu convenes security chiefs",
-      "source": "The Times of Israel",
-      "url": "https://www.timesofisrael.com/liveblog-october-11-2026/",
+      "title": "Meta launches its Muse Wonder AI model, with Zuckerberg claiming it has reached the AI frontier",
+      "source": "Quartz",
+      "url": "https://qz.com/meta-muse-wonder-ai-model-launch-101226",
+      "topic": "AI",
+      "reason": "The release caps a 14-month overhaul of Meta's AI operations under Alexandr Wang's Superintelligence Labs, with Meta claiming the model rivals ChatGPT and Claude on coding and financial tasks even as independent benchmarks still place Anthropic's Opus ahead."
+    },
+    {
+      "title": "Russia strikes Kharkiv with Banderol missiles, collapsing part of an apartment building and injuring at least 11",
+      "source": "Kyiv Independent",
+      "url": "https://kyivindependent.com/russian-missile-attack-on-kharkiv-injures-at-least-11-including-rescuer/",
       "topic": "World",
-      "reason": "The rebuff came as Netanyahu held an urgent security assessment in Tel Aviv on Iran, Gaza and Lebanon following the fresh Houthi attacks in Saudi Arabia, while US Central Command said it disabled a cargo vessel attempting to bypass the Hormuz blockade."
+      "reason": "Regional officials said Russian forces fired roughly 10 of the jet-powered loitering munitions at civilian infrastructure in the Kholodnohirskyi district, trapping several people under rubble before rescuers freed them, in Moscow's second such Banderol strike on the city this month."
+    },
+    {
+      "title": "Saudi Arabia extends Riyadh airport's closure to October 17 and probes air-defense failures after another Houthi missile",
+      "source": "ABC News Australia",
+      "url": "https://www.abc.net.au/news/2026-10-13/saudis-probe-houthi-attack-on-riyadh-airport-amid-ongoing-attack/107258142",
+      "topic": "World",
+      "reason": "The latest intercepted missile came two days after a strike killed at least 13 people and wounded over 300 in the deadliest attack on the kingdom in a decade, as officials investigate why the airport's defenses failed to stop the earlier barrage."
+    },
+    {
+      "title": "Canada's Carney urges Alberta to stay in Canada a week before its secession vote",
+      "source": "Time",
+      "url": "https://time.com/article/2026/05/22/carney-canada-alberta-separation-vote-referendum-response/",
+      "topic": "Politics",
+      "reason": "With the non-binding October 19 referendum asking whether Alberta should begin the legal process toward separation, Carney pointed to a proposed West Coast pipeline and infrastructure projects as reasons to stay, as Premier Smith says separatist support sits near 22%."
+    },
+    {
+      "title": "A 14-year-old shoots a principal and teacher at a French school after hiding a shotgun in a guitar case",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/12/france-school-shooting-police-detain-pupil-after-two-injured",
+      "topic": "World",
+      "reason": "A staff member disarmed the student in a stairwell at the Aubagne middle school near Marseille before police arrived, and while both victims suffered non-life-threatening leg wounds, the rare instance of pupil gun violence in France has left the motive unclear."
+    },
+    {
+      "title": "Seventy-four House Democrats demand Pentagon answers on Iran airstrikes that killed civilians",
+      "source": "Hoodline",
+      "url": "https://hoodline.com/2026/10/house-democrats-demand-pentagon-answers-on-iran-strikes-that-killed-civilians/",
+      "topic": "Politics",
+      "reason": "The letter presses Defense Secretary Hegseth chiefly over a September 1 strike on a wedding that killed five and wounded about 70, reviving scrutiny of a February school strike that killed up to 175 people and that the Pentagon's own preliminary probe blamed on outdated targeting data."
     }
   ]
 }
