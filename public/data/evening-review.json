@@ -1,61 +1,61 @@
 {
-  "generatedAt": "2026-10-12T19:30:00Z",
+  "generatedAt": "2026-10-13T19:30:00Z",
   "stories": [
     {
-      "title": "Federal agents search Rep. Ilhan Omar's DC home as part of a criminal investigation",
-      "source": "NBC News",
-      "url": "https://www.nbcnews.com/politics/trump-administration/rep-ilhan-omar-home-searched-federal-agents-criminal-probe-dhs-rcna602950",
-      "topic": "Politics",
-      "reason": "Homeland Security Investigations agents executed the warrant 22 days before the midterms in a probe reportedly tied to immigration paperwork from her childhood, and Omar, who has not been charged, called it 'the latest escalation' in a campaign of political intimidation."
-    },
-    {
-      "title": "Trump claims a Russia-Ukraine 'energy ceasefire,' but Moscow keeps striking Ukrainian gas facilities",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/12/russia-ukraine-energy-ceasefire-trump.html",
-      "topic": "Politics",
-      "reason": "Zelensky said Kyiv only learned of the announcement from the media and saw no sign Russia was complying, as a jet-powered drone hit a Kharkiv-region gas site hours later and Russian Foreign Minister Lavrov dismissed the idea outright."
-    },
-    {
-      "title": "Fire destroys Paris's oldest covered food market, the historic Marche des Enfants Rouges",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20261012-fire-ravages-oldest-covered-food-market-in-paris",
+      "title": "Drone attacks sink a cargo ship off Bulgaria's Black Sea coast, leaving 11 sailors missing",
+      "source": "The Moscow Times",
+      "url": "https://www.themoscowtimes.com/2026/10/13/bulgaria-summons-russian-ambassador-after-drone-attack-sinks-ship-leaving-11-missing-a93963",
       "topic": "World",
-      "reason": "The overnight blaze collapsed part of the market's metal structure in the Marais district, a monument dating to 1615 that could stay closed for months, as officials investigate the cause and seek temporary space for displaced vendors."
+      "reason": "Prime Minister Radev called the strikes on two commercial vessels 'absolutely unacceptable' and summoned Russia's ambassador, while a second ship with 15 crew was rescued intact and EU Commission President von der Leyen condemned the attack."
     },
     {
-      "title": "Amazon is in talks to acquire AI startup Decart for about $7 billion after Anthropic walked away",
-      "source": "Seeking Alpha",
-      "url": "https://seekingalpha.com/news/4651954-amazon-in-talks-to-acquire-ai-startup-decart-for-7b-wsj",
-      "topic": "AI",
-      "reason": "The price nearly doubles Decart's $4 billion valuation from May and comes as Amazon races to build out its Trainium AI chips to compete with Nvidia, with the world-model and chip-switching startup having first drawn a roughly $6 billion offer from Anthropic that fell through in due diligence."
-    },
-    {
-      "title": "Microsoft unveils its Maia 300 AI chip, planning to deploy over a million to cut reliance on Nvidia",
-      "source": "The Tech Portal",
-      "url": "https://thetechportal.com/2026/10/12/microsoft-to-deploy-over-a-million-maia-300-ai-chips-to-cut-nvidia-reliance",
-      "topic": "AI",
-      "reason": "Unveiled at the OCP Global Summit, the in-house chip claims 40% more AI tokens per megawatt than leading GPU systems and is set to handle most of Microsoft's AI inference workloads from 2027, even as Nvidia remains the default for training its largest models."
-    },
-    {
-      "title": "Le Pen and Melenchon head for France's 2027 presidential runoff as the political divide deepens, poll shows",
+      "title": "A man stabs at least eight people at a shopping mall in Incheon, South Korea",
       "source": "U.S. News",
-      "url": "https://www.usnews.com/news/world/articles/2026-10-12/le-pen-melenchon-head-for-frances-political-divide-deepens-poll-shows",
-      "topic": "Politics",
-      "reason": "The Toluna Harris Interactive poll projects Le Pen winning roughly 35-37% in the first round with Melenchon's far-left bid now reaching the runoff in every scenario tested, underscoring how a hollowed-out political center is ceding ground to hardline parties as Macron's term ends."
-    },
-    {
-      "title": "A fourth Houthi strike in five days hits Riyadh's airport, killing one and wounding 11",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/12/saudi-arabia-says-1-dead-11-injured-in-latest-attack-on-riyadh-airport",
+      "url": "https://www.usnews.com/news/world/articles/2026-10-13/up-to-eight-people-hurt-in-supermarket-stabbing-in-south-koreas-incheon-media-reports-say",
       "topic": "World",
-      "reason": "Saudi forces shot down additional missiles aimed at the capital as King Khalid International Airport's closure was extended to at least October 17, deepening a crisis that began with Thursday's strike and Saturday's deadlier attack that killed 13."
+      "reason": "Bystanders subdued the 59-year-old suspect, a past attempted-murder convict who had been on electronic monitoring since 2019, after he moved through several floors attacking shoppers, leaving one woman in cardiac arrest and prompting President Lee to demand a swift investigation."
     },
     {
-      "title": "Nigerian fintech OPay files for a New York IPO targeting a $4 billion valuation",
-      "source": "Semafor",
-      "url": "https://www.semafor.com/article/10/12/2026/opay-readies-4b-new-york-ipo",
+      "title": "JPMorgan posts a rare earnings miss while Goldman Sachs beats as Wall Street's big banks kick off Q3 results",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/10/13/jpmorgan-goldman-sachs-citigroup-wells-fargo-interest-inflation/",
       "topic": "Economy",
-      "reason": "The SoftBank-backed company, whose first-half revenue jumped 137% to $467 million as lending overtook payments as its top earner, is testing Wall Street's appetite for African fintech with Standard Bank already agreeing to take up to a 4.99% stake."
+      "reason": "JPMorgan's $5.57-a-share profit fell short of the $5.93 Wall Street expected even as it rose from a year earlier, while Goldman's equities revenue surged 72% and Wells Fargo stock fell 3%, with all four banks warning that higher rates and 'sticky inflation' could still bite."
+    },
+    {
+      "title": "Elon Musk gives $276 million to Republican groups, becoming the 2026 midterms' biggest known donor",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/12/elon-musk-republican-donations-2026-midterm-election.html",
+      "topic": "Politics",
+      "reason": "The bulk of the money, $158 million, went to the Senate Leadership Fund with another $76 million to his own America PAC, pushing his total federal giving this cycle to roughly $366 million and already surpassing his 2024 spending."
+    },
+    {
+      "title": "France's navy intercepts a sanctioned Russian 'shadow fleet' tanker flying a false flag in the Indian Ocean",
+      "source": "Euromaidan Press",
+      "url": "https://euromaidanpress.com/2026/10/13/france-seizes-russian-shadow-fleet-tanker-in-indian-ocean/",
+      "topic": "World",
+      "reason": "President Macron said forces boarded the tanker DF Peak, linked to sanctioned shipper Sovcomflot, roughly 450 nautical miles south of Reunion Island and escorted it in for inspection, part of a wider campaign that has already cut Moscow's false-flag shadow fleet by more than half since last October."
+    },
+    {
+      "title": "UK Prime Minister Burnham says Iran's Revolutionary Guard was 'almost certainly' behind a plot against a US-used air base",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/world/suspected-plot-at-u-s-run-air-base-almost-certainly-directed-by-iran-uk-prime-minister-says",
+      "topic": "Politics",
+      "reason": "Britain sanctioned two Iranians, including a senior IRGC counterespionage official, after police found gasoline in vans linked to suspects arrested near RAF Fairford, prompting the Pentagon to pull its bombers from the base as Iran denies any involvement and demands evidence."
+    },
+    {
+      "title": "Apple's 'Welcome Home' event unveils a Siri-powered smart display, refreshed Apple TV and HomePod mini",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/10/12/apple-welcome-home-event-three-new-products",
+      "topic": "Tech",
+      "reason": "The $299 HomeView display marks Apple's first dedicated smart-home hub and can recognize up to six household members, though like the refreshed Apple TV 4K and $149 HomePod mini 2, its Siri AI features won't be available in the EU or, in HomePod's case, until a later software update."
+    },
+    {
+      "title": "A chip-stock selloff extends to a fifth straight day on fears the AI trade is overheating",
+      "source": "The Motley Fool",
+      "url": "https://www.fool.com/coverage/stock-market-today/2026/10/13/stock-market-midday-oct-13-bank-earnings-and-chip-pressure-drives-mixed-trading/",
+      "topic": "Economy",
+      "reason": "Micron fell more than 5% as reports of advances by China's memory chipmaker CXMT added to a slide already rattling markets from Seoul to Wall Street, even as strong bank earnings kept the broader indexes only modestly lower."
     }
   ]
 }
