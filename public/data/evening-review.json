@@ -1,61 +1,61 @@
 {
-  "generatedAt": "2026-10-14T19:30:00Z",
+  "generatedAt": "2026-10-15T19:30:00Z",
   "stories": [
     {
-      "title": "A hotter-than-expected September inflation report sends tech stocks tumbling",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-muted-after-chip-losses-drag-wall-street-cpi-data-awaited-4947807",
+      "title": "US wholesale inflation surges 6.3% year-over-year, the largest jump since 2022",
+      "source": "CNN",
+      "url": "https://www.cnn.com/2026/10/15/economy/us-retail-sales-wholesale-inflation-ppi-september",
       "topic": "Economy",
-      "reason": "Headline CPI rose 3.7% year-over-year against a 3.6% forecast, pushing the Nasdaq down roughly 2% and lifting the two-year Treasury yield over 10 basis points as traders raised bets on another Federal Reserve rate hike at the October 27-28 meeting."
+      "reason": "The hotter producer-price reading followed Wednesday's hot consumer inflation data and came alongside a better-than-expected 0.8% rise in September retail sales driven largely by gasoline prices, intensifying affordability concerns just weeks before the midterms."
     },
     {
-      "title": "A New York Times investigation finds Israel has leveled 48 of the roughly 60 villages it occupies in southern Lebanon",
-      "source": "Democracy Now",
-      "url": "https://www.democracynow.org/2026/10/14/headlines/nyt_israel_levels_48_villages_and_towns_it_occupies_in_southern_lebanon",
-      "topic": "World",
-      "reason": "The destruction of homes, schools, mosques and roads has concentrated in Shia-majority villages since the April ceasefire with Hezbollah, with the UN saying 329,000 people have been displaced and Israel's own defense minister previously acknowledging the demolitions as punishment."
-    },
-    {
-      "title": "US Ambassador to Greece Kimberly Guilfoyle resigns at the White House's request amid a credit-card scandal",
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/10/13/kimberly-guilfoyle-greece-ambassador-resigns-trump",
+      "title": "CNN reports the US military has drafted Iran strike plans that could include the 'mother of all bombs'",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/15/us-iran-war-trump-hormuz.html",
       "topic": "Politics",
-      "reason": "The resignation follows a Wall Street Journal report that she asked a Trump donor to pay off a $100,000 credit card bill in exchange for access to administration officials, along with allegations of improper gifts and threats to a host-country official, all of which she denies."
+      "reason": "The options reportedly target energy infrastructure ahead of a possible US withdrawal from the region, though officials question whether the GBU-43 could penetrate Iran's deeply buried nuclear sites, and the plans would only proceed if Trump orders a resumption of combat he has said won't happen before the midterms."
     },
     {
-      "title": "Iran's Revolutionary Guard says a cargo ship sank after hitting a naval mine in the Strait of Hormuz",
-      "source": "WRAL",
-      "url": "https://www.wral.com/news/ap/7e2c5-iran-says-a-ship-sank-after-striking-a-mine-in-strait-of-hormuz-and-other-middle-east-developments/",
-      "topic": "World",
-      "reason": "It is the first reported sinking from a mine strike since the war began, and comes as at least 10 vessels have been attacked in or near the strait since Sunday, the highest rate of the conflict, with the ship reportedly on a route the US had urged ships to use."
-    },
-    {
-      "title": "Federal investigators subpoena relatives of Rep. Ilhan Omar, including her sister",
-      "source": "Fox News",
-      "url": "https://www.foxnews.com/politics/rep-ilhan-omars-immigration-history-faces-new-scrutiny-federal-investigators-subpoena-relatives",
-      "topic": "Politics",
-      "reason": "The grand jury subpoenas, issued two days after agents searched Omar's DC home, reportedly focus on whether her late father made false statements on immigration forms, as a US attorney has separately confirmed investigations into her net worth and immigration history."
-    },
-    {
-      "title": "A Saudi national working as an OpenAI engineer is arrested for allegedly planting hidden recording devices in company offices",
+      "title": "Eight US states sue OpenAI, alleging ChatGPT is unsafe for children and coaches self-harm",
       "source": "NBC News",
-      "url": "https://www.nbcnews.com/tech/tech-news/openai-employee-arrested-hidden-listening-device-company-says-rcna603262",
+      "url": "https://www.nbcnews.com/tech/tech-news/openai-sued-eight-states-alleged-harm-chatgpt-rcna603614",
       "topic": "AI",
-      "reason": "FBI investigators say Abdulrahman Alfozan hid a microphone-equipped device behind a TV in a San Francisco executive conference room and later concealed a second one, with OpenAI saying its own AI models helped identify him and that no model weights or customer data were accessed."
+      "reason": "Iowa, Kansas, Nebraska and five other states filed separate suits accusing OpenAI of deceptive marketing and design, with Iowa's attorney general saying the chatbot has given dangerous medical advice and coached people toward suicide, seeking both product changes and financial penalties."
     },
     {
-      "title": "Alibaba launches its Qwen Glasses N1 smart glasses, pushing AI onto wearables to rival Meta",
-      "source": "The Star",
-      "url": "https://www.thestar.com.my/tech/tech-news/2026/10/14/alibaba-unveils-us450-ai-glasses-in-expanding-push-into-gadgets",
+      "title": "Anthropic's third-quarter revenue reportedly hits $16.8 billion, up 45%, ahead of a planned IPO",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-reports-45-revenue-growth-102235753.html",
       "topic": "AI",
-      "reason": "Priced at $450 with a Pro model adding eye tracking and iris payments, the glasses mirror Meta's Ray-Ban strategy of using hardware as an entry point for AI agents, with pricing that signals Alibaba is competing on features rather than undercutting rivals."
+      "reason": "The company told investors it posted positive free cash flow and an 85% adjusted gross margin even as growth slows from earlier in the year, with a listing targeting a valuation above $2 trillion that could begin marketing as soon as November, though some reports say it may slip past the midterms."
     },
     {
-      "title": "Dating app Bumble agrees to go private in a $1.3 billion deal with Ithaca Holdings",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/13/bumble-agrees-to-a-1-3b-acquisition-deal-as-online-dating-faces-a-reset/",
-      "topic": "Economy",
-      "reason": "Shareholders will get $6.05 a share, a premium of over 100% to recent trading, as founder Whitney Wolfe Herd and Blackstone approve the all-cash buyout of a company once valued at $14 billion but now grappling with falling revenue and shrinking paid subscriptions."
+      "title": "A federal judge blocks the Trump administration from sanctioning two rights groups that assist the ICC's Gaza inquiry",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/us-judge-bars-trump-punishing-rights-groups-liaising-international-criminal-court",
+      "topic": "Politics",
+      "reason": "Judge Jesse Furman found DAWN and the Taxpayer Alliance Against Genocide likely to succeed on First Amendment grounds, though he limited the injunction to just these two groups and left the broader ICC sanctions regime intact as four other rights organizations pursue separate suits."
+    },
+    {
+      "title": "Former DUP leader Jeffrey Donaldson is sentenced to 15 years for raping and sexually abusing two girls",
+      "source": "Irish Star",
+      "url": "https://www.irishstar.com/news/ireland-news/former-dup-leader-jeffrey-donaldson-37775948",
+      "topic": "World",
+      "reason": "A judge at Newry Crown Court criticized Donaldson, convicted in June on all 18 counts spanning offenses from 1985 to 2008, for showing no remorse or shame, while his own party said he deserves every day of the sentence."
+    },
+    {
+      "title": "Turkish police raid opposition broadcaster Halk TV in Istanbul, sparking media-freedom outrage",
+      "source": "Euronews",
+      "url": "https://www.euronews.com/2026/10/15/turkish-police-raid-halk-tv-in-istanbul-sparking-outrage-over-media-freedom",
+      "topic": "World",
+      "reason": "The raid on one of Turkey's few remaining opposition-aligned channels has drawn condemnation from press-freedom advocates, adding to concerns about shrinking independent media space under President Erdogan's government."
+    },
+    {
+      "title": "The World Food Programme warns escalating fighting in Yemen has cut off aid to 800,000 people",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/14/renewed-fighting-risks-humanitarian-catastrophe-in-yemen-aid-groups-warn",
+      "topic": "World",
+      "reason": "Taiz is the hardest hit, with WFP unable to reach more than 600,000 people there as wheat flour stocks run out, and the agency says it will have to cut assistance further from November without new funding even as more than 18 million Yemenis already face acute food insecurity."
     }
   ]
 }
