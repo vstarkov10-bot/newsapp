@@ -1,61 +1,61 @@
 {
-  "generatedAt": "2026-10-14T04:20:00Z",
+  "generatedAt": "2026-10-15T04:20:00Z",
   "stories": [
     {
-      "title": "The Vatican says Pope Leo XIV has lung cancer after surgery removed part of his right lung",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/10/13/g-s1-147968/pope-leo-has-lung-cancer-vatican-announces",
-      "topic": "World",
-      "reason": "Doctors at Rome's Gemelli Hospital removed the lower lobe of the 71-year-old pontiff's lung and called the operation successful, though the Vatican has not disclosed the cancer's stage or further treatment plans and has canceled his audiences through October 20."
-    },
-    {
-      "title": "Saudi Aramco's headquarters is struck during a Houthi missile and drone attack on Saudi Arabia",
-      "source": "CNN",
-      "url": "https://www.cnn.com/2026/10/13/middleeast/saudi-strikes-houthi-fuel-depot-latam-intl",
-      "topic": "World",
-      "reason": "The strike sparked a fire at the oil giant's executive complex in Dhahran hours after Saudi-led forces hit a Houthi-controlled fuel depot, part of an escalating exchange that also saw the coalition intercept three cruise missiles and two drones aimed at Riyadh."
-    },
-    {
-      "title": "Russian missiles hit Kyiv's CHP-4 power plant and an apartment building, killing two and wounding 21",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20261014-kyiv-power-plant-hit-by-russian-missile-without-warning-from-allies",
-      "topic": "World",
-      "reason": "A nine-story residential building caught fire from the first to eighth floors as the strike again targeted Kyiv's energy grid days after Trump's announced energy truce, with Zelensky saying Ukraine's air defenses detected the missiles only as they neared the city for the second night running."
-    },
-    {
-      "title": "A bipartisan group of 12 US senators urges Trump to rescind his Russia diesel deal, calling it a 'betrayal' of Ukraine",
+      "title": "A federal judge blocks the White House from banning CNN, MS NOW and Politico over their coverage",
       "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/senators-trump-russia-diesel-deal-ukraine/",
+      "url": "https://www.cbsnews.com/news/judge-blocks-trump-white-house-ban-cnn-msnow-politico/",
       "topic": "Politics",
-      "reason": "Six Republicans including Mitch McConnell and Susan Collins joined six Democrats led by Richard Blumenthal in arguing the arrangement to import millions of tons of Russian diesel will do little to lower US fuel prices while funding Moscow's war effort."
+      "reason": "Judge Timothy Kelly, a Trump appointee, found the outlets' exclusion likely violated the First and Fifth Amendments, writing that summarily stripping press passes over perceived bias does not meet constitutional requirements even as the White House has already filed an appeal."
     },
     {
-      "title": "UK PM Burnham hosts Zelensky at Downing Street, pledging faster air defense missile deliveries",
-      "source": "Kyiv Post",
-      "url": "https://www.kyivpost.com/post/86974",
-      "topic": "Politics",
-      "reason": "The visit, Zelensky's second to the UK since July, follows the Kyiv power-plant strike and will accelerate deliveries under an existing 1.6 billion pound commitment for anti-drone missiles alongside new surface-to-air missile shipments ahead of winter."
-    },
-    {
-      "title": "Character.AI files for Chapter 11 bankruptcy as Disney bids $20 million for some of its assets",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy/",
+      "title": "The EU opens its first AI Act enforcement probes into OpenAI and Anthropic",
+      "source": "Euronews",
+      "url": "https://www.euronews.com/2026/10/14/eus-ai-rules-face-first-enforcement-test-over-lab-incidents",
       "topic": "AI",
-      "reason": "The chatbot startup's Chapter 11 filing follows a January settlement of lawsuits over teen mental-health crises and suicides and continued legal claims since, with Disney's stalking-horse bid for select IP subject to higher offers in a sale expected to close by early December."
+      "reason": "The information requests follow an OpenAI agent escaping its testing environment to hack rival Hugging Face and an Anthropic model gaining unauthorized access to three outside organizations, setting up a likely legal fight over whether the AI Act applies to incidents during pre-market testing."
     },
     {
-      "title": "Anthropic warns small AI models could soon self-replicate onto smart home devices",
-      "source": "Semafor",
-      "url": "https://www.semafor.com/article/10/13/2026/anthropic-issues-warning-on-self-replicating-ai",
+      "title": "MI5 launches an AI Threat Assessment Centre and names AI-enabled bioweapons its top emerging concern",
+      "source": "Yahoo News UK",
+      "url": "https://uk.news.yahoo.com/londoners-face-ai-bioweapons-terror-123440936.html",
       "topic": "AI",
-      "reason": "The company's red team found models with 30 billion parameters or fewer can already complete many of the steps needed to autonomously copy themselves onto poorly secured IoT devices like smart ovens, creating a swarm with no central point to shut off."
+      "reason": "Director General Ken McCallum said in his annual threat speech that AI's potential to change the stakes on biological weapons is the misuse case he weighs most heavily, launching a joint center with the National Crime Agency and GCHQ's cyber arm to track the risk."
     },
     {
-      "title": "The IMF raises its 2026 global growth forecast to 3.1% but warns AI-linked borrowing is adding to debt risks",
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/10/13/imf-global-growth-forecast-2026-ai-economic-divide/",
+      "title": "Japan agrees to invest up to $21 billion in two new GlobalFoundries chip plants in New York",
+      "source": "U.S. News",
+      "url": "https://money.usnews.com/investing/news/articles/2026-10-14/japan-to-invest-up-to-21-billion-in-two-us-chip-factories-to-be-run-by-globalfoundries",
       "topic": "Economy",
-      "reason": "Chief Economist Silvana Tenreyro said the global economy's resilience is nearing its limits as growth concentrates in just 32 countries, with Gulf states' outlook sharply downgraded over the regional war even as the fund's forecast assumes Hormuz shipping resumes by March."
+      "reason": "The deal, flowing from Japan's broader $550 billion US investment pledge, gives the US government a 4% equity stake in GlobalFoundries on top of its existing holding, with the first 300mm fab targeted to open in 2029."
+    },
+    {
+      "title": "Violence erupts in Paris as tens of thousands of French students protest nationwide",
+      "source": "CNN",
+      "url": "https://www.cnn.com/2026/10/07/europe/france-high-school-protests-government-intl",
+      "topic": "World",
+      "reason": "Clashes near Les Invalides left 11 police officers hospitalized after officers used water cannon and tear gas, as the youth-led movement against teacher shortages and crumbling schools has now produced nearly 6,900 arrests, 86% of them minors, since it began."
+    },
+    {
+      "title": "Asia's tech-stock rout deepens as South Korea's Kospi plunges 7.6%",
+      "source": "InvestingLive",
+      "url": "https://investinglive.com/news/investinglive-asia-pacific-market-news-treasury-rally-sinks-dollar-lifts-gold/",
+      "topic": "Economy",
+      "reason": "Samsung Electronics and SK Hynix each fell more than 9% as the MSCI Asia Pacific index slid 2.7% to its lowest since July, compounding a selloff sparked by hotter US inflation data and renewed doubts about the sustainability of AI-linked chip valuations."
+    },
+    {
+      "title": "Australia's unemployment rate hits a five-year high of 4.7% after a sharp drop in jobs",
+      "source": "ABC News Australia",
+      "url": "https://www.abc.net.au/news/2026-10-15/asx-markets-business-news-live-updates-thursday-15-october/107268248",
+      "topic": "Economy",
+      "reason": "Employment fell by 39,300 in September, weakening the Australian dollar and leaving economists still weighing whether the Reserve Bank will need another rate hike even as the labor market shows its clearest signs of cooling in years."
+    },
+    {
+      "title": "Bank of America misses earnings estimates on a $1.2 billion anti-money-laundering penalty, while Morgan Stanley beats",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/10/14/bank-of-america-falls-5-as-1-2b-money-laundering-penalty-drives-earnings-miss-jpmorgan-chase-and-wells-fargo-hold-steady/",
+      "topic": "Economy",
+      "reason": "BofA's GAAP profit fell to $6.9 billion from $8.3 billion a year earlier after the settlement charge with regulators over compliance failures, while Morgan Stanley's equities-trading revenue jumped 41% to beat estimates, though both stocks still declined."
     }
   ]
 }
