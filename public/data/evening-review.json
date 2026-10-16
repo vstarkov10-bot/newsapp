@@ -1,61 +1,61 @@
 {
-  "generatedAt": "2026-10-15T19:30:00Z",
+  "generatedAt": "2026-10-16T19:30:00Z",
   "stories": [
     {
-      "title": "US wholesale inflation surges 6.3% year-over-year, the largest jump since 2022",
-      "source": "CNN",
-      "url": "https://www.cnn.com/2026/10/15/economy/us-retail-sales-wholesale-inflation-ppi-september",
-      "topic": "Economy",
-      "reason": "The hotter producer-price reading followed Wednesday's hot consumer inflation data and came alongside a better-than-expected 0.8% rise in September retail sales driven largely by gasoline prices, intensifying affordability concerns just weeks before the midterms."
-    },
-    {
-      "title": "CNN reports the US military has drafted Iran strike plans that could include the 'mother of all bombs'",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/15/us-iran-war-trump-hormuz.html",
-      "topic": "Politics",
-      "reason": "The options reportedly target energy infrastructure ahead of a possible US withdrawal from the region, though officials question whether the GBU-43 could penetrate Iran's deeply buried nuclear sites, and the plans would only proceed if Trump orders a resumption of combat he has said won't happen before the midterms."
-    },
-    {
-      "title": "Eight US states sue OpenAI, alleging ChatGPT is unsafe for children and coaches self-harm",
+      "title": "Trump cancels Defense Secretary Hegseth's plan to livestream Fort Hood shooter Nidal Hasan's execution",
       "source": "NBC News",
-      "url": "https://www.nbcnews.com/tech/tech-news/openai-sued-eight-states-alleged-harm-chatgpt-rcna603614",
-      "topic": "AI",
-      "reason": "Iowa, Kansas, Nebraska and five other states filed separate suits accusing OpenAI of deceptive marketing and design, with Iowa's attorney general saying the chatbot has given dangerous medical advice and coached people toward suicide, seeking both product changes and financial penalties."
-    },
-    {
-      "title": "Anthropic's third-quarter revenue reportedly hits $16.8 billion, up 45%, ahead of a planned IPO",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-reports-45-revenue-growth-102235753.html",
-      "topic": "AI",
-      "reason": "The company told investors it posted positive free cash flow and an 85% adjusted gross margin even as growth slows from earlier in the year, with a listing targeting a valuation above $2 trillion that could begin marketing as soon as November, though some reports say it may slip past the midterms."
-    },
-    {
-      "title": "A federal judge blocks the Trump administration from sanctioning two rights groups that assist the ICC's Gaza inquiry",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/us-judge-bars-trump-punishing-rights-groups-liaising-international-criminal-court",
+      "url": "https://www.nbcnews.com/politics/donald-trump/trump-no-livestream-execution-nidal-hasan-rcna603697",
       "topic": "Politics",
-      "reason": "Judge Jesse Furman found DAWN and the Taxpayer Alliance Against Genocide likely to succeed on First Amendment grounds, though he limited the injunction to just these two groups and left the broader ICC sanctions regime intact as four other rights organizations pursue separate suits."
+      "reason": "Trump said the December 3 firing-squad execution will proceed but will not be broadcast, reversing Hegseth's announcement after bipartisan criticism, with a White House official saying Trump had not realized Hasan was paralyzed when he first considered the idea."
     },
     {
-      "title": "Former DUP leader Jeffrey Donaldson is sentenced to 15 years for raping and sexually abusing two girls",
-      "source": "Irish Star",
-      "url": "https://www.irishstar.com/news/ireland-news/former-dup-leader-jeffrey-donaldson-37775948",
-      "topic": "World",
-      "reason": "A judge at Newry Crown Court criticized Donaldson, convicted in June on all 18 counts spanning offenses from 1985 to 2008, for showing no remorse or shame, while his own party said he deserves every day of the sentence."
-    },
-    {
-      "title": "Turkish police raid opposition broadcaster Halk TV in Istanbul, sparking media-freedom outrage",
-      "source": "Euronews",
-      "url": "https://www.euronews.com/2026/10/15/turkish-police-raid-halk-tv-in-istanbul-sparking-outrage-over-media-freedom",
-      "topic": "World",
-      "reason": "The raid on one of Turkey's few remaining opposition-aligned channels has drawn condemnation from press-freedom advocates, adding to concerns about shrinking independent media space under President Erdogan's government."
-    },
-    {
-      "title": "The World Food Programme warns escalating fighting in Yemen has cut off aid to 800,000 people",
+      "title": "Israeli settlers burn olive trees and injure a Washington Post photojournalist in a West Bank attack",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/14/renewed-fighting-risks-humanitarian-catastrophe-in-yemen-aid-groups-warn",
+      "url": "https://www.aljazeera.com/news/2026/10/16/israeli-settlers-continue-progrom-amid-olive-harvest-in-occupied-west-bank",
       "topic": "World",
-      "reason": "Taiz is the hardest hit, with WFP unable to reach more than 600,000 people there as wheat flour stocks run out, and the agency says it will have to cut assistance further from November without new funding even as more than 18 million Yemenis already face acute food insecurity."
+      "reason": "Roughly 80 settlers attacked olive pickers near Ramallah, with monitoring group Yesh Din recording at least 170 such attacks since late September, the start of this year's harvest season, as witnesses say an armed settler fired a gun during the assault."
+    },
+    {
+      "title": "Trump's approval rating falls to a record-low 36% in a new Fox News poll",
+      "source": "Yahoo News",
+      "url": "https://www.yahoo.com/news/politics/articles/donald-trumps-approval-falls-record-033157180.html",
+      "topic": "Politics",
+      "reason": "The survey found inflation is his weakest issue at just 22% approval, Republican approval of him hit a record low of 76%, and Democrats now lead Republicans by nine points on the generic midterm ballot."
+    },
+    {
+      "title": "A 19-year-old is charged with plotting a mass shooting at a Hindu temple in suburban Chicago",
+      "source": "ABC7 New York",
+      "url": "https://abc7ny.com/story/teen-accused-plotting-mass-shooting-chicago-area-hindu-temple/19940295/",
+      "topic": "Politics",
+      "reason": "Prosecutors say Alexandros Paporakis drove to the Aurora temple with a rifle that malfunctioned, and that a manifesto recovered by police referenced violence against Indian, Jewish, Black and other 'non-white' people, after a coworker alerted authorities to his messages."
+    },
+    {
+      "title": "Gartner warns over $3.5 trillion in AI infrastructure spending could face impairment by 2030",
+      "source": "Gartner",
+      "url": "https://www.gartner.com/en/newsroom/press-releases/2026-10-14-gartner-says-over-us-dollars-three-and-a-half-trillion-of-artificial-intelligence-infrastructure-spending-could-be-exposed-to-impairment-by-the-end-of-2030",
+      "topic": "AI",
+      "reason": "The firm says AI providers need about $8.5 trillion in revenue through 2030 to cover planned capital spending and financing costs, against a forecast ceiling of just $3.6 trillion in AI-attributable revenue, and expects more than 80% of smaller 'neocloud' GPU providers to fold by then."
+    },
+    {
+      "title": "The Justice Department sues California, seeking to block mail ballots from 20,000 alleged noncitizen voters",
+      "source": "San Francisco Chronicle",
+      "url": "https://www.sfchronicle.com/politics/article/doj-california-ballots-lawsuit-22478986.php",
+      "topic": "Politics",
+      "reason": "The suit, filed weeks before the midterms, asks a federal judge to compel the state to set aside the ballots pending citizenship verification after California didn't act on a 48-hour DOJ deadline, while Governor Newsom calls it a 'desperate attempt' at voter suppression."
+    },
+    {
+      "title": "Fed Chair Kevin Warsh gives no rate signal at the IMF meetings, and October hike odds collapse",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/16/feds-warsh-says-ai-development-path-will-be-very-bumpy-.html",
+      "topic": "Economy",
+      "reason": "Warsh's refusal to telegraph the Fed's next move in Bangkok sent October rate-hike odds tumbling to about 15% from nearly 28%, even as he called AI the biggest economic shift he has witnessed and warned its transition will be 'very bumpy.'"
+    },
+    {
+      "title": "The White House's Super Intelligence task force adopts its charter to assess AI risks within 120 days",
+      "source": "Technology.org",
+      "url": "https://www.technology.org/2026/10/16/white-house-super-intelligence-force-charter-120-days/",
+      "topic": "AI",
+      "reason": "The charter directs a presidential science advisory council to assess cybersecurity, biosecurity and model-control risks while a Pentagon undersecretary drafts breach-reporting rules for AI labs, building on a voluntary industry accord that critics say favors self-policing over new regulation."
     }
   ]
 }
