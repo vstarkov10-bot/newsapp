@@ -1,61 +1,61 @@
 {
-  "generatedAt": "2026-10-16T19:30:00Z",
+  "generatedAt": "2026-10-17T19:30:00Z",
   "stories": [
     {
-      "title": "Trump cancels Defense Secretary Hegseth's plan to livestream Fort Hood shooter Nidal Hasan's execution",
-      "source": "NBC News",
-      "url": "https://www.nbcnews.com/politics/donald-trump/trump-no-livestream-execution-nidal-hasan-rcna603697",
-      "topic": "Politics",
-      "reason": "Trump said the December 3 firing-squad execution will proceed but will not be broadcast, reversing Hegseth's announcement after bipartisan criticism, with a White House official saying Trump had not realized Hasan was paralyzed when he first considered the idea."
-    },
-    {
-      "title": "Israeli settlers burn olive trees and injure a Washington Post photojournalist in a West Bank attack",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/16/israeli-settlers-continue-progrom-amid-olive-harvest-in-occupied-west-bank",
+      "title": "Over 550,000 people join nationwide cost-of-living protests across France, with violent clashes in several cities",
+      "source": "CNN",
+      "url": "https://www.cnn.com/2026/10/17/world/live-news/france-protests-paris-intl",
       "topic": "World",
-      "reason": "Roughly 80 settlers attacked olive pickers near Ramallah, with monitoring group Yesh Din recording at least 170 such attacks since late September, the start of this year's harvest season, as witnesses say an armed settler fired a gun during the assault."
+      "reason": "Police detained 195 people in Paris alone, including 13 minors, while a tourist office was torched in Lyon and a government building stormed in Marseille, as Interior Minister Lecornu warned the student movement was turning into a wave of urban violence ahead of France's 2027 presidential election."
     },
     {
-      "title": "Trump's approval rating falls to a record-low 36% in a new Fox News poll",
-      "source": "Yahoo News",
-      "url": "https://www.yahoo.com/news/politics/articles/donald-trumps-approval-falls-record-033157180.html",
+      "title": "Trump signs an executive order waiving new Russia sanctions days before they would have taken effect",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/politics/trump-administration/trump-suspends-new-russia-sanctions-deal-purchase-diesel-citing-nation-rcna603991",
       "topic": "Politics",
-      "reason": "The survey found inflation is his weakest issue at just 22% approval, Republican approval of him hit a record low of 76%, and Democrats now lead Republicans by nine points on the generic midterm ballot."
+      "reason": "The order suspends the Graham Act's tariffs of up to 500% on Russian goods and other sanctions Congress passed by large margins, drawing bipartisan condemnation including from GOP Senator Thom Tillis, as Zelensky said he felt Trump was 'rewarding Putin.'"
     },
     {
-      "title": "A 19-year-old is charged with plotting a mass shooting at a Hindu temple in suburban Chicago",
-      "source": "ABC7 New York",
-      "url": "https://abc7ny.com/story/teen-accused-plotting-mass-shooting-chicago-area-hindu-temple/19940295/",
+      "title": "Putin declares Russia is building a non-negotiable 660-kilometer 'security zone' inside Ukraine",
+      "source": "U.S. News",
+      "url": "https://www.usnews.com/news/world/articles/2026-10-16/putin-says-russia-is-building-non-negotiable-security-zone-in-ukraine-along-border",
+      "topic": "World",
+      "reason": "The zone spans parts of Ukraine's Sumy and Kharkiv regions, about 70% already under Russian control, with Putin explicitly ruling it out of any future talks as Ukraine's foreign ministry said the move shows Moscow isn't meaningfully interested in peace."
+    },
+    {
+      "title": "Nine former FBI employees sue the Trump administration over firings tied to the Mar-a-Lago documents case",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/10/15/trump-fbi-agents-lawsuit-classified-documents-firings",
       "topic": "Politics",
-      "reason": "Prosecutors say Alexandros Paporakis drove to the Aurora temple with a rifle that malfunctioned, and that a manifesto recovered by police referenced violence against Indian, Jewish, Black and other 'non-white' people, after a coworker alerted authorities to his messages."
+      "reason": "The plaintiffs allege FBI Director Kash Patel orchestrated politically motivated retribution against staff who worked the investigation, seeking reinstatement after being dismissed in February without internal review or a chance to contest their termination."
     },
     {
-      "title": "Gartner warns over $3.5 trillion in AI infrastructure spending could face impairment by 2030",
-      "source": "Gartner",
-      "url": "https://www.gartner.com/en/newsroom/press-releases/2026-10-14-gartner-says-over-us-dollars-three-and-a-half-trillion-of-artificial-intelligence-infrastructure-spending-could-be-exposed-to-impairment-by-the-end-of-2030",
+      "title": "Anthropic says Claude autonomously redesigned quantum circuits, cutting gate counts by up to 17 times",
+      "source": "Quantum Zeitgeist",
+      "url": "https://quantumzeitgeist.com/claude-quantum-optimization-anthropics-improves/",
       "topic": "AI",
-      "reason": "The firm says AI providers need about $8.5 trillion in revenue through 2030 to cover planned capital spending and financing costs, against a forecast ceiling of just $3.6 trillion in AI-attributable revenue, and expects more than 80% of smaller 'neocloud' GPU providers to fold by then."
+      "reason": "Working in a 53-hour closed loop with only plain-language specifications, the model beat previously published designs on seven of eight tasks, including replacing Google's extended Euclidean algorithm with Berlekamp-Massey to cut gate count roughly 12-fold on one decoder."
     },
     {
-      "title": "The Justice Department sues California, seeking to block mail ballots from 20,000 alleged noncitizen voters",
-      "source": "San Francisco Chronicle",
-      "url": "https://www.sfchronicle.com/politics/article/doj-california-ballots-lawsuit-22478986.php",
-      "topic": "Politics",
-      "reason": "The suit, filed weeks before the midterms, asks a federal judge to compel the state to set aside the ballots pending citizenship verification after California didn't act on a 48-hour DOJ deadline, while Governor Newsom calls it a 'desperate attempt' at voter suppression."
-    },
-    {
-      "title": "Fed Chair Kevin Warsh gives no rate signal at the IMF meetings, and October hike odds collapse",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/16/feds-warsh-says-ai-development-path-will-be-very-bumpy-.html",
-      "topic": "Economy",
-      "reason": "Warsh's refusal to telegraph the Fed's next move in Bangkok sent October rate-hike odds tumbling to about 15% from nearly 28%, even as he called AI the biggest economic shift he has witnessed and warned its transition will be 'very bumpy.'"
-    },
-    {
-      "title": "The White House's Super Intelligence task force adopts its charter to assess AI risks within 120 days",
-      "source": "Technology.org",
-      "url": "https://www.technology.org/2026/10/16/white-house-super-intelligence-force-charter-120-days/",
+      "title": "DeepSeek releases its V4.1-Flash-1017 model with open MIT-licensed weights and a new search API",
+      "source": "MarkTechPost",
+      "url": "https://www.marktechpost.com/2026/10/17/deepseek-just-released-v4-1-flash-1017-scores-77-0-on-deepswe-opens-search-api/",
       "topic": "AI",
-      "reason": "The charter directs a presidential science advisory council to assess cybersecurity, biosecurity and model-control risks while a Pentagon undersecretary drafts breach-reporting rules for AI labs, building on a voluntary industry accord that critics say favors self-policing over new regulation."
+      "reason": "The update beat the prior Flash version on all 11 benchmarks DeepSeek reported while cutting output length, and opened its proprietary search and fetch APIs to outside developers for the first time at $0.75 per thousand calls."
+    },
+    {
+      "title": "Pope Leo XIV leaves the hospital four days after lung cancer surgery",
+      "source": "OPB",
+      "url": "https://www.opb.org/article/2026/10/17/pope-leo-xiv-leaves-hospital-days-after-lung-cancer-surgery/",
+      "topic": "World",
+      "reason": "Doctors confirmed the 71-year-old pontiff had adenocarcinoma after removing the lower lobe of his right lung, and while he's been cleared to return to the Vatican for Sunday's traditional blessing, tests on whether the cancer has spread are still pending."
+    },
+    {
+      "title": "An EU summit erupts into open clashes over migration as Denmark, Italy and Poland challenge Spain's plan to regularize 600,000 migrants",
+      "source": "Euronews",
+      "url": "https://www.euronews.com/2026/10/16/eu-summit-leaders-to-rally-behind-zelenskyy-amid-bitter-row-with-trump",
+      "topic": "World",
+      "reason": "Macron warned that politicizing the debate was dividing the bloc, but leaders left Brussels with no deal on the next seven-year budget and no fresh Ukraine funding commitments, exposing deepening rifts even as they tried to project unity behind Zelensky."
     }
   ]
 }
