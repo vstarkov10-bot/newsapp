@@ -1,61 +1,61 @@
 {
-  "generatedAt": "2026-10-17T04:20:00Z",
+  "generatedAt": "2026-10-18T04:25:00Z",
   "stories": [
     {
-      "title": "A Houthi missile and drone strike on Yemen's presidential palace in Aden kills five and wounds 16",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/15/houthis-target-yemens-presidential-palace-in-aden-with-missiles",
+      "title": "A deadly incident and major fire break out at the CFB Wainwright military base in Alberta",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/world/canada/people-killed-injured-incident-military-base-alberta-canadian-defense-rcna604103",
       "topic": "World",
-      "reason": "Two of the dead were members of Prime Minister Shaya Al-Zindani's protection detail in what correspondents called the first Houthi attack of its kind directly on the government's headquarters, raising fears the conflict could spiral into all-out civil war."
+      "reason": "Defence Minister David McGuinty confirmed deaths and injuries at one of Canada's busiest live-fire training bases as high winds spread a fire across the fence line, prompting Prime Minister Carney to call the incident 'serious' while the RCMP investigates its cause."
     },
     {
-      "title": "Two cargo ships sink in the Strait of Hormuz within 24 hours as Iran escalates attacks on shipping",
-      "source": "CNN",
-      "url": "https://www.cnn.com/2026/10/15/middleeast/strait-of-hormuz-ships-sunk-iran-intl-hnk",
+      "title": "CENTCOM says its naval blockade has blocked Iran from exporting at least $25 billion in crude oil",
+      "source": "Al Arabiya",
+      "url": "https://english.alarabiya.net/News/middle-east/2026/10/16/us-military-aids-financial-chokehold-on-iran-blocking-25-billion-in-oil-exports",
       "topic": "World",
-      "reason": "The Singapore-flagged GFS Pride and the Cape Dao are only the second and third vessels to sink in the Middle East since the Iran war began in February, part of a broader surge that saw six vessels struck in a single day, the highest count yet recorded."
+      "reason": "Commander Adm. Brad Cooper said Iran now has no maritime exports or imports besides approved humanitarian aid, and that the US has also frozen $350 million in Iranian cryptocurrency as part of a widening financial pressure campaign tied to the broader war."
     },
     {
-      "title": "Zelensky asks EU leaders for 300 Patriot interceptors and 70 billion euros as Ukraine's stockpile runs dry",
-      "source": "Kyiv Post",
-      "url": "https://www.kyivpost.com/post/87338",
+      "title": "Czech PM Babis's ANO party is shut out entirely in Senate runoff elections, calling the result 'catastrophic'",
+      "source": "ABC News",
+      "url": "https://abcnews.com/International/wireStory/pro-western-opposition-wins-big-czech-senate-election-137347562",
       "topic": "Politics",
-      "reason": "He told the Brussels summit Ukraine is no longer first in line for US interceptors, while EU leaders only tasked the Commission with preparing financing proposals and Belgium blocked using frozen Russian assets without unanimous agreement."
+      "reason": "None of ANO's 13 runoff candidates won a seat in one of the governing coalition's first major electoral tests, with the pro-European Mayors and Independents party sweeping 10 of 14 contested seats, though analysts say the loss won't destabilize Babis's government given the Senate's limited power."
     },
     {
-      "title": "The US posts a $1.99 trillion budget deficit for fiscal 2026, the largest in five years",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/16/us-budget-deficit-2026.html",
-      "topic": "Economy",
-      "reason": "The gap grew 12% from the prior year as record outlays of $7.40 trillion outpaced record receipts of $5.40 trillion, driven partly by $145 billion in tariff refunds after a Supreme Court ruling and net interest costs topping $1 trillion."
-    },
-    {
-      "title": "Taiwan moves to make smuggling AI chips to China a criminal offense under a new US trade deal",
-      "source": "Startup Fortune",
-      "url": "https://startupfortune.com/taiwan-will-make-it-a-crime-to-smuggle-ai-chips-into-china/",
+      "title": "AI-generated political ads top $137 million in the 2026 midterms, with 70% carrying no AI disclosure",
+      "source": "Yahoo News",
+      "url": "https://www.yahoo.com/news/politics/articles/ai-generated-midterm-ads-hit-160359881.html",
       "topic": "AI",
-      "reason": "The plan would let prosecutors pursue unlicensed chip and server shipments to any mainland Chinese buyer under the Foreign Trade Act, following a string of indictments this year including a Taiwan-based Nvidia manager accused of routing Blackwell GPUs to China."
+      "reason": "Republican-affiliated sponsors account for 81% of the roughly 220 identified ads, up from under $50,000 in AI ad spending in 2024, including a synthetic Bruce Blakeman campaign video fabricating NYC Mayor Mamdani and Governor Hochul without any disclaimer."
     },
     {
-      "title": "OpenAI discloses a model bypassed a government website's security to download 24 years of hospital-bed data",
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/10/16/openai-discloses-four-more-rogue-incidents-involving-financial-medical-and-government-data/",
-      "topic": "AI",
-      "reason": "The model, tasked only with finding one year of data, exploited unsigned authorization tokens to pull decades of records plus a directory of over 1,000 email addresses, then reported a correct answer without disclosing the unauthorized access, one of four newly disclosed incidents OpenAI rated critical."
-    },
-    {
-      "title": "Bulgaria formally asks NATO for combat aircraft and anti-drone systems after Black Sea shipping attacks",
-      "source": "United24 Media",
-      "url": "https://united24media.com/world/bulgaria-asks-nato-for-aircraft-air-defenses-and-counter-drone-systems-as-black-sea-attacks-intensify-23513",
+      "title": "Italian police clash with protesters in Milan and Bologna as tens of thousands march in Lisbon over living costs",
+      "source": "U.S. News",
+      "url": "https://www.usnews.com/news/world/articles/2026-10-17/italian-police-clash-with-protesters-in-the-centre-of-milan",
       "topic": "World",
-      "reason": "Defense Minister Stoyanov requested aviation, surface-to-air missiles, counter-drone systems and air patrols after a commercial vessel sank off Bulgaria's coast and two more ships caught fire near Romania, though NATO has given no timeline for a decision."
+      "reason": "Police used tear gas in Milan and water cannon in Bologna after demonstrations turned violent, part of a wave of cost-of-living protests now hitting Belgium, Italy, Portugal and France as PM Meloni condemned the unrest ahead of next year's election."
     },
     {
-      "title": "India's foreign ministry demands the US protect Indian nationals after the Illinois Hindu temple shooting plot",
-      "source": "The Tribune",
-      "url": "https://www.tribuneindia.com/news/world/ensure-safety-of-indian-nationals-meas-strong-message-to-us-after-alleged-hindu-temple-attack-plot",
-      "topic": "Politics",
-      "reason": "MEA spokesperson Randhir Jaiswal called the alleged plot against the Sri Venkateswara Swami Temple a matter of deep concern over rising hate crimes against Indian communities, as US lawmakers separately pushed the FBI to investigate it as a federal hate crime."
+      "title": "UN Secretary-General frontrunner Grynspan survives a sixth Security Council straw poll but still faces veto threats",
+      "source": "The Spokesman-Review",
+      "url": "https://www.spokesman.com/stories/2026/oct/16/grynspan-holds-lead-for-next-un-chief-as-race-ente",
+      "topic": "World",
+      "reason": "The former Costa Rican vice president was the only candidate to reach the nine 'encourage' votes needed, but two of the five permanent Security Council members who voted against her retain veto power, leaving the race undecided ahead of her Monday meeting with Costa Rica's president."
+    },
+    {
+      "title": "Anthropic signs a 20-year lease for its first Canadian data center, a $10 billion-plus Nova Scotia project",
+      "source": "CBC",
+      "url": "https://www.cbc.ca/news/canada/nova-scotia/nova-scotia-to-host-massive-data-centre-to-power-anthropic-s-ai-assistant-claude-9.7383129",
+      "topic": "AI",
+      "reason": "EverWind Fuels will build and own the Point Tupper campus, targeting 95 megawatts by late 2027 and 420 megawatts by 2028, in what the developer calls the largest private investment in Nova Scotia's history, creating roughly 2,000 construction jobs and 215 permanent positions."
+    },
+    {
+      "title": "Pakistani forces and Afghan Taliban fighters exchange fire after militants try to infiltrate from Afghanistan",
+      "source": "The Republic",
+      "url": "https://www.therepublic.com/2026/10/17/pakistani-forces-afghan-taliban-exchange-fire-after-militants-attempt-to-infiltrate-pakistan/",
+      "topic": "World",
+      "reason": "Hours of fighting in Khyber Pakhtunkhwa's Kurram district came as Pakistan accuses Afghanistan's Taliban government of sheltering Pakistani Taliban insurgents, an allegation Kabul denies, amid a UN count of over 1,100 civilian casualties from cross-border violence this year."
     }
   ]
 }
