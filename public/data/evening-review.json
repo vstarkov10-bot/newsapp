@@ -1,61 +1,61 @@
 {
-  "generatedAt": "2026-10-19T19:35:00Z",
+  "generatedAt": "2026-10-20T19:30:00Z",
   "stories": [
     {
-      "title": "Independent Australian MP Helen Haines is critically injured in what police call a 'deliberate' car ramming",
-      "source": "ABC News",
-      "url": "https://abcnews.com/International/wireStory/police-car-hit-australian-lawmaker-critically-injuring-driver-137371405",
-      "topic": "World",
-      "reason": "A Toyota Land Cruiser struck the 65-year-old outside her Wangaratta electorate office and a knife was later seized from the vehicle, prompting PM Albanese to say 'this wasn't an accident' and the national counterterrorism team to join the investigation."
-    },
-    {
-      "title": "The 2026 US midterms are on track to become the most expensive ever, with more than $15 billion raised",
-      "source": "NPR",
-      "url": "https://npr.org/2026/10/19/g-s1-148733/up-first-newsletter-ukraine-russia-campaign-finances-france-protests",
-      "topic": "Politics",
-      "reason": "Separate trackers put aired ad spending at a record $3.8 billion so far, while Democrats hold a fundraising edge in 13 of 21 House 'toss up' races even as Elon Musk remains the cycle's single biggest known donor."
-    },
-    {
-      "title": "Human Rights Watch says Malian forces and their Russian partners killed 94 civilians in drone strikes this year",
-      "source": "U.S. News",
-      "url": "https://www.usnews.com/news/world/articles/2026-10-19/mali-forces-russian-backers-kill-scores-of-civilians-in-drone-strikes-report-says",
-      "topic": "World",
-      "reason": "ACLED-sourced data cited in the report counts 47 strikes from April to August, more than double last year's toll, including an August 19 strike on a Bandiagara cattle market that killed six men that HRW calls 'apparent indiscriminate' targeting."
-    },
-    {
-      "title": "Consumer backlash over AI-driven 'surveillance pricing' pushes bills in more than 30 state legislatures",
-      "source": "CNN",
-      "url": "https://cnn.com/2026/10/19/business/surveillance-prices-government-bans",
-      "topic": "Economy",
-      "reason": "The National Conference of State Legislatures counts at least 30 states considering algorithmic and personalized-pricing bills as Walmart defends its electronic shelf labels, while the FTC separately warns retailers that undisclosed personal-data pricing could violate consumer law."
-    },
-    {
-      "title": "Anthropic acquires confidential-computing AI startup Opaque Systems and hires its CEO and CTO",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/anthropic-acquires-confidential-ai-startup-opaque-systems/",
-      "topic": "AI",
-      "reason": "Opaque, a UC Berkeley RISELab spinout last valued at $300 million with Anthropic, ServiceNow and Accenture as customers, is winding down as a company while its 'verifiable AI' technology and leadership move to Anthropic."
-    },
-    {
-      "title": "Three undocumented 'aurora' model IDs briefly appear in OpenAI's API, then vanish without explanation",
-      "source": "FourWeekMBA",
-      "url": "https://fourweekmba.com/ai-three-unannounced-aurora-models-reported-in-openais-api/",
-      "topic": "AI",
-      "reason": "OpenAI has published no pricing, documentation or release date for aurora-red-alpha, aurora-green-alpha and aurora-blue-alpha, and reports disagree on whether they are new image generators or high-speed GPT-6 inference variants."
-    },
-    {
-      "title": "Chip stocks snap their longest losing streak in 18 years as the Nasdaq rebounds roughly 1.8%",
+      "title": "Albertans reject separation by a wide margin in a historic referendum, a boost for PM Carney",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/investingclub/2026/10/19/jim-cramer-says-the-rebound-in-ai-chip-stocks-may-have-more-room-to-run.html",
-      "topic": "Economy",
-      "reason": "Intel, Nvidia, AMD and Micron all posted notable gains as easing Treasury yields and a Goldman Sachs upgrade of CoreWeave helped stabilize a semiconductor index that had shed roughly $2 trillion in value over eight straight losing sessions."
+      "url": "https://www.cnbc.com/2026/10/20/alberta-canada-vote-remain.html",
+      "topic": "Politics",
+      "reason": "Unofficial Elections Alberta counts show roughly 75% backing staying in Canada versus 25% for starting a path toward a binding separation vote, with Carney saying 'Albertans made a clear choice' even as separatist leaders vow to keep fighting."
     },
     {
-      "title": "A truck plows through a youth soccer game in Wichita, Kansas, killing a 6-year-old boy and a 35-year-old man",
-      "source": "CBS4Local",
-      "url": "https://cbs4local.com/news/nation-world/truck-driver-released-without-charges-after-deadly-wichita-kansas-soccer-field-stryker-sports-complex-crash-police-investigation-hospitalizations-injuries",
+      "title": "Zelensky meets Trump envoy Witkoff in Oslo as Ukraine accuses the Pentagon of holding up paid-for Patriot interceptors",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/20/zelenskyy-to-hold-peace-talks-in-oslo-with-witkoff-kushner-attending",
       "topic": "World",
-      "reason": "The 34-year-old driver, who had a child playing on another field at the Stryker Sports Complex, was released without charges pending toxicology results, as police say they have interviewed more than 30 witnesses to the Saturday crash."
+      "reason": "Jared Kushner joined remotely due to illness as Zelensky reportedly offered a 30-day halt on strikes against Russian refineries in exchange for the missiles, while Washington denies deliberately delaying the shipment Hegseth has yet to sign off on."
+    },
+    {
+      "title": "A single hacker used AI agents to breach more than 100 company websites for about $5,000 in token costs",
+      "source": "U.S. News",
+      "url": "https://money.usnews.com/investing/news/articles/2026-10-19/exclusive-how-one-hacker-used-ai-agents-and-a-few-thousand-dollars-to-break-into-scores-of-sites",
+      "topic": "AI",
+      "reason": "A Reuters investigation found the Chinese-speaking operator directed agents built on the exposed open-source Cairn platform against 1,200 targets including Deere, SharkNinja and Cummins, needing fewer than 100 characters of instructions per attack."
+    },
+    {
+      "title": "DHS orders DeepSeek products removed from all federal civilian agency systems",
+      "source": "Cyberscoop",
+      "url": "https://cyberscoop.com/dhs-bans-deepseek-federal-agencies/",
+      "topic": "Politics",
+      "reason": "The exclusion order, issued under the 2018 federal supply-chain security law, cites fears Beijing could access DeepSeek infrastructure to harvest personal data, and gives agencies 60 days to request exceptions through CISA."
+    },
+    {
+      "title": "OpenAI is reportedly in talks to raise $30 billion at a $1.4 trillion valuation ahead of Anthropic's expected IPO",
+      "source": "Tech Startups",
+      "url": "https://techstartups.com/2026/10/19/openai-seeks-1-4-trillion-valuation-in-30-billion-funding-push-ahead-of-anthropic-ipo/",
+      "topic": "Economy",
+      "reason": "The pre-IPO round, more than 60% above OpenAI's $852 billion valuation from March, would reportedly draw interest from Abu Dhabi's MGX and BlackRock as the company tells investors annualized revenue has reached $50 billion."
+    },
+    {
+      "title": "A Russian drone strike on the Kyiv-Odesa highway kills three people and wounds four",
+      "source": "Kyiv Post",
+      "url": "https://www.kyivpost.com/post/87594",
+      "topic": "World",
+      "reason": "Prosecutors say the strike set multiple cars ablaze near a shopping center outside Kyiv, with a regional official noting the victims were ordinary commuters 'simply on their way to work.'"
+    },
+    {
+      "title": "Finland plans to buy one million anti-personnel landmines for about €100 million, citing the Russian threat",
+      "source": "Militarnyi",
+      "url": "https://militarnyi.com/en/news/finland-to-purchase-one-million-domestic-anti-personnel-mines-for-100-million/",
+      "topic": "World",
+      "reason": "PM Petteri Orpo's government wants domestic manufacturers to produce the mines by 2028, following Finland's withdrawal from the Ottawa Treaty alongside Estonia, Latvia, Lithuania and Poland over a 'worsening security climate.'"
+    },
+    {
+      "title": "Microsoft rolls out Project Perception tools treating AI agents as potential insider threats",
+      "source": "GeekWire",
+      "url": "https://www.geekwire.com/2026/microsoft-unveils-tools-to-monitor-and-corral-rogue-ai-agents/",
+      "topic": "AI",
+      "reason": "New Microsoft 365 E7 features give each agent its own identity, continuously score its risk, and can strip permissions or halt it entirely, with 'Guardian Agents' reviewing actions before execution across 60 detectable agent types."
     }
   ]
 }
