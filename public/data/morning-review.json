@@ -1,61 +1,61 @@
 {
-  "generatedAt": "2026-10-19T04:25:00Z",
+  "generatedAt": "2026-10-20T04:25:00Z",
   "stories": [
     {
-      "title": "China's economy grows 4.5% in the third quarter, beating forecasts as exports offset weak domestic demand",
-      "source": "CNN",
-      "url": "https://www.cnn.com/2026/10/18/economy/china-q3-gdp-intl-hnk",
-      "topic": "Economy",
-      "reason": "Retail sales grew at their fastest pace since March and industrial output also beat estimates, but a 20.6% drop in property investment remains a clear drag, and analysts say the stronger headline reduces pressure on Beijing for major new stimulus."
-    },
-    {
-      "title": "Ukraine launches more than 1,000 drones at Russia, striking an oil terminal in St. Petersburg",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/18/ukrainian-drone-attack-on-russias-st-petersburg-kills-1-hits-energy-sites",
-      "topic": "World",
-      "reason": "The attack also hit the Ruchi oil depot and a VK data center in direct retaliation for Russian strikes on Ukraine's energy grid, as Trump criticized Kyiv's refinery strikes and said he is holding off on new Russia sanctions while 'negotiating peace.'"
-    },
-    {
-      "title": "Egypt's top security body agrees to give Saudi Arabia 'all possible support' against Houthi attacks",
-      "source": "Semafor",
-      "url": "https://www.semafor.com/article/10/18/2026/egypt-pledges-to-support-saudi-arabia-in-houthi-war",
-      "topic": "World",
-      "reason": "President Sisi's National Defence Council move, which stopped short of joining the Saudi-Turkey-Pakistan mutual defense pact, came after Egypt's parliament authorized deploying troops abroad amid a conflict that has killed at least 19 people and disrupted thousands of flights."
-    },
-    {
-      "title": "Zelensky says the US government is behind Ukraine's loss of Starshield satellite access; Trump and Rubio deny it",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/10/18/nx-s1-6007382/ukraine-us-starshield-starlink-what-to-know-trump",
-      "topic": "Politics",
-      "reason": "A Ukrainian defense official said the Pentagon-controlled SpaceX service's restrictions disrupted 'critical missions,' and a bipartisan group of senators is now asking the Defense Department's inspector general to investigate how the disruption happened."
-    },
-    {
-      "title": "Trump's border czar says Rep. Ilhan Omar could be denaturalized and deported if immigration fraud is proven",
-      "source": "HuffPost",
-      "url": "https://www.huffpost.com/entry/tom-homan-ilhan-omar-citizenship-deported_n_6ad4df15e4b0dccf572c47a9",
-      "topic": "Politics",
-      "reason": "Tom Homan's comments come after agents searched Omar's home and seized her phone, computers and passport in a probe critics call politically motivated weeks before the midterms, which Omar's attorneys say has 'no legitimate basis.'"
-    },
-    {
-      "title": "Schwab and JPMorgan block outside AI agents from logging into client accounts over security fears",
-      "source": "Financial Planning",
-      "url": "https://www.financial-planning.com/news/schwab-blocks-unauthorized-ai-agents-points-clients-to-charley",
-      "topic": "AI",
-      "reason": "Schwab's CEO said the firm blocks tens of unauthorized agent attempts weekly and will instead offer controlled MCP access for balance checks and research, while JPMorgan's Jamie Dimon said outside agents using customer credentials will be kept from moving money entirely."
-    },
-    {
-      "title": "South Korea's Rebuilding Korea Party unveils an impeachment motion against Supreme Court Chief Justice Cho Hee-dae",
-      "source": "SBS News",
-      "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008804217",
-      "topic": "Politics",
-      "reason": "The motion accuses Cho of breaching political neutrality in handling President Lee's election-law case, and while the Democratic Party holds enough seats to pass it alone, the opposition People Power Party calls the move a 'parliamentary coup.'"
-    },
-    {
-      "title": "Houthi negotiators say Oman proposed a five-day truce with Saudi Arabia to restart talks",
+      "title": "Houthi ballistic missiles kill at least 53 at a Yemeni government military camp in Shabwa",
       "source": "PBS NewsHour",
-      "url": "https://www.pbs.org/newshour/world/egypts-top-security-body-agrees-to-help-saudi-arabia-defend-itself-against-houthi-attacks",
+      "url": "https://www.pbs.org/newshour/world/iran-backed-houthi-rebels-strike-yemens-government-forces-with-ballistic-missiles-killing-at-least-53",
       "topic": "World",
-      "reason": "A Houthi spokesman said the group would halt attacks if Riyadh meets unspecified 'humanitarian demands,' while Saudi Arabia disputes the account, saying it offered Oman-brokered talks back in July that the Houthis themselves refused to attend."
+      "reason": "Three missiles hit the al-Alam camp during a recruit training drill, wounding roughly 200 more, as Houthi spokesman Yahya Saree said the camp was targeted for hosting Saudi personnel and the Presidential Leadership Council's Rashad al-Alimi vowed retaliation."
+    },
+    {
+      "title": "France imposes curfews in Paris, Lyon and Lille after the worst protest violence in years over the cost of living",
+      "source": "CNN",
+      "url": "https://www.cnn.com/2026/10/19/europe/france-protests-violence-wwk-intl-hnk",
+      "topic": "World",
+      "reason": "At least two people died and more than 2,000 were arrested as masked rioters looted Paris shops and torched Lyon's tourist office, prompting PM Sébastien Lecornu to not rule out declaring a state of emergency after the interior minister said police had 'lost control.'"
+    },
+    {
+      "title": "Australian MP Helen Haines loses a leg in the car attack outside her office; arrested man reportedly an anti-logging activist",
+      "source": "ABC News Australia",
+      "url": "https://abc.net.au/news/2026-10-20/live-blog-victoria-indi-mp-helen-haines-attacked-wangaratta/107285252",
+      "topic": "Politics",
+      "reason": "The new details on Haines's injuries and the suspect's possible motive deepen Monday's attack, which PM Albanese called deliberate and which has drawn in Australia's national counterterrorism team."
+    },
+    {
+      "title": "The UN's World Food Programme cuts Gaza food aid by about a third, leaving 500,000 people without support",
+      "source": "Euronews",
+      "url": "https://euronews.com/2026/10/19/un-food-agency-to-cut-aid-to-500000-people-in-gaza-as-funding-dries-up",
+      "topic": "World",
+      "reason": "Monthly recipients fall from 1.6 million to 1.1 million and rations are halved as WFP's Carl Skau says the cuts are purely a funding problem, with the agency needing $450 million over six months to sustain operations through winter."
+    },
+    {
+      "title": "Trump says he's open to meeting Putin and Xi in China and that 'somebody else' should negotiate for Ukraine",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/19/trump-putin-xi-zelenskyy.html",
+      "topic": "Politics",
+      "reason": "The proposed trilateral summit, reportedly floated by Putin, would focus on nuclear arms rather than Ukraine, drawing objections from Kyiv's foreign minister who warned the format would only encourage Putin to keep fighting."
+    },
+    {
+      "title": "AI chipmaker Tenstorrent raises $1.5 billion at a $6.2 billion valuation to challenge Nvidia",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
+      "topic": "AI",
+      "reason": "The Series E, led by newly formed Trace Capital alongside Innovation X, more than doubles the 10-year-old startup's valuation and will fund volume manufacturing and international expansion for its open-weight AI and CPU chip designs."
+    },
+    {
+      "title": "Inception Labs launches Mercury 3, a diffusion language model it says beats GPT-6 Luna and Claude Haiku 5.5 at 1,000+ tokens per second",
+      "source": "Interesting Engineering",
+      "url": "https://interestingengineering.com/ai-robotics/mercury-3-diffusion-model-8-times-faster",
+      "topic": "AI",
+      "reason": "The model is more than 40 times the size of the original Mercury and runs 4-8x faster than comparable rivals with a 1-million-token context window, though analysts at Artificial Analysis have questioned whether its benchmark comparisons are apples-to-apples."
+    },
+    {
+      "title": "Haiti indefinitely postpones its December 13 elections as gang violence overwhelms voter registration",
+      "source": "UN News",
+      "url": "https://news.un.org/en/story/2026/10/1168626",
+      "topic": "World",
+      "reason": "Only 769,000 voters had registered since July amid gang-blocked registration areas, and the UN's top Haiti official warned against setting a new date without first testing feasibility, as the Security Council heard 1,123 people were killed in gang violence since July."
     }
   ]
 }
