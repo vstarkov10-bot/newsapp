@@ -1,61 +1,61 @@
 {
-  "generatedAt": "2026-10-20T04:25:00Z",
+  "generatedAt": "2026-10-21T04:28:00Z",
   "stories": [
     {
-      "title": "Houthi ballistic missiles kill at least 53 at a Yemeni government military camp in Shabwa",
-      "source": "PBS NewsHour",
-      "url": "https://www.pbs.org/newshour/world/iran-backed-houthi-rebels-strike-yemens-government-forces-with-ballistic-missiles-killing-at-least-53",
-      "topic": "World",
-      "reason": "Three missiles hit the al-Alam camp during a recruit training drill, wounding roughly 200 more, as Houthi spokesman Yahya Saree said the camp was targeted for hosting Saudi personnel and the Presidential Leadership Council's Rashad al-Alimi vowed retaliation."
-    },
-    {
-      "title": "France imposes curfews in Paris, Lyon and Lille after the worst protest violence in years over the cost of living",
-      "source": "CNN",
-      "url": "https://www.cnn.com/2026/10/19/europe/france-protests-violence-wwk-intl-hnk",
-      "topic": "World",
-      "reason": "At least two people died and more than 2,000 were arrested as masked rioters looted Paris shops and torched Lyon's tourist office, prompting PM Sébastien Lecornu to not rule out declaring a state of emergency after the interior minister said police had 'lost control.'"
-    },
-    {
-      "title": "Australian MP Helen Haines loses a leg in the car attack outside her office; arrested man reportedly an anti-logging activist",
-      "source": "ABC News Australia",
-      "url": "https://abc.net.au/news/2026-10-20/live-blog-victoria-indi-mp-helen-haines-attacked-wangaratta/107285252",
-      "topic": "Politics",
-      "reason": "The new details on Haines's injuries and the suspect's possible motive deepen Monday's attack, which PM Albanese called deliberate and which has drawn in Australia's national counterterrorism team."
-    },
-    {
-      "title": "The UN's World Food Programme cuts Gaza food aid by about a third, leaving 500,000 people without support",
-      "source": "Euronews",
-      "url": "https://euronews.com/2026/10/19/un-food-agency-to-cut-aid-to-500000-people-in-gaza-as-funding-dries-up",
-      "topic": "World",
-      "reason": "Monthly recipients fall from 1.6 million to 1.1 million and rations are halved as WFP's Carl Skau says the cuts are purely a funding problem, with the agency needing $450 million over six months to sustain operations through winter."
-    },
-    {
-      "title": "Trump says he's open to meeting Putin and Xi in China and that 'somebody else' should negotiate for Ukraine",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/19/trump-putin-xi-zelenskyy.html",
-      "topic": "Politics",
-      "reason": "The proposed trilateral summit, reportedly floated by Putin, would focus on nuclear arms rather than Ukraine, drawing objections from Kyiv's foreign minister who warned the format would only encourage Putin to keep fighting."
-    },
-    {
-      "title": "AI chipmaker Tenstorrent raises $1.5 billion at a $6.2 billion valuation to challenge Nvidia",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
+      "title": "US sanctions five Chinese entities, including VC firm MiraclePlus, over a stolen Google AI trade secrets case",
+      "source": "UPI",
+      "url": "https://www.upi.com/Top_News/US/2026/10/20/sanctions-Chinese-AI-companies/3511792473668",
       "topic": "AI",
-      "reason": "The Series E, led by newly formed Trace Capital alongside Innovation X, more than doubles the 10-year-old startup's valuation and will fund volume manufacturing and international expansion for its open-weight AI and CPU chip designs."
+      "reason": "The State Department says Beijing-based MiraclePlus, which traces to a Sam Altman-founded Y Combinator China program, financed the startup a convicted ex-Google engineer built on stolen chip-design secrets, exposing it to US asset freezes and banking restrictions."
     },
     {
-      "title": "Inception Labs launches Mercury 3, a diffusion language model it says beats GPT-6 Luna and Claude Haiku 5.5 at 1,000+ tokens per second",
-      "source": "Interesting Engineering",
-      "url": "https://interestingengineering.com/ai-robotics/mercury-3-diffusion-model-8-times-faster",
+      "title": "ByteDance, Alibaba and Tencent place over $35 billion in Nvidia chip orders despite warnings only 10% can be filled",
+      "source": "Tom's Hardware",
+      "url": "https://www.tomshardware.com/pc-components/gpus/chinas-tech-giants-drop-usd35-billion-on-export-compliant-nvidia-rtx-pro-5500-workstation-gpu-orders-to-power-ai-ambitions-according-to-reports-bytedance-alibaba-and-tencent-order-3-million-cards-despite-warnings-that-only-10-percent-of-orders-are-fulfillable",
       "topic": "AI",
-      "reason": "The model is more than 40 times the size of the original Mercury and runs 4-8x faster than comparable rivals with a 1-million-token context window, though analysts at Artificial Analysis have questioned whether its benchmark comparisons are apples-to-apples."
+      "reason": "The three Chinese tech giants' orders for more than 3 million export-compliant RTX PRO 5500 cards are part of over 6 million units ordered industry-wide, as Nvidia reportedly warns it can produce no more than 3 million of the chips globally in 2027."
     },
     {
-      "title": "Haiti indefinitely postpones its December 13 elections as gang violence overwhelms voter registration",
-      "source": "UN News",
-      "url": "https://news.un.org/en/story/2026/10/1168626",
+      "title": "Anthropic's draft IPO filing shows $16.3 billion in first-half revenue alongside an $80.7 billion net loss",
+      "source": "CryptoBriefing",
+      "url": "https://cryptobriefing.com/anthropic-ipo-draft-revenue-net-loss/",
+      "topic": "Economy",
+      "reason": "The explosive, mostly non-cash-driven loss comes as Anthropic reportedly commits to several hundred billion dollars in future cloud spending ahead of a listing tentatively eyed for November, underscoring how costly the AI buildout remains even for a fast-growing leader."
+    },
+    {
+      "title": "South Korean AI data-center firm Elice craters 32% in its trading debut, the worst on record for a $100M+ Korean IPO",
+      "source": "The Next Web",
+      "url": "https://thenextweb.com/news/elice-ipo-32-percent-debut-korea-ai-data-centre-neocloud",
+      "topic": "Economy",
+      "reason": "The plunge came despite the retail tranche being oversubscribed roughly 400 times, as the benchmark Kospi fell 4% the same day with Samsung and SK Hynix both down, signaling cooling investor appetite for Korea's AI-infrastructure boom."
+    },
+    {
+      "title": "MIT researchers find Claude Opus 4.7 invents its own games, including basketball, when left alone on a virtual island",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
+      "topic": "AI",
+      "reason": "Agents left to explore freely for 30 hours later outperformed fresh copies on subsequent tasks, and deleting their exploration memories hurt that later performance, fueling a live debate over whether the behavior reflects real learning or just sophisticated pattern-matching."
+    },
+    {
+      "title": "France plans a 'massive' troop deployment for this weekend's protests as Italy sends 500 soldiers to Milan",
+      "source": "Korea Times",
+      "url": "https://www.koreatimes.co.kr/world/20261021/france-to-deploy-troops-admits-to-failures-over-weekend-unrest",
       "topic": "World",
-      "reason": "Only 769,000 voters had registered since July amid gang-blocked registration areas, and the UN's top Haiti official warned against setting a new date without first testing feasibility, as the Security Council heard 1,123 people were killed in gang violence since July."
+      "reason": "French PM Lecornu acknowledged failures in last weekend's response to nationwide cost-of-living riots, while Italy's cabinet created a new violent-protest offense carrying up to five years in prison after looting near Milan's Duomo."
+    },
+    {
+      "title": "The Pentagon sends the USS Theodore Roosevelt carrier strike group toward the Middle East as Trump weighs renewed Iran strikes",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/middle-east/article-912321",
+      "topic": "World",
+      "reason": "The carrier group, due to arrive by late November and expected to relieve the USS George Washington, comes as Trump has floated intensifying strikes on Iran after the November 3 midterms and Tehran reportedly warns of retaliation against US ships and Saudi oil facilities."
+    },
+    {
+      "title": "Brazil's October 25 presidential runoff remains a toss-up, with Flávio Bolsonaro leading Lula in most new polls",
+      "source": "Rio Times",
+      "url": "https://www.riotimesonline.com/gerp-poll-flavio-53-lula-47-runoff-2026/",
+      "topic": "Politics",
+      "reason": "Flávio leads in 19 of 22 national runoff polls since the October 4 first round, and prediction markets now put his odds near 78%, even as the race sits within the margin of error in several surveys days before Brazilians decide who governs a fragmented Congress."
     }
   ]
 }
